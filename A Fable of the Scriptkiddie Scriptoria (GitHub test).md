@@ -20,8 +20,10 @@ csh
 ├── tcsh
 └── fish
 
-```Bash # This is a bash script
-echo "Hello, world!"```
+```bash
+# This is a bash script
+echo "Hello, world!"
+```
 
 
 This focus of this work is essentially a roadmap for scripting in Bash and Zsh within the premier Android terminal emulator and command-line interface (CLI) environment, namely the Termux, that has been principally developed and minted, since in was forked from its point of origin, by… in….
