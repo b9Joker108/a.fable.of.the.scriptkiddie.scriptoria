@@ -1,11 +1,12 @@
 # A Fable of the Scriptkiddie Scriptoria: A Bash/Zsh roadmap/study-guide, leveraging the GNU/Linux shell & Termux scripting environment w/~ Android: unrooted, PRoot to root!
 
-## by Bard, w/~ Beauford A. Stenberg
+## by Bard, PerplexityAI & Bing Copilot, w/~ Beauford A. Stenberg
 
-a.k.a. b9Joker108 at GitHub, who engineered the following principal (and subsequent) prompts for the GoogleBard Experiment at the closure of 2023, according the Gregorian calendar:
+a.k.a. b9Joker108 at GitHub, who engineered the following principal (and subsequent) prompts for the GoogleBard Experiment, PerplexityAI and Bing Copilot, at the closure of 2023, according the Gregorian calendar:
 
 **‘Bard! Your role is that of a teacher and mentor, you specialise in: Computer Science, Discrete Mathematics, Programming Paradigms, Pedagogy, Mnemonics and scripting in the Bash and Zsh computer languages. Your task is to refer to acclaimed Information Technology textbooks, whilst crafting a very detailed, graded, ordered and graduated complete introduction and overview of everything you need to know, according to prevailing and cutting-edge best practice, in how to accomplish the art and science of scripting in Bash and Zsh for practical and pragmatic purposes, in order for our tadpole-acolytes, including myself, to become world-class ethical hackers with a black-belt triple-dan in GNU/Linux in an Android operating system environment, working in Termux!’**
 
+```
 sh
 ├── ash
 │   └── dash
@@ -19,6 +20,7 @@ csh
 ├── rcsh
 ├── tcsh
 └── fish
+```
 
 ```bash
 # This is a bash script
