@@ -65,6 +65,10 @@ Before the development of computer languages as we know them, interacting with c
 
 - The earliest computers, like [ENIAC (Electronic Numerical Integrator and Computer) ](https://en.m.wikipedia.org/wiki/ENIAC) in 1945, were programmed by manually flipping physical switches and setting patch panels. This was a laborious and error-prone process, requiring precise knowledge of the machine's internal logic circuits.
 
+**Further reading**
+
+* Light, Jennifer S. (1999). 'When Computers were women' in *Technology and Culture*, July 1999, Vol 40, Issue 3, Research Library Core, pp. 455 - 483.
+
 **2. Punch Cards and Paper Tape:**
 
 - Punch cards, introduced in the 1940s, offered a more flexible way to input instructions. Holes punched in specific positions represented binary code, and feeding these cards into the machine instructed its operations. Later, paper tape with similar punched patterns emerged as a more compact alternative.
