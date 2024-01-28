@@ -77,7 +77,8 @@ In the citation of the recommended reading that follows, [Light](https://en.m.wi
 
 **3. Console Commands and Assembly Language:**
 
-- As computers evolved, dedicated terminals provided interfaces for inputting instructions and data. Operators typed in coded commands, often in assembly language, a low-level language directly understandable by the machine's processor. Assembly was complex and challenging to master, requiring knowledge of machine architecture and instruction sets.
+- As computers evolved, dedicated terminals provided interfaces for inputting instructions and data. Operators typed in coded commands, often in [assembly language](https://en.wikipedia.org/wiki/Assembly_language), a low-level language directly understandable by the machine's processor. Assembly was complex and challenging to master, requiring knowledge of machine architecture and instruction sets.
+- [Kathleen Booth](https://en.wikipedia.org/wiki/Kathleen_Booth)'s (1922 - 2022) pioneering work on the ARC2 in 1947 is credited as the first assembly language. It's fascinating to see how early attempts at human-computer interaction differ from the contemporary implementations of assembly languages we know today.
 
 **4. Batch Processing and Job Queues:**
 
