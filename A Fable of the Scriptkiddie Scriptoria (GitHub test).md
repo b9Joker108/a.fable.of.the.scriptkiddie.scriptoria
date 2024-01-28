@@ -55,7 +55,35 @@ NB: At different places throughout the work, we progress greater a relationship,
 
 , that has been principally developed and minted, since in was forked from its point of origin, by… in….
 
-The history of shell scripting is a fascinating journey through the evolution of computing, spanning decades and various operating systems. Here's a brief overview:
+The history of shell scripting is a fascinating journey through the evolution of computing, spanning decades and various operating systems. Here's an overview:
+
+** How did humans interact with computers prior to the emergence of computer languages? **
+
+Before the development of computer languages as we know them, interacting with computers was a far cry from the user-friendly interfaces we have today. It was a world of **physical switches, punch cards, and specialized commands**, requiring a deep understanding of the machine's inner workings and a hefty dose of patience. Here's a glimpse into those early days:
+
+**1. Toggle Switches and Patch Panels:**
+
+- The earliest computers, like ENIAC, were programmed by manually flipping physical switches and setting patch panels. This was a laborious and error-prone process, requiring precise knowledge of the machine's internal logic circuits.
+
+**2. Punch Cards and Paper Tape:**
+
+- Punch cards, introduced in the 1940s, offered a more flexible way to input instructions. Holes punched in specific positions represented binary code, and feeding these cards into the machine instructed its operations. Later, paper tape with similar punched patterns emerged as a more compact alternative.
+
+**3. Console Commands and Assembly Language:**
+
+- As computers evolved, dedicated terminals provided interfaces for inputting instructions and data. Operators typed in coded commands, often in assembly language, a low-level language directly understandable by the machine's processor. Assembly was complex and challenging to master, requiring knowledge of machine architecture and instruction sets.
+
+**4. Batch Processing and Job Queues:**
+
+- Due to the slow processing times, jobs were often submitted in batches and queued for execution. Users wouldn't receive immediate feedback; results might take hours or even days to appear, adding another layer of complexity to the interaction.
+
+**5. Specialized Applications and Interfaces:**
+
+- For specific tasks like scientific calculations or data analysis, specialized applications with dedicated interfaces were developed. These often involved unique command sets or interaction methods tailored to the specific domain.
+
+Overall, interacting with computers before the rise of high-level languages was a laborious and specialized task, accessible only to a select group of trained professionals. The development of user-friendly languages and graphical interfaces in the 1960s and 70s revolutionized the way humans interact with machines, paving the way for the accessible and intuitive computing experience we enjoy today.
+
+I hope this gives you a good understanding of how humans interacted with computers before the age of computer languages! If you'd like to delve deeper into any specific aspect of this history, feel free to ask!
 
 ## Dive into Early Scripting Languages and Punch Cards:
 
