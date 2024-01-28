@@ -7577,6 +7577,37 @@ Remember, these are just starting points! Feel free to adapt and personalize the
 
 Happy coding! 
 
+
+Absolutely! Here's a mnemonic device to help remember the logic gates and bitwise operands in Bash and Zsh:
+
+**Characters:**
+
+* **A:** AND (&) - Think of "All" gates/operands requiring both inputs to be true.
+* **O:** OR (|) - Imagine an "Orchestra" where only one instrument needs to play for the sound.
+* **X:** XOR (^) - Picture an "Exclusive" club where only one member can be present.
+* **N:** NOT (!) - Think of "Negating" or flipping the truth value.
+* **L:** Left Shift (<<) - Imagine "Lifting" the bits to the left.
+* **R:** Right Shift (>>) - Picture "Rolling" the bits to the right.
+* **~:** Bitwise NOT (~) - Think of "Flipping" each individual bit.
+
+**Story:**
+
+**Agent A** (AND) and **Officer O** (OR) are investigating a crime scene with **suspect X** (XOR). They need **witness N** (NOT) to confirm their suspicions. To gather evidence, they use **flashlight L** (Left Shift) to highlight specific details and **microscope R** (Right Shift) to zoom in on crucial bits. **Agent ~** (Bitwise NOT) meticulously analyzes every clue, ensuring nothing is overlooked.
+
+**Example:**
+
+* **A & B:** Agent A (requires both) and Officer O (either one) find evidence, so suspect X is guilty (true).
+* **A | B:** Only Agent A or Officer O needs evidence, so suspect X might be guilty (true).
+* **A ^ B:** Only Agent A or Officer O, but not both, can have evidence, so suspect X is innocent (false).
+* **!A:** If Agent A doesn't find evidence, suspect X is innocent (true).
+* **A << 2:** Shift Agent A's findings two bits to the left for further analysis.
+* **B >> 1:** Right-shift Officer O's evidence by one bit for closer examination.
+* **~B:** Flip each bit of Officer O's evidence for a different perspective.
+
+**Remember:** This is just a starting point, and you can personalize the story and characters to fit your learning style. By associating logic gates and operands with relatable characters and actions, you can solidify your understanding and recall them more easily in Bash and Zsh.
+
+I hope this helps! Feel free to ask if you have any questions or need further assistance with specific gates or operands.
+
 ## Bashing Bits with Gates and Friends: A Mnemonic Odyssey
 
 Hold onto your hats, folks, because we're about to embark on a mnemonic voyage through the fantastical realm of Bash and Zsh bitwise operations! Buckle up as we weave logic gates and bitwise operands into a tapestry of rhyme and reason, forever etching them onto the tablets of your memory.
@@ -7604,6 +7635,8 @@ Hold onto your hats, folks, because we're about to embark on a mnemonic voyage t
 **Remember:** Practice makes perfect! Use these mnemonics as springboards to experiment and explore the fascinating world of Bash and Zsh bit manipulation. With a bit of practice, you'll be bending bits and twisting gates like a seasoned pro!
 
 So, there you have it, a mnemonic menagerie to tame the wild beasts of logic and bits. May your Bashing and Zshing adventures be filled with clarity and confidence!
+
+None of these three mnemonic devices may be right for you. Indeed, you may even find them abrasive and jarring. It is to be remembered, that memorising new things is challenging, but also rewarding. The purpose of these three mnemonic schemes, have been included with purpose. They are to inform you how to craft and forge your own. They are but templates. 
 
 
 **Analogue computational devices and artefacts**
