@@ -1034,13 +1034,14 @@ Shell has emerged as a family of programming languages for the **\*NIX/UN*X** Op
 
 These patterns do not form a full pattern language, nor are they a comprehensive collection of patterns for the 'architecture' of a shell script. They cover frequent shell scripting challenges and problems that are often, only resolved, with expert insight.
 
-## Elucidating the Shell Scripting Patterns Page
+## Elucidating Shell Scripting Patterns
 
-This page, dating back to 1996, presents a collection of **patterns** for efficient and effective shell scripting in Unix-like operating systems. While not an exhaustive language or architecture guide, it focuses on frequently encountered challenges and offers expert insights for handling them.
+This section is a port, rewrite and adaptation, of a page dating back to circa 1996, that by happenstance, I happened upon and excavated from a web archive of the Wayback Machine, in late January 2024. I can't say that I yet fully understand its wisdom, but I feel it's import. It is a set or collection of **patterns** for efficient and effective shell scripting in Unix-like operating systems. Whilst not an exhaustive language or architecture guide, it focuses on frequently encountered challenges and offers expert insights for handling and resolving them.
 
-* **Contributors:** This is a list of individuals who contributed to the formulation of these patterns:
-  Jim Coplien, Stephen Hill, Alan Robertson, Bill Trost, Gregg Wonderly, Michael Lindner, Paul Chisholm,
-  Russell Corfman, other(s). 
+* **Contributors:** We are indebted to this list of individuals who have contributed to the formulation
+   of these patterns:
+  **Jim Coplien, Stephen Hill, Alan Robertson, Bill Trost, Gregg Wonderly, Michael Lindner,
+  Paul Chisholm, Russell Corfman, other(s).** 
 
 **Key Points:**
 
@@ -1065,7 +1066,48 @@ This page, dating back to 1996, presents a collection of **patterns** for effici
         * Embedding prominent "usage" information within the script for easy reference.
         * Safely moving to target directories.
         * Deciding between shell scripts and scripting languages for specific tasks.
-* **Contributors:** Lists individuals who contributed to the patterns and page content.
+
+
+**Testing Against The Null String**
+The null string is an exceptional and sometimes problematic shell variable value.
+
+Consider the following code:
+
+```shell
+if [ $a = "" ]; then echo "null string"; fi
+```
+If `$a` is indeed the null string, the shell won't be able to recognize and interpret the command, since test will be called with syntactially invalid arguments. The command would appear to the shell like this if `$a` were the null string:
+
+```shell
+if [ = "" ]; then echo "null string"; fi
+```
+
+We can fix this with quotes:
+
+```shell
+if [ "$a" = "" ]; then echo "null string"; fi
+```
+
+But, if the contents of the string `$a` is unconstrained, and it contains something like `!='` or `'-a` or some other option to the test operator, it will cause the shell to issue a syntax error, and not perform the evaluation the programmer desired.
+
+Therefore:
+
+Use double aliasing to test shell variable values:
+
+```shell
+if [ x$a = x ]; then echo "null string"; fi
+if [ x$a = xBamboozled ]; then echo "Bamboozled"; fi
+case x$a in
+    xwpasskey) ... ;;
+    x) ... handle null string;;
+esac
+```
+
+**Security Note:*f
+This type of care is especially important when writing shell scripts that are intended to be executed SetUid, or to be executed by a networking daemon, or CGI-BIN script, as a hostile user can obtain unintended privileges through crafty probes into carelessly-written shell scripts.
+
+
+
 
 **Overall, this page serves as a valuable resource for shell scripting practitioners, providing practical solutions and best practices for common challenges.**
 
