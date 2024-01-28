@@ -1,8 +1,8 @@
 # A Fable of the Scriptkiddie Scriptoria: A Bash/Zsh roadmap/study-guide, leveraging the GNU/Linux shell & Termux scripting environment w/~ Android: unrooted, PRoot to root!
 
-## by Bard, PerplexityAI & Bing Copilot, w/~ Beauford A. Stenberg
+## by The Google Bard Experiment, PerplexityAI & Bing Copilot, w/~ Beauford A. Stenberg
 
-a.k.a. b9Joker108 at GitHub, who engineered the following principal (and subsequent) prompts for the GoogleBard Experiment, PerplexityAI and Bing Copilot, at the closure of 2023, according the Gregorian calendar:
+a.k.a. b9Joker108 at GitHub, who engineered the following principal (and subsequent) prompts for the GoogleBard Experiment, PerplexityAI and Bing Copilot, at the closure of 2023 (onwards), according the Gregorian calendar:
 
 **‘Bard! Your role is that of a teacher and mentor, you specialise in: Computer Science, Discrete Mathematics, Programming Paradigms, Pedagogy, Mnemonics and scripting in the Bash and Zsh computer languages. Your task is to refer to acclaimed Information Technology textbooks, whilst crafting a very detailed, graded, ordered and graduated complete introduction and overview of everything you need to know, according to prevailing and cutting-edge best practice, in how to accomplish the art and science of scripting in Bash and Zsh for practical and pragmatic purposes, in order for our tadpole-acolytes, including myself, to become world-class ethical hackers with a black-belt triple-dan in GNU/Linux in an Android operating system environment, working in Termux!’**
 
@@ -28,7 +28,10 @@ echo "Hello, world!"
 ```
 
 
-This focus of this work is essentially a roadmap for scripting in Bash and Zsh within the premier Android terminal emulator and command-line interface (CLI) environment, namely the Termux, that has been principally developed and minted, since in was forked from its point of origin, by… in….
+This focus of this work is essentially a roadmap for scripting in Bash and Zsh within the premier Android terminal emulator and command-line interface (CLI) environment, namely the Termux terminal emulator. Termux provides a baseline GNULinux userland and environment, that rests on top of the host Android file structure. To install and use Termux in Android, rooting and flashing the mobile hand-held device is not required. Though, rooting provides greater freedom and control of the operating system, and the processes of the Linux kernel. Termux demonstrates a relationship with the Debian GNU/Linux distribution. Debian's package manager `apt` has been ported to the Termux repository, and has been so for some time, but the manual pages still contain Debian specific information that has not yet  been edited or amended to be Termux-specific. That said, it is recommended that users of Termux generally use the `pkg` package manager specifically, as it is a wrapper of the ported `apt` which provides additional automated functionality, which is purposefully implemented for users new to a GNU/Linux CLI environment. This work is a living document, and is far from publishable. I plan to write and be tangential with purpose and precision, and not adhere to a strict outline and order. After I have completed the first edition, or publishable version, I will rigorously rewrite and order the work, to reign it in, so to speak. I have engaged the emergent technology of Generative AI (GenAI), as not to do so in this new era, is naive. In many places throughout the work, my dialogues with the various LLMs is retained purposefully. Prompt engineering, in the days and years to come is going to develop its own best practice standards and protocols. An industry is already evident being built and founded on this, another emergent discipline. Further in the book, I discuss my purpose and rationale regarding the work, as well as outline its principal target audience. People beyond the target audience, may find elements and aspects of the work to be of considerable worth and value to them, beyond the specific Termux emulator and Android operating system. Just as I have drawn much information into this work from throughout the works specific to the greater Unix-like (\*NIX or UN*X) family of systems. 
+
+
+, that has been principally developed and minted, since in was forked from its point of origin, by… in….
 
 The history of shell scripting is a fascinating journey through the evolution of computing, spanning decades and various operating systems. Here's a brief overview:
 
