@@ -80,7 +80,7 @@ Before the development of computer languages as we know them, interacting with c
 
 In the citation of the recommended reading that follows, [Light](https://en.m.wikipedia.org/wiki/Jennifer_S._Light) (1999) I contend, has produced a valuable piece of technological revisionism, where women are rewritten into the early days of computer history, where they had been systematically written out of. Read this work. 
 
-* Light, Jennifer S. (1999). 'When Computers were women' in *Technology and Culture*, July 1999, Vol 40, Issue 3, Research Library Core, pp. 455 - 483.
+* Light, Jennifer S. (1999). 'When Computers Were Women' in *Technology and Culture*, July 1999, Vol 40, Issue 3, Research Library Core, pp. 455 - 483.
 
 **2. Punch Cards and Paper Tape:**
 
@@ -138,7 +138,7 @@ While the statement "early scripting languages were often used with punch cards"
 
 **5. Examples of Early Scripting Languages and Punch Cards:**
 
-- **JCL (Job Control Language):** Used on IBM mainframes, JCL scripts controlled batch jobs, specifying which programs to run and their parameters.
+- [**JCL (Job Control Language):**](https://en.m.wikipedia.org/wiki/Job_Control_Language) Used on IBM mainframes, JCL scripts controlled batch jobs, specifying which programs to run and their parameters.
 - **CMS (Control and Monitor System):** Used on DEC PDP-10s, CMS scripts automated tasks like file manipulation and system management.
 - **TSS/360 (Time Sharing System/360):** Used on IBM systems, TSS/360 scripting allowed users to interact with the system and run programs remotely.
 
