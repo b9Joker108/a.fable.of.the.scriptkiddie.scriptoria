@@ -7539,6 +7539,44 @@ Remember, this is a general guide, and specific steps may vary depending on your
 
 I hope this helps you create a robust and functional scripting environment on your Android device using Termux!
 
+# Logic
+
+...
+
+
+## Logic Gates and Bitwise Operands
+
+
+
+## Bashing Bits with Gates and Friends: A Mnemonic Odyssey
+
+Hold onto your hats, folks, because we're about to embark on a mnemonic voyage through the fantastical realm of Bash and Zsh bitwise operations! Buckle up as we weave logic gates and bitwise operands into a tapestry of rhyme and reason, forever etching them onto the tablets of your memory.
+
+**Logic Gates:**
+
+* **AND (&&):** **Ampersand Allies:** Two friends hold hands (&&), only passing through if **both** are strong (true).
+* **OR (||):** **Oranges or Apples:** Pick **either** orange (true) or apple (true) for a refreshing snack, but never both (false).
+* **NOT (!):** **Negating Nelly:** Nelly flips the truth! True becomes **false**, and false becomes **true** with a sassy wink.
+* **XOR (^):** **eXclusive ORange:** Only one fruit allowed! **Either** orange (true) or apple (true), but never **both** (false) in this citrusy game.
+
+**Bitwise Operators:**
+
+* **& (and):** **Bitwise Buddies:** Two bits **high-five** (&) if they're **both** set (1), otherwise, it's a low-five (0).
+* **| (or):** **Bitwise Orgy:** If **at least one** bit is **pumped up** (1), the whole party gets wild (1), otherwise, it's a snoozefest (0).
+* **~ (not):** **Bitwise Butler:** The butler **flips the switches** (~), turning 1s to 0s and vice versa, keeping the mansion of bits tidy.
+* **^ (xor):** **Bitwise Boxers:** Two bits **duke it out** (^), only the **winner** (different) stands tall (1), while the loser (same) gets knocked down (0).
+* **<< (left shift):** **Bitwise Bouncer:** The bouncer **shoves** bits to the **left** (<<), pushing the sign bit out the door and filling empty spaces with zeros.
+* **>> (right shift):** **Bitwise Baker:** The baker **shifts dough** (bits) to the **right** (>>), dropping the least significant bits like burnt crumbs and keeping the big ones (sign bit stays put!).
+
+**Bonus:**
+
+* **= (assignment):** **Equal Eddie:** Eddie **hands over** the value (right side) to the variable (left side), making them best buds (=).
+
+**Remember:** Practice makes perfect! Use these mnemonics as springboards to experiment and explore the fascinating world of Bash and Zsh bit manipulation. With a bit of practice, you'll be bending bits and twisting gates like a seasoned pro!
+
+So, there you have it, a mnemonic menagerie to tame the wild beasts of logic and bits. May your Bashing and Zshing adventures be filled with clarity and confidence!
+
+
 **Analogue computational devices and artefacts**
 
 I know on the face of it, that this section appears wildly off-topic and tangential, I have learnt through my process of living and life experience, that there is method, in my intuitive madness. So, I humbly request, near the closure of this work, for your indulgence. Together, we will see if something comes of this nonsense.
