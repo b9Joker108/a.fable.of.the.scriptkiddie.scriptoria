@@ -67,6 +67,8 @@ Before the development of computer languages as we know them, interacting with c
 
 **Further reading**
 
+In the citation Light (1999), which I contend is a valuable piece of technological revisionism, women are rewritten into the early days of computational history, a history they had been systematically rewritten out of. Raed this work. 
+
 * Light, Jennifer S. (1999). 'When Computers were women' in *Technology and Culture*, July 1999, Vol 40, Issue 3, Research Library Core, pp. 455 - 483.
 
 **2. Punch Cards and Paper Tape:**
