@@ -33,6 +33,12 @@ This focus of this work is essentially a roadmap for scripting in Bash and Zsh w
 **How to read this work**
 
 To some, my decadent, indulgent and languorous historical overview of technology that informs shell scripting and various tangential explorations of what, in my considered opinion, are of salience, import and inform inform scripting best-practice in the widest possible denotation; it may seem an indeterminable time before we get into the stuff and grunt of scripting. The structure of this work is purposeful, but never feel bound to a linear progression and procession through it. Indeed, I rarely if ever read anything linearly. I look at the cover or title, then publication details, then back cover of book, look through index, if it has one, references and citations, if it has them, annexures, if it has them, and then the closing paragraphs of the work in detail, I then move through the table of contents, if there is one, take note of the frontmatter and introduction, if they are evident, then flick through, and deep graze through the text proper. If the work passes all these stages, I engage it further. But I still rarely only read a work linearly. Few people are given instruction on how to assess a work. This wisdom has berm hard won. I have given you a definitive overview in the format of an executive summary. Take note, and implement. Indeed, theory without practice and experiential exploration is void. I have brought my life experience and vast body of written works, to bear on leavening and positing my reader, to quickly be at the technological coalface of the intersection of information, technology and their automation, that is the CLI. 
+
+One of the greatest challenges you will find in acquiring knowledge, information and transforming it into wisdom and facility, is grappling with complexity, new concepts, memorising and recalling the requiremented information at will and required, and applying it. Various scientific disciplines and academic studies, and lines of inquiry converge and coalesce, to inform realising and embodying this best practice, peak performance, attaining excellence as a matter of course, and maximising efficiency and flow. 
+
+**Further reading**
+
+...
  
 
  **Yes, Termux does technically provide a GNU/Linux userland that operates within the Android environment, but it doesn't directly rest on top of the host Android operating system file architecture.** Here's a breakdown of how it works:
