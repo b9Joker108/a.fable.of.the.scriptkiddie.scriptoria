@@ -7876,7 +7876,7 @@ Y
 
 Z
 
-**References**
+# References
 
 A cautionary word, be careful where you prospect and source information on shell scripting and command-line instructions for Termux. Also, be careful where you source code. Moreover, never run scripts or code in Termux without being clear on its function and purpose. There are many strange and adverse actors in the world. Take note. 
 
@@ -8011,4 +8011,3 @@ And in the verdant bamboo forests of ancient China, where dragons danced in the 
 
 Though these ancient dreams never fully took flight, their echoes still whisper through the corridors of time. In the sun-bleached ruins of forgotten workshops, in the faded ink of dusty scrolls, and in the whispered legends passed down through generations, they stand as testaments to the boundless human spirit, forever reaching for the impossible, forever dancing with the stars. So, the next time you gaze at the moon's unwavering course or feel the wind's unseen caress, remember the dreamers of Greece, India, and China, who dared to build machines that mimicked the cosmic symphony, for in their audacious quest, they touched the very pulse of the universe.
 
-[](https://www.notion.so/e26ee6a080094936b62002806b2e1563?pvs=21)
