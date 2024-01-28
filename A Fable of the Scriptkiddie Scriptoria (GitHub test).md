@@ -770,20 +770,27 @@ Absolutely! Here's a curated list of linkages to images of analogue and digital 
 
 **Analogue Async Terminals:**
 
-- **Teletype Model 33:** A classic electromechanical terminal, the first widely used teletype model, dating back to 1940. You can see its iconic design here: [https://en.wikipedia.org/wiki/Teletype_Model_33](https://en.wikipedia.org/wiki/Teletype_Model_33)
-- **DECwriter LA34:** A popular typewriter-like terminal from the 1970s and 80s, known for its sturdy build and reliable performance. Check out its retro charm here: [https://en.wikipedia.org/wiki/DECwriter](https://en.wikipedia.org/wiki/DECwriter)
-- **VT100:** A versatile and influential terminal from Digital Equipment Corporation, introduced in 1978. Its blocky design and green screen are captured here: [https://en.wikipedia.org/wiki/VT100](https://en.wikipedia.org/wiki/VT100)
+- **Teletype Model 33:** A classic electromechanical terminal, the first widely used teletype model, dating back to 1940. You can see its iconic design here: <br /> https://en.wikipedia.org/wiki/Teletype_Model_33](https://en.wikipedia.org/wiki/Teletype_Model_33)
+- **DECwriter LA34:** A popular typewriter-like terminal from the 1970s and 80s, known for its sturdy build and reliable performance. Check out its retro charm here: <br /> 
+[https://en.wikipedia.org/wiki/DECwriter](https://en.wikipedia.org/wiki/DECwriter)
+- **VT100:** A versatile and influential terminal from Digital Equipment Corporation, introduced in 1978. Its blocky design and green screen are captured here:<br /> 
+[https://en.wikipedia.org/wiki/VT100](https://en.wikipedia.org/wiki/VT100)
 
 **Digital Async Terminals:**
 
-- **ADM-3A:** A lightweight and affordable terminal from Lear Siegler, popular in the 1980s and 90s. See its compact form here: [https://en.wikipedia.org/wiki/ADM-3A](https://en.wikipedia.org/wiki/ADM-3A)
-- **VT220:** An advanced terminal from Digital Equipment Corporation, featuring high resolution and advanced features like graphics capabilities. Its sleek design is shown here: [https://en.wikipedia.org/wiki/VT220](https://en.wikipedia.org/wiki/VT220)
-- **Sun SPARCStation LX:** A powerful workstation from Sun Microsystems in the 1990s, often equipped with a high-resolution monochrome monitor and keyboard for a comfortable async experience. Its workstation setup is pictured here: [https://en.wikipedia.org/wiki/SPARCstation](https://en.wikipedia.org/wiki/SPARCstation)
+- **ADM-3A:** A lightweight and affordable terminal from Lear Siegler, popular in the 1980s and 90s. See its compact form here: <br /> 
+[https://en.wikipedia.org/wiki/ADM-3A](https://en.wikipedia.org/wiki/ADM-3A)
+- **VT220:** An advanced terminal from Digital Equipment Corporation, featuring high resolution and advanced features like graphics capabilities. Its sleek design is shown here: <br /> 
+[https://en.wikipedia.org/wiki/VT220](https://en.wikipedia.org/wiki/VT220)
+- **Sun SPARCStation LX:** A powerful workstation from Sun Microsystems in the 1990s, often equipped with a high-resolution monochrome monitor and keyboard for a comfortable async experience. Its workstation setup is pictured here: <br /> 
+[https://en.wikipedia.org/wiki/SPARCstation](https://en.wikipedia.org/wiki/SPARCstation)
 
 **Bonus Linkages:**
 
-- **Computer History Museum:** Explore a collection of historical computers and terminals, including async models, at the Computer History Museum website: [https://computerhistory.org/](https://computerhistory.org/)
-- **Vintage Computing:** Immerse yourself in the world of vintage computers and terminals through the Vintage Computing website, showcasing various models and their functionalities: [https://www.vintagecomputing.com/](https://www.vintagecomputing.com/)
+- **Computer History Museum:** Explore a collection of historical computers and terminals, including async models, at the Computer History Museum website: <br /> 
+[https://computerhistory.org/](https://computerhistory.org/)
+- **Vintage Computing:** Immerse yourself in the world of vintage computers and terminals through the Vintage Computing website, showcasing various models and their functionalities: <br /> 
+[https://www.vintagecomputing.com/](https://www.vintagecomputing.com/)
 
 I hope these linkages provide you with a visual journey through the evolution of analogue and digital async terminals! Feel free to explore further and delve deeper into the fascinating history of these essential tools.
 
@@ -1116,10 +1123,10 @@ The following diagram shows the evolution of UNIX and Unix-like shells, with the
 I'll try to create some grapheme versions of the diagram. Please wait a moment.
 
 Source: Conversation with Bing, 22/01/2024
-(1) nushell - ArchWiki. [https://wiki.archlinux.org/title/Nushell](https://wiki.archlinux.org/title/Nushell).\n
-(2) Introduction | Nushell. [https://www.nushell.sh/book/](https://www.nushell.sh/book/).\n
-(3) Install and Use Nu Shell on Linux | macOS | ComputingForGeeks. [https://computingforgeeks.com/install-and-use-nu-shel-linux-macos/](https://computingforgeeks.com/install-and-use-nu-shel-linux-macos/).\n
-(4) Unix in a Nutshell, 4th Edition [Book] - O'Reilly Media. [https://www.oreilly.com/library/view/unix-in-a/0596100299/](https://www.oreilly.com/library/view/unix-in-a/0596100299/).\n
+(1) nushell - ArchWiki. [https://wiki.archlinux.org/title/Nushell](https://wiki.archlinux.org/title/Nushell). <br /> 
+(2) Introduction | Nushell. [https://www.nushell.sh/book/](https://www.nushell.sh/book/). <br /> 
+(3) Install and Use Nu Shell on Linux | macOS | ComputingForGeeks. [https://computingforgeeks.com/install-and-use-nu-shel-linux-macos/](https://computingforgeeks.com/install-and-use-nu-shel-linux-macos/). <br /> 
+(4) Unix in a Nutshell, 4th Edition [Book] - O'Reilly Media. [https://www.oreilly.com/library/view/unix-in-a/0596100299/](https://www.oreilly.com/library/view/unix-in-a/0596100299/). <br /> 
 
 
 ## The Rise of POSIX Shell Scripting: A Need for Order in the Scripting Wild West
@@ -1161,7 +1168,7 @@ These patterns do not form a full pattern language, nor are they a comprehensive
 This section is a port, rewrite and adaptation, of a page dating back to circa 1996, that by happenstance, I happened upon and excavated from a web archive of the Wayback Machine, in late January 2024. I can't say that I yet fully understand its wisdom, but I feel it's import. It is a set or collection of **patterns** for efficient and effective shell scripting in Unix-like operating systems. Whilst not an exhaustive language or architecture guide, it focuses on frequently encountered challenges and offers expert insights for handling and resolving them.
 
 * **Contributors:** We are indebted to this list of individuals who have contributed to the formulation
-   of these patterns:
+   of these patterns: <br /> 
   **Jim Coplien, Stephen Hill, Alan Robertson, Bill Trost, Gregg Wonderly, Michael Lindner,
   Paul Chisholm, Russell Corfman, other(s).** 
 
@@ -1322,7 +1329,8 @@ Understanding the historical context and motivations behind the POSIX Shell Scri
 
 **Accessing the Standard:**
 
-- The full POSIX.1-2017 standard is available through The Open Group (fee required): [https://pubs.opengroup.org/onlinepubs/9699919799/](https://pubs.opengroup.org/onlinepubs/9699919799/)
+- The full POSIX.1-2017 standard is available through The Open Group (fee required): <br /> 
+  [https://pubs.opengroup.org/onlinepubs/9699919799/](https://pubs.opengroup.org/onlinepubs/9699919799/)
 - Online resources and summaries are also available.
 
 
@@ -1355,23 +1363,21 @@ The digital divide is particularly pronounced in low-income countries, where les
 Therefore, the claim made during the World Economic Forum panel that a third of the world's population is currently digitally excluded is supported by recent reports and statistics from reputable organizations.
 
 Citations:
-[1] The 2024 World Economic Forum in Davos hosts a panel on fighting the obesity epidemic —1/17/24 [https://www.youtube.com/watch?v=O3vqPaNaPFE](https://www.youtube.com/watch?v=O3vqPaNaPFE)
-[2] ITU report: one-third of the global population remains unconnected | Digital Watch Observatory [https://dig.watch/updates/itu-report-one-third-of-the-global-population-remains-unconnected](https://dig.watch/updates/itu-report-one-third-of-the-global-population-remains-unconnected)
-[3] [https://www.youtube.com/WorldEconomicForum](https://www.youtube.com/WorldEconomicForum)
-[4] More than a third of world’s population have never used internet, says UN [https://www.theguardian.com/technology/2021/nov/30/more-than-a-third-of-worlds-population-has-never-used-the-internet-says-un](https://www.theguardian.com/technology/2021/nov/30/more-than-a-third-of-worlds-population-has-never-used-the-internet-says-un)
-[5] The End of Development? | Davos 2024 | World Economic Forum [https://www.youtube.com/watch?v=VAkYY84Imhk](https://www.youtube.com/watch?v=VAkYY84Imhk)
-[6] Why A Third Of The World, Nearly Three Billion People, Have Never Used The Internet [https://www.forbes.com/sites/ceciliarodriguez/2021/12/02/why-a-third-of-the-world-nearly-three-billion-people-have-never-used-the-internet/](https://www.forbes.com/sites/ceciliarodriguez/2021/12/02/why-a-third-of-the-world-nearly-three-billion-people-have-never-used-the-internet/)
-[7] Regulating Non-Banks | Davos 2024 | World Economic Forum [https://www.youtube.com/watch?v=ZV3Q9N9HG_4](https://www.youtube.com/watch?v=ZV3Q9N9HG_4)
-[8] With Almost Half of World’s Population Still Offline, Digital Divide Risks Becoming ‘New Face of Inequality’, Deputy Secretary-General Warns General Assembly [https://press.un.org/en/2021/dsgsm1579.doc.htm](https://press.un.org/en/2021/dsgsm1579.doc.htm)
-[9] Davos 2024 Highlights | World Economic Forum [https://www.youtube.com/watch?v=BCcNRaGaJfU](https://www.youtube.com/watch?v=BCcNRaGaJfU)
-[10] One-Third of the Global Population Remains Offline [https://pulse.internetsociety.org/blog/one-third-of-the-global-population-remains-offline](https://pulse.internetsociety.org/blog/one-third-of-the-global-population-remains-offline)
-[11] Chrystia Freeland takes part in World Economic Forum trade and investment panel – January 18, 2024 [https://www.youtube.com/watch?v=Zoss4j0Xb84](https://www.youtube.com/watch?v=Zoss4j0Xb84)
-[12] Fixing the global digital divide and digital access gap | Brookings [https://www.brookings.edu/articles/fixing-the-global-digital-divide-and-digital-access-gap/](https://www.brookings.edu/articles/fixing-the-global-digital-divide-and-digital-access-gap/)
-[13] Middle East Conflict: What Is the Endgame? | Davos 2024 | World Economic Forum [https://www.youtube.com/watch?v=EMvglf-8E5Q](https://www.youtube.com/watch?v=EMvglf-8E5Q)
-[14] Facts and Figures 2022: Latest on global connectivity amid economic downturn - ITU Hub [https://www.itu.int/hub/2022/11/facts-and-figures-2022-global-connectivity-statistics/](https://www.itu.int/hub/2022/11/facts-and-figures-2022-global-connectivity-statistics/)
-[15] This is how to counter the global digital divide [https://www.weforum.org/agenda/2022/05/how-to-counter-the-global-digital-divide/](https://www.weforum.org/agenda/2022/05/how-to-counter-the-global-digital-divide/)
-
-By Perplexity at [https://www.perplexity.ai/search/f0d5d2a4-f4ac-4ae5-8592-e4ce1dbd3ab4?s=m](https://www.perplexity.ai/search/f0d5d2a4-f4ac-4ae5-8592-e4ce1dbd3ab4?s=m)
+[1] The 2024 World Economic Forum in Davos hosts a panel on fighting the obesity epidemic —1/17/24 [https://www.youtube.com/watch?v=O3vqPaNaPFE](https://www.youtube.com/watch?v=O3vqPaNaPFE) <br /> 
+[2] ITU report: one-third of the global population remains unconnected | Digital Watch Observatory [https://dig.watch/updates/itu-report-one-third-of-the-global-population-remains-unconnected](https://dig.watch/updates/itu-report-one-third-of-the-global-population-remains-unconnected) <br /> 
+[3] [https://www.youtube.com/WorldEconomicForum](https://www.youtube.com/WorldEconomicForum) <br /> 
+[4] More than a third of world’s population have never used internet, says UN [https://www.theguardian.com/technology/2021/nov/30/more-than-a-third-of-worlds-population-has-never-used-the-internet-says-un](https://www.theguardian.com/technology/2021/nov/30/more-than-a-third-of-worlds-population-has-never-used-the-internet-says-un) <br /> 
+[5] The End of Development? | Davos 2024 | World Economic Forum [https://www.youtube.com/watch?v=VAkYY84Imhk](https://www.youtube.com/watch?v=VAkYY84Imhk) <br /> 
+[6] Why A Third Of The World, Nearly Three Billion People, Have Never Used The Internet [https://www.forbes.com/sites/ceciliarodriguez/2021/12/02/why-a-third-of-the-world-nearly-three-billion-people-have-never-used-the-internet/](https://www.forbes.com/sites/ceciliarodriguez/2021/12/02/why-a-third-of-the-world-nearly-three-billion-people-have-never-used-the-internet/) <br /> 
+[7] Regulating Non-Banks | Davos 2024 | World Economic Forum [https://www.youtube.com/watch?v=ZV3Q9N9HG_4](https://www.youtube.com/watch?v=ZV3Q9N9HG_4) <br /> 
+[8] With Almost Half of World’s Population Still Offline, Digital Divide Risks Becoming ‘New Face of Inequality’, Deputy Secretary-General Warns General Assembly [https://press.un.org/en/2021/dsgsm1579.doc.htm](https://press.un.org/en/2021/dsgsm1579.doc.htm) <br /> 
+[9] Davos 2024 Highlights | World Economic Forum [https://www.youtube.com/watch?v=BCcNRaGaJfU](https://www.youtube.com/watch?v=BCcNRaGaJfU) <br /> 
+[10] One-Third of the Global Population Remains Offline [https://pulse.internetsociety.org/blog/one-third-of-the-global-population-remains-offline](https://pulse.internetsociety.org/blog/one-third-of-the-global-population-remains-offline) <br /> 
+[11] Chrystia Freeland takes part in World Economic Forum trade and investment panel – January 18, 2024 [https://www.youtube.com/watch?v=Zoss4j0Xb84](https://www.youtube.com/watch?v=Zoss4j0Xb84) <br /> 
+[12] Fixing the global digital divide and digital access gap | Brookings [https://www.brookings.edu/articles/fixing-the-global-digital-divide-and-digital-access-gap/](https://www.brookings.edu/articles/fixing-the-global-digital-divide-and-digital-access-gap/) <br /> 
+[13] Middle East Conflict: What Is the Endgame? | Davos 2024 | World Economic Forum [https://www.youtube.com/watch?v=EMvglf-8E5Q](https://www.youtube.com/watch?v=EMvglf-8E5Q) <br /> 
+[14] Facts and Figures 2022: Latest on global connectivity amid economic downturn - ITU Hub [https://www.itu.int/hub/2022/11/facts-and-figures-2022-global-connectivity-statistics/](https://www.itu.int/hub/2022/11/facts-and-figures-2022-global-connectivity-statistics/) <br /> 
+[15] This is how to counter the global digital divide [https://www.weforum.org/agenda/2022/05/how-to-counter-the-global-digital-divide/](https://www.weforum.org/agenda/2022/05/how-to-counter-the-global-digital-divide/) <br /> 
 
 **Secondly, I tender that all digital inclusion leads to the potential, possibility and promise, of learning, education, knowledge and skill acquisition. This is of import to all, but pointed for those of the third world. What recent academic studies defend this worldview?**
 
@@ -1427,33 +1433,31 @@ In terms of best-practice benchmark costing and estimation, the Infrastructure a
 In conclusion, the digital divide represents a significant challenge to global productivity, research, and innovation. Addressing this issue is crucial for achieving the goals of the Triple Bottom Line and promoting sustainable economic growth.
 
 Citations:
-[1] The Triple Bottom Line: What It Is & Why It’s Important [https://online.hbs.edu/blog/post/what-is-the-triple-bottom-line](https://online.hbs.edu/blog/post/what-is-the-triple-bottom-line)
-[2] Best Practice in Benchmarking [https://assets.publishing.service.gov.uk/media/60f02c5ee90e0764d0ab7d37/1176-APS-CCS0421465542-001_Best_Practice_in_Benchmarking_Web.pdf](https://assets.publishing.service.gov.uk/media/60f02c5ee90e0764d0ab7d37/1176-APS-CCS0421465542-001_Best_Practice_in_Benchmarking_Web.pdf)
-[3] Australia’s productivity slowdown [https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/pubs/BriefingBook47p/AustraliasProductivitySlowdown](https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/pubs/BriefingBook47p/AustraliasProductivitySlowdown)
-[4] The Global Risks [https://www3.weforum.org/docs/WEF_Global_Risks_Report_2023.pdf](https://www3.weforum.org/docs/WEF_Global_Risks_Report_2023.pdf)
-[5] Triple Bottom Line [https://www.investopedia.com/terms/t/triple-bottom-line.asp](https://www.investopedia.com/terms/t/triple-bottom-line.asp)
-[6] PROFESSIONAL STATEMENT [https://www.rics.org/content/dam/ricsglobal/documents/standards/19_nov_2020_cost_prediction_ps_1st_edition.pdf](https://www.rics.org/content/dam/ricsglobal/documents/standards/19_nov_2020_cost_prediction_ps_1st_edition.pdf)
-[7] i [https://www.pc.gov.au/inquiries/completed/productivity/report/productivity-volume4-data-digital-dividend.pdf](https://www.pc.gov.au/inquiries/completed/productivity/report/productivity-volume4-data-digital-dividend.pdf)
-[8] Fixing the global digital divide and digital access gap | Brookings [https://www.brookings.edu/articles/fixing-the-global-digital-divide-and-digital-access-gap/](https://www.brookings.edu/articles/fixing-the-global-digital-divide-and-digital-access-gap/)
-[9] Triple bottom line - Wikipedia [https://en.wikipedia.org/wiki/Triple_bottom_line](https://en.wikipedia.org/wiki/Triple_bottom_line)
-[10] 2021 [https://www.dta.gov.au/sites/default/files/2022-07/Digital Review 2021 Report [Final].pdf](https://www.dta.gov.au/sites/default/files/2022-07/Digital%20Review%202021%20Report%20%5BFinal%5D.pdf)
-[11] Just a moment... [https://journals.sagepub.com/doi/10.1177/01655515211040664](https://journals.sagepub.com/doi/10.1177/01655515211040664)
-[12] Cloud services and government digital sovereignty in Australia and beyond [https://academic.oup.com/ijlit/article/29/4/364/6516411](https://academic.oup.com/ijlit/article/29/4/364/6516411)
-[13] An Explanation of the Triple Bottom Line | UW Extended Campus [https://uwex.wisconsin.edu/stories-news/triple-bottom-line/](https://uwex.wisconsin.edu/stories-news/triple-bottom-line/)
-[14] Performance Benchmarking [https://www.pc.gov.au/inquiries/completed/regulation-benchmarking-stage2/quantity-quality-report/quantity-quality.pdf](https://www.pc.gov.au/inquiries/completed/regulation-benchmarking-stage2/quantity-quality-report/quantity-quality.pdf)
+[1] The Triple Bottom Line: What It Is & Why It’s Important [https://online.hbs.edu/blog/post/what-is-the-triple-bottom-line](https://online.hbs.edu/blog/post/what-is-the-triple-bottom-line) <br /> 
+[2] Best Practice in Benchmarking [https://assets.publishing.service.gov.uk/media/60f02c5ee90e0764d0ab7d37/1176-APS-CCS0421465542-001_Best_Practice_in_Benchmarking_Web.pdf](https://assets.publishing.service.gov.uk/media/60f02c5ee90e0764d0ab7d37/1176-APS-CCS0421465542-001_Best_Practice_in_Benchmarking_Web.pdf) <br /> 
+[3] Australia’s productivity slowdown [https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/pubs/BriefingBook47p/AustraliasProductivitySlowdown](https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/pubs/BriefingBook47p/AustraliasProductivitySlowdown) <br /> 
+[4] The Global Risks [https://www3.weforum.org/docs/WEF_Global_Risks_Report_2023.pdf](https://www3.weforum.org/docs/WEF_Global_Risks_Report_2023.pdf) <br /> 
+[5] Triple Bottom Line [https://www.investopedia.com/terms/t/triple-bottom-line.asp](https://www.investopedia.com/terms/t/triple-bottom-line.asp) <br /> 
+[6] PROFESSIONAL STATEMENT [https://www.rics.org/content/dam/ricsglobal/documents/standards/19_nov_2020_cost_prediction_ps_1st_edition.pdf](https://www.rics.org/content/dam/ricsglobal/documents/standards/19_nov_2020_cost_prediction_ps_1st_edition.pdf) <br /> 
+[7] i [https://www.pc.gov.au/inquiries/completed/productivity/report/productivity-volume4-data-digital-dividend.pdf](https://www.pc.gov.au/inquiries/completed/productivity/report/productivity-volume4-data-digital-dividend.pdf) <br /> 
+[8] Fixing the global digital divide and digital access gap | Brookings [https://www.brookings.edu/articles/fixing-the-global-digital-divide-and-digital-access-gap/](https://www.brookings.edu/articles/fixing-the-global-digital-divide-and-digital-access-gap/) <br /> 
+[9] Triple bottom line - Wikipedia [https://en.wikipedia.org/wiki/Triple_bottom_line](https://en.wikipedia.org/wiki/Triple_bottom_line) <br /> 
+[10] 2021 [https://www.dta.gov.au/sites/default/files/2022-07/Digital Review 2021 Report [Final].pdf](https://www.dta.gov.au/sites/default/files/2022-07/Digital%20Review%202021%20Report%20%5BFinal%5D.pdf) <br /> 
+[11] Just a moment... [https://journals.sagepub.com/doi/10.1177/01655515211040664](https://journals.sagepub.com/doi/10.1177/01655515211040664) <br /> 
+[12] Cloud services and government digital sovereignty in Australia and beyond [https://academic.oup.com/ijlit/article/29/4/364/6516411](https://academic.oup.com/ijlit/article/29/4/364/6516411) <br /> 
+[13] An Explanation of the Triple Bottom Line | UW Extended Campus [https://uwex.wisconsin.edu/stories-news/triple-bottom-line/](https://uwex.wisconsin.edu/stories-news/triple-bottom-line/) <br /> 
+[14] Performance Benchmarking [https://www.pc.gov.au/inquiries/completed/regulation-benchmarking-stage2/quantity-quality-report/quantity-quality.pdf](https://www.pc.gov.au/inquiries/completed/regulation-benchmarking-stage2/quantity-quality-report/quantity-quality.pdf) <br /> 
 [15] Treasury Round Up  |  October 2022 [https://treasury.gov.au/sites/default/files/2022-10/p2022-325290-overview.pdf](https://treasury.gov.au/sites/default/files/2022-10/p2022-325290-overview.pdf)
-[16] On Digital Inequalities [https://policyatmanchester.shorthandstories.com/on-digital-inequalities/](https://policyatmanchester.shorthandstories.com/on-digital-inequalities/)
-[17] The Triple Bottom Line: What Is It and How Does It Work? [https://www.ibrc.indiana.edu/ibr/2011/spring/article2.html](https://www.ibrc.indiana.edu/ibr/2011/spring/article2.html)
-[18] Benchmark Construction: What Is a Benchmark in Construction — Kreo [https://www.kreo.net/news-2d-takeoff/understanding-key-benchmarks-for-accurate-construction-estimates](https://www.kreo.net/news-2d-takeoff/understanding-key-benchmarks-for-accurate-construction-estimates)
-[19] ! Are You A Robot? [https://www.sciencedirect.com/science/article/pii/S0040162522003092](https://www.sciencedirect.com/science/article/pii/S0040162522003092)
-[20] What is Triple Bottom Line (TBL) and Why is It Important? [https://www.techtarget.com/whatis/definition/triple-bottom-line-3BL](https://www.techtarget.com/whatis/definition/triple-bottom-line-3BL)
-[21] March 2020 [https://www.gao.gov/assets/gao-20-195g.pdf](https://www.gao.gov/assets/gao-20-195g.pdf)
-[22] The Costs of Exclusion Economic: Consequences of the Digital Gender Gap - Alliance for Affordable Internet [https://a4ai.org/report/the-costs-of-exclusion-economic-consequences-of-the-digital-gender-gap/](https://a4ai.org/report/the-costs-of-exclusion-economic-consequences-of-the-digital-gender-gap/)
-[23] The Triple Bottom Line - Using the 3Ps to Measure Organizational ... [https://www.mindtools.com/awbh8iv/the-triple-bottom-line](https://www.mindtools.com/awbh8iv/the-triple-bottom-line)
-[24] Elderly Forgotten? Digital Exclusion in the Information Age and the Rising Grey Digital Divide [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9052810/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9052810/)
-[25] Sustainability management system: The Triple Bottom Line [https://www.era-environmental.com/blog/sustainability-management-triple-bottom-line](https://www.era-environmental.com/blog/sustainability-management-triple-bottom-line)
-
-By Perplexity at [https://www.perplexity.ai/search/8592ff6a-179b-4f30-9405-638887e4be95?s=m](https://www.perplexity.ai/search/8592ff6a-179b-4f30-9405-638887e4be95?s=m)
+[16] On Digital Inequalities [https://policyatmanchester.shorthandstories.com/on-digital-inequalities/](https://policyatmanchester.shorthandstories.com/on-digital-inequalities/) <br /> 
+[17] The Triple Bottom Line: What Is It and How Does It Work? [https://www.ibrc.indiana.edu/ibr/2011/spring/article2.html](https://www.ibrc.indiana.edu/ibr/2011/spring/article2.html) <br /> 
+[18] Benchmark Construction: What Is a Benchmark in Construction — Kreo [https://www.kreo.net/news-2d-takeoff/understanding-key-benchmarks-for-accurate-construction-estimates](https://www.kreo.net/news-2d-takeoff/understanding-key-benchmarks-for-accurate-construction-estimates) <br /> 
+[19] ! Are You A Robot? [https://www.sciencedirect.com/science/article/pii/S0040162522003092](https://www.sciencedirect.com/science/article/pii/S0040162522003092) <br /> 
+[20] What is Triple Bottom Line (TBL) and Why is It Important? [https://www.techtarget.com/whatis/definition/triple-bottom-line-3BL](https://www.techtarget.com/whatis/definition/triple-bottom-line-3BL) <br /> 
+[21] March 2020 [https://www.gao.gov/assets/gao-20-195g.pdf](https://www.gao.gov/assets/gao-20-195g.pdf) <br /> 
+[22] The Costs of Exclusion Economic: Consequences of the Digital Gender Gap - Alliance for Affordable Internet [https://a4ai.org/report/the-costs-of-exclusion-economic-consequences-of-the-digital-gender-gap/](https://a4ai.org/report/the-costs-of-exclusion-economic-consequences-of-the-digital-gender-gap/) <br /> 
+[23] The Triple Bottom Line - Using the 3Ps to Measure Organizational ... [https://www.mindtools.com/awbh8iv/the-triple-bottom-line](https://www.mindtools.com/awbh8iv/the-triple-bottom-line) <br /> 
+[24] Elderly Forgotten? Digital Exclusion in the Information Age and the Rising Grey Digital Divide [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9052810/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9052810/) <br /> 
+[25] Sustainability management system: The Triple Bottom Line [https://www.era-environmental.com/blog/sustainability-management-triple-bottom-line](https://www.era-environmental.com/blog/sustainability-management-triple-bottom-line) 
 
 **Bard answered lyrically and with eloquence, but without citation:**
 
