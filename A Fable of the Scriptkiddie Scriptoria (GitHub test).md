@@ -57,13 +57,13 @@ NB: At different places throughout the work, we progress greater a relationship,
 
 The history of shell scripting is a fascinating journey through the evolution of computing, spanning decades and various operating systems. Here's an overview:
 
-** How did humans interact with computers prior to the emergence of computer languages? **
+**How did humans interact with computers prior to the emergence of computer languages?**
 
 Before the development of computer languages as we know them, interacting with computers was a far cry from the user-friendly interfaces we have today. It was a world of **physical switches, punch cards, and specialized commands**, requiring a deep understanding of the machine's inner workings and a hefty dose of patience. Here's a glimpse into those early days:
 
 **1. Toggle Switches and Patch Panels:**
 
-- The earliest computers, like ENIAC, were programmed by manually flipping physical switches and setting patch panels. This was a laborious and error-prone process, requiring precise knowledge of the machine's internal logic circuits.
+- The earliest computers, like ENIAC [Electronic Numerical Integrator and Computer](https://en.m.wikipedia.org/wiki/ENIAC) in 1945, were programmed by manually flipping physical switches and setting patch panels. This was a laborious and error-prone process, requiring precise knowledge of the machine's internal logic circuits.
 
 **2. Punch Cards and Paper Tape:**
 
