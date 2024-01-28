@@ -7910,6 +7910,8 @@ Kernighan, Brian W. & Pike, Rob (1984). 'The UNIX Programming Environment'. Bell
 
 **L**
 
+Light, Jennifer S. (1999). 'When Computers were women' in *Technology and Culture*, July 1999, Vol 40, Issue 3, Research Library Core, pp. 455 - 483.
+
 **M**
 
 **N**
