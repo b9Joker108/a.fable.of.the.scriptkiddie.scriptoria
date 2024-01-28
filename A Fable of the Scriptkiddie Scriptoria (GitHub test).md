@@ -63,7 +63,7 @@ Before the development of computer languages as we know them, interacting with c
 
 **1. Toggle Switches and Patch Panels:**
 
-- The earliest computers, like ENIAC [Electronic Numerical Integrator and Computer](https://en.m.wikipedia.org/wiki/ENIAC) in 1945, were programmed by manually flipping physical switches and setting patch panels. This was a laborious and error-prone process, requiring precise knowledge of the machine's internal logic circuits.
+- The earliest computers, like [ENIAC (Electronic Numerical Integrator and Computer) ](https://en.m.wikipedia.org/wiki/ENIAC) in 1945, were programmed by manually flipping physical switches and setting patch panels. This was a laborious and error-prone process, requiring precise knowledge of the machine's internal logic circuits.
 
 **2. Punch Cards and Paper Tape:**
 
