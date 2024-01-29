@@ -32,7 +32,15 @@ Köppl, Heidi (2008). 'Establishing Appearances as Divine: Rongzom Chözang on R
 
 ## Evocation
 
-...
+> "What a lovely thing a rose is!….There is nothing in which deduction is so necessary as in religion…It > can be built up as an exact science by the reasoner. Our highest assurance of the goodness of
+> Providence seems to me to rest in the flowers. All other things, our powers, our desires, our food,
+> are all really necessary for our existence in the first instance. But this rose is an extra. Its smell
+> and its colour are an embellishment of life, not a condition of it. It is only goodness which gives
+> extras, and so I say again that we have much to hope from the flowers".
+
+-- spoken by Sherlock Holmes, extracted from: Doyle, Sir Arthur Conan (1894), 'Memoirs of Sherlock Holmes, [The Adventure of] The Naval Treaty', London. 
+
+The truth resides in the flowers. 
 
 ## Dedication
 
