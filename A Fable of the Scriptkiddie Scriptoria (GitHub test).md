@@ -41,7 +41,7 @@ Köppl, Heidi (2008). 'Establishing Appearances as Divine: Rongzom Chözang on R
 > Kindness in another's trouble,
 > Courage in your own."**
 
-	\~ Adam Lindsay Gordon, **'Midas'**, (1864) 
+	Adam Lindsay Gordon, 'Midas', (1864) 
  
 I dedicate this work, and all that it yields, to those that embrace the ephemerality of life, and in it find the eternality of kindness and courage, and thereby embody both. 
 
