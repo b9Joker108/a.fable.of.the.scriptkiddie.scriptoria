@@ -2,7 +2,13 @@
 
 ## by The Google Bard Experiment, PerplexityAI & Bing Copilot, w/~ Beauford A. Stenberg (a.k.a. b9Joker108 at GitHub) 
 
+## Publication details, editions, versions
+
+...
+
 ## Frontmatter
+
+...
 
 ## Preface
 
@@ -12,11 +18,19 @@ all things."
 
 ## Invocation 
 
+...
+
 ## Evocation
+
+...
 
 ## Dedication
 
+...
+
 ## Introduction 
+
+...
 
 
 
