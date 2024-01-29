@@ -1,6 +1,29 @@
 # A Fable of the Scriptkiddie Scriptoria: A Bash/Zsh roadmap/study-guide, leveraging the GNU/Linux shell & Termux scripting environment w/~ Android: unrooted, PRoot to root!
 
-## by The Google Bard Experiment, PerplexityAI & Bing Copilot, w/~ Beauford A. Stenberg
+## by The Google Bard Experiment, PerplexityAI & Bing Copilot, w/~ Beauford A. Stenberg (a.k.a. b9Joker108 at GitHub) 
+
+## Frontmatter
+
+## Preface
+
+"Thy fingers make early flowers of
+all things." 
+	~ e e cummings
+
+## Invocation 
+
+## Evocation
+
+## Dedication
+
+## Introduction 
+
+
+
+
+
+
+
 
 a.k.a. b9Joker108 at GitHub, who engineered the following principal (and subsequent) prompts for the GoogleBard Experiment, PerplexityAI and Bing Copilot, at the closure of 2023 (onwards), according the Gregorian calendar:
 
