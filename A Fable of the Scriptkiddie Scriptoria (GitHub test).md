@@ -22,7 +22,7 @@ all things."
 
 As an Ekayanavadin, indeed an Omnist and experiential pragmatist, I hold Rongzom in particular affection and esteem, for his diamontine stance on making no concessions to the other yana, and upholding the precedence of Mantrayana (of Secret Mantra). I invoke the adhishthana of Rongzom upon myself and upon this work, indeed upon all who are touched by it, to realise and embody the esotericism of the impossible, in action. 
 
-As Koppl notes:
+As [Köppl](https://rywiki.tsadra.org/index.php/Heidi_Koeppl) notes:
 
 **"...Rongzom...underscores his commitment to the purity of all phenomena...".** 
 
