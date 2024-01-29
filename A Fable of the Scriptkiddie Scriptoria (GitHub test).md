@@ -1189,7 +1189,7 @@ The lineage of UNIX and Unix-like shells shows the evolution of one of the most 
 
 # UNIX Philosophy 
 
-By serendipity, I came across this pith, reductionism, of UNIX philosophy, and felt it valuable. Hence, I have transposed it here, with minor editing. 
+By the grace of goddess Serendipity, I came across this pith reductionism or distillation of UNIX philosophy, and felt it valuable. Hence, I have transposed it here, with minor editing. It was prepared by Peter Krumins (https://github.com/pkrumins) a 'browserling'.
 
 **Learn from the wisdom of Unix gods when writing software:**
 
