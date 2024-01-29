@@ -1212,6 +1212,8 @@ By the grace of goddess Serendipity, I came across this pith reductionism or dis
 
 Source: https://catonmat.net/Unix-philosophy (accessed: Monday January 29, 2024) 
 
+Fortuitously, I first became acclimated to UNIX philosophy through the Eric S. Raymond's influential and well-reguarded work of technological anthropology, which effectively inaugurated a new and very valuable literary genre. I was most fortunate to be gifted a soft-cover edition of this singular work very early on in my GNU/Linux exploration, which began with Ubuntu, pre-snap, by I ashamedly, remember not who. But to whom, I am indelibly indebted.)  
+
 
 I have integrated the information and the grapheme versions of the diagram of the historical evolution of UNIX and Unix-like shells that I have produced for you. Here is the result:
 
