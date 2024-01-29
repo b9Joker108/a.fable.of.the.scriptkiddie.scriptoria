@@ -20,7 +20,7 @@
 
 [Rongzompa](https://en.wikipedia.org/wiki/Rongzom_Ch%C3%B6kyi_Zangpo), also known as Rongzom Chökyi Zangpo or Dharmabhadra (1012 - 1088), one of the 'Three Omniscient Ones' of the Nyingma (or Ancient School) of the Himalayan Buddhadharma, alongside [Longchenpa](https://en.wikipedia.org/wiki/Longchenpa) (...) and [Mipham](https://en.wikipedia.org/wiki/Jamg%C3%B6n_Ju_Mipham_Gyatso) (... ). Rongzompa is revered for his vast knowledge and encyclopedic understanding. Whilst renowned for his scholarship, Rongzompa always emphasized the importance of putting teachings into practice. He championed experiential realization through meditation and devotion, guiding his disciples towards genuine spiritual accomplishment. 
 
-As an Ekayanavadin, indeed an Omnist and experiential pragmatist, I hold Rongzom in particular affection and esteem, for his diamontine stance on making no concessions to the other yana, and upholding the precedence of Mantrayana (of Secret Mantra). I invoke the adhishthana of Rongzom upon myself and in particular within my mindstream (that is constituted of my Body, Voice, Mind, Qualities and Activities in the esoteric denotation of the Nyingma and Bön Dzogchempa' and upon this work, indeed upon all who are touched by it, to realise and embody the esotericism of the impossible, in action. 
+As an Ekayanavadin, indeed an Omnist and experiential pragmatist, I hold Rongzom in particular affection and esteem, for his diamondine stance on making no concessions to the other yana, and upholding the precedence of Mantrayana (of Secret Mantra). I invoke the adhishthana of Rongzom upon myself and in particular within my mindstream (that is constituted of my Body, Voice, Mind, Qualities and Activities in the esoteric denotation of the Nyingma and Bön Dzogchempa' and upon this work, indeed upon all who are touched by it, to realise and embody the esotericism of the impossible, in action. 
 
 As [Köppl](https://rywiki.tsadra.org/index.php/Heidi_Koeppl) notes:
 
@@ -44,7 +44,7 @@ Truth resides in the flowers.
 
 ## Dedication
 
-> **"Life is mostly froth and bubble, < /n >
+> **"Life is mostly froth and bubble,
 > Two things stand like stone,
 > Kindness in another's trouble,
 > Courage in your own."**
@@ -1185,6 +1185,33 @@ Another branch of shells originated from the Thompson shell, rather than the Bou
 The C shell also spawned several variants, such as the Restricted C shell (rcsh), the TENEX C shell (tcsh), and the Friendly Interactive Shell (fish). These shells improved the C shell with various features, such as enhanced scripting, command substitution, globbing, and auto-correction. The fish shell, in particular, was designed to be user-friendly and intuitive, with features such as syntax highlighting, autosuggestions, and web-based configuration.
 
 The lineage of UNIX and Unix-like shells shows the evolution of one of the most fundamental and powerful tools in computing. The shells have influenced the development of many other programming languages and environments, such as Perl, Python, Ruby, and PowerShell. The shells have also enabled users to customize and automate their workflows, and to interact with their systems in creative and efficient ways.
+
+
+# UNIX Philosophy 
+
+By serendipity, I came across this pith, reductionism, of UNIX philosophy, and felt it valuable. Hence, I have transposed it here, with minor editing. 
+
+**Learn from the wisdom of Unix gods when writing software:**
+
+* Small is beautiful.
+* Make each program do one thing well.
+* Build a prototype as soon as possible.
+* Prefer flat ASCII files to binary and databases. (With exception of SQLite3.)
+* Reuse code to leverage your advantage.
+* Use shell scripts to increase leverage.
+* Avoid captive, blocking user interfaces.
+* Make every program a filter (when applicable.)
+* Allow the user to tailor the environment.
+* Use lowercase and keep it short.
+* Silence is golden.
+* Think parallel (when applicable.)
+* The sum of the parts is greater than the whole.
+* Look for the 90% solution.
+* Worse is better.
+* Think hierarchically.
+
+Source: https://catonmat.net/Unix-philosophy (accessed: Monday January 29, 2024) 
+
 
 I have integrated the information and the grapheme versions of the diagram of the historical evolution of UNIX and Unix-like shells that I have produced for you. Here is the result:
 
