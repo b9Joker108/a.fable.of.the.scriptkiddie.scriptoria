@@ -36,7 +36,7 @@ Köppl, Heidi (2008). 'Establishing Appearances as Divine: Rongzom Chözang on R
 
 ## Dedication
 
-> **"Life is mostly froth and bubble,
+> **"Life is mostly froth and bubble, < /n >
 > Two things stand like stone,
 > Kindness in another's trouble,
 > Courage in your own."**
