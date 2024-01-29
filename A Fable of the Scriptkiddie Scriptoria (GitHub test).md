@@ -12,8 +12,8 @@
 
 ## Preface
 
-"Thy fingers make early flowers of
-all things." 
+> "Thy fingers make early flowers of
+> all things." 
 	~ e e cummings
 
 ## Invocation 
