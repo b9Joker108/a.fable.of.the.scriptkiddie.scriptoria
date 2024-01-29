@@ -18,7 +18,12 @@ all things."
 
 ## Invocation 
 
-...
+Rongzompa, also known as Rongzom Chökyi Zangpo or Dharmabhadra (1012 - 1088), one of the 'Three Omniscient Ones' of the Nyingma or Ancient School of the Himalayan Buddha dharma, alongside Longchenpa and Ju Mipham. Rongzompa is revered for his vast knowledge and encyclopedic understanding. Whilst renowned for his scholarship, Rongzompa always emphasized the importance of putting teachings into practice. He championed experiential realization through meditation and devotion, guiding students towards genuine spiritual accomplishment.
+
+
+
+
+
 
 ## Evocation
 
