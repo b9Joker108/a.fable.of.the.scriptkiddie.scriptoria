@@ -18,7 +18,9 @@ all things."
 
 ## Invocation 
 
-[Rongzompa](https://en.wikipedia.org/wiki/Rongzom_Ch%C3%B6kyi_Zangpo), also known as Rongzom Chökyi Zangpo or Dharmabhadra (1012 - 1088), one of the 'Three Omniscient Ones' of the Nyingma or Ancient School of the Himalayan Buddha dharma, alongside [Longchenpa](https://en.wikipedia.org/wiki/Longchenpa) (...) and [Mipham](https://en.wikipedia.org/wiki/Jamg%C3%B6n_Ju_Mipham_Gyatso) (... ). Rongzompa is revered for his vast knowledge and encyclopedic understanding. Whilst renowned for his scholarship, Rongzompa always emphasized the importance of putting teachings into practice. He championed experiential realization through meditation and devotion, guiding his disciples towards genuine spiritual accomplishment.
+[Rongzompa](https://en.wikipedia.org/wiki/Rongzom_Ch%C3%B6kyi_Zangpo), also known as Rongzom Chökyi Zangpo or Dharmabhadra (1012 - 1088), one of the 'Three Omniscient Ones' of the Nyingma (or Ancient School) of the Himalayan Buddhadharma, alongside [Longchenpa](https://en.wikipedia.org/wiki/Longchenpa) (...) and [Mipham](https://en.wikipedia.org/wiki/Jamg%C3%B6n_Ju_Mipham_Gyatso) (... ). Rongzompa is revered for his vast knowledge and encyclopedic understanding. Whilst renowned for his scholarship, Rongzompa always emphasized the importance of putting teachings into practice. He championed experiential realization through meditation and devotion, guiding his disciples towards genuine spiritual accomplishment. 
+
+As an Ekayanavadin, indeed an Omnist and experiential pragmatist, I hold Rongzom in particular affection and esteem, for his diamontine stance on making no concessions to the other yana, and upholding the precedence of Mantrayana (of Secret Mantra). I invoke the adhishthana of Rongzom upon myself and upon this work, indeed upon all who are touched by it, to realise and embody the esotericism of the impossible, in action. 
 
 
 
