@@ -16,6 +16,8 @@
 > all things." 
 	~ e e Cummings (1894 - 1962)
 
+This may eventually become the title of future editions of this work. 
+
 ## Invocation 
 
 [Rongzompa](https://en.wikipedia.org/wiki/Rongzom_Ch%C3%B6kyi_Zangpo), also known as Rongzom Chökyi Zangpo or Dharmabhadra (1012 - 1088), one of the 'Three Omniscient Ones' of the Nyingma (or Ancient School) of the Himalayan Buddhadharma, alongside [Longchenpa](https://en.wikipedia.org/wiki/Longchenpa) (...) and [Mipham](https://en.wikipedia.org/wiki/Jamg%C3%B6n_Ju_Mipham_Gyatso) (... ). Rongzompa is revered for his vast knowledge and encyclopedic understanding. Whilst renowned for his scholarship, Rongzompa always emphasized the importance of putting teachings into practice. He championed experiential realization through meditation and devotion, guiding his disciples towards genuine spiritual accomplishment. 
