@@ -40,7 +40,7 @@ Köppl, Heidi (2008). 'Establishing Appearances as Divine: Rongzom Chözang on R
 
 -- spoken by Sherlock Holmes, extracted from: Doyle, Sir Arthur Conan (1894), 'Memoirs of Sherlock Holmes, [The Adventure of] The Naval Treaty', London. 
 
-The truth resides in the flowers. 
+Truth resides in the flowers. 
 
 ## Dedication
 
