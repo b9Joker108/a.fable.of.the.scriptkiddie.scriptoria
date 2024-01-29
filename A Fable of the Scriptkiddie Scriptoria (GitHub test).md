@@ -32,6 +32,8 @@ And so it is!
 
 Köppl, Heidi (2008). 'Establishing Appearances as Divine: Rongzom Chözang on Reasoning, Madhyamaka, and Purity'. Ithaca, New York: Snow Lion Publications. ISBN 9781559392884.
 
+Biography: https://treasuryoflives.org/bo/biographies/view/Rongzom-Chokyi-Zangpo/6194 (Monday January 29, 2024) 
+
 ## Evocation
 
 > "What a lovely thing a rose is!….There is nothing in which deduction is so necessary as in religion…It > can be built up as an exact science by the reasoner. Our highest assurance of the goodness of
