@@ -20,6 +20,10 @@ This may eventually become the title of future editions of this work.
 
 ## Invocation 
 
+<div style="width: 5cm; height: 5cm; border: 1px solid black;">
+<img src="/Sri.Yantra(3cm.sqr).jpg" alt="This image is a representation of a thanka of Rongzom Mahapaṇḍita." style="width: 100%; height: 100%; object-fit: cover;">
+</div>
+
 [Rongzompa](https://en.wikipedia.org/wiki/Rongzom_Ch%C3%B6kyi_Zangpo), also known as Rongzom Chökyi Zangpo or Dharmabhadra (1012 - 1088), one of the 'Three Omniscient Ones' of the Nyingma (or Ancient School) of the Himalayan Buddhadharma, alongside [Longchenpa](https://en.wikipedia.org/wiki/Longchenpa) (...) and [Mipham](https://en.wikipedia.org/wiki/Jamg%C3%B6n_Ju_Mipham_Gyatso) (... ). Rongzompa is revered for his vast knowledge and encyclopedic understanding. Whilst renowned for his scholarship, Rongzompa always emphasized the importance of putting teachings into practice. He championed experiential realization through meditation and devotion, guiding his disciples towards genuine spiritual accomplishment. 
 
 As an Ekayanavadin, indeed an Omnist and experiential pragmatist, I hold Rongzom in particular affection and esteem, for his diamondine stance on making no concessions to the other yana, and upholding the precedence of Mantrayana (of Secret Mantra). I invoke the adhishthana of Rongzom upon myself and in particular within my mindstream (that is constituted of my Body, Voice, Mind, Qualities and Activities in the esoteric denotation of the Nyingma and Bön Dzogchempa' and upon this work, indeed upon all who are touched by it, to realise and embody the esotericism of the impossible, in action. 
