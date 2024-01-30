@@ -14,16 +14,6 @@ This roadmap initially started its life as a page within my Notion web/Android-a
 
 painedas I explore the literature, conduct a discourse review, subsuming some multimedia tutorials and documentaries and oral history that has been captured and uploaded. I provide an annotated curation of such items with my purport. 
 
-.....
-<body>
-     <header >This is the header</header>
-     <main>Your main content </main>
-     <footer>Footer</footer>
-<body>
-......
-
-
-
 **[Crazy Wisdom:](https://en.wikipedia.org/wiki/Divine_madness)**
 
 Melody (1995). 'Love Is in the Earth: A Kaleidoscope of Crystals: The Reference Book Describing the Metaphysical Properties of the Mineral Kingdom'. Illustrations: Julianne Guilbault. Updated, third edition. Earth Love Pub House. ISBN-13 9780962819032 (paperback) 
