@@ -4,6 +4,8 @@
 
 ## Publication details, editions, versions
 
+**v.1.0.0**
+
 Pre-first draft, of work commenced early December 2023.
 
 **Meta and methodology**
