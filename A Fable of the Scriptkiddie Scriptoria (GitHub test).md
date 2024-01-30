@@ -9295,6 +9295,12 @@ Light, Jennifer S. (1999). 'When Computers were women' in *Technology and Cultur
 
 **M**
 
+**Melody**
+
+This author, researcher and Earth-bound-psychonaut, only has one name like Madonna, or The Madonna, Mary. This work defined the discourse. As a consummate researcher, honed in archives, before the domination of the digital; I can see and perceive a true-researcher, through the obscured stuff, of malformed execution. This work is neither malformed, nor obscured. It truly illumines, the subject. The lover of anthropology and ethnography in me, has read an indeterminate number of items, it dusty and dusky, sparsely frequented repositories of old-skool print media. It is amazing how much still hasn't been digitized. I search, with all my knowing on the Internet, for the existence of items that have transfixed me, to no avail. Many of them were anthropological and ethnographic case-studies, documenting fieldwork of little-known communities, throughout the world and through different times, climes, and locales, that mentioned esoteric crystal use, by-the-way. This, is how I know this work is of merit, even though it isn't traditionally cited. But then, that would be non-standard, in a post-New Age work. 
+
+Melody (1995). 'Love Is in the Earth: A Kaleidoscope of Crystals: The Reference Book Describing the Metaphysical Properties of the Mineral Kingdom. Illustrations: Julianne Guilbault. Updated, third edition. Earth Love Pub House. ISBN-13 9780962819032 (paperback) 
+
 **N**
 
 **O**
