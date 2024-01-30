@@ -48,7 +48,7 @@ Given Rongzompa's role as a renowned meditation master and Scholar, who champion
 * **Land formations, water-course, and cloud forms:** These elements often hold specific meanings in Tibetan Buddhist art. The ruggedness of the landscape might represent the challenges of the spiritual path, while the watercourse could symbolize the flow of wisdom and teachings. The cloud formations could signify auspiciousness or different levels of consciousness.
 * **Colors and pigments:** Tibetan Buddhist art employs a specific palette with symbolic meanings. For example, red often represents compassion, blue symbolizes wisdom, and white signifies purity. Analyzing the dominant colors in the thangka could provide further insights into its message.
 
-Though, many years ago, I read the definitive English work dedicated to the subject of thanka (and other) iconography of the Himalayan Buddhadharma, I did not consult it in the preparation of this conjectural summary, which was produced by Bard, at my prompt and guidance. And, like the rest of the book, 'should be taken with a grain of salt'! 
+Though, many years ago, I read the definitive English work dedicated to the subject of thanka (and other) iconography of the Himalayan Buddhadharma, Beer (1999), I did not consult it in the preparation of this conjectural summary, which was produced by Bard, at my prompt and guidance. And, like the rest of the book, 'should be taken with a grain of salt'! 
 
 The inclusion of my invocation, is not to proselytise, as I am vehemently against the violence of such, especially wraught upon the unique indigenous religio-cultural traditions throughout the world, many of which have been lost due to colonisation, particularly by Christianisation, most often at the helm of the Jesuit. This loss lessens the pool of human difference, all of which I tender of equal merit and value. Moreover, for the non-theist, or even the atheist amongst my audience, they should non be dismayed by the bent of this front-matter, for the diversity of the atheist and non-theist merges along with the theist, animist, pantheist, panentheist, mystical, medical, judicial, literary, scientific, technological, logicio-epistomological, devotional, and manifold praxes streams, of the learned Dzogchenpa traditions. 
 
@@ -61,6 +61,8 @@ As [Köppl](https://rywiki.tsadra.org/index.php/Heidi_Koeppl) notes:
 And so it is! 
 
 Köppl, Heidi (2008). 'Establishing Appearances as Divine: Rongzom Chözang on Reasoning, Madhyamaka, and Purity'. Ithaca, New York: Snow Lion Publications. ISBN 9781559392884.
+
+Beer, Robert (1999). 'The Encyclopedia of Tibetan Symbols and Motifs'. Boston, Massachusetts, U. S. A.: Shambala Publications, Inc. ISBN 9781570624162 (cloth) 
 
 Biography: https://treasuryoflives.org/bo/biographies/view/Rongzom-Chokyi-Zangpo/6194 (Monday January 29, 2024) 
 
