@@ -8,7 +8,7 @@
 
 ## Frontmatter
 
-...
+In the discourse of programming, coding and hacking, to be termed and cast with the lot of a scriptkiddie, is to be disparaged and defamed. Like all progressive discourses that embrace and reframe their shadows in the Jungian denotation, I intend to position this work within such progressive iconoclasm. Moreover, so much work on shell scripting, coding and programming and attendant disciplines, is for the most-part, so dessicatingly dry and unfathomably impenetrable. Taking stock of this, I wished this work to partake of the iconoclasm of the bellwether, sublimating the manifold interpenetrating discourses of which is constituted and subscribed, to the gestalt of literature and inspiration. 
 
 ## Preface
 
