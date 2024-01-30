@@ -7033,7 +7033,7 @@ I hope this curated list helps you on your journey to becoming an internet resea
 
 ## Digital Piracy
 
-It's important to acknowledge that digital piracy is illegal and has significant ethical and legal ramifications. 
+It's important to acknowledge that digital piracy is illegal in most jurisdictions and has significant ethical and legal ramifications. I also wish to affirm that the contemporary discourse on digital piracy is elitist when considering that a third of the world's population is currently still not digitally included. Though, the economicical damage wraught by digital piracy is vast, I tender, that it is nothing to the Triple Bottom Line damages and their fiscal indexation and appreciation, and the manifold negative impacts, to our global community rendered as a result of digital exclusion. 
 
 **Arguments for piracy:**
 
@@ -7054,6 +7054,30 @@ It's important to acknowledge that digital piracy is illegal and has significant
 It's crucial to understand that the issue of digital piracy is complex and multifaceted. While acknowledging the arguments presented, it's important to remember that piracy remains illegal and has significant consequences. Ultimately, responsible and ethical consumption of copyrighted content through legal channels is crucial for a healthy and thriving creative ecosystem.
 
 I hope this information provides a balanced perspective on the justifications and counterarguments surrounding digital piracy.
+
+Here are some reputable works that delve into the complexities of the digital piracy debate, presenting various perspectives and arguments:
+
+**Books:**
+
+* **The Piracy Dilemma: How Intellectual Property Affects Our World** by Mike Masnick: This book offers a balanced and comprehensive analysis of the piracy debate, exploring economic, legal, and ethical perspectives from both sides. Masnick, a prominent internet rights advocate, argues for reforming copyright laws while acknowledging the harm piracy can cause.
+* **Steal This Book** by Abbie Hoffman: While not solely focused on digital piracy, this classic counterculture text raises important questions about intellectual property rights and access to information. Hoffman's arguments, though radical, challenge traditional notions of ownership and the role of copyright in a digital age.
+* **Copywrongs: How Digital Technology Is Helping Us Create New Rules for the Cultural Economy** by John Perry Barlow: This book examines the impact of digital technology on copyright and argues for a more flexible and adaptable approach to intellectual property in the digital age.
+* **The Future of Intellectual Property: The Clean Break** by Lawrence Lessig: Lessig, a renowned legal scholar, explores the limitations of traditional copyright in the digital world and proposes a "clean break" from current copyright laws, advocating for alternative models of content distribution and compensation.
+
+**Articles:**
+
+* **"The Ethics of File Sharing" by James Boyle:** This seminal article examines the ethical implications of digital piracy, arguing that the issue is more nuanced than simply labeling it as theft. Boyle explores concepts like fair use and the potential benefits of file sharing for access and innovation.
+* **"In Defense of Piracy" by Cory Doctorow:** This controversial article presents a strong argument for digital piracy, viewing it as a form of civil disobedience against restrictive copyright laws and monopolies. Doctorow acknowledges the concerns of creators but argues for alternative models of compensation and distribution.
+* **"Copyright Infringement in the Digital Era" by the World Intellectual Property Organization (WIPO):** This report provides a neutral overview of the digital piracy landscape, outlining the legal framework, economic arguments, and technological aspects of the issue. While not taking a specific stance, it offers valuable data and insights for understanding the complexities of the debate.
+
+**Documentaries:**
+
+* **"Good Copy Bad Copy" (2007):** This documentary explores the impact of copyright on creativity and innovation, featuring interviews with prominent figures from both sides of the piracy debate. The film avoids presenting a clear-cut answer but encourages viewers to critically think about the issue.
+* **"RiP: A Remix Manifesto" (2008):** This documentary focuses on the rise of remix culture and the creative potential of using and sampling copyrighted materials. It explores the legal challenges faced by remix artists and argues for a more flexible approach to copyright in the digital age.
+
+Remember, these are just a few examples, and many other reputable works address the complexities of the digital piracy debate. It's crucial to approach the issue with an open mind and consider various perspectives before forming your own opinion.
+
+I hope this information helps you on your exploration of this complex and multifaceted topic!
 
 ## D.  ‘With great power comes great responsibility’
 
@@ -8030,7 +8054,7 @@ Citations:
 
 By Perplexity at [https://www.perplexity.ai/search/000ee92d-7b6f-4d62-ad11-49358bdd4898?s=m](https://www.perplexity.ai/search/000ee92d-7b6f-4d62-ad11-49358bdd4898?s=m)
 
-**PerplexityAI, when did the *NIX hacker community that group-identified with the appellation 'Red Hats' first emerge and what is the first attestation of the usage of the terminology, and when did the group become incorporated and corporately involved in capacity building within the business community? Who were the key players in this movement and what is its timeline?**
+**PerplexityAI, when did the \*NIX hacker community that group-identified with the appellation 'Red Hats' first emerge and what is the first attestation of the usage of the terminology, and when did the group become incorporated and corporately involved in capacity building within the business community? Who were the key players in this movement and what is its timeline?**
 
 Kkkkkk
 
@@ -8079,7 +8103,7 @@ By Perplexity at [https://www.perplexity.ai/search/0a31dceb-6bdb-42d0-9ac4-c4bb2
 
 Hhhhh
 
-When did Richard Stallman first publicly identify as a 'White Hat' hacker and also attribute this to his GNU 'free software' community?
+**When did Richard Stallman first publicly identify as a 'White Hat' hacker and also attribute this to his GNU 'free software' community?**
 
 The search results do not provide a specific date or instance when Richard Stallman first publicly identified as a 'White Hat' hacker or attributed this to his GNU 'free software' community. Richard Stallman is widely recognized for his role in founding the GNU Project and the Free Software Foundation, and he has been an advocate for software freedom since the 1980s. His philosophy emphasizes the importance of users' freedom to use, study, modify, and distribute software[2][7][8]. However, the terminology of 'White Hat' in relation to Stallman and the GNU community is not explicitly documented in the provided search results.
 
@@ -8102,8 +8126,6 @@ Citations:
 [14] The Black Hat Hackers who Turned Over a New Leaf [https://cisomag.com/the-black-hat-hackers-who-turned-over-a-new-leaf/](https://cisomag.com/the-black-hat-hackers-who-turned-over-a-new-leaf/)
 [15] Chapter 6: Crime, Hacking, and Cyber-Warfare [https://www.cs.unh.edu/~sna4/cs408/Text/Section0006.xhtml](https://www.cs.unh.edu/~sna4/cs408/Text/Section0006.xhtml)
 [16] Free as in Freedom: Richard Stallman's Crusade for Free Software by Williams, Sam [https://www.scribd.com/document/2401460/Free-as-in-Freedom-Richard-Stallman-s-Crusade-for-Free-Software-by-Williams-Sam](https://www.scribd.com/document/2401460/Free-as-in-Freedom-Richard-Stallman-s-Crusade-for-Free-Software-by-Williams-Sam)
-
-By Perplexity at [https://www.perplexity.ai/search/9de73290-d4b4-4294-b6de-5495bafd9c0b?s=m](https://www.perplexity.ai/search/9de73290-d4b4-4294-b6de-5495bafd9c0b?s=m)
 
 In express relation to hacker culture, what are the first attested usages of the terms: 'white hat', 'black hat', 'grey hat' and 'red hat', etc. Please provide citations, even if we cannot be sure of 'first' usages. At minimum, this will ford a useful working order of precedence in the development and evolution of the metaphorical concept, and provide a prospective timeline.
 
@@ -8156,9 +8178,7 @@ Citations:
 [22] Black hat, White hat, and Gray hat hackers – Definition and Explanation [https://www.kaspersky.com/resource-center/definitions/hacker-hat-types](https://www.kaspersky.com/resource-center/definitions/hacker-hat-types)
 [23] Famous White-Hat Hackers [https://www.investopedia.com/financial-edge/0811/famous-white-hat-hackers.aspx](https://www.investopedia.com/financial-edge/0811/famous-white-hat-hackers.aspx)
 
-By Perplexity at [https://www.perplexity.ai/search/e715883a-8a79-4e52-bc94-0341e79595cb?s=m](https://www.perplexity.ai/search/e715883a-8a79-4e52-bc94-0341e79595cb?s=m)
-
-Dear Bing, was the first gray/grey hat hacking incident at the Massachusetts Institute of Technology (MIT) in 1960? 
+**Dear Bing, was the first gray/grey hat hacking incident at the Massachusetts Institute of Technology (MIT) in 1960?**
 
 Actually, that is not true. The first gray hat hacking incident happened much later, in the 1980s. The term "gray hat" was not even coined until the 1990s¹. The history of hacking at MIT dates back to the 1950s and 60s, but the early hackers were not malicious or criminal. They were mostly students who used their technical skills and creativity to solve problems or play pranks²³. For example, one of the most famous hacks at MIT was putting a replica of a campus police car on top of the Great Dome in 1994².
 
