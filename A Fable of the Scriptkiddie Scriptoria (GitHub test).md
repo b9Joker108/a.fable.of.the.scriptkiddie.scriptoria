@@ -9289,15 +9289,14 @@ I had just been editing the purport to the bio entry on Swartz, with its persona
 
 Imagine a brain for your phone or computer, but instead of being built in one big factory, anyone can tinker with the design, adding special skills for different tasks. That's a RISC-V processor (Risk-5) - simpler instructions, open for everyone, and potentially smarter in the long run! `temu` is an Android 'Risk-5' processor emulator within Termux. 
 
-**The following is dated: January 24, 2024**
+**The following stub is dated: January 24, 2024**
 
 "With Linus Torvalds back to work, merged to mainline on Wednesday were the RISC-V architecture updates for the in-development Linux 6.8 kernel cycle." 
 
 **Full article:** '[RISC-V With Linux 6.8 Restores XIP Kernel Support](https://www.phoronix.com/news/RISC-V-Linux-6.8)' 
 Written by Michael Larabel in RISC-V on 18 January 2024 at 06:07 AM EST.
 
-I can't say with certainty, that I quite know exactly what all this a
-means. But, I am going to keep one clear eye on them in dragon sleep. 
+I can't say with certainty, that I quite know exactly what all this means. But, I am going to keep one clear eye on them in dragon sleep. 
 
 **U**
 
