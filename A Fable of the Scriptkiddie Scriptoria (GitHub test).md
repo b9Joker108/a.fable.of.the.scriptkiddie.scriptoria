@@ -9199,6 +9199,36 @@ A cautionary word, be careful where you prospect and source information on shell
 
 **T**
 
+**Derek Taylor (who goes by DT)*f 
+
+**Bing, on the YouTube Distro Tube channel, please summarize 'Bash Scripting - Variables, Arrays, If-Then-Else' dated October 27, 2019. Please give a general summary of the video.**
+
+Sure, I can summarize that video for you. Here is a general summary of the video:
+
+The video is about some of the fundamentals of bash scripting, such as variables, arrays, and conditional statements. The video creator, Distro Tube, shows how to create a simple bash script that takes user input, checks if it is a valid directory, and lists the files in that directory. He also explains how to use variables, arrays, and if-then-else statements in bash scripts. He references a website that has more information about bash scripting¹.
+
+The video is about 15 minutes long and has over 50,000 views. It is part of a series of videos on bash scripting by Distro Tube, who is a Linux enthusiast and a fan of tiling window managers. He has a website where he posts articles and videos about Linux and other topics³.
+
+I hope this summary helps you. If you want to watch the video, you can find it here: [Bash Scripting - Variables, Arrays, If-Then-Else](^1^). 😊
+
+Source: Conversation with Bing, 30/01/2024
+(1) Bash Scripting - Variables, Arrays, If-Then-Else - YouTube. https://www.youtube.com/watch?v=xhI1qXUrAHw.
+(2) DT Videos - distro.tube. https://distro.tube/videos/2019-videos.html.
+(3) Bash Scripting - Variables, Arrays, If-Then-Else - YouTube. https://www.youtube.com/watch?v=xhI1qXUrAHw.
+(4) Bash Scripting Full Course 3 Hours - YouTube. https://www.youtube.com/watch?v=e7BufAVwDiM.
+(5) bash - Script to loop through a list of YouTube channels, and output .... https://codereview.stackexchange.com/questions/286532/script-to-loop-through-a-list-of-youtube-channels-and-output-metadata-to-a-mark.
+(6) undefined. https://linuxhint.biz/p/4-hour-bash-b.
+(7) undefined. https://www.linuxhint.io/bundles/linu.
+(8) undefined. https://linuxhint.com/3hr_bash_tutorial/.
+(9) undefined. https://linuxhint.biz/p/4-hour-bash-boot-camp-by-linuxhint-com?src=ytubeOr.
+
+**Purport**
+
+What I found of particular import in this audiovisual, is DJ's humility, to display the meta-process of how he goes about scripting. He favours GNU Emacs, particularly in its stand-alone form, as a visual editor in a Graphical User Interface (GUI). I hold all those who work on and with the GNU toolset in particular esteem. Though, I have the CLI version of Emacs installed from the official Termux repository, I do not generally use it. I favour vi, Vim and Neovim, as is clear throughput this work. What DJ does in this video, how he types multiple sessions of his terminal emulator, may or may not be a native attribute of visual Emacs, or a plugin, or other somesuch. I am unsure which. This efficacy can be achieved in Termux on portable mobile hand-held devices, in a myriad of ways. On my version of Termux, which at the time of writing this is, 
+
+
+
+
 **U**
 
 
