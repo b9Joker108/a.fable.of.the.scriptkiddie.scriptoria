@@ -9274,7 +9274,15 @@ Source: Conversation with Bing, 30/01/2024
 
 **Purport**
 
-What I found of particular import in this audiovisual, is DJ's humility, to display the meta-process of how he goes about scripting. He favours GNU Emacs, particularly in its stand-alone form, as a visual editor in a Graphical User Interface (GUI). I hold all those who work on and with the GNU toolset in particular esteem. Though, I have the CLI version of Emacs installed from the official Termux repository, I do not generally use it. I favour vi, Vim and Neovim, as is clear throughput this work. What DJ does in this video, how he types multiple sessions of his terminal emulator, may or may not be a native attribute of visual Emacs, or a plugin, or other somesuch. I am unsure which. This efficacy can be achieved in Termux on portable mobile hand-held devices, in a myriad of ways. On my version of Termux, which at the time of writing this is, 
+What I found of particular import in this audiovisual, is DJ's humility, to display the meta-process of how he goes about scripting. He favours GNU Emacs, particularly in its stand-alone form, as a visual editor in a Graphical User Interface (GUI). I hold all those who work on and with the GNU toolset in particular esteem. Though, I have the CLI version of Emacs installed from the official Termux repository, I do not generally use it. I favour vi, Vim and Neovim, as is clear throughput this work. What DJ does in this video, how he types multiple sessions of his terminal emulator, may or may not be a native attribute of visual Emacs, or a plugin, or other somesuch. I am unsure which. This efficacy can be achieved in Termux on portable mobile hand-held devices, in a myriad of ways. On my version of Termux, which at the time of writing this is, (As an aside, I just went to Termux to ascertain the current version details of my Termux, because by memory it just recently updated, and I needed to insert the specificity in thispurport. I typed `termux` at the prompt, the app didn't fire *lol*, instead it returned the questioning and insightful error: 
+```bash
+~termux
+No command termux found, did you mean:
+ Command temu in package tinyemu
+ Command tmux in package tmux
+~pkg i tinyemu
+```
+I had just been editing the purport to the bio entry on Swartz, with its sojourn of Australiana, and had just returned to refine this section. I already had the the intention of mentioning Android Termux terminal multiplexers herewith, such as `tmux`, as DJ is so avowedly fond of digital window tiler functionality, such as that evinced by the visual Emacs in this vid. I just had to install 'tinyemu' somesay `temu`. Bugger-me, if I know what it is! 
 
 
 
