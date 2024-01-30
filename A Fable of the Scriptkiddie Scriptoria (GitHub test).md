@@ -9282,10 +9282,12 @@ No command termux found, did you mean:
  Command tmux in package tmux
 ~pkg i tinyemu
 ```
-I had just been editing the purport to the bio entry on Swartz, with its sojourn of Australiana, and had just returned to refine this section. I already had the the intention of mentioning Android Termux terminal multiplexers herewith, such as `tmux`, as DJ is so avowedly fond of digital window tiler functionality, such as that evinced by the visual Emacs in this vid. I just had to install 'tinyemu' somesay `temu`. Bugger-me, if I know what it is! 
+I had just been editing the purport to the bio entry on Swartz, with its sojourn of Australiana, and had just returned to refine this section. I already had the the intention of mentioning Android Termux terminal multiplexers herewith, such as `tmux` (`screen` & ...), as DJ is so avowedly fond of digital window tiler functionality, such as that evinced by the visual Emacs in this vid. I just had to install 'tinyemu', somesay `temu`. Bugger-me, if I know what it is! 
 
 
+**Bard, I still don't understand quite what 'tinyemu' is. Please explain, in one paragraph, what it is to me, like I am the simpleton, I am.**
 
+Imagine a brain for your phone or computer, but instead of being built in one big factory, anyone can tinker with the design, adding special skills for different tasks. That's a RISC-V processor - simpler instructions, open for everyone, and potentially smarter in the long run!
 
 **U**
 
