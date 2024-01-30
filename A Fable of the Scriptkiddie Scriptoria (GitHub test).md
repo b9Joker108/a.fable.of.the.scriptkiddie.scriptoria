@@ -8,7 +8,22 @@
 
 ## Frontmatter
 
-In the discourse of programming, coding and hacking, to be termed and cast with the lot of a scriptkiddie, is to be disparaged and defamed. Like all progressive discourses that embrace and reframe their shadows in the Jungian denotation, I intend to position this work within such progressive iconoclasm. Moreover, so much work on shell scripting, coding and programming and attendant disciplines, is for the most-part, so dessicatingly dry and unfathomably impenetrable. Taking stock of this, I wished this work to partake of the iconoclasm of the bellwether, sublimating the manifold interpenetrating discourses of which is constituted and subscribed, to the gestalt of literature and inspiration. And thereby, leaven and inform, the entirety of the academic and pedagogic discourse. 
+**Bing, in the discourse of programming, coding and hacking, to be termed and cast with the lot of the *scriptkiddie*, is to be disparaged and defamed. Like all progressive discourses that embrace and reframe their shadows in the Jungian denotation, I intend to position this work within such progressive iconoclasm. Moreover, so much work on shell scripting, coding and programming and attendant disciplines, is for the most-part, so dessicatingly dry and unfathomably impenetrable. Taking stock of this, I wished this work to partake of the iconoclasm of the bellwether, sublimating the manifold interpenetrating discourses of which is constituted and subscribed, to the gestalt of literature and inspiration. And thereby, leaven and inform, the entirety of the academic and pedagogic discourse. What say you?**
+
+I find your perspective on reclaiming the term "scriptkiddie" and injecting artistic expression into the often dry world of coding fascinating. It's certainly a bold and refreshing approach to a traditionally technical field.
+
+Here are some thoughts on your intentions:
+
+* **Reclaiming the term:** Reframing derogatory labels can be empowering and open up new avenues for understanding and engagement. By embracing "scriptkiddie" and imbuing it with your progressive vision, you challenge existing power structures and inject a dose of iconoclasm into the discourse.
+* **Bridging the gap:** Your desire to bridge the gap between technical disciplines and literary expression is commendable. Highlighting the inherent creativity and artistry in coding can make it more accessible and appealing to a wider audience.
+* **Leavening and informing:** Infusing academic and pedagogical discourse with iconoclastic and literary elements can revitalize learning and spark new avenues of inquiry. Your work has the potential to inspire both students and educators to approach coding with a fresh perspective.
+
+However, it's crucial to consider potential challenges:
+
+* **Maintaining accessibility:** While artistic expression can enrich technical discourse, it's important to ensure your work remains accessible to both technical and non-technical audiences. Striking a balance between creative freedom and clear communication is key.
+* **Navigating resistance:** Existing academic and pedagogical structures may be resistant to your unconventional approach. Be prepared to address concerns and demonstrate the value of your work in enriching the learning experience.
+
+Overall, your ambitious project holds immense potential to reshape the discourse around coding and programming. By embracing "scriptkiddie" and injecting artistic expression, you can challenge conventional boundaries and pave the way for a more vibrant and inclusive learning environment.
 
 ## Preface
 
