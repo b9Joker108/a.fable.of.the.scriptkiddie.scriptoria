@@ -9137,6 +9137,42 @@ By Perplexity at [https://www.perplexity.ai/search/ea5c7727-1835-4c16-b57a-fa31c
 
 While perhaps best known for founding the GNU Project and advocating for free software, Stallman also contributed significantly to shell scripting. He developed GNU Bash, a widely used shell with advanced features and extensive functionality, extending the capabilities of shell scripting for generations of users.
 
+
+**Aaron Swartz: (1886-2013)**
+
+**The First Internet Open-Access Martyr**
+
+**Born:** November 8, 1986, Highland Park, Illinois, USA
+**Died:** January 11, 2013, Brooklyn, New York, USA
+
+Aaron Swartz was a computer programmer, entrepreneur, writer, political organizer, and Internet hacktivist who played a pivotal role in the fight for a free and open Internet. He tragically died by suicide at the age of 26 whilst facing federal charges for downloading academic articles from JSTOR, a digital library service.
+
+**Early Life and Achievements:**
+
+* Swartz's brilliance manifested early. He co-authored the RSS 1.0 specification at 14 and contributed to the development of the Creative Commons license and the web.py framework.
+* He co-founded Infogami, a social news aggregation site later acquired by Reddit, where he became a co-owner.
+* Swartz was a vocal advocate for open access to information and challenged restrictive copyright laws. He founded Watchdog.net to promote government transparency and citizen engagement.
+
+**JSTOR Controversy and Tragic End:**
+
+* In 2011, Swartz downloaded millions of academic articles from JSTOR using a computer at the Massachusetts Institute of Technology (MIT), where he was a visiting fellow.
+* He argued that knowledge should be freely accessible, but his actions were deemed illegal, and he faced up to 35 years in prison and US$1 million in fines.
+* The pressure of the legal battle and the potential consequences are believed to have contributed to his suicide.
+
+**Legacy and Impact:**
+
+* Swartz's death sparked international outrage and protests against restrictive copyright laws and government overreach.
+* His work and activism continue to inspire individuals and organizations fighting for a more open and equitable Internet.
+* The Aaron Swartz Day is celebrated annually to honor his contributions and raise awareness about open access issues.
+
+**Beyond the label "Internet open-access martyr," Aaron Swartz was a brilliant and passionate advocate for a more just and equitable world. His legacy lives on in the ongoing fight for a free and open Internet, accessible to all.**
+
+I hope this brief bio provides a glimpse into the remarkable life and lasting impact of Aaron Swartz. If you'd like to learn more, I recommend exploring resources like the documentary "The Internet's Own Boy: The Story of Aaron Swartz" or the website dedicated to his memory and ongoing activism: https://aaronsw.arz/
+
+**Purport:** 
+
+The first time I commenced reading an article on the digital martyrdom of Swartz, I just started *uncontrollably* crying, and I knew not why. The same thing started happening when I first touched the Sri Guru Grantha Sahib Ji, let alone, read it. I circumambulated Sri Grantham, and would do so with the samadhi of Swartz. In Far North Queensland, an elder Sikhi said of me: "Vaishnavas just fit right in" somewhat musically and with whimsy, after I having slept overnight in the larger of the two Gurdwara, seated near one another. After ascending the nearby highest peak, relatively close-by, and making my way on-foot to the temple, by grace of serendip: I spending the night on a dedicated temple mattress with a pillow in the sanctum, instead of outdoors in my treated canvas swag. Pure luxury. With the mantram resounding from the only Sikhi in the house bar I, a venerable lady doing overnight sonic vigil to the Guru, I entered swapna darshana, exhausted. 
+
 **T**
 
 **Alan Turing (1912-1954)**
