@@ -41,7 +41,7 @@ Overall, your ambitious project holds immense potential to reshape the discourse
 > all things." <br /> 
 	~ [e e Cummings](https://en.m.wikipedia.org/wiki/E._E._Cummings) (1894 - 1962)
 
-This may eventually become the title of future editions of this work. 
+This may eventually become the title of future editions of this work. I may leave it to the blossoming hands of others to determine. 
 
 ## Invocation 
 
