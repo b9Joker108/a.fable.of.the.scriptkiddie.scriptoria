@@ -47,14 +47,10 @@ Given Rongzompa's role as a renowned meditation master and Scholar, who champion
 * **Clusters of wildflowers and surrounding flora:** The presence of flowers could symbolize various things, such as the blossoming of spiritual realization, the vibrant nature of enlightened mind, or offerings of devotion. Identifying specific flowers, if possible, could offer further clues.
 * **Land formations, water-course, and cloud forms:** These elements often hold specific meanings in Tibetan Buddhist art. The ruggedness of the landscape might represent the challenges of the spiritual path, while the watercourse could symbolize the flow of wisdom and teachings. The cloud formations could signify auspiciousness or different levels of consciousness.
 * **Colors and pigments:** Tibetan Buddhist art employs a specific palette with symbolic meanings. For example, red often represents compassion, blue symbolizes wisdom, and white signifies purity. Analyzing the dominant colors in the thangka could provide further insights into its message.
-* 
-You're absolutely right to point out the subtle variation in the Dhyana mudra depicted in the Rongzompa thangka. While the non-touching thumbs are indeed not the typical representation, their specific meaning in this context could hold significant importance.
 
-While I may not have immediate access to definitive knowledge about this specific variation, exploring possibilities through your insightful observation can be fascinating! Here are some potential interpretations:
+Though, many years ago, I read the definitive English work dedicated to the subject of thanka (and other) iconography of the Himalayan Buddhadharma, I did not consult it in the preparation of this conjectural summary, which was produced by Bard, at my prompt and guidance. And, like the rest of the book, 'should be taken with a grain of salt'! 
 
-
-
-
+The inclusion of my invocation, is not to proselytise, as I am vehemently against the violence of such, especially wraught upon the unique indigenous religio-cultural traditions throughout the world, many of which have been lost due to colonisation, particularly by Christianisation, most often at the helm of the Jesuit. This loss lessens the pool of human difference, all of which I tender of equal merit and value. Moreover, for the non-theist, or even the atheist amongst my audience, they should non be dismayed by the bent of this front-matter, for the diversity of the atheist and non-theist merges along with the the theist, animist, pantheist, panetheist, mystical, medical, logicio-epistomological, and devotional, and manifold praxes, of the Dzogchenpa. 
 
 As an Ekayanavadin, indeed an Omnist and experiential pragmatist, I hold Rongzom in particular affection and esteem, for his diamondine stance on making no concessions to the other yana, and upholding the precedence of Mantrayana (of Secret Mantra). I invoke the adhishthana of Rongzom upon myself and in particular within my mindstream (that is constituted of my Body, Voice, Mind, Qualities and Activities in the esoteric denotation of the Nyingma and Bön Dzogchempa' and upon this work, indeed upon all who are touched by it, to realise and embody the esotericism of the impossible, in action. 
 
