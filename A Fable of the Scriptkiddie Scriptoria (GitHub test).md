@@ -14,6 +14,10 @@ This roadmap initially started its life as a page within my Notion web/Android-a
 
 painedas I explore the literature, conduct a discourse review, subsuming some multimedia tutorials and documentaries and oral history that has been captured and uploaded. I provide an annotated curation of such items with my purport. 
 
+**Crazy Wisdom:**
+
+Melody (1995). 'Love Is in the Earth: A Kaleidoscope of Crystals: The Reference Book Describing the Metaphysical Properties of the Mineral Kingdom'. Illustrations: Julianne Guilbault. Updated, third edition. Earth Love Pub House. ISBN-13 9780962819032 (paperback) 
+
 ## Frontmatter
 
 **Bing, in the discourse of programming, coding and hacking, to be termed and cast with the lot of the *scriptkiddie*, is to be disparaged and defamed. Like all progressive discourses that embrace and reframe their shadows in the Jungian denotation, I intend to position this work within such progressive iconoclasm. Moreover, so much work on shell scripting, coding and programming and attendant disciplines, is for the most-part, so dessicatingly dry and unfathomably impenetrable. Taking stock of this, I wished this work to partake of the iconoclasm of the bellwether, sublimating the manifold interpenetrating discourses of which it is constituted, partakes and subscribed, to the gestalt of literature and inspiration. And thereby, leaven and inform, the entirety of the academic and pedagogic discourse. What say you?**
