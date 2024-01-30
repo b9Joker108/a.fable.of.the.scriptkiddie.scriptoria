@@ -10,6 +10,8 @@
 
 **Bing, in the discourse of programming, coding and hacking, to be termed and cast with the lot of the *scriptkiddie*, is to be disparaged and defamed. Like all progressive discourses that embrace and reframe their shadows in the Jungian denotation, I intend to position this work within such progressive iconoclasm. Moreover, so much work on shell scripting, coding and programming and attendant disciplines, is for the most-part, so dessicatingly dry and unfathomably impenetrable. Taking stock of this, I wished this work to partake of the iconoclasm of the bellwether, sublimating the manifold interpenetrating discourses of which it is constituted, partakes and subscribed, to the gestalt of literature and inspiration. And thereby, leaven and inform, the entirety of the academic and pedagogic discourse. What say you?**
 
+Note: Please refer addendum for a cursory anthropological and ethnographic inquiry into a possible first attestation, and useful correlates. 
+
 I find your perspective on reclaiming the term "[scriptkiddie](https://en.wikipedia.org/wiki/Script_kiddie)" and injecting artistic expression into the often dry world of coding fascinating. It's certainly a bold and refreshing approach to a traditionally technical field.
 
 Here are some thoughts on your intentions:
