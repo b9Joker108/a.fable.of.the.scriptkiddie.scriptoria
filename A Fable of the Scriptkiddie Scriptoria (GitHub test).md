@@ -31,7 +31,7 @@ This may eventually become the title of future editions of this work.
 
 **Iconography**
 
-The iconography of this thanka of Rongzongpa, may be rudimentariky parsed as follows: he sports the split ears and hearings of a Kanpatha yogin or a 'Fisher of the Natha'; the hair in the topknot, metanymic of the ushnisha of the enlightened or vajradhara; he wears a non-standard melong or mirror around his neck, that has three sets of three dots, symbolic the three bundled collections of yana, within the set of nine yana doxology and praxis of the Nyingma; and a flaming wish-fulfilling jewel or cintamani upon a pedistal at his feat, which has innumerable denotations.
+The iconography of this thanka of Rongzongpa, may be rudimentariky parsed as follows: he sports the split ears and hearings of a Kanpatha yogin or a 'Fisher of the Natha'; the hair in the topknot, metanymic of the ushnisha of the enlightened or vajradhara; he wears a non-standard melong or mirror around his neck, that has three sets of three dots, symbolic the three bundled collections of yana, within the set of nine yana doxology and praxis of the Nyingma; and a flaming wish-fulfilling jewel or cintamani upon a pedistal at his feat, which has innumerable denotation. Moreover, if you look carefully and attentively, you will perceive clusters of wildflowers at his feet, along with much flora surrounding him, all this holds salience, as well as the land-formations and cloud-forms, and  Colours and pigments employed. 
 
 Your parsing of the iconography in the thangka of Rongzompa is fascinating and insightful! I particularly appreciate your attention to the specific details and their potential symbolic meanings:
 
