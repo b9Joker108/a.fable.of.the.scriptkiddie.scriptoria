@@ -9263,6 +9263,22 @@ What I found of particular import in this audiovisual, is DJ's humility, to disp
 
 **B**
 
+**Robert Beer**
+
+**Bing, please introduce, summarise and critique, along with a stub biography: Beer, Robert (1999). 'The Encyclopedia of Tibetan Symbols and Motifs'. Boston, Massachusetts, U. S. A.: Shambala Publications, Inc. ISBN 9781570624162 (cloth)**
+
+Author Robert Beer, a Western scholar and practitioner of Tibetan thangka painting, draws upon his extensive knowledge and experience to decipher the meanings behind various symbols, deities, landscapes, and ritual objects, and phenomenal simulacra. He enshrined within the work extensive line-drawings, illustrating the implementation of the symbolism, in significant variation. 
+
+Beer has studied and practiced thangka painting for over 30 years, including five years of intensive study with master artists in Dharamsala and India. 
+
+He is recognized as a leading authority on Tibetan and Himalayas art and continues to teach and share his knowledge with students worldwide.
+
+Entries are organized alphabetically, each providing detailed explanations of the symbolism, historical context, and cultural significance of specific elements.
+
+Beer emphasizes the interconnectivity of symbols, highlighting how they often work together to convey complex spiritual messages.
+
+**Weaknesses:** Some critics have noted occasional inconsistencies in transliteration and the lack of in-depth analysis of specific iconographic themes. Additionally, the focus on line drawings might limit the understanding of nuanced details in actual thangka paintings. The monograph only runs to just over 390 pages. 
+
 **C**
 
 **D**
