@@ -9106,6 +9106,32 @@ A terminal multiplexer is a program that allows you to run multiple terminal ses
 (3) How to Use tmux on Linux (and Why It's Better Than Screen). https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/.
 (4) 4 Linux terminal multiplexers to try | Opensource.com. https://opensource.com/article/21/5/linux-terminal-multiplexer.
 
+GNU Screen is a terminal multiplexer that allows you to run multiple terminal sessions in one window, and switch between them easily. You can also detach and reattach sessions, which means you can keep your terminal sessions running even if you close the window or log out of the system. Some of the things you can do with GNU Screen in Termux are:
+
+- Create a new window with a shell by typing C-a c.
+- Switch to the next window by typing C-a n, or to the previous window by typing C-a p.
+- List all the windows by typing C-a w, or select a window by number by typing C-a 0-9.
+- Split the current window into regions by typing C-a S (horizontal) or C-a | (vertical).
+- Switch to the next region by typing C-a tab, or remove the current region by typing C-a X.
+- Detach from the current session by typing C-a d, or reattach to a session by typing `screen -r` in Termux.
+- Copy and paste text between windows by entering the copy mode with C-a [, moving the cursor with the arrow keys, setting the mark with space, and copying with enter. Then, paste the text with C-a ].
+- Run a command in all windows by typing C-a :, and then `at # stuff "command"` (replace `command` with the actual command you want to run).
+- Customize the appearance and behavior of Screen by editing the `.screenrc` file in your home directory.
+
+These are some of the basic features of GNU Screen, but there are many more that you can explore by reading the manual page (`man screen`) or the online documentation¹². I hope this helps you to use GNU Screen in Termux effectively. 😊
+
+¹: [Screen User’s Manual](^2^)
+²: [Define a Great GNU screen Profile Using .screenrc - How-To Geek](^5^).
+
+Source: Conversation with Bing, 01/02/2024
+(1) tmux vs. screen - Super User. https://superuser.com/questions/236158/tmux-vs-screen.
+(2) Screen User’s Manual. https://www.gnu.org/software/screen/manual/screen.html.
+(3) Screen User’s Manual. https://www.gnu.org/software/screen/manual/screen.html.
+(4) Define a Great GNU screen Profile Using .screenrc - How-To Geek. https://www.howtogeek.com/devops/define-a-great-gnu-screen-profile-using-screenrc/.
+(5) Migrating from GNU Screen to Tmux - thoughtbot. https://thoughtbot.com/blog/migrating-from-screen-to-tmux.
+(6) How to Use tmux on Linux (and Why It's Better Than Screen). https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/.
+(7) en.wikipedia.org. https://en.wikipedia.org/wiki/GNU_Screen.
+
 Zellij is a terminal workspace with batteries included. It is a program that allows you to run multiple terminal sessions in one window, and also provides features such as customization, layouts, collaboration, plugins, and more¹. Zellij is aimed at developers, ops-oriented people, and anyone who loves the terminal. It is written in Rust and uses WebAssembly for its plugin system¹.
 
 Zellij is hosted on GitHub, where you can find its source code, documentation, releases, issues, pull requests, discussions, and more. You can also contribute to the project by reporting bugs, suggesting features, writing code, creating plugins, or helping with translations¹. Zellij has a friendly and welcoming community that adheres to a code of conduct².
