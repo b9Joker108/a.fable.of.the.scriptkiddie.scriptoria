@@ -8860,6 +8860,33 @@ I hope this comprehensive introduction has piqued your interest in this unique d
 
 Feel free to ask any further questions you might have about specific aspects of the Turing Tumble or its educational applications!
 
+**Termux multiplexers**
+
+I feel this section may be better served if integrated into the body of the text, instead of in the annenda. That said, for the interim. I have resolved to develop it and implement it here,until I know where I wish to place it in the text proper. 
+
+Termux supports several terminal multiplexers that can be used to manage multiple terminal sessions within a single window. Some of the popular terminal multiplexers available for Termux
+include:
+
+tmux: A powerful and well-known terminal multiplexer that allows you to switch between several programs in one terminal, detach them, and reattach them to a different terminal.
+
+screen: An older but still widely used terminal multiplexer that provides similar functionality to tmux, allowing users to manage multiple terminal sessions.
+
+byobu: A fronted wrapper for tmux and screen that enhances the functionality of both with additional features and a more user-friendly interface.
+
+dtach: A simpler tool that emulates the detach feature of screen, allowing you to run a program in an environment that is protected from the controlling terminal and reattach it later.
+
+A terminal multiplexer is a program that allows you to run multiple terminal sessions in one window. Some of the terminal multiplexers available in Termux are:
+
+- **tmux**: An open-source terminal multiplexer that supports splitting, detaching, and reattaching sessions, as well as mirroring input to multiple panes³⁴.
+- **screen**: A GNU project that provides similar features as tmux, but with a different interface and configuration².
+- **byobu**: A wrapper for tmux or screen that adds a customizable status bar and easy-to-use key bindings.
+- **dvtm**: A dynamic virtual terminal manager that emulates the functionality of tiling window managers in the terminal.
+
+(1) tmux - Wikipedia. https://en.wikipedia.org/wiki/Tmux.
+(2) Home · tmux/tmux Wiki · GitHub. https://github.com/tmux/tmux/wiki.
+(3) How to Use tmux on Linux (and Why It's Better Than Screen). https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/.
+(4) 4 Linux terminal multiplexers to try | Opensource.com. https://opensource.com/article/21/5/linux-terminal-multiplexer.
+
 **Hall of Fame: a curation of salient biographies**
 
 **A**
