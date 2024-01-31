@@ -9529,6 +9529,38 @@ Citations:
 
 **R**
 
+**Helena Rasiowa**
+
+**Early Life and Academic Journey:**
+
+Helena Rasiowa, born in Vienna in 1917 to Polish parents, was a mathematician whose brilliance shone across multiple fields. Her academic journey began at the University of Warsaw, studying mathematics, but was tragically interrupted by World War II. Undeterred, she continued her studies after the war and completed her doctorate in 1946.
+
+**Contributions to Logic and Foundations of Mathematics:**
+
+Rasiowa's primary domain was mathematical logic, particularly algebraic logic and its applications to the foundations of mathematics. Her groundbreaking work explored areas like:
+
+* **Boolean algebras:** Her book "An Algebraic Approach to Non-Classical Logics" (1974) became a cornerstone text, applying algebraic methods to understand various non-classical logics.
+* **Quantification theory:** She contributed significantly to understanding the model theory of quantifiers, particularly cylindric algebras, offering alternative interpretations for first-order logic.
+* **Metamathematics:** Her explorations in metamathematics delved into issues like completeness and decidability of logical systems, contributing to our understanding of their limitations and expressive power.
+
+**Major Publications and Works:**
+
+* **Wstęp do matematyki współczesnej (Introduction to Contemporary Mathematics, 1968):** This influential textbook introduced generations of Polish students to foundational concepts in logic and set theory.
+* **On the Algebraic Theory of Equational Classes (1963):** This work explored algebraic structures associated with equational theories, paving the way for further research in universal algebra.
+* **Formal Methods in the Methodology of Science (1961):** This edited volume, co-authored with Alfred Tarski, showcased the potential of formal logic in analyzing scientific methodology.
+
+**Interplay with Computer Science and AI:**
+
+Rasiowa recognized the crucial role of logic in the burgeoning fields of computer science and artificial intelligence. She actively promoted the inclusion of logic in computer science curricula and advocated for its relevance in areas like:
+
+* **Formal semantics of programming languages:** Her work on algebraic structures for logic laid the groundwork for formalizing the semantics of programming languages.
+* **Theoretical foundations of AI:** Her insights into non-classical logics and reasoning systems contributed to the development of alternative approaches to knowledge representation and inference in AI.
+
+**Legacy and Impact:**
+
+Helena Rasiowa's legacy lives on in the countless mathematicians, computer scientists, and philosophers who continue to build upon her groundbreaking work. Her passion for logic, her dedication to its applications, and her unwavering belief in its interdisciplinary potential continue to inspire future generations to explore the intricate connections between logic, mathematics, and the digital world.
+
+
 **S**
 
 **Richard Stallman** 
