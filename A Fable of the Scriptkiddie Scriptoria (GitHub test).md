@@ -9408,3 +9408,9 @@ And in the verdant bamboo forests of ancient China, where dragons danced in the 
 
 Though these ancient dreams never fully took flight, their echoes still whisper through the corridors of time. In the sun-bleached ruins of forgotten workshops, in the faded ink of dusty scrolls, and in the whispered legends passed down through generations, they stand as testaments to the boundless human spirit, forever reaching for the impossible, forever dancing with the stars. So, the next time you gaze at the moon's unwavering course or feel the wind's unseen caress, remember the dreamers of Greece, India, and China, who dared to build machines that mimicked the cosmic symphony, for in their audacious quest, they touched the very pulse of the universe.
 
+
+
+Though this video is a tutorial on coding a simple daemon written in C, I feel the process is transferable to Shell Scripting. I have parked if here until I am ready for it:
+
+https://youtu.be/9nDYYc_7sKs?si=PUBWw-v9c5epYfq6
+
