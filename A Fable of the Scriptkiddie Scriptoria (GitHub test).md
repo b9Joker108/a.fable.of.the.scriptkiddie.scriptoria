@@ -9132,6 +9132,43 @@ Source: Conversation with Bing, 01/02/2024
 (6) How to Use tmux on Linux (and Why It's Better Than Screen). https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/.
 (7) en.wikipedia.org. https://en.wikipedia.org/wiki/GNU_Screen.
 
+Tmux is a terminal multiplexer that allows you to run multiple terminal sessions in one window, and switch between them easily. You can also detach and reattach sessions, which means you can keep your terminal sessions running even if you close the window or log out of the system. Tmux is useful for running more than one command-line program at the same time, or for running programs remotely using SSH¹².
+
+Termux is an Android terminal emulator and Linux environment that allows you to run various packages and scripts on your device. Termux has some extra features that you can add by installing plugins, such as accessing Android hardware, customizing the appearance, and running graphical applications³.
+
+You can install tmux from the Termux package repository using the `pkg install` command. For example, to install tmux, you can type:
+
+```
+pkg install tmux
+```
+
+To start using tmux, type `tmux` on your terminal. This command launches a tmux server, creates a default session with a single window, and attaches to it. You can run any commands or programs as you normally would. To detach from your tmux session, press Ctrl+B then D. To reattach to a session, type `tmux attach` in Termux¹².
+
+Tmux operates using a series of keybindings (keyboard shortcuts) triggered by pressing the "prefix" combination, which is Ctrl+B by default. You can use these keybindings to create and manage windows, panes, layouts, and more. For example, to create a new window, press Ctrl+B then C. To switch to the next window, press Ctrl+B then N. To split the current window into two panes, press Ctrl+B then %. To switch to the next pane, press Ctrl+B then O¹².
+
+You can customize the appearance and behavior of tmux by editing the `.tmux.conf` file in your home directory. You can change the prefix key, the status bar, the color scheme, the key bindings, and more. You can also use plugins to extend tmux's functionality, such as adding a powerline, a clipboard, or a session manager¹².
+
+To learn more about how to use tmux, you can check the manual page by typing `man tmux`, or visit the online documentation⁴. You can also find some tutorials and guides on the web, such as this beginner's guide² or this tmux cheat sheet⁵.
+
+I hope this helps you to understand what tmux is and how to use it in Termux. 😊
+
+¹: [GitHub - tmux/tmux: tmux source code](^6^)
+²: [A beginner's guide to tmux | Enable Sysadmin](^2^)
+³: [Termux - a terminal emulator application for Android OS extendible by variety of packages](^3^)
+⁴: [Getting Started · tmux/tmux Wiki · GitHub](^6^)
+⁵: [tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
+
+Source: Conversation with Bing, 01/02/2024
+(1) How to use tmux copy / paste in Termux?. https://android.stackexchange.com/questions/194042/how-to-use-tmux-copy-paste-in-termux.
+(2) A beginner's guide to tmux | Enable Sysadmin. https://www.redhat.com/sysadmin/introduction-tmux-linux.
+(3) Tmux: Enabling Hacker Mode Display in Termux - LearnTermux.tech. https://www.learntermux.tech/2023/05/Tmux.html.
+(4) tmux - Wikipedia. https://en.wikipedia.org/wiki/Tmux.
+(5) Tumx for Termux - DEV Community. https://dev.to/jyotirmoydotdev/tumx-for-termux-8ii.
+(6) Getting Started · tmux/tmux Wiki · GitHub. https://github.com/tmux/tmux/wiki/Getting-Started.
+(7) A beginner's guide to tmux | Enable Sysadmin. https://www.redhat.com/sysadmin/introduction-tmux-linux.
+(8) Tmux: Enabling Hacker Mode Display in Termux - LearnTermux.tech. https://www.learntermux.tech/2023/05/Tmux.html.
+(9) Getting Started · tmux/tmux Wiki · GitHub. https://github.com/tmux/tmux/wiki/Getting-Started.
+
 Zellij is a terminal workspace with batteries included. It is a program that allows you to run multiple terminal sessions in one window, and also provides features such as customization, layouts, collaboration, plugins, and more¹. Zellij is aimed at developers, ops-oriented people, and anyone who loves the terminal. It is written in Rust and uses WebAssembly for its plugin system¹.
 
 Zellij is hosted on GitHub, where you can find its source code, documentation, releases, issues, pull requests, discussions, and more. You can also contribute to the project by reporting bugs, suggesting features, writing code, creating plugins, or helping with translations¹. Zellij has a friendly and welcoming community that adheres to a code of conduct².
