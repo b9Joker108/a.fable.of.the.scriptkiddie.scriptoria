@@ -9531,6 +9531,8 @@ Citations:
 
 **Helena Rasiowa**
 
+Rasiowa, a pioneer in mathematical logic, championed the crucial role of logic in both the foundations of computer science and artificial intelligence (AI) and, conversely, the role of CS and AI in advancing the field of logic itself. 
+
 **Early Life and Academic Journey:**
 
 Helena Rasiowa, born in Vienna in 1917 to Polish parents, was a mathematician whose brilliance shone across multiple fields. Her academic journey began at the University of Warsaw, studying mathematics, but was tragically interrupted by World War II. Undeterred, she continued her studies after the war and completed her doctorate in 1946.
