@@ -8864,6 +8864,25 @@ Feel free to ask any further questions you might have about specific aspects of 
 
 I feel this section may be better served if integrated into the body of the text, instead of in the annenda. That said, for the interim. I have resolved to develop it and implement it here,until I know where I wish to place it in the text proper. 
 
+So many processes or activities may be performed directly within the terminal. For example, you may be using Neovim as an IDE, to develop your shell scripts. Which, given the nature of this work and my recommendation for using this powerful CLI text-editor cum IDE, is likely. In dynamically problem-solving code snippets in Termux, you may benefit from having access to a second terminal playground, to execute code snippets, to determine their applicability and efficacy, for inclusion within your shell script proper, which is being developed within Neovim, in a dedicated terminal session. Also, within this terminal playground, may be the appropriate forum to incrementally execute your script as you develop it, for the purposes of texting logic, debugging and linting. You may also benefit from a third terminal session, a window to the oracle, where you may have a dedicated dialogue with assorted GenAI or LLMs or intelligent agents, to assist you in the present task of crafting your particular shell script, or in other matters. You may also wish to have another dedicated terminal session open, for remotely accessing a VM or cloud environment,or other somesuch. You may also wish to have open a dedicated terminal session with irssi, and IRC channels of interest. This may directly keep you-up-to-speed with the wider open source community and specific developments of packages and applications that interest you, or you have a stake it. Also, IRC is a powerful, traditional forum, to get interactive assistance from members of the community in real time, rather than a static thread or post forum. The list goes on. Therefore, Termux may become a very busy place. To enable this dynamically efficiency in our workflow within Termux, we use what it termed, a terminal multiplexer, and there are a number of candidates. 
+
+A terminal multiplexer is a comparable concept to a tiling window manager in a GUI, except specific to the CLI environment.
+
+A tiling window manager is a program that arranges the windows of graphical applications on the screen in a non-overlapping way. A terminal multiplexer is a program that allows you to run multiple terminal sessions in one window. Some of the differences between them are:
+
+- A tiling window manager works with any graphical application, while a terminal multiplexer only works with terminal-based applications.
+- A tiling window manager can be controlled by the mouse or the keyboard, while a terminal multiplexer is usually controlled by the keyboard only.
+- A tiling window manager can display windows in different layouts, such as horizontal, vertical, or grid, while a terminal multiplexer can only split the window into panes, either horizontally or vertically.
+- A terminal multiplexer can detach and reattach sessions, which means you can keep your terminal sessions running even if you close the window or log out of the system. A tiling window manager does not have this feature.
+
+Some people use both a tiling window manager and a terminal multiplexer to get the best of both worlds. For example, they can use the tiling window manager to manage the windows of graphical applications, and use the terminal multiplexer to manage the windows of terminal applications. They can also use the terminal multiplexer to run multiple terminals in one window, and use the tiling window manager to display that window in different ways.
+
+(1) Does a terminal multiplexer have any benefit when used with a tiling .... https://unix.stackexchange.com/questions/38751/does-a-terminal-multiplexer-have-any-benefit-when-used-with-a-tiling-window-mana.
+(2) Tiling Window Manager, Terminal Multiplexer, Text Editor, How Do You .... https://superuser.com/questions/178854/tiling-window-manager-terminal-multiplexer-text-editor-how-do-you-mange-windo.
+(3) An introduction to terminal multiplexers - Linux Tutorials. https://linuxconfig.org/an-introduction-to-terminal-multiplexers.
+(4) How to Use tmux on Linux (and Why It's Better Than Screen). https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/.
+(5) What terminal to use with a tiling window manager?. https://softwarerecs.stackexchange.com/questions/36756/what-terminal-to-use-with-a-tiling-window-manager.
+
 Termux supports several terminal multiplexers that can be used to manage multiple terminal sessions within a single window. Some of the popular terminal multiplexers available for Termux
 include:
 
