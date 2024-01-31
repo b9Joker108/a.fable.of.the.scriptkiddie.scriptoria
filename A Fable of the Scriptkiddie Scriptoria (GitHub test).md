@@ -8864,6 +8864,20 @@ Feel free to ask any further questions you might have about specific aspects of 
 
 I feel this section may be better served if integrated into the body of the text, instead of in the addenda. That said, for the interim. I have resolved to develop it and implement it here, until I know where I wish to place it in the text proper. Also, I am yet to really start working with a multiplexer in Termux, so I cannot write from a position of personal experience. This is essentially, a working document that aims to chart my progress in implementing a terminal multiplexer into my workflow and liberating and facilitating my Termux virtual workspace, for whatever virtual digital activities I am engaged in. 
 
+While the concept of splitting a terminal into multiple sessions existed before, the title of the **first true terminal emulator multiplexer** generally goes to GNU `screen`. 
+
+Screen was released in 1987 and pioneered many of the features we see in modern terminal multiplexers, like:
+
+* **Splitting the terminal into multiple windows (panes)**
+* **Switching between panes and resizing them**
+* **Detaching sessions and reattaching them later**
+* **Sharing input/output across panes**
+* **Running commands in the background**
+
+Although earlier systems like TD/SMP from DEC offered similar functionalities, they were much more limited and not widely adopted. GNU Screen's open-source nature and feature set established it as the foundation for future terminal multiplexers like `tmux` and `byobu`.
+
+So, while there were predecessors, GNU Screen truly paved the way for the convenient and efficient multi-tasking within terminals that we enjoy today.
+
 I have come to realise, that most activities that we in dedicated Android applications, may be done more powerfullly and usefully within the fulcrum and coalface, of the terminal emulator. So many processes or activities may be performed directly within the terminal. For example, you may be using Neovim as an IDE, to develop your shell scripts. Which, given the nature of this work and my recommendation for using this powerful CLI text-editor cum IDE, is likely. In dynamically problem-solving code snippets in Termux, you may benefit from having access to a second terminal playground, to execute code snippets, to determine their applicability and efficacy, for inclusion within your shell script proper, which is being developed within Neovim, in a dedicated terminal session. Also, within this terminal playground, may be the appropriate forum to incrementally execute your script as you develop it, for the purposes of texting logic, debugging and linting. You may also benefit from a third terminal session, a window to the oracle, where you may have a dedicated dialogue with assorted GenAI or LLMs or intelligent agents, to assist you in the present task of crafting your particular shell script, or in other matters. You may also wish to have a dedicated termimal session open, for a terminal based Internet browser, with all the facility and amenity that provides. You may also wish to have a further dedicated terminal session open, for remotely accessing a VM or cloud environment, or other somesuch. You may also wish to have open a dedicated terminal session with irssi, and IRC channels of interest. This may directly keep you-up-to-speed with the wider open source community and specific developments of packages and applications that interest you, or that you have a stake in. Also, IRC is a powerful, traditional forum, to get interactive assistance from members of the community in real-time, rather than a static thread or post forum. It is more personal and responsive. The list goes on. Therefore, Termux may become a very busy place, and somewhat of a thoroughfare. To enable this dynamic efficiency in our workflow within Termux, we use what it termed, a terminal multiplexer, and there are a number of candidates. 
 
 A terminal multiplexer is a comparable concept to a tiling window manager in a GUI, except specific to the CLI environment.
@@ -9176,8 +9190,6 @@ Citations:
 [23] Talk:Befunge [https://esolangs.org/wiki/Talk:Befunge](https://esolangs.org/wiki/Talk:Befunge)
 [24] Untitled [https://www.anythingbutgrey.co.uk/external-link-redirect/?external_url=c6qz730nov22.рпроаё.рф&utm_campaign=over50s-website&utm_medium=over50s-website&utm_source=%2Fcookies%2F](https://www.anythingbutgrey.co.uk/external-link-redirect/?external_url=c6qz730nov22.%D1%80%D0%BF%D1%80%D0%BE%D0%B0%D1%91.%D1%80%D1%84&utm_campaign=over50s-website&utm_medium=over50s-website&utm_source=%2Fcookies%2F)
 [25] 10 Worst Programming Languages on planet – IT KEEDA [https://infotechkeeda.com/worst-programming-languages/](https://infotechkeeda.com/worst-programming-languages/)
-
-By Perplexity at [https://www.perplexity.ai/search/ea5c7727-1835-4c16-b57a-fa31c9e16a61?s=m](https://www.perplexity.ai/search/ea5c7727-1835-4c16-b57a-fa31c9e16a61?s=m)
 
 **Q**
 
