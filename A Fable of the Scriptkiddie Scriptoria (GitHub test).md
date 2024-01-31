@@ -8913,6 +8913,34 @@ I hope this comprehensive introduction has piqued your interest in this unique d
 
 Feel free to ask any further questions you might have about specific aspects of the Turing Tumble or its educational applications!
 
+**Termux plugins**
+
+I installed all the Termux plugins possible that were listed in F-Droid, and I recommend you do as well. If you prefer, you may also clone and install them from their respective GitHub repositories. It is recommended for your safety and the integrity of your device, that you do do not download and install them from sources other than these. 
+
+Sure, I can explain what these Termux plugins do. Termux is an Android terminal emulator and Linux environment that allows you to run various packages and scripts on your device¹. Termux has some extra features that you can add by installing plugins. These are the plugins that you have installed:
+
+- **com.termux.widget**: This plugin lets you start small scriptlets from the home screen. You can create and edit scripts in the `~/.shortcuts/` folder and then add them as widgets to your launcher².
+- **com.termux.x11**: This plugin enables you to run graphical applications that use the X11 protocol. You need to install a separate X server app, such as XServer XSDL, and then launch it from Termux using the `termux-x11` command.
+- **com.termux.api**: This plugin gives you access to Android and Chrome hardware features, such as the camera, clipboard, contacts, location, microphone, notifications, sensors, SMS, telephony, and more. You can use the `termux-*` commands to interact with these features, or use the `Termux:API` app to access them from the GUI.
+- **com.termux.styling**: This plugin allows you to customize the appearance of the Termux terminal. You can choose from different color schemes and powerline-ready fonts, or create your own. You can change the settings from the `Termux:Styling` app or use the `termux-reload-settings` command to apply them.
+- **com.termux.window**: This plugin lets you run Termux in a floating window. You can resize and move the window around the screen, and use the `termux-window` command to control its behavior. You can also use the `Termux:Window` app to launch a new window or switch between existing ones.
+
+I hope this helps you to understand the purpose and functionality of these Termux plugins. 😊
+
+¹: [Termux - a terminal emulator application for Android OS extendible by variety of packages](^2^)
+²: [Addons - Termux Wiki](^1^)
+: [Termux X11 - Termux Wiki]
+: [Termux:API - Termux Wiki]
+: [Termux:Styling - Termux Wiki]
+: [Termux:Window - Termux Wiki].
+
+Source: Conversation with Bing, 01/02/2024
+(1) Addons - Termux Wiki. https://wiki.termux.com/wiki/Addons.
+(2) GitHub - termux/termux-app: Termux - a terminal emulator application .... https://github.com/termux/termux-app.
+(3) GitHub - termux/termux-app: Termux - a terminal emulator application .... https://github.com/termux/termux-app.
+(4) Addons - Termux Wiki. https://wiki.termux.com/wiki/Addons.
+(5) en.wikipedia.org. https://en.wikipedia.org/wiki/Termux.
+
 **Termux multiplexers**
 
 I feel this section may be better served if integrated into the body of the text, instead of in the addenda. That said, for the interim. I have resolved to develop it and implement it here, until I know where I wish to place it in the text proper. Also, I am yet to really start working with a multiplexer in Termux, so I cannot write from a position of personal experience. This is essentially, a working document that aims to chart my progress in implementing a terminal multiplexer into my workflow and liberating and facilitating my Termux virtual workspace, for whatever virtual digital activities I am engaged in. 
