@@ -8906,6 +8906,12 @@ A terminal multiplexer is a program that allows you to run multiple terminal ses
 (3) How to Use tmux on Linux (and Why It's Better Than Screen). https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/.
 (4) 4 Linux terminal multiplexers to try | Opensource.com. https://opensource.com/article/21/5/linux-terminal-multiplexer.
 
+**Scriptkiddie**
+
+I happenned upon the following excellent work. I wish to install a reworked and edited version of it directly in this roadmap, and make thorough and cited reference to it. I have have parked it here for the interim. 
+
+https://liveoverflow.com/the-origin-of-script-kiddie-hacker-etymology/
+
 **Hall of Fame: a curation of salient biographies**
 
 **A**
