@@ -9106,6 +9106,70 @@ A terminal multiplexer is a program that allows you to run multiple terminal ses
 (3) How to Use tmux on Linux (and Why It's Better Than Screen). https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/.
 (4) 4 Linux terminal multiplexers to try | Opensource.com. https://opensource.com/article/21/5/linux-terminal-multiplexer.
 
+Zellij is a terminal workspace with batteries included. It is a program that allows you to run multiple terminal sessions in one window, and also provides features such as customization, layouts, collaboration, plugins, and more¹. Zellij is aimed at developers, ops-oriented people, and anyone who loves the terminal. It is written in Rust and uses WebAssembly for its plugin system¹.
+
+Zellij is hosted on GitHub, where you can find its source code, documentation, releases, issues, pull requests, discussions, and more. You can also contribute to the project by reporting bugs, suggesting features, writing code, creating plugins, or helping with translations¹. Zellij has a friendly and welcoming community that adheres to a code of conduct².
+
+The latest release of Zellij is v0.39.2, which was published on Nov 29, 2023. This release fixes an issue where the sessions in the session-manager would take ~1 minute to be updated. It also includes some other bug fixes and improvements³. You can download the prebuilt binaries or install Zellij from the package repository of your OS¹.
+
+If you want to learn more about Zellij, you can visit its website⁴, where you can find screencasts, tutorials, configuration guides, FAQs, and more. You can also join the Discord or Matrix chat to ask questions, share feedback, or chat with other Zellij users and developers¹.
+
+I hope this gives you a good overview of Zellij and its GitHub presence. 😊
+
+¹: [GitHub - zellij-org/zellij: A terminal workspace with batteries included](^1^)
+²: [zellij/CODE_OF_CONDUCT.md at main · zellij-org/zellij · GitHub](^2^)
+³: [Release v0.39.2 · zellij-org/zellij · GitHub](^3^)
+⁴: [Zellij - a terminal workspace with batteries included](^4^)
+
+Source: Conversation with Bing, 01/02/2024
+(1) GitHub - zellij-org/zellij: A terminal workspace with batteries included. https://github.com/zellij-org/zellij.
+(2) Releases · zellij-org/zellij · GitHub. https://github.com/zellij-org/zellij/releases.
+(3) zellij-org · GitHub. https://github.com/zellij-org.
+(4) GitHub - zellij-org/zellij-org.github.io: The website for zellij. https://github.com/zellij-org/zellij-org.github.io.
+(5) GitHub - zellij-org/zellij: A terminal workspace with batteries included. https://github.com/zellij-org/zellij.
+(6) Releases · zellij-org/zellij · GitHub. https://github.com/zellij-org/zellij/releases.
+(7) zellij-org · GitHub. https://github.com/zellij-org.
+(8) GitHub - zellij-org/zellij-org.github.io: The website for zellij. https://github.com/zellij-org/zellij-org.github.io.
+
+Yes, Zellij is a terminal multiplexer, but it also has many other features that make it a terminal workspace. A terminal multiplexer allows you to run multiple terminal sessions in one window, and switch between them easily. Zellij also lets you customize the appearance and layout of your terminal, create and use plugins in any language, and collaborate with other users in multiplayer sessions¹². You can think of Zellij as a terminal multiplexer with batteries included. 😊
+
+¹: [GitHub - zellij-org/zellij: A terminal workspace with batteries included](^1^)
+²: [Overview - Zellij User Guide](^2^)
+
+Source: Conversation with Bing, 01/02/2024
+(1) zellij-org/zellij: A terminal workspace with batteries included - GitHub. https://github.com/zellij-org/zellij.
+(2) Overview - Zellij User Guide. https://zellij.dev/documentation/overview.html.
+(3) zellij-org/zellij: A terminal workspace with batteries included - GitHub. https://github.com/zellij-org/zellij.
+(4) Overview - Zellij User Guide. https://zellij.dev/documentation/overview.html.
+(5) Zellij Is A New Terminal Multiplexer Written In Rust. https://www.linuxuprising.com/2021/04/zellij-is-new-terminal-multiplexer.html.
+(6) Share your Terminal with Multiple Cursors - zellij.dev. https://zellij.dev/news/multiplayer-sessions/.
+(7) About Zellij. https://zellij.dev/about/.
+
+Zellij includes most of the functionality of screen and tmux, such as splitting, detaching, and reattaching sessions, but it also has some unique features that make it more than a terminal multiplexer. Some of these features are:
+
+- A built-in discoverable UI that shows you the available commands and key bindings¹².
+- Sixel graphics support that allows you to display images and plots in the terminal¹³.
+- Built-in native floating terminal windows that you can toggle, resize, and move around the screen¹².
+- A built-in layout system that lets you define and load custom layouts in YAML files¹².
+- A built-in plugin system that lets you extend Zellij with plugins written in any language that compiles to WebAssembly¹².
+- A built-in scrollback editor that lets you use your default editor (e.g. vim) to search, edit, and save a pane's scrollback¹².
+- True multiplayer sessions that let multiple users collaborate in the same tab, each with their own cursor (similar to Google docs)¹².
+
+So, Zellij is not only a terminal multiplexer, but also a terminal workspace with batteries included. 😊
+
+¹: [GitHub - zellij-org/zellij: A terminal workspace with batteries included](^1^)
+²: [Overview - Zellij User Guide](^2^)
+³: [What is difference between zellij and tmux with similar ... - GitHub](^1^)
+
+Source: Conversation with Bing, 01/02/2024
+(1) What is difference between zellij and tmux with similar ... - GitHub. https://github.com/zellij-org/zellij/discussions/1701.
+(2) Zellij, an alternative to screen and tmux - Wyssmann Engineering. https://wyssmann.com/blog/2021/12/zellij-an-alternative-to-screen-and-tmux/.
+(3) About Zellij. https://zellij.dev/about/.
+(4) What is difference between zellij and tmux with similar ... - GitHub. https://github.com/zellij-org/zellij/discussions/1701.
+(5) Zellij, an alternative to screen and tmux - Wyssmann Engineering. https://wyssmann.com/blog/2021/12/zellij-an-alternative-to-screen-and-tmux/.
+(6) What is difference between zellij and tmux with similar ... - GitHub. https://github.com/zellij-org/zellij/discussions/1701.
+(7) tmux vs. screen - Super User. https://superuser.com/questions/236158/tmux-vs-screen.
+
 **Scriptkiddie**
 
 I happenned upon the following excellent work. I wish to install a reworked and edited version of it directly in this roadmap, and make thorough and cited reference to it. I have have parked it here for the interim. 
