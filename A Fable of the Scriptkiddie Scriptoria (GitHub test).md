@@ -8864,6 +8864,47 @@ Feel free to ask any further questions you might have about specific aspects of 
 
 I feel this section may be better served if integrated into the body of the text, instead of in the addenda. That said, for the interim. I have resolved to develop it and implement it here, until I know where I wish to place it in the text proper. Also, I am yet to really start working with a multiplexer in Termux, so I cannot write from a position of personal experience. This is essentially, a working document that aims to chart my progress in implementing a terminal multiplexer into my workflow and liberating and facilitating my Termux virtual workspace, for whatever virtual digital activities I am engaged in. 
 
+Determining the absolute "first" in the realm of terminal multiplexing gets a bit tricky due to two factors:
+
+* **Evolution from earlier concepts:** The core functionalities of splitting the terminal space and managing multiple sessions existed prior to dedicated multiplexer programs. Early examples include features like "split screen" modes in certain terminal emulators and dedicated keys for switching between sessions.
+* **Limited reach and documentation:** Some systems might have implemented similar functionalities but remained within specific contexts or lacked widespread documentation, making their historical footprint less visible.
+
+Therefore, instead of pinpointing a singular "absolute first," it's more accurate to acknowledge pioneers and milestones in the evolution of terminal multiplexing:
+
+* **Early concepts:** Systems like Splitvt for UNIX machines and dedicated "split screen" modes in terminal emulators laid the groundwork for splitting the terminal space.
+* **TD/SMP (1987):** Although proprietary and limited to DEC hardware, it showcased the practicalities of terminal multiplexing through features like windowing and session management over a single serial port.
+* **GNU Screen (1987):** Open-source and with broader compatibility, it solidified the core features of modern terminal multiplexers like window splitting, pane resizing, detaching sessions, and keyboard/output sharing.
+
+While GNU Screen is often credited as the "first true terminal emulator multiplexer" due to its wider impact and open-source nature, recognizing the contributions of earlier systems like TD/SMP and pre-existing functionalities provides a more nuanced understanding of the technology's evolution.
+
+So, the answer depends on your definition of "absolute first." If you're looking for the earliest documented system demonstrating core multiplexing features, it might fall within the realm of pre-existing functionalities or less-known proprietary systems. However, if you consider broader impact and the foundation for future tools, GNU Screen stands out as a crucial milestone in the development of terminal multiplexers.
+
+I hope this explanation clarifies the historical context and provides a deeper understanding of the journey towards the tools we use today!
+
+Certainly! TD/SMP, standing for **Terminal Device/Session Management Protocol**, was a pioneering terminal multiplexer system introduced by DEC in 1987 specifically for their VT330/340 terminals. While not the absolute first, it played a significant role in the evolution of this technology.
+
+**Here's what made TD/SMP unique:**
+
+* **Multiplexing over a single serial port:** It allowed data from two separate host sessions to be sent to the compatible terminal over a single serial connection, effectively enabling multitasking on a single terminal screen.
+* **Terminal-side component (SSU):** The functionality resided within the terminal itself, using a dedicated chip called the SSU (Session Service Unit). This offered advantages like faster switching and lower host CPU usage compared to software-based solutions.
+* **Proprietary protocol:** The communication format between the terminal and host was proprietary and never fully documented, limiting its adoption beyond DEC's own terminal servers and terminals.
+
+**Impact and Legacy:**
+
+* **Limited reach:** Despite its innovative features, TD/SMP's closed nature and focus on specific DEC hardware hindered its widespread adoption.
+* **Paving the way:** However, its success in demonstrating the feasibility and benefits of terminal multiplexing inspired further development in the field.
+* **Influence on open-source alternatives:** Systems like the widely popular GNU Screen, released in the same year as TD/SMP, incorporated similar functionalities but with an open-source approach and broader compatibility, ultimately becoming more influential in the long run.
+
+**While TD/SMP may not be as widely recognized as some later terminal multiplexers, its contribution to the technology's development deserves acknowledgement. It stands as an interesting example of early innovation in a field that continues to evolve and shape our digital interactions.**
+
+Here are some additional details you might find interesting:
+
+* The SSU chip in TD/SMP terminals was the LA52, which also handled other functionalities like keyboard scanning and video generation.
+* DEC later introduced an enhanced version called TD/SMP+, which supported features like file transfer and printer sharing.
+* Although TD/SMP itself is no longer in common use, the concept of terminal multiplexing remains highly relevant and continues to be refined in modern tools like tmux and iTerm2.
+
+I hope this information provides a more comprehensive picture of TD/SMP and its place in the history of terminal multiplexing.
+
 While the concept of splitting a terminal into multiple sessions existed before, the title of the **first true terminal emulator multiplexer** generally goes to GNU `screen`. 
 
 Screen was released in 1987 and pioneered many of the features we see in modern terminal multiplexers, like:
@@ -8877,6 +8918,13 @@ Screen was released in 1987 and pioneered many of the features we see in modern 
 Although earlier systems like TD/SMP from DEC offered similar functionalities, they were much more limited and not widely adopted. GNU Screen's open-source nature and feature set established it as the foundation for future terminal multiplexers like `tmux` and `byobu`.
 
 So, while there were predecessors, GNU Screen truly paved the way for the convenient and efficient multi-tasking within terminals that we enjoy today.
+
+According to the web search results, the first terminal emulator multiplexer was **GNU Screen**, which was released in 1987¹. It provided features such as splitting, detaching, and reattaching sessions, as well as mirroring input to multiple windows². It was later followed by other terminal multiplexers, such as tmux, byobu, and dvtm, which offered more flexibility and customization²³.
+
+Source: Conversation with Bing, 01/02/2024
+(1) Terminal multiplexer - Wikipedia. https://en.wikipedia.org/wiki/Terminal_multiplexer.
+(2) 4 Linux terminal multiplexers to try | Opensource.com. https://opensource.com/article/21/5/linux-terminal-multiplexer.
+(3) A Quick and Easy Guide to tmux · Ham Vocke. https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/.
 
 I have come to realise, that most activities that we in dedicated Android applications, may be done more powerfullly and usefully within the fulcrum and coalface, of the terminal emulator. So many processes or activities may be performed directly within the terminal. For example, you may be using Neovim as an IDE, to develop your shell scripts. Which, given the nature of this work and my recommendation for using this powerful CLI text-editor cum IDE, is likely. In dynamically problem-solving code snippets in Termux, you may benefit from having access to a second terminal playground, to execute code snippets, to determine their applicability and efficacy, for inclusion within your shell script proper, which is being developed within Neovim, in a dedicated terminal session. Also, within this terminal playground, may be the appropriate forum to incrementally execute your script as you develop it, for the purposes of texting logic, debugging and linting. You may also benefit from a third terminal session, a window to the oracle, where you may have a dedicated dialogue with assorted GenAI or LLMs or intelligent agents, to assist you in the present task of crafting your particular shell script, or in other matters. You may also wish to have a dedicated termimal session open, for a terminal based Internet browser, with all the facility and amenity that provides. You may also wish to have a further dedicated terminal session open, for remotely accessing a VM or cloud environment, or other somesuch. You may also wish to have open a dedicated terminal session with irssi, and IRC channels of interest. This may directly keep you-up-to-speed with the wider open source community and specific developments of packages and applications that interest you, or that you have a stake in. Also, IRC is a powerful, traditional forum, to get interactive assistance from members of the community in real-time, rather than a static thread or post forum. It is more personal and responsive. The list goes on. Therefore, Termux may become a very busy place, and somewhat of a thoroughfare. To enable this dynamic efficiency in our workflow within Termux, we use what it termed, a terminal multiplexer, and there are a number of candidates. 
 
