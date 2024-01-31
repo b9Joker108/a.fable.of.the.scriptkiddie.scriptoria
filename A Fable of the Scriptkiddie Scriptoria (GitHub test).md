@@ -14,6 +14,59 @@ This roadmap initially started its life as a page within my Notion web/Android-a
 
 painedas I explore the literature, conduct a discourse review, subsuming some multimedia tutorials and documentaries and oral history that has been captured and uploaded. I provide an annotated curation of such items with my purport. 
 
+This version of this document is being implemented with the following:
+
+```zsh
+~termux-info                                               
+Termux Variables:
+TERMUX_API_VERSION=0.50.1
+TERMUX_APK_RELEASE=F_DROID
+TERMUX_APP_PACKAGE_MANAGER=apt
+TERMUX_APP_PID=12961
+TERMUX_IS_DEBUGGABLE_BUILD=0
+TERMUX_MAIN_PACKAGE_FORMAT=debian
+TERMUX_VERSION=0.118.0
+TERMUX__USER_ID=0
+Packages CPU architecture:
+aarch64
+Subscribed repositories:
+# sources.list
+deb https://packages.termux.dev/apt/termux-main stable main
+# sources.list.d/pointless.list
+deb https://its-pointless.github.io/files/21 termux extras
+# sources.list.d/ivam3-termux-packages.list
+deb [trusted=yes arch=all] https://ivam3.github.io/termux-packages stable extras
+# x11-repo (sources.list.d/x11.list)
+deb https://packages.termux.dev/apt/termux-x11 x11 main
+# tur-repo (sources.list.d/tur.list)
+deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous
+# root-repo (sources.list.d/root.list)
+deb https://packages.termux.dev/apt/termux-root root stable
+Updatable packages:
+All packages up to date
+termux-tools version:
+1.40.5
+Android version:
+14
+Kernel build information:
+Linux localhost 5.15.94-android13-8-27940245-abX910XXU1BWL1 #1 SMP PREEMPT Mon Dec 4 10:05:43 UTC 2023 aarch64 Android
+Device manufacturer:
+samsung
+Device model:
+SM-X910
+LD Variables:
+LD_LIBRARY_PATH=
+LD_PRELOAD=/data/data/com.termux/files/usr/lib/libtermux-exec.so
+Installed termux plugins:
+com.termux.widget versionCode:13
+com.termux.x11 versionCode:14
+com.termux.api versionCode:51
+com.termux.styling versionCode:31
+com.termux.window versionCode:15
+```
+
+All future editors of this work, I wish you to similarly include the output of `termux-info`, as I have, for probity and for insight into methodology and implementation. 
+
 **[Crazy Wisdom:](https://en.wikipedia.org/wiki/Divine_madness)**
 
 Melody (1995). 'Love Is in the Earth: A Kaleidoscope of Crystals: The Reference Book Describing the Metaphysical Properties of the Mineral Kingdom'. Illustrations: Julianne Guilbault. Updated, third edition. Earth Love Pub House. ISBN-13 9780962819032 (paperback) 
