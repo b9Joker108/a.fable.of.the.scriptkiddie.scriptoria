@@ -8941,6 +8941,26 @@ Source: Conversation with Bing, 01/02/2024
 (4) Addons - Termux Wiki. https://wiki.termux.com/wiki/Addons.
 (5) en.wikipedia.org. https://en.wikipedia.org/wiki/Termux.
 
+I'm sorry to hear that XServer XSDL is not working well for you. It is one of the options to run graphical applications that use the X11 protocol on Termux. However, there are some other alternatives that you can try:
+
+- **Android XServer**: This is another standalone Xorg server app that you can launch from Termux using the `termux-x11` command. It only implements the core X11 protocol, but it shares the clipboard between Android and X11 and includes a window manager.
+- **VNC Viewer**: This is a VNC client app that allows you to interact with a graphical environment running on a VNC server. You need to install and configure the `tigervnc` package on Termux and then connect to it using the VNC Viewer app.
+- **Termux-x11**: This is a new plugin for Termux that aims to provide a better X11 experience. It uses the Wayland protocol to communicate with a Wayland compositor running on Android. It is still in development and may have some bugs, but you can try it out by following the instructions on its GitHub page.
+
+I hope this helps you to find a suitable alternative to XServer XSDL. 😊
+
+¹: [Android-xserver Alternatives and Reviews (Jul 2022) - LibHunt](^4^)
+²: [Graphical Environment - Termux Wiki](^1^)
+³: [termux/termux-x11: Termux plugin that provides a way to run X11 environment](https://github.com/termux/termux-x11)
+
+Source: Conversation with Bing, 01/02/2024
+(1) Graphical Environment - Termux Wiki. https://wiki.termux.com/wiki/Graphical_Environment.
+(2) Any suggestions for VNC Viewer alternatives : r/termux - Reddit. https://www.reddit.com/r/termux/comments/138s4bz/any_suggestions_for_vnc_viewer_alternatives/.
+(3) Top 10 Xserver Alternatives & Competitors (Free/Paid) - G2. https://www.g2.com/products/xserver/competitors/alternatives.
+(4) Android-xserver Alternatives and Reviews (Jul 2022) - LibHunt. https://www.libhunt.com/r/android-xserver.
+(5) Graphical Environment - Termux Wiki. https://wiki.termux.com/wiki/Graphical_Environment.
+(6) Lightweight X11 alternative available? - Unix & Linux Stack Exchange. https://unix.stackexchange.com/questions/9608/lightweight-x11-alternative-available.
+
 **Termux multiplexers**
 
 I feel this section may be better served if integrated into the body of the text, instead of in the addenda. That said, for the interim. I have resolved to develop it and implement it here, until I know where I wish to place it in the text proper. Also, I am yet to really start working with a multiplexer in Termux, so I cannot write from a position of personal experience. This is essentially, a working document that aims to chart my progress in implementing a terminal multiplexer into my workflow and liberating and facilitating my Termux virtual workspace, for whatever virtual digital activities I am engaged in. 
