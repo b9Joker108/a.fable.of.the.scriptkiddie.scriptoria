@@ -9449,6 +9449,23 @@ Source: Conversation with Bing, 1/26/2024
 (5) Robert M. Pirsig - Wikiwand. [https://www.wikiwand.com/en/Robert_M._Pirsig](https://www.wikiwand.com/en/Robert_M._Pirsig).
 (6) Robert Pirsig obituary | Books | The Guardian. [https://www.theguardian.com/books/2017/apr/25/robert-pirsig-obituary](https://www.theguardian.com/books/2017/apr/25/robert-pirsig-obituary).
 
+
+**Lech T. Polkowski (...)**
+
+Lech T. Polkowski is a renowned mathematician and researcher with extensive contributions to the fields of rough sets, rough mereology, and the foundations of information technology. He holds the distinguished title of Professor Ordinarius and currently serves at the Polish-Japanese Institute of IT in Warsaw and the University of Warmia and Mazury in Olsztyn, Poland.
+
+Polkowski's academic journey began with a degree in Theoretical Mathematics from the Department of Mathematics, Mechanics, and Computer Science of the Warsaw University. He later pursued doctoral studies in Physical Chemistry at the Polish Academy of Sciences, showcasing his versatility and broad scientific interests.
+
+Throughout his illustrious career, Polkowski has made significant contributions to the development and application of rough sets. His work on rough mereology, a novel approach to approximate reasoning, has further enhanced the capabilities of this powerful tool for knowledge representation and reasoning.
+
+Polkowski's expertise extends beyond research, as he has demonstrated exceptional leadership and organizational skills. He has served on the program committees and advisory boards of numerous international conferences, including the esteemed RSCTC'98 conference in Warsaw, which he co-organized. Additionally, he has held editorial positions in esteemed journals, such as Fundamenta Informaticae and Paladyn. Int. J. Behavioral Robotics.
+
+Polkowski's contributions to the field of information technology have been recognized through his numerous publications and citations. His work has been widely influential, shaping the development of rough-based methodologies for data mining, knowledge discovery, and artificial intelligence.
+
+In recognition of his outstanding contributions to science, Polkowski has received numerous accolades, including the prestigious Outstanding Researcher Award from the Polish Academy of Sciences. He is also a member of various professional organizations, such as the European Association for Computational Linguistics and the Society for Rough Sets, Fuzzy Logic, and Knowledge Discovery.
+
+Lech T. Polkowski stands as a pioneer in the field of rough sets, his work shaping the landscape of knowledge representation, reasoning, and data mining. His dedication to research, his leadership in the field, and his commitment to fostering scientific exchange have made him an invaluable asset to the scientific community. He continues to inspire and guide researchers worldwide, ensuring that the legacy of rough sets continues to flourish.
+
 **Chris Pressey (b. 1972)** 
 
 **Language: Befunge**
@@ -9760,6 +9777,49 @@ Melody (1995). 'Love Is in the Earth: A Kaleidoscope of Crystals: The Reference 
 **P**
 
 Peters, Ron (2009). 'Expert Shell Scripting'. Berkeley, California, U. S. A.: Apress. ISBN 9781430218425
+
+**Lech T. Polkowski**
+
+A brief biography of Polkowski may be found in that section. 
+
+Polkowski, Lech T. (2023). 'Logic - Reference Book for Computer Scientists - The 2nd Revised, Modified, and Enlarged Edition of “Logics for Computer and Data Sciences, and Artificial Intelligence”'. Intelligent Systems Reference Library Volume 245. Cham, Switzerland: Springer. ISBN 9783031420344 (ebook)
+
+**Summary:**
+
+* It serves as a comprehensive reference book for computer scientists interested in various logics relevant to their field.
+* The book covers classical and non-classical logics, including propositional logic, first-order logic, modal logic, and many-valued logics.
+* It delves into fundamental concepts like Gödel's theorems, Tarski's truth definition, and Church-Rosser theorems.
+* Additionally, it explores advanced topics like logics for knowledge engineering and first-order logic with inductive definitions.
+
+**Evaluation:**
+
+**Strengths:**
+
+* **Comprehensiveness:** The book covers a wide range of logics in depth, making it a valuable resource for computer scientists.
+* **Accessibility:** Polkowski's writing style is clear and concise, making the book accessible to readers with varying backgrounds in logic.
+* **Updated content:** The second edition incorporates recent developments in the field, making it a valuable update for those familiar with the previous edition.
+* **Focus on relevance:** The book emphasizes logics with practical applications in computer science and related fields.
+
+**Weaknesses:**
+
+* **Potential for bias:** The book's focus on logics relevant to computer science might neglect other significant areas of logic.
+* **Depth vs. breadth:** The sheer breadth of topics covered might limit the depth of discussion for each individual logic.
+
+**Critique:**
+
+* Overall, the book is a valuable resource for computer scientists seeking a comprehensive understanding of relevant logics.
+* However, readers interested in specific areas of logic might need to consult additional resources for in-depth exploration.
+* The book's focus on practical applications is commendable, but it might be beneficial to acknowledge the broader philosophical and mathematical significance of logic.
+
+**Extrapolation:**
+
+* The increasing importance of logic in computer science and related fields suggests that Polkowski's book will remain a valuable reference for years to come.
+* Future editions could expand on emerging areas of logic, such as probabilistic logic and quantum logic, to stay current with the field's advancements.
+* Additionally, incorporating interactive elements or online resources could enhance the book's accessibility and usefulness for readers.
+
+
+
+
 
 **Q**
 
