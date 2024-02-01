@@ -10729,6 +10729,14 @@ Beer emphasizes the interconnectivity of symbols, highlighting how they often wo
 
 Brown, Peter C.; Roediger III, Henry L. &  McDaniel, Mark A. (2014). 'Make It Stick: The Science of Successful Learning'. Cambridge, Massachusetts, U. S. A.: The Belknap Press *of* Harvard University Press. ISBN 9780674729018
 
+This work accessibly presents the latest research on how people learn effectively and efficiently. The book challenges some common myths and misconceptions about learning, such as the idea that different people have different learning styles, or that rereading and highlighting are good study strategies. Instead, the book offers evidence-based techniques for improving learning and retention, such as self-testing, spacing, interleaving, and elaboration. The book also provides examples and stories of how these techniques have been applied by students, teachers, athletes, and professionals in various domains. The book is aimed at anyone who wants to enhance their learning and performance, whether in school, work, or life. 
+
+(1) Make It Stick — Harvard University Press. https://www.hup.harvard.edu/books/9780674729018.
+(2) Make It Stick Summary and Study Guide | SuperSummary. https://www.supersummary.com/make-it-stick/summary/.
+(3) Make It Stick by Peter C. Brown | The Science of Successful Learning .... https://www.booktopia.com.au/make-it-stick-peter-c-brown/book/9780674729018.html.
+(4) Make It Stick: The Science of Successful Learning Hardcover - Amazon.com.au. https://www.amazon.com.au/Make-Stick-Science-Successful-Learning/dp/0674729013.
+(5) Make It Stick : The Science of Successful Learning - Google Books. https://books.google.com/books/about/Make_It_Stick.html?id=oneWAwAAQBAJ.
+
 **C**
 
 **D**
