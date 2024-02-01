@@ -155,7 +155,7 @@ Biography: https://treasuryoflives.org/bo/biographies/view/Rongzom-Chokyi-Zangpo
 > and its colour are an embellishment of life, not a condition of it. It is only goodness which gives
 > extras, and so I say again that we have much to hope from the flowers".
 
--- spoken by Sherlock Holmes, extracted from: Doyle, Sir Arthur Conan (1894), ['The Memoirs of Sherlock Holmes'](https://en.m.wikipedia.org/wiki/The_Memoirs_of_Sherlock_Holmes), ['[The Adventure of\] The Naval Treaty'](https://en.m.wikipedia.org/wiki/The_Adventure_of_the_Naval_Treaty), London. 
+-- spoken by Sherlock Holmes, extracted from: Doyle, Sir Arthur Conan (1894), ['The Memoirs of Sherlock Holmes'](https://en.m.wikipedia.org/wiki/The_Memoirs_of_Sherlock_Holmes), [\'\[The Adventure of\] The Naval Treaty'](https://en.m.wikipedia.org/wiki/The_Adventure_of_the_Naval_Treaty), London. 
 
 Truth resides in the flowers. 
 
