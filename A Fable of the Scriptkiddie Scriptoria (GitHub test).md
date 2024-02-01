@@ -10832,3 +10832,7 @@ Though this video is a tutorial on coding a simple daemon written in C, I feel t
 
 https://youtu.be/9nDYYc_7sKs?si=PUBWw-v9c5epYfq6
 
+The following is a very recent tutorial on Android ethical hacking from the reputable Learn Ladder channel, and the tutor remains anonymous. 
+
+https://youtu.be/TGDpB9nBce0?si=5yX500f619Kee6OC
+
