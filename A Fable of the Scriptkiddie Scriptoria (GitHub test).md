@@ -8985,6 +8985,20 @@ Source: Conversation with Bing, 01/02/2024
 (9) Thomas McEvilley - Wikipedia. https://en.wikipedia.org/wiki/Thomas_McEvilley.
 (10) goodreads.com. https://www.goodreads.com/book/show/925680.The_Shape_of_Ancient_Thought.
 
+**Bing, please convey the importance of 'The Shape of Ancient Thought' for its importance, emergence, evolution and application for Logic and by implication, Computer Science?**
+
+The Shape of Ancient Thought is a book that explores the **philosophical interactions** between ancient Greece and India, and how they influenced the development of logic and computer science. Here is a brief summary of its importance, emergence, evolution and application:
+
+- Importance: The book shows that the Western world is not the sole source of logic and rationality, but rather a product of both Greek and Indian thought. It challenges the common assumption that there was no significant exchange of ideas and influences between these cultures, and reveals the **philosophical kinship** between the East and the West. It also demonstrates the **diversity and richness** of ancient logic and philosophy, and how they can inspire modern thinkers and researchers.
+- Emergence: The book is based on **thirty years** of intensive research by Thomas McEvilley, a scholar of classical studies, art history, and comparative religion. He collected and analyzed a vast amount of textual and archaeological evidence, and used a **comparative and historical** approach to trace the origins and development of logic and philosophy in both Greece and India. He also examined the **cultural and political** factors that facilitated or hindered the transmission of ideas between these regions.
+- Evolution: The book covers a long span of time, from the **6th century BCE** to the **5th century CE**, and discusses the major schools and figures of logic and philosophy in both Greece and India. It shows how logic and philosophy evolved in response to **intellectual challenges** and **social changes**, and how they influenced and were influenced by other fields of knowledge, such as mathematics, astronomy, medicine, and religion. It also highlights the **similarities and differences** between Greek and Indian logic and philosophy, and how they reflect the **distinctive features** of each culture.
+- Application: The book has implications for both logic and computer science, as it reveals the **historical roots** and **conceptual foundations** of these disciplines. It shows how logic and computer science are **interrelated** and **interdependent**, and how they can benefit from **cross-cultural** and **interdisciplinary** perspectives. It also suggests new ways of **understanding** and **applying** logic and computer science, such as using ancient logical systems to model complex phenomena, or using computer technology to aid the study and preservation of ancient texts.
+
+Source: Conversation with Bing, 01/02/2024
+(1) History of logic | Ancient, Medieval, Modern ... - Britannica. https://www.britannica.com/topic/history-of-logic.
+(2) Mc Evilley, Thomas C. The Shape Of Ancient Thought, Comparative Studies .... https://archive.org/details/McEvilleyThomasC.TheShapeOfAncientThoughtComparativeStudiesInGreekAndIndianPhilosophies2002.
+(3) Logic in computer science - Wikipedia. https://en.wikipedia.org/wiki/Logic_in_computer_science.
+(4) What Is “Ancient Chinese Logic” - Springer. https://link.springer.com/chapter/10.1007/978-3-030-94452-0_1.
 
 **Bard, what is a definition of logic that holds true for all religio-cultural permutations of logic throughout all languages, cultures and times; and, its progeny and offshoot of secular logic, in all its manifold permutations?**
 
