@@ -9135,6 +9135,10 @@ Logic is **absolutely crucial** to modern technology, and its importance only co
 
 In conclusion, logic is not just a theoretical concept; it's the **lifeblood of modern technology**. It allows us to build, program, analyze, and secure the systems that shape our world. As technology continues to evolve, the importance of logic will only become more profound.
 
+**Wolfram's 'A New Kind of Science'**
+
+https://en.m.wikipedia.org/wiki/A_New_Kind_of_Science
+
 
 
 
