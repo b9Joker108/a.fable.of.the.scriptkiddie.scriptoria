@@ -8960,6 +8960,32 @@ However, I can offer some general insights and resources that might be helpful i
 
 Remember, these are just starting points, and a thorough understanding would require delving deeper into specific Buddhist texts, philosophical discussions, and the work of scholars in the field.
 
+
+**Thomas McEvilley's Magnum Opus**
+
+Whilst deeply engaged in experientially exploring and contemplating the Chatushkoti, I came across this book at the City Library branch of the municipal Melbourne City Council library network. I loved this branch in Little Lonsdale Street. As a personal assistant, administrator and researcher (most often just the departmental shit-kicker, do-it-all, assist everyone), employed in a temporary capacity throughout an innumerable number of business units within this city municipality, research was mandatory. My roles most often necessitated having a hand in most if not all, departmental internal and external communications. I was engaged full-time for circa three years at the City of Melbourne or Melbourne City Council, in over 50 discrete business units, through quite a number of different temp agencies. As such, I experienced quite a number of leadership styles, business activities and roles. One of my mentors in this environment, was the Director of Regulatry, that oversaw Managers in Planning, Building and Health. I supported him as an executive assistant, many, many times. He was one of my most sophisticated mentors, he said to me expressly, one of the few verbal directives that he ever gave me in truth for all the years that I supported him, "... read EVERYTHING that passes your desk...", his emphasis. I took the advice to heart, and honoured it. Indeed, I had endeavour to implement this from my earliest engagement as an administrator, but the time-management and diverse competing interests of the dynamic roles and business units within which I was placed, problematised the realisation of this activity in practice. But my endeavouring to do it, provoundly impacted on my efficacy with my roles, and staved off many impending situations of doom, from all quarters. This considerable segue has been conveyed with import. Most all my roles involved in research and in the preparation of working papers on different issues to inform various policy developments, or manifold other things. I had undergone no professional learning or schooling in research,but had a natural propensity and aptitude for it. Also, I had undergone no learning or schooling in writing apart from my experience of primary and secondary schooling. Indeed, I was of the generation, that received no formal education in English grammar, apart from rudiments of it in primary school, and arcane and unintelligible red scrawl upon my written assignments in secondary school. I only really started learning English grammars whilst studying Sanskrit, Linguistics and Semiotics at different times at university. Anyway, back to City of Melbourne. Whilst at City of Melbourne, I open had to physically go to the Corporate Library, and engage with them virtually. I was given a corporate library card, which enabled the unlimited borrowing, of unlimited items. Given this, curiously, the Corporate Library was empty, apart from one staff member, every time I physically visited the library, on a number of occasions, throughout a three year period. 
+
+
+The Shape of Ancient Thought is a book by Thomas McEvilley that examines the **philosophical interactions** between ancient Greece and India¹. The author argues that the Western world is a product of both Greek and Indian thought, and that there was a **continuous exchange** of ideas and influences between these cultures through trade, migration, and imperialism². The book covers topics such as the origins of logic, metaphysics, ethics, and mysticism, and traces the parallels and differences between Greek and Indian schools of philosophy³. The book is based on **thirty years** of intensive research and provides **empirical evidence** for the philosophical kinship between the East and the West⁴.
+
+¹: [The Shape of Ancient Thought - Wikipedia](^1^)
+²: [The Shape of Ancient Thought: Comparative Studies in Greek and Indian Philosophies by Thomas McEvilley | Goodreads](^2^)
+³: [The Shape of Ancient Thought - Google Books](^3^)
+⁴: [The Shape of Ancient Thought - Google Books](^4^).
+
+Source: Conversation with Bing, 01/02/2024
+(1) The Shape of Ancient Thought - Wikipedia. https://en.wikipedia.org/wiki/The_Shape_of_Ancient_Thought.
+(2) The Shape of Ancient Thought: Comparative Studies in Gr…. https://www.goodreads.com/book/show/925680.The_Shape_of_Ancient_Thought.
+(3) The Shape of Ancient Thought - Google Books. https://books.google.com/books/about/The_Shape_of_Ancient_Thought.html?id=vTfm8KHn900C.
+(4) The Shape of Ancient Thought - Google Books. https://books.google.com/books/about/The_Shape_of_Ancient_Thought.html?id=KmqCDwAAQBAJ.
+(5) The Shape of Ancient Thought - Wikipedia. https://en.wikipedia.org/wiki/The_Shape_of_Ancient_Thought.
+(6) The Shape of Ancient Thought: Comparative Studies in Gr…. https://www.goodreads.com/book/show/925680.The_Shape_of_Ancient_Thought.
+(7) The Shape of Ancient Thought - Google Books. https://books.google.com/books/about/The_Shape_of_Ancient_Thought.html?id=vTfm8KHn900C.
+(8) The Shape of Ancient Thought - Google Books. https://books.google.com/books/about/The_Shape_of_Ancient_Thought.html?id=KmqCDwAAQBAJ.
+(9) Thomas McEvilley - Wikipedia. https://en.wikipedia.org/wiki/Thomas_McEvilley.
+(10) goodreads.com. https://www.goodreads.com/book/show/925680.The_Shape_of_Ancient_Thought.
+
+
 **Bard, what is a definition of logic that holds true for all religio-cultural permutations of logic throughout all languages, cultures and times; and, its progeny and offshoot of secular logic, in all its manifold permutations?**
 
 Unfortunately, finding a **single definition of logic universally applicable across all religio-cultural and secular permutations** might be impossible. Here's why:
