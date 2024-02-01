@@ -149,30 +149,31 @@ Biography: https://treasuryoflives.org/bo/biographies/view/Rongzom-Chokyi-Zangpo
 
 ## Evocation
 
-> "What a lovely thing a rose is!….There is nothing in which deduction is so necessary as in religion…It > can be built up as an exact science by the reasoner. Our highest assurance of the goodness of
+> "What a lovely thing a rose is!….There is nothing in which deduction is so necessary as in religion…
+> It can be built up as an exact science by the reasoner. Our highest assurance of the goodness of
 > Providence seems to me to rest in the flowers. All other things, our powers, our desires, our food,
 > are all really necessary for our existence in the first instance. But this rose is an extra. Its smell
 > and its colour are an embellishment of life, not a condition of it. It is only goodness which gives
 > extras, and so I say again that we have much to hope from the flowers".
 
--- spoken by Sherlock Holmes, extracted from: Doyle, Sir Arthur Conan (1894), ['The Memoirs of Sherlock Holmes'](https://en.m.wikipedia.org/wiki/The_Memoirs_of_Sherlock_Holmes), [\'\[The Adventure of\] The Naval Treaty'](https://en.m.wikipedia.org/wiki/The_Adventure_of_the_Naval_Treaty), London. 
+-- spoken by [Sherlock Holmes](https://en.m.wikipedia.org/wiki/Sherlock_Holmes), extracted from: [Doyle, Sir Arthur Conan](https://en.m.wikipedia.org/wiki/Arthur_Conan_Doyle) (1894), ['The Memoirs of Sherlock Holmes'](https://en.m.wikipedia.org/wiki/The_Memoirs_of_Sherlock_Holmes), [\'\[The Adventure of\] The Naval Treaty'](https://en.m.wikipedia.org/wiki/The_Adventure_of_the_Naval_Treaty), London. 
 
 Truth resides in the flowers. 
 
 ## Dedication
 
-> **"Life is mostly froth and bubble,
-> Two things stand like stone,
-> Kindness in another's trouble,
-> Courage in your own."**
+> **"Life is mostly froth and bubble, <br />  
+> Two things stand like stone, <br /> 
+> Kindness in another's trouble, <br /> 
+> Courage in your own."** <br /> 
 
->> ~ Adam Lindsay Gordon, 'Midas', (1864) 
+>	 ~ Adam Lindsay Gordon, 'Midas', (1864) 
  
 I dedicate this work, and all that it yields, to those that embrace the ephemerality of life, and in it find the eternality of kindness and courage, and thereby embody both. 
 
 ## Introduction 
 
-The purpose of this work is, fundamentally, to provide a roadmap for the acquiring of the ability to script in the shell languages of Bash and Zsh. It has a historical and developmental purview, with purpose. I have found in my lifepath, that endeavouring to integrate the historicity and developmental aspects, of any knowledge area I endeavour to acquire, has significantly impacted on the quality of my knowledge acquisition, and enabled deep learning, with all of its benefits, particularly for the immediate applications of the knowledges I acquire. Though, pretentiously, written in the prestige dialect of English received pronunciation, this work is intended as the first reference to those with digital technological aspirations, in the newly included, from amongst the third of the global population currently globally excluded. Gifting them this dialect, is a profound mixed blessing, and makes their acquisition of greater difficulty and challenge, but empowers them exponentially. As such, it includes much tangential, ancillary and related information, to shell scripting, to bring up to speed with best-practice discourse in a plethora of interrelated disciplines and knowledge areas. This informs their application of their learning, effectively and powerfully, for both their and their immediate community's good, and the greater global good. The initial human writer that has inaugurated this book, hopes that there will flourish a global remixology of it in future, Charting a number of interrelated lineages. All will profit from such plurality, except those who aim to perpetuate digital and technological exclusion, for their own benefit and profit. 
+The purpose of this work is, fundamentally, to provide a roadmap for the acquiring of the ability to script in the shell languages of Bash and Zsh. It has a historical and developmental purview, with purpose. I have found in my lifepath, that endeavouring to integrate the historicity and developmental aspects, of any knowledge area I endeavour to acquire, has significantly impacted on the quality of my knowledge acquisition, and enabled deep learning, with all of its benefits, particularly for the immediate applications of the knowledges I acquire. Though, pretentiously, written in the prestige dialect of English received pronunciation, this work is intended as the first reference to those with digital technological aspirations, in the newly included, from amongst the third of the global population currently globally excluded. Gifting them this dialect, is a profound mixed blessing, and makes their acquisition of greater difficulty and challenge, but empowers them exponentially. As such, it includes much tangential, ancillary and related information, to shell scripting, to bring up to speed with best-practice discourse in a plethora of interrelated disciplines and knowledge areas. This informs their application of their learning, effectively and powerfully, for both their and their immediate community's good, and the greater global good. The initial human writer that has inaugurated this book, hopes that there will flourish a global remixology of it in future, Charting a number of interrelated lineages. All will profit from such plurality, except those who aim to perpetuate digital and technological exclusion, for their own benefit, profit and/or malignancy. 
 
 
 
