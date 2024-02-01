@@ -6718,6 +6718,20 @@ These are some of the basic steps to make your Android system at-once, granular 
 (2) The Android Platform: The 2022 Android Developer Roadmap – Part 1. [https://getstream.io/blog/android-developer-roadmap/](https://getstream.io/blog/android-developer-roadmap/).
 (3) Android Developer Roadmap: Learn to become an Android developer. [https://roadmap.sh/android](https://roadmap.sh/android).
 
+**Note:** 
+
+If you don't have PC or Laptop, but still want to learn Android App Development, you can install the full Android SDK as `gradle` & `java` are already in Termux, so the only thing which is left is Android SDK.
+
+https://www.hax4us.com/2021/11/install-android-sdk-in-termux.html
+
+For Installation guide: https://hax4us.github.io/2021-11-22-install-android-sdk-in-termux/
+
+Join us on Telegram: t.me/hax4us_group
+
+**Purport:** 
+
+Note, this process is a few years old and I personally haven't implemented it. But, it demonstrates that it is possible, and provides an algorithm to realise it, albeit dated. This, may of course be leveraged, and it provides a valuable rudimentary roadmap, that at worst, needs to be tweaked, and updated. 
+
 **Addendum: Computer Hardware**
 
 **Though, I have no evidence to reinforce this statement, and it is in truth just hyperbole: I affirm, that, just as the greatest architects are informed by the disciplines, theories and practicalities, of builders, planners, and designers; so too, are the best scriptors and coders, informed by the hardware design, planning and building. Such well-founded system's thinking, powerfully informs implementation, optimisation, problem-solving, project management, and many other things. Bard, what say you?**
