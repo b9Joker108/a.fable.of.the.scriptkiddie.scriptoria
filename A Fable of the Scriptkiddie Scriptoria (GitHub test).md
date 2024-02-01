@@ -9843,6 +9843,43 @@ Though primarily known for his work in startups and venture capital, Graham auth
 
 **H**
 
+**Jeff Hawkins (born 1957)** 
+
+Jeff Hawkins is a widely recognized figure in both the artificial intelligence and neuroscience fields. He has made significant contributions to both with his inventions, research, and theoretical frameworks. Here's a look at his impressive career:
+
+**Early Life and Education:**
+
+* Born in 1957 in Long Island, New York.
+* Earned a Bachelor's degree in Electrical Engineering from Cornell University in 1979.
+* Received a Master's degree in Business Administration from Stanford University in 1983.
+
+**Entrepreneurial Accomplishments:**
+
+* Co-founded Palm Computing in 1992, responsible for creating the iconic PalmPilot, a revolutionary personal digital assistant (PDA).
+* Founded Handspring in 1998, developing innovative handheld mobile devices.
+* Became a Fellow at the Sequoia Capital venture capital firm, investing in technology companies.
+
+**Neuroscience and AI Pursuits:**
+
+* Established the Redwood Neuroscience Institute in 2002, dedicating himself to understanding the brain.
+* Proposed the Thousand Brains Theory, a novel theory of how the neocortex functions, emphasizing multiple models and integration.
+* Co-founded Numenta in 2005, a research company pursuing brain-inspired AI based on the Thousand Brains Theory.
+* Authored the book "A Thousand Brains: A New Theory of Intelligence" in 2021, detailing his theory and its implications for AI.
+
+**Overall Impact:**
+
+* Hawkins' work has significantly impacted the development of PDAs and smartphones, making mobile computing readily accessible.
+* His Thousand Brains Theory offers a compelling perspective on brain function and has the potential to guide the development of more human-like AI.
+* He continues to inspire research and innovation in both AI and neuroscience, bridging the gap between these fields.
+
+**Additional Resources:**
+
+* **Numenta website:** [https://www.numenta.com/](https://www.numenta.com/)
+* **"A Thousand Brains: A New Theory of Intelligence" by Jeff Hawkins**
+* **Wikipedia article on Jeff Hawkins:** [https://en.wikipedia.org/wiki/Jeff_Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins)
+
+I hope this information provides a comprehensive overview of Jeff Hawkins' accomplishments and contributions.
+
 **Grace Hopper (1906-1992)**
 
 A pioneering computer scientist and U.S. Navy Rear Admiral, Hopper revolutionized programming by advocating for user-friendly languages and compilers. Her development of COBOL, one of the first widely used business-oriented programming languages, made computing accessible to a wider audience and paved the way for modern business applications. Despite facing initial skepticism, her contributions proved instrumental in democratizing access to computing.
