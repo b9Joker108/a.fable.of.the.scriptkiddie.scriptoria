@@ -6720,6 +6720,8 @@ These are some of the basic steps to make your Android system at-once, granular 
 
 **Addendum: Computer Hardware**
 
+Though, I have no evidence to reinforce this statement, and it is in truth just hyperbole: I affirm, that, just as the greatest architects are informed by the disciplines, theories and practicalities, of builders, planners, and designers; so too, are the best scriptors and coders, informed by the hardware design, planning and building. Such well-founded system's thinking, powerfully informs implementation, optimisation, problem-solving, project management, and many other things. 
+
 **Nand2Tetris**
 
 https://www.nand2tetris.org/
