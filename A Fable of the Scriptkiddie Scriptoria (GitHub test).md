@@ -6718,6 +6718,20 @@ These are some of the basic steps to make your Android system at-once, granular 
 (2) The Android Platform: The 2022 Android Developer Roadmap – Part 1. [https://getstream.io/blog/android-developer-roadmap/](https://getstream.io/blog/android-developer-roadmap/).
 (3) Android Developer Roadmap: Learn to become an Android developer. [https://roadmap.sh/android](https://roadmap.sh/android).
 
+**Addendum: Computer Hardware**
+
+**Nand2Tetris**
+
+https://www.nand2tetris.org/
+
+The above linkage is the official website of the Nand to Tetris courses and of the book 'The Elements of Computing Systems', by Noam Nisan and Shimon Schocken (MIT Press), and contains all the lectures, project materials and tools necessary for building a general-purpose computer system and a modern software hierarchy from the ground up. The materials are aimed at students, instructors, and self-learners. Everything is free and open-source, as long as you operate in a non-profit, educational setting. The materials also support two on-line courses: Nand2Tetris Part I (hardware projects/chapters 1-6), and Nand2Tetris Part II (software projects/chapters 7-12).
+
+Nand to Tetris courses are taught at 400+ universities, high schools, and bootcamps. The students who take them range from high schoolers to Ph.D. students to Google engineers. Here is the extended course syllabus.
+
+Instructors: For additional course materials, contact: schocken@gmail.com
+
+This addendum is provided, as all the learning is virtual and readily accessible and open source, and is directly applicable and transferable, to shell Scripting, which it also informs. 
+
 **Addendum B. Mobile digital privacy and the journey to digital anonymity**
 
 **https://youtu.be/RyirQOCUUK8?si=-1_nGJeDi-153oWK**
