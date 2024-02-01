@@ -218,7 +218,7 @@ One of the greatest challenges you will find in acquiring knowledge, information
 
 **Further reading**
 
-...
+Brown, Peter C.; Roediger III, Henry L. &  McDaniel, Mark A. (2014). 'Make It Stick: The Science of Successful Learning'. Cambridge, Massachusetts, U. S. A.: The Belknap Press *of* Harvard University Press. ISBN 9780674729018
  
 
  **Yes, Termux does technically provide a GNU/Linux userland that operates within the Android environment, but it doesn't directly rest on top of the host Android operating system file architecture.** Here's a breakdown of how it works:
@@ -10639,7 +10639,7 @@ A cautionary word, be careful where you prospect and source information on shell
 
 **T**
 
-**Derek Taylor (who goes by DT)*f 
+**Derek Taylor (who goes by DT)**
 
 **Bing, on the YouTube Distro Tube channel, please summarize 'Bash Scripting - Variables, Arrays, If-Then-Else' dated October 27, 2019. Please give a general summary of the video.**
 
@@ -10723,6 +10723,11 @@ Entries are organized alphabetically, each providing detailed explanations of th
 Beer emphasizes the interconnectivity of symbols, highlighting how they often work together to convey complex spiritual messages.
 
 **Weaknesses:** Some critics have noted occasional inconsistencies in transliteration and the lack of in-depth analysis of specific iconographic themes. Additionally, the focus on line drawings might limit the understanding of nuanced details in actual thangka paintings. The monograph only runs to just over 390 pages. 
+
+
+**Peter Brown, et al.** 
+
+Brown, Peter C.; Roediger III, Henry L. &  McDaniel, Mark A. (2014). 'Make It Stick: The Science of Successful Learning'. Cambridge, Massachusetts, U. S. A.: The Belknap Press *of* Harvard University Press. ISBN 9780674729018
 
 **C**
 
