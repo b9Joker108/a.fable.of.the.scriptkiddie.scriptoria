@@ -9881,7 +9881,7 @@ I apologize, I made a mistake earlier. While I don't have the ability to directl
 
 **Early Life and Education:**
 
-Born in Cincinnati, Ohio, McEvilley received his B.A. from the University of Cincinnati and his M.A. from the University of Washington. He earned his Ph.D. in classical philology from the University of Cincinnati, demonstrating his diverse intellectual interests.
+Born in Cincinnati, Ohio, McEvilley received his B.A. from the University of Cincinnati and his M.A. from the University of Washington. He earned his Ph.D. in classical philology from the University of Cincinnati, demonstrating his diverse intellectual interests. His PhD was in classical philology (he had mastered Greek, Latin, and Sanskrit), and as a professor at Rice, in Houston, he taught on the history of religion, among much else. 
 
 **Career Highlights:**
 
