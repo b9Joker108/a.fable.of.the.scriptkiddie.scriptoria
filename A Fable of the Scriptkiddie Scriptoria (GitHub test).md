@@ -8665,7 +8665,7 @@ I hope this helps you create a robust and functional scripting environment on yo
 
 # Logic
 
-The first time I attempted an undergraduate university degree out of the three, was a Bachelor of Humanities at Latrobe University, and my subjects were: History of Religion, (Classical) Sanskrit, Anthropology, History of India, and (Western) Philosophy. I had wanted to study philosophy formally for some time and was so excited to finally be doing so. My experience was so disillusioning and disorientating. Formal logic, in its Western permutation, was the mandatory first unit of the philosophy stream at the institution. It could not be escaped. It could not be avoided. In my youth, I found it so dry, impenetrable and inaccessible, and rather useless. I wasn't the only one. I was truly ignorant. If I remember properly, more people were enrolled in Logic, the first unit of the Philosophy stream, than in any other unit or subject in the entire university. My particular year, was also, as the lecturer said by memory, the largest class the university had ever seen. The logic lecture was in the largest lecture theatre or auditorium of the institution, all seats were occupied, people were bunched together, standing at the rear, people were seated down all the stairs, and throughout all the aisles, and some people were left outside, as they just couldn't fit in. Though, I now appreciate the primacy and foundational importance of formal logic as mandatory toolset, for evaluating various philosophical discourses, there was clearly an agenda in programming this very dry unit, at the outset of the discipline, given its substantial popularity. There were a vast number of drop-outs in the very early days, that just continued as the unit progressed. I ended up being one of them. My deep engagement and devotional research into traditional religio-cultural systems of Indo-Tibetan religions, necessitated studies their logical systems. Debate was so primary to all Dharmic Traditions, and rules of logic underpinned these traditions of debate. I came to love logic. This love and appreciation of Dharmic logic, then reformed my view and perspective of Western logic. It is taking all of this endeavour and knowledge in-sum, that I cannot over-emphasise the importance of grappling with logic enough. My dear readers, I really hope that you take this sage advice to heart, and but into action, and application. 
+The first time I attempted an undergraduate university degree out of the three, was a Bachelor of Humanities at LaTrobe University, and my subjects were: History of Religion, (Classical) Sanskrit, Anthropology, History of India, and (Western) Philosophy. I had wanted to study philosophy formally for some time and was so excited to finally be doing so. My experience was so disillusioning and disorientating. Formal logic, in its Western permutation, was the mandatory first unit of the philosophy stream at the institution. It could not be escaped. It could not be avoided. In my youth, I found it so dry, impenetrable and inaccessible, and rather useless. I wasn't the only one. I was truly ignorant. If I remember properly, more people were enrolled in Logic, the first unit of the Philosophy stream, than in any other unit or subject in the entire university. My particular year, was also, as the lecturer said by memory, the largest class the university had ever seen. The logic lecture was in the largest lecture theatre or auditorium of the institution, all seats were occupied, people were bunched together, standing at the rear, people were seated down all the stairs, and throughout all the aisles, and some people were left outside, as they just couldn't fit in. Though, I now appreciate the primacy and foundational importance of formal logic as mandatory toolset, for evaluating various philosophical discourses, there was clearly an agenda in programming this very dry unit, at the outset of the discipline, given its substantial popularity. The formalises of the curriculum were purposeful and informed, in both their positive and negative denotation and applications. There were a vast number of drop-outs in the very early days, that just continued as the unit progressed. I ended up being one of them. My deep engagement and devotional research into traditional religio-cultural systems of Indo-Tibetan religions, necessitated studies their logical systems. Debate was so primary to all Dharmic Traditions, and rules of logic underpinned these traditions of debate. I came to love logic. This love and appreciation of Dharmic logic, then reformed my view and perspective of Western logic. It is taking all of this endeavour and knowledge in-sum, that I cannot over-emphasise the importance of grappling with logic enough. My dear readers, I really hope that you take this sage advice to heart, and but into action, and application. 
 
 **Bard, please provide an historical and developmental overview of logic from its first emergence in human culture, taking into consideration all known human cultures?**
 
@@ -8871,6 +8871,94 @@ Curating a single list of 10 works encompassing the vast and diverse landscape o
 **10. Thinking Across Cultures: Understanding Logic from a Comparative Perspective (2005) by James P. Carney:** This comprehensive work examines various logic systems across different cultures, offering insights into the diversity and richness of human thought and reasoning.
 
 Remember, this is just a starting point. Each of these works deserves deeper exploration, and numerous other significant texts and thinkers contribute to the vast tapestry of logic throughout history. As you delve deeper, remember to consider different cultural perspectives and approaches to appreciate the full scope and complexity of logic's journey across time and space.
+
+**Buddhadharma logical traditions**
+
+Bard failed to even mention logical traditions in their Buddhadharma proclivity in their brief historical overview and development of Logic, in their cursory overview. Which I tender is quite interesting, in and of itself. I know, from my readings, how the historical Buddhadharma in India embraced Dharmic and non-Dharmic traditions of logic in their widest possible sense, and developed them. This sophisticated logical system had my subtraditions in a number of different schools of thought. For the most part, many artefacts and literatures of most of these logical systems and traditions, were taken up into the Himalaya, the mountainous highlands and plateaus, where they were developed further. I contend, these sophisticated traditions of logic, contain much of revelance for the wider modern logical discourse and its applications, developmens, applications and implications for logic in Computer Science. 
+
+**Bard, please outline the history and development of logic in its Buddhadharma proclivity?**
+
+**The Buddhadharma and Logic: A Web of Threads**
+
+While the Buddhadharma doesn't have a single, unified system of logic like Aristotle's syllogistic or Frege's propositional calculus, it does engage with logic in various ways throughout its history and across different traditions. Here's a glimpse into its development:
+
+**Early Buddhism (6th-4th centuries BCE):**
+
+* The core teachings of the Buddha emphasized **reasoning** and **critical thinking** alongside meditation and ethical conduct.
+* The Pali Canon, containing the Buddha's discourses, uses **dialectical methods** like questioning and counter-arguments to explore philosophical issues.
+* The **Madhyamaka school**, founded by Nagarjuna, employed **reductio ad absurdum** arguments to deconstruct metaphysical concepts and highlight their inherent emptiness.
+
+**Mahayana Buddhism (1st century BCE onwards):**
+
+* The **Yogacara school** developed a **logic of consciousness**, analyzing the nature of perception and thought.
+* The **Dharmalogical texts** like the *Hevajra Tantra* employed **tantric logic**, using symbolism and paradox to challenge conventional reasoning and reveal hidden truths.
+* The **Tibetan Buddhist tradition** preserved and elaborated on Indian Buddhist logic, with thinkers like Tsongkhapa integrating formal logic into their philosophical debates.
+
+**Key Features of Buddhadharma Logic:**
+
+* **Emphasis on pramana (valid means of knowledge):** Examining different ways of knowing, including perception, inference, and testimony, to discern truth claims.
+* **Dialectical methods:** Engaging in debate and critical analysis to challenge assumptions and refine understanding.
+* **Middle Way logic:** Avoiding extremes of eternalism and nihilism, seeking nuanced and balanced perspectives.
+* **Emphasis on emptiness:** Recognizing the impermanent and interdependent nature of reality, challenging rigid logical categories.
+
+**Important Caveats:**
+
+* Logic in the Buddhadharma serves **soteriological goals**, aiming for liberation rather than purely intellectual understanding.
+* Different Buddhist traditions have diverse approaches to logic, with varying degrees of formality and emphasis.
+* Studying logic within the Buddhadharma requires understanding its specific philosophical and religious context.
+
+**Further Exploration:**
+
+* "Buddhist Logic" by David J. Kalupahana
+* "Reasoning in Indian Buddhism" by Richard H. Robinson
+* "Emptiness and Logic" by Jay Garfield
+* "The Logic of the Mahayana Middle Way" by Mark Siderits
+
+Remember, this is just a brief overview. Each tradition and thinker within the Buddhadharma offers unique insights into the relationship between logic and spiritual understanding. By delving deeper, you can appreciate the rich tapestry of logic woven into the fabric of the Buddhadharma.
+
+Unfortunately, due to the limitations in my knowledge and the vastness of Buddhadharma philosophy, I cannot definitively outline the history and development of logic within its entirety. However, I can offer some insights and resources to guide your exploration:
+
+**Challenges in Defining "Logic" in Buddhadharma:**
+
+* **Emphasis on Practice over Theory:** Unlike Western philosophical traditions, Buddhadharma prioritizes experiential understanding and spiritual liberation over theoretical frameworks and formal logic systems.
+* **Diverse Interpretations and Schools:** Different Buddhist schools and lineages hold varying views on logic and its role in the path to enlightenment.
+* **Focus on Dialectics and Debate:** While formal logic might not be central, Buddhist traditions employ sophisticated methods of analysis and debate to refine understanding and dismantle wrong views.
+
+**Possible Starting Points:**
+
+* **Madhyamaka School:** This school, founded by Nagarjuna, emphasizes emptiness (shunyata) and the limitations of logic and language in capturing ultimate reality.
+* **Dignāga and Dharmakirti:** These Buddhist logicians developed sophisticated theories of inference and epistemology, using logic to analyze and critique opposing views.
+* **Tibetan Buddhist Logic:** The Gelug school in Tibetan Buddhism is known for its rigorous use of logic and debate in their monastic training and philosophical studies.
+* **Contemporary Interpretations:** Scholars like David Loye and Graham Priest explore the intersections of Buddhist thought and Western logic, offering new perspectives on the role of logic in spiritual understanding.
+
+**Further Resources:**
+
+* **"Buddhist Logic" by David J. Kalupahana:** This comprehensive text provides an overview of Buddhist logic across different schools and historical periods.
+* **"Emptiness and Logic" by Graham Priest:** This work examines the compatibility of Madhyamaka philosophy with logic and explores the concept of "paraconsistent logic."
+* **"The Logic of Liberation" by Christopher I. Wilkinson:** This book explores the role of logic in Buddhist soteriology and its relationship to spiritual practice.
+* **Stanford Encyclopedia of Philosophy - Buddhist Epistemology:** This online resource offers detailed articles on Buddhist theories of knowledge and their relationship to logic.
+
+Remember, this is just a starting point. Deeper exploration into specific Buddhist texts, commentaries, and scholarly works will provide a richer understanding of the multifaceted relationship between logic and the Buddhadharma.
+
+Unfortunately, due to the limitations of my knowledge and access to information, I am unable to provide an outline of the history and development of logic within the specific context of the Buddhadharma. My training materials and data do not include comprehensive information on Buddhist philosophical schools and their engagement with logic.
+
+However, I can offer some general insights and resources that might be helpful in your exploration:
+
+**1. Buddhist Epistemology:** While the Buddhadharma doesn't have a formal system of logic in the same way as Western philosophy, it does have a rich epistemology, which is the study of knowledge and how we acquire it. Key concepts include:
+
+* **Pratyakṣa (perception):** Direct sensory experience as a source of knowledge.
+* **Anumāna (inference):** Reasoning based on evidence and observation.
+* **Sabda (testimony):** Relying on the teachings of reliable sources, like the Buddha.
+
+**2. Buddhist Schools and Logic:** Different Buddhist schools have varying approaches to logic and reasoning. Some schools, like the Madhyamaka and Yogacara, emphasize skepticism and the limitations of logic in capturing ultimate reality. Others, like the Nyāya-Vaiseshika school, adopted and adapted Indian logic systems for Buddhist philosophical debates.
+
+**3. Resources:**
+
+* **Stanford Encyclopedia of Philosophy:** Articles on Buddhist Epistemology and Buddhist Philosophy of Language.
+* **Buddhist Studies Bibliography:** Searchable database of academic articles and books on various Buddhist topics.
+* **Books on Buddhist Epistemology:** "Introduction to Buddhist Epistemology" by Tom Tillemans, "Emptiness and Logic" by Jay Garfield.
+
+Remember, these are just starting points, and a thorough understanding would require delving deeper into specific Buddhist texts, philosophical discussions, and the work of scholars in the field.
 
 **Bard, what is a definition of logic that holds true for all religio-cultural permutations of logic throughout all languages, cultures and times; and, its progeny and offshoot of secular logic, in all its manifold permutations?**
 
