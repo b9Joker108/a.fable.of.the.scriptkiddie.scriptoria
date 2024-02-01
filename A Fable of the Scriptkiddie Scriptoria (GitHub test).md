@@ -162,12 +162,12 @@ Truth resides in the flowers.
 
 ## Dedication
 
-> **"Life is mostly froth and bubble, <br />  
+> **"Life is mostly froth and bubble, <br />
 > Two things stand like stone, <br /> 
 > Kindness in another's trouble, <br /> 
 > Courage in your own."** <br /> 
 
->	 ~ Adam Lindsay Gordon, 'Midas', (1864) 
+	 ~ Adam Lindsay Gordon, 'Midas', (1864) 
  
 I dedicate this work, and all that it yields, to those that embrace the ephemerality of life, and in it find the eternality of kindness and courage, and thereby embody both. 
 
