@@ -10849,6 +10849,10 @@ A cautionary word, be careful where you prospect and source information on shell
 
 **C**
 
+**Mendel Cooper**
+
+Cooper, Mendel (2007). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Independently published. ISBN 9781435752191
+
 **D**
 
 **E**
