@@ -10855,6 +10855,10 @@ Cooper, Mendel (2007). 'Advanced Bash-Scripting Guide: An in-depth exploration o
 
 **D**
 
+**Joseph DeVeau**
+
+DeVeau, Joseph (2016). 'BASH Guide'. U. S. A.: JD Bookworks. ISBN 9780996337656
+
 **E**
 
 **F**
