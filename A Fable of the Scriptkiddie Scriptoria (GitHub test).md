@@ -1524,7 +1524,6 @@ Ultimately, the future of shell scripting requires a nuanced approach that recog
 
 I hope this provides a more comprehensive perspective on the complex issue of POSIX compliance in shell scripting. Do you have any further thoughts or specific examples of how POSIX compliance has impacted shell design and progress? I'm always interested in learning more about this dynamic and evolving field.
 
-
 ## The Diagram of the Evolution of UNIX and Unix-like Shells
 
 The following diagram shows the evolution of UNIX and Unix-like shells, with their true origin, timeline, designers, toolset, toolset borrowing and toolset evolutions. The diagram is based on the information from the sources I have consulted, which were mostly Wikipedia, as I face been unable to source a definitive, economical, dedicated history of their evolution. 
@@ -1536,7 +1535,6 @@ Source: Conversation with Bing, 22/01/2024
 (2) Introduction | Nushell. [https://www.nushell.sh/book/](https://www.nushell.sh/book/). <br /> 
 (3) Install and Use Nu Shell on Linux | macOS | ComputingForGeeks. [https://computingforgeeks.com/install-and-use-nu-shel-linux-macos/](https://computingforgeeks.com/install-and-use-nu-shel-linux-macos/). <br /> 
 (4) Unix in a Nutshell, 4th Edition [Book] - O'Reilly Media. [https://www.oreilly.com/library/view/unix-in-a/0596100299/](https://www.oreilly.com/library/view/unix-in-a/0596100299/). <br /> 
-
 
 ## The Rise of POSIX Shell Scripting: A Need for Order in the Scripting Wild West
 
@@ -1625,7 +1623,6 @@ You're absolutely right! In the face of the **exponential acceleration of techno
 
 I hope this explanation clarifies the importance of this meta-analysis and encourages further exploration and investigation into the fascinating world of shell design and evolution!
 
-
 **\*NIX/UN*X shell patterns**
 
 Shell has emerged as a family of programming languages for the **\*NIX/UN*X** Operating System in the same sense that JCL emerged as a programming language for mainframe job control in the 1960s. It is a family of languages because we find variant syntaxes and capabilities in the Bourne shell, the Korn shell, the C shell, and others. Though there is dialectical variance, most of the patterns described here apply equally well to all these variants.
@@ -1665,7 +1662,6 @@ This section is a port, rewrite and adaptation, of a page dating back to circa 1
         * Safely moving to target directories.
         * Deciding between shell scripts and scripting languages for specific tasks.
 
-
 **Testing Against The Null String**
 The null string is an exceptional and sometimes problematic shell variable value.
 
@@ -1704,13 +1700,9 @@ esac
 **Security Note:*f
 This type of care is especially important when writing shell scripts that are intended to be executed SetUid, or to be executed by a networking daemon, or CGI-BIN script, as a hostile user can obtain unintended privileges through crafty probes into carelessly-written shell scripts.
 
-
-
-
 **Overall, this page serves as a valuable resource for shell scripting practitioners, providing practical solutions and best practices for common challenges.**
 
 **Would you like me to explain any specific pattern in detail or offer further information on shell scripting?**
-
 
 **Glossary**
 
@@ -1882,7 +1874,6 @@ While POSIX has undeniably brought order and facilitated the growth of shell scr
 
 Understanding the historical context and motivations behind the POSIX Shell Scripting standard sheds light on its importance and acknowledges the collaborative efforts that have shaped the landscape of efficient, portable scripting solutions. As technology continues to evolve, POSIX will undoubtedly adapt and refine, ensuring the continued relevance and power of shell scripting in the years to come.
 
-
  **The current shell scripting POSIX standard is POSIX.1-2017, formally known as IEEE Std 1003.1-2017.** It was published in 2018 and supersedes the previous POSIX.1-2008 standard.
 
 **Key Features and Scope:**
@@ -1927,11 +1918,9 @@ Understanding the historical context and motivations behind the POSIX Shell Scri
   [https://pubs.opengroup.org/onlinepubs/9699919799/](https://pubs.opengroup.org/onlinepubs/9699919799/)
 - Online resources and summaries are also available.
 
-
 **Flowing into the Future:**
 
 **Bard, our educational systems, and their curricula, should be informed by interdisciplinary Academia. For the most part, they are still not. Such stupidity persists throughout the world. I do appreciate the reasons for having reservations with the implementing and implications, of this technology, and its adaptations. That said, we should be using the leavening yield of this discourse and its attendant datasets, with crafting the emergence of polymaths, as standard. For a long time, we have had the scientific propensity to test the inherent abilities and propensities of each individual's individual zygotes, as well as the individual instantiations of the human genome in all its diversity, before they are quickened in the womb. We can also do this analysis on historical D. N. A. that has been preserved through the tyranny of time. This digression is of particular importance, because polymaths at the technological fulcrum and coalface of the computational shell, interacting with GenAI, is what we need with haste, in order to mitigate impending civilisation collapse. What say you?**
-
 
 I hear your strong call for a paradigm shift in education, emphasizing interdisciplinary approaches and fostering the development of polymaths. Your concerns about the current state and potential solutions are thought-provoking and merit serious consideration.
 
@@ -3418,8 +3407,6 @@ Citations:
 [7] Borg Documentation [https://borgbackup.readthedocs.io/_/downloads/en/1.1.11/pdf/](https://borgbackup.readthedocs.io/_/downloads/en/1.1.11/pdf/)
 [8] Fedora Magazine | Tux Machines [https://news.tuxmachines.org/aggregator/sources/63](https://news.tuxmachines.org/aggregator/sources/63)
 
-By Perplexity at [https://www.perplexity.ai/search/648e9635-c8b6-4dd5-badf-14d01c751427?s=m](https://www.perplexity.ai/search/648e9635-c8b6-4dd5-badf-14d01c751427?s=m)
-
 **Out of all the GNU/Linux distributions, which has the greatest number of packages in their repository?**
 
 **While exact package counts fluctuate, here are the distributions consistently recognized for their vast repositories:**
@@ -4002,6 +3989,39 @@ By mastering these concepts, you'll gain control over your digital assets and en
 Welcome to the fulcrum of automation, digital exploration, technological integration and synergy, that is the potentiality and application, of the contemporary shell script! The shell environment is the coalface and melting-pot of the digital world in all of its facets. Here, you'll learn how to harness the power of Bash and Zsh scripting in order to streamline your tasks, actively and pragmatically define and refine your technological interests and prowess, and empower the realisation of solutions to problems, and your ethical hacking endeavors. By writing simple scripts as an entry-level point of departure, you'll automate repetitive actions, analyze data efficiently, and build powerful tools for various hacking challenges.
 
 In the 'Explore' section of the GitHub website, in the subsection called 'Collections', that are “… curated lists and insight[s] into burgeoning industries, topics and communities…”, there is a particular curation, showcasing many of the text editor applications housed within GitHub repositories, an editor made the pith assertion: "The text editor is a **sacred** tool for developers." (NB: my emphasis in bold.) I agree, and you find that scriptors, coders, programmers, developers, hackers and software developers and engineers, albeit all those who script and write code, have a passionate, devotional and loyal following and fervour, for their beloved and favoured text editor and/or IDE. Mine effectively is Neovim in the Termux CLI, which through its exceptional community led development, of both the CLI package and the GUI application in their manifold evocations, but also their vast extensibility through the community infrastructure, resources and frameworks, that envelopes them in an ecosystem of an ever-growing number of plugins, many of which are in the Lua programming language. Now, I am being honest and forthright when I say, Neovim, Lua and the Plugins, are not only potentially, but are actually, a serious, perplexing and persistent mindfuck, well they have been in my experience, but they have rewarded grappling with this adversity, in their exponential rewards and returns. So, take this under advisement, as as Fleetwood Mac immortalised: “Go Your Own Way”, as have I! 
+
+**Shell default text editor** 
+
+In Termux, if `echo $EDITOR` doesn't return anything, it means that no default text editor has been nominated. Here's a breakdown:
+
+**Environment variable $EDITOR:**
+
+* This variable stores the path to the text editor that Termux will invoke by default when commands like `nano` or `vim` are used without specifying a file.
+* If it's empty, Termux won't know which editor to use and won't be able to automatically launch one.
+
+**Possible reasons for an empty $EDITOR:**
+
+* **Fresh installation:** Termux doesn't come with a pre-defined default text editor.
+* **Manual configuration:** You may have intentionally or unintentionally removed the text editor setting.
+- **Conflicting environment:** Specific configurations or scripts may have temporarily cleared the variable.
+
+**What to do next:**
+
+1. **Identify preferred editor:** Choose the text editor you'd like to use as default (e.g., `nano`, `micro`, `vi`, `vim`, Neovim (a.k.a `nvim`), or`emacs`, etc.).
+2. **Set the $EDITOR variable:**
+    - Open Termux.
+    - Type `export EDITOR=/path/to/your/editor` (replace `/path/to/your/editor` with the actual path of your chosen editor).
+    - Press Enter.
+    - To determine the actual path of your chosen editor, execute `which <insert text editor name>`
+    
+3. **Verify the setting:**
+    - Type `echo $EDITOR` and press Enter. This should now display the path to your chosen editor.
+
+**Additional notes:**
+
+- You can make the setting permanent by adding the `export EDITOR=` line to your `~/.bashrc` configuration file, or as appropriate in your chosen shell configuration file.
+- Termux provides packages for various editors. Use `pkg install <editor_name>` to install the one you prefer.
+- Note, you may need to research and tweak these instructions for your particular system implementation. 
 
 **1. Script Basics:**
 
