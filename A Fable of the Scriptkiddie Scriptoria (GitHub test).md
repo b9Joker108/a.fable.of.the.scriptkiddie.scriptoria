@@ -10870,6 +10870,10 @@ A cautionary word, be careful where you prospect and source information on shell
 
 **M**
 
+**Keith Makan**
+
+Makan, Keith (2014). 'Penetration Testing with the Bash shell: Make the most of the Bash shell and Kali Linux's command-line-based security assessment tools'. Birmingham, U. K.: Packt Publishing, Ltd. ISBN 9781849695107
+
 **N**
 
 **O**
