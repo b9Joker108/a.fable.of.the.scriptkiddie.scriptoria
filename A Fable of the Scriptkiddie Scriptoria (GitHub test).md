@@ -11004,7 +11004,11 @@ This work accessibly presents the latest research on how people learn effectivel
 
 **Mendel Cooper**
 
-Cooper, Mendel (2007). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Independently published. ISBN 9781435752191
+Cooper, Mendel (2006). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Revision 4.2.01. Independently published. Source: https://linux.die.net/abs-guide/ (accessed: Friday February 2, 2024) 
+
+Cooper, Mendel (2007). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Revision 6.2.07. Independently published. ISBN 9781435752191 
+
+Cooper, Mendel (2014). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Revision 10. Independently published. 
 
 **D**
 
