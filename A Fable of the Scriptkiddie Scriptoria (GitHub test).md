@@ -6092,7 +6092,7 @@ Welcome, intrepid scripters! Today, we leave the familiar shores of simulated en
 
 An advanced scripting technique of singular importance, is not only the practice of porting scripts from one shell scripting language, operating system, user environment or device architecture to another, but also packaging such scripts, for general portage and transferability between *NIX systems, distributions, flavours and/or implementations. This profoundly builds capacity and facility in the wider *NIX community, adding to the available pool of tools and resources. One traditional UNIX feather-in-the cap to achieve this, is `type`.
 
-**Bard, what version of *NIX was `type` first implemented?**
+**Bard, what version of \*NIX was `type` first implemented?**
 
 **According to available historical records, the `type` command was first introduced in the Seventh Edition Unix, released in 1979.**
 
@@ -9976,19 +9976,10 @@ To start using tmux, type `tmux` on your terminal. This command launches a tmux 
 
 Tmux operates using a series of keybindings (keyboard shortcuts) triggered by pressing the "prefix" combination, which is Ctrl+B by default. You can use these keybindings to create and manage windows, panes, layouts, and more. For example, to create a new window, press Ctrl+B then C. To switch to the next window, press Ctrl+B then N. To split the current window into two panes, press Ctrl+B then %. To switch to the next pane, press Ctrl+B then O¹².
 
-You can customize the appearance and behavior of tmux by editing the `.tmux.conf` file in your home directory. You can change the prefix key, the status bar, the color scheme, the key bindings, and more. You can also use plugins to extend tmux's functionality, such as adding a powerline, a clipboard, or a session manager¹².
+You can customize the appearance and behavior of tmux by editing the `.tmux.conf` file in your home directory. You can change the prefix key, the status bar, the color scheme, the key bindings, and more. You can also use plugins to extend tmux's functionality, such as adding a powerline, a clipboard, or a session manager. 
 
-To learn more about how to use tmux, you can check the manual page by typing `man tmux`, or visit the online documentation⁴. You can also find some tutorials and guides on the web, such as this beginner's guide² or this tmux cheat sheet⁵.
+Note, `tmuxifier` @GitHub and `tmuxinator` @GitHub. They are both session managers for `tmux`. 
 
-I hope this helps you to understand what tmux is and how to use it in Termux. 😊
-
-¹: [GitHub - tmux/tmux: tmux source code](^6^)
-²: [A beginner's guide to tmux | Enable Sysadmin](^2^)
-³: [Termux - a terminal emulator application for Android OS extendible by variety of packages](^3^)
-⁴: [Getting Started · tmux/tmux Wiki · GitHub](^6^)
-⁵: [tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
-
-Source: Conversation with Bing, 01/02/2024
 (1) How to use tmux copy / paste in Termux?. https://android.stackexchange.com/questions/194042/how-to-use-tmux-copy-paste-in-termux.
 (2) A beginner's guide to tmux | Enable Sysadmin. https://www.redhat.com/sysadmin/introduction-tmux-linux.
 (3) Tmux: Enabling Hacker Mode Display in Termux - LearnTermux.tech. https://www.learntermux.tech/2023/05/Tmux.html.
