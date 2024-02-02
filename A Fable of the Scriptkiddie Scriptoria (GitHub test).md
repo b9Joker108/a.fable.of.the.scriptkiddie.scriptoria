@@ -9918,6 +9918,23 @@ Source: Conversation with Bing, 03/02/2024
 (4) Logic Gates | Brilliant Math & Science Wiki. https://brilliant.org/wiki/logic-gates/.
 
 
+There are several online resources that can help you learn more about LaTeX syntax for Markdown documents. Here are some of them:
+
+- [How to use LaTeX in Markdown - Fabrizio Musacchio](^1^): This article explains how to enable MathJax support for Markdown processors and how to write equations and other LaTeX expressions in Markdown.
+- [Writing Markdown in LaTeX Documents - Overleaf](^2^): This article demonstrates how to use the markdown package in LaTeX to write inline or external Markdown files, and how to configure its features and options.
+- [MathJax basic tutorial and quick reference](^4^): This tutorial covers the basic syntax and commands for writing LaTeX equations in MathJax, as well as some tips and tricks.
+- [LaTeX/Mathematics - Wikibooks](^5^): This book chapter provides a comprehensive guide to LaTeX mathematics, including symbols, environments, fonts, spacing, alignment, and more.
+
+I hope these resources help you with using LaTeX in Markdown. If you have any more questions, feel free to ask me. 😊.
+
+Source: Conversation with Bing, 03/02/2024
+(1) How to use LaTeX in Markdown - Fabrizio Musacchio. https://www.fabriziomusacchio.com/blog/2021-08-10-How_to_use_LaTeX_in_Markdown/.
+(2) Writing Markdown in LaTeX Documents - Overleaf. https://www.overleaf.com/learn/how-to/Writing_Markdown_in_LaTeX_Documents.
+(3) How can I use Latex in Markdown? - Stack Overflow. https://stackoverflow.com/questions/38788304/how-can-i-use-latex-in-markdown.
+(4) undefined. https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML.
+(5) Writing Markdown in LaTeX documents - Overleaf. https://www.overleaf.com/latex/templates/writing-markdown-in-latex-documents/whdrnpcpnwrm.
+(6) undefined. https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML.
+
 **Analogue Computers and Analogue Computation**
 
 **Bing, does the prevalence, indeed dominance, of the Fibonacci Sequence throughout Nature, position Nature within the paradigm of analogue computation?**
