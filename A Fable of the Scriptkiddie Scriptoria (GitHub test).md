@@ -10953,7 +10953,7 @@ I can't say with certainty, that I quite know exactly what all this means. But, 
 **Z**
 
 
-## Annotated Bibliography and Print Resources
+## Annotated Bibliography: Physical Print and Electronic Print Resources and Media 
 
 **A**
 
@@ -10962,6 +10962,10 @@ I can't say with certainty, that I quite know exactly what all this means. But, 
 **John Bach**
 
 Bach, John (2020). 'Bash Scripting: Learning the bash Shell'. First edition. Independently published. ISBN 9798685100719
+
+**Alex Baranowski**
+
+Baranowski, Alex (2020). 'Bash Bushido: Become the Command Line Master'. Version 1.1. Self published/Kindle edition. ASIN B082Z65LCD Source: https://github.com/AlexBaranowski/bash-bushido-book/releases (accessed: Friday February 2, 2024)
 
 **Gregory Bateson**
 
@@ -11134,4 +11138,6 @@ https://youtu.be/9nDYYc_7sKs?si=PUBWw-v9c5epYfq6
 The following is a very recent tutorial on Android ethical hacking from the reputable Learn Ladder channel, and the tutor remains anonymous. 
 
 https://youtu.be/TGDpB9nBce0?si=5yX500f619Kee6OC
+
+https://linux.die.net/man/
 
