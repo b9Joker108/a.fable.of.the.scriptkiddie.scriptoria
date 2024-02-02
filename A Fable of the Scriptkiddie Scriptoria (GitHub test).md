@@ -11181,3 +11181,10 @@ https://youtu.be/TGDpB9nBce0?si=5yX500f619Kee6OC
 
 https://linux.die.net/man/
 
+https://youtu.be/vJO-5gY0wpk?si=ejnZH4h_AIiwzOiP
+
+
+https://youtu.be/BnB2m1nXZ84?si=WSKq5gTvwzUKuGjb
+
+
+
