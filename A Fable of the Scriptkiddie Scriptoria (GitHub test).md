@@ -10849,15 +10849,11 @@ A cautionary word, be careful where you prospect and source information on shell
 
 **C**
 
-**Mendel Cooper**
 
-Cooper, Mendel (2007). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Independently published. ISBN 9781435752191
 
 **D**
 
-**Joseph DeVeau**
 
-DeVeau, Joseph (2016). 'BASH Guide'. U. S. A.: JD Bookworks. ISBN 9780996337656
 
 **E**
 
@@ -10878,9 +10874,7 @@ DeVeau, Joseph (2016). 'BASH Guide'. U. S. A.: JD Bookworks. ISBN 9780996337656
 
 **M**
 
-**Keith Makan**
 
-Makan, Keith (2014). 'Penetration Testing with the Bash shell: Make the most of the Bash shell and Kali Linux's command-line-based security assessment tools'. Birmingham, U. K.: Packt Publishing, Ltd. ISBN 9781849695107
 
 **N**
 
@@ -10965,6 +10959,12 @@ I can't say with certainty, that I quite know exactly what all this means. But, 
 
 **B**
 
+**John Bach**
+
+Bach, John (2020). 'Bash Scripting: Learning the bash Shell'. First edition. Independently published. ISBN 9798685100719
+
+**Gregory Bateson**
+
 Bateson, Gregory (2000) [First published 1972]. 'Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology'. University of Chicago Press. ISBN 9780226039053
 
 **Robert Beer**
@@ -10998,7 +10998,15 @@ This work accessibly presents the latest research on how people learn effectivel
 
 **C**
 
+**Mendel Cooper**
+
+Cooper, Mendel (2007). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Independently published. ISBN 9781435752191
+
 **D**
+
+**Joseph DeVeau**
+
+DeVeau, Joseph (2016). 'BASH Guide'. U. S. A.: JD Bookworks. ISBN 9780996337656
 
 **E**
 
@@ -11027,6 +11035,10 @@ Kernighan, Brian W. & Pike, Rob (1984). 'The UNIX Programming Environment'. Bell
 Light, Jennifer S. (1999). 'When Computers were women' in *Technology and Culture*, July 1999, Vol 40, Issue 3, Research Library Core, pp. 455 - 483.
 
 **M**
+
+**Keith Makan**
+
+Makan, Keith (2014). 'Penetration Testing with the Bash shell: Make the most of the Bash shell and Kali Linux's command-line-based security assessment tools'. Birmingham, U. K.: Packt Publishing, Ltd. ISBN 9781849695107
 
 **Melody**
 
