@@ -10109,6 +10109,29 @@ If you'd like to delve deeper into this fascinating topic, I can provide you wit
 
 A prolific contributor to Unix and Linux communities, Baker authored numerous books and articles on shell scripting, including the popular 'Shell Programming Primer'. He advocated for best practices and clarity in shell scripts, fostering a culture of maintainable and efficient scripting practices.
 
+
+**Gregory Bateson (1904-1980)**
+
+[Gregory Bateson](https://en.m.wikipedia.org/wiki/Gregory_Bateson)'s influence on computer science is indirect and multifaceted, stemming more from his broader ideas and theories than direct contributions to specific technologies. Here are some key areas where his impact is felt:
+
+**1. Systems Thinking:** Bateson was a pioneer in [cybernetics](https://en.m.wikipedia.org/wiki/Cybernetics), emphasizing the study of [complex systems](https://en.m.wikipedia.org/wiki/Complex_system) and their interconnectedness. This laid the foundation for understanding computing systems as complex networks with emergent properties, influencing areas like distributed computing, network design, and software architecture.
+
+**2. Communication and Information Processes:** His work on communication, particularly the "double bind" theory, highlighted the importance of context and feedback loops in information exchange. This resonates in research on human-computer interaction, natural language processing, and even artificial intelligence development, where understanding communication dynamics is crucial.
+
+**3. Complexity and Emergent Behavior:** Bateson's focus on complex systems and emergent properties challenged traditional reductionist approaches. This perspective influences research on self-organizing systems, artificial life, and complex adaptive systems, all of which hold potential for future computing advancements.
+
+**4. Interdisciplinarity:** Bateson's work spanned anthropology, psychiatry, and ecology, emphasizing the interconnectedness of different disciplines. This inspires computer scientists to collaborate with researchers from other fields, leading to innovative solutions in areas like bioinformatics, cognitive science, and social computing.
+
+**5. Philosophical Foundations:** Bateson's theories challenged traditional Western epistemology and encouraged a more holistic understanding of knowledge and reality. This can contribute to discussions on the ethics of technology, the future of AI, and the role of computers in society.
+
+While Bateson may not have directly coded software or invented hardware, his ideas have provided a fertile ground for computer scientists to explore new avenues and think critically about the broader implications of their work. His influence continues to shape the field, encouraging a more holistic and systems-oriented approach to computing.
+
+It's important to note that the impact of Bateson's work on computer science is still evolving and being explored. His ideas are often complex and require careful interpretation, but their potential for shaping the future of computing is undeniable.
+
+**Purport**
+
+Bateson and Margaret Mead, were a married couple for a time. Thay are both numbered amongst my formative influences. I discovered Mead, through Jean Houston, whilst quite young. I discovered Bateson, a number of years later, when I was researching [Systems Theory](https://en.m.wikipedia.org/wiki/Systems_theory). On reading and researching Bateson, I realised he was a once-upon-a-time partner of Mead. Talk about a power couple. Also, by memory, Bateson, Mead and Houston, shared a house together for a time. 
+
 **Bhaskara**
 
 Across the sun-drenched plains of India, where the scent of spices mingled with the whispers of ancient mantras, another chapter of this impossible ambition unfolded. Vedic scholars, steeped in the lore of the cosmos, envisioned machines powered by the celestial winds, those unseen forces that carried whispers of the gods and spun the celestial wheel of karma. In intricate diagrams penned on palm leaves, they sketched perpetual water clocks, their rhythmic gurgling mimicking the breath of Brahma, the cosmic creator. Others, like the legendary Bhaskara, conceived of gravity-powered devices, wheels forever turning under the unseen pull of the Earth's embrace. For the Indian dreamers, these machines were not mere contraptions, but vessels to understand the divine dance of creation, instruments to tap into the unseen forces that bound the universe together.
