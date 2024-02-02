@@ -1971,7 +1971,6 @@ Your message serves as a powerful reminder of the urgent need for educational re
 
 **Let's continue this important conversation, focusing on actionable steps and responsible approaches to realizing the potential of interdisciplinary education and emerging technologies for the betterment of humanity.**
 
-
 Shell scripting remains a valuable tool for system administration, automation tasks, and even web development. The contemporary shell script is potentially so much more than this, it is an integrated superset of technologies and their dynamic potential integrations, really only limited by endeavour, imagination and technological ability and propensity. While higher-level languages offer flexibility and power, shell scripts retain their advantages in simplicity, platform independence, and ease of integration with existing tools and environments.
 
 The future of shell scripting likely lies in integration with other technologies. We can expect further advancements in areas like:
@@ -3731,7 +3730,7 @@ Think of the terminal as your map and the commands as your compass. Mastering na
 
 **1.1** **Term Navigation:**
 
-- **Directories:** Explore your digital landscape with (`cd`): change directories (`cd path`), access your home directory (`cd ~`), and list contents (`ls`). Create new directories or folders (`mkdir folder_name`) and remove them (`rmdir folder_name`). In the terminal, we use the tilde `~` in various ways and sometimes call the symbol (as opposed to the diacritic) a squiggle, squiggly, swiggle, or twiddle. According to the [Jargon File](https://en.m.wikipedia.org/wiki/Jargon_File), other synonyms sometimes used in programming include not, approx, wiggle, enyay (after eñe) and (humorously) squiggle. On *NIX-like operating systems (including AIX, BSD, GNU/Linux and macOS), tilde normally indicates the current user's home directory. For example, if the current user's home directory is `/home/user`, then the command `cd ~` is equivalent to `cd /home/user`, `cd $HOME`, or `cd`. This convention derives from the Lear-Siegler ADM-3A terminal in common use during the 1970s, which happened to have the tilde symbol and the word "Home" (for moving the cursor to the upper left) on the same key. When prepended to a particular username, the tilde indicates that user's home directory (e.g., `~janedoe` for the home directory of user janedoe, such as `/home/janedoe`).
+- **Directories:** Explore your digital landscape with (`cd`): change directories (`cd path`), access your home directory (`cd ~`), and list contents (`ls`). Create new directories or folders (`mkdir folder_name`) and remove them (`rmdir folder_name`). In the terminal, we use the [tilde](https://en.m.wikipedia.org/wiki/Tilde) `~` in various ways and sometimes call the symbol (as opposed to the diacritic) a squiggle, squiggly, swiggle, or twiddle. According to the [Jargon File](https://en.m.wikipedia.org/wiki/Jargon_File), other synonyms sometimes used in programming include not, approx, wiggle, enyay (after [eñe](https://en.m.wikipedia.org/wiki/%C3%91)) and (humorously) squiggle. On *NIX-like operating systems (including [AIX](https://en.m.wikipedia.org/wiki/IBM_AIX), [BSD](https://en.m.wikipedia.org/wiki/Berkeley_Software_Distribution), [GNU/Linux](https://en.m.wikipedia.org/wiki/Linux) and [macOS](https://en.m.wikipedia.org/wiki/MacOS)), tilde normally indicates the current user's [home directory](https://en.m.wikipedia.org/wiki/Home_directory). For example, if the current user's home directory is `/home/user`, then the command `cd ~` is equivalent to `cd /home/user`, `cd $HOME`, or `cd`. This convention derives from the [Lear-Siegler ADM-3A](https://en.m.wikipedia.org/wiki/Lear_Siegler) terminal in common use during the 1970s, which happened to have the tilde symbol and the word "Home" (for moving the cursor to the upper left) on the same key. When prepended to a particular username, the tilde indicates that user's home directory (e.g., `~janedoe` for the home directory of user janedoe, such as `/home/janedoe`).
 - **Tab Completion:** Befriend your virtual keyboard's `<Tab>` key! It autocompletes file and directory names, saving you precious typing time.
 - **Wildcards:** These are your search party: `*` matches any number of characters, `?` replaces one, and `[]` lets you specify character sets for flexible navigation.
 
@@ -4306,7 +4305,7 @@ I hope this comprehensive explanation sheds light on the historical journey of t
 
 `set` is not just another tool; it's an integral part of the UNIX shell itself, deeply woven into the fabric of how users interact with the command line. Its broad range of functionalities makes it a cornerstone of the traditional UNIX toolset, serving as a powerful and flexible companion for anyone navigating the terminal.
 
-**So, in *NIX when you employ the `=` operator in setting and determining a variable, you are actually employing the primary function of the `set` *NIX tool bound to a symbolic representation?**
+**So, in \*NIX when you employ the `=` operator in setting and determining a variable, you are actually employing the primary function of the `set` \*NIX tool bound to a symbolic representation?**
 
 **Not exactly.** The `=` operator and the `set` command are both crucial for variable management in *NIX shells, but they serve distinct purposes:
 
@@ -4365,7 +4364,7 @@ Unlike some programming languages, Bash doesn't have strict data types. Variable
 - **Booleans:** True or False values representing conditions (e.g., `found=false`, `is_running=true`).
 - **Arrays:** Lists of ordered values accessed by index (e.g., `files=(file1.txt file2.txt file3.txt)`, `echo ${files[2]}`).
 
-**Bash doesn't have strict data types, does Zsh? Has the process of setting and determining data types significantly evolved in *NIX systems?**
+**Bash doesn't have strict data types, does Zsh? Has the process of setting and determining data types significantly evolved in \*NIX systems?**
 
 ## Data Types in Bash and Zsh
 
