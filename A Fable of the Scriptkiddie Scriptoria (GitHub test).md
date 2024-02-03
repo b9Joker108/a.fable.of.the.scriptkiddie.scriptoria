@@ -10363,6 +10363,29 @@ You can customize the appearance and behavior of tmux by editing the `.tmux.conf
 
 Note, `tmuxifier` @GitHub and `tmuxinator` @GitHub. They are both session managers for `tmux`. 
 
+```zsh
+~gem install tmuxinator
+tmuxinator-3.1.0 installed
+~sgpt "In Termux, how do I set my environment variable to Neovim? Also, why do I want to change the environment variable to Neovim? The reason I ask, is I just installed tmuxinator and the installation recommrnded doing it."
+To set your environment variable to Neovim in Termux, you can define the EDITOR environment
+variable in your shell's configuration file. Since you're using zsh, you would typically add the
+following line to your .zshrc file:
+
+export EDITOR='nvim'
+
+After adding this line, you need to either restart your shell or source your .zshrc file with
+the command source ~/.zshrc to apply the changes.
+
+The reason you might want to change the EDITOR environment variable to Neovim is that many
+command-line tools and scripts use this variable to determine which editor to open when they
+need to allow the user to edit a file. By setting EDITOR to nvim, you're specifying that Neovim
+should be used as the default text editor for these operations.
+
+Tmuxinator might recommend setting Neovim as your editor because it can open editor sessions
+directly from its configuration files, allowing you to edit them quickly. If you prefer using
+Neovim for editing text, setting it as your default editor will streamline your workflow.
+```
+
 (1) How to use tmux copy / paste in Termux?. https://android.stackexchange.com/questions/194042/how-to-use-tmux-copy-paste-in-termux.
 (2) A beginner's guide to tmux | Enable Sysadmin. https://www.redhat.com/sysadmin/introduction-tmux-linux.
 (3) Tmux: Enabling Hacker Mode Display in Termux - LearnTermux.tech. https://www.learntermux.tech/2023/05/Tmux.html.
