@@ -11248,6 +11248,10 @@ Khemchandani, Vineeta; Anand, Darpan; Mishra, K.K. &  Harit, Sandeep (2022). 'UN
 
 **L**
 
+**Sarath Lakshman** 
+
+Lakshman, Sarath (2011). 'Linux Shell Scripting Cookbook: Solve real-world shell scripting problems with over 110 simple but incredibly effective recipes'. Olton, Birmingham, U. K.: Packt Publishing Ltd. ISBN 9781849513760
+
 **Jennifer S. Light** 
 
 Light, Jennifer S. (1999). 'When Computers were women' in *Technology and Culture*, July 1999, Vol 40, Issue 3, Research Library Core, pp. 455 - 483.
