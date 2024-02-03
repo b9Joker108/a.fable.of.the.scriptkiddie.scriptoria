@@ -11195,6 +11195,10 @@ DeVeau, Joseph (2016). 'BASH Guide'. U. S. A.: JD Bookworks. ISBN 9780996337656
 
 **F**
 
+**Eric Foster-Johnson, *et al.***
+
+Foster-Johnson, Eric; Welch, John C. & Anderson, Micah (2005). 'Beginning Shell Scripting'. Indianapolis, Indiana, U. S. A.: Wiley Publishing, Inc. ISBN 9780764583209
+
 **G**
 
 Garfinkel, Simson; Weise, Daniel & Strassmann, Steven (eds.) (1994). 'The UNIX HATERS Handbook'. With illustrations by John Klossner. San Mateo, California, U. S. A.: IDG Books Worldwide, Inc. ISBN 1568842031
