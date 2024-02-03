@@ -2289,8 +2289,6 @@ Citations:
 [16] Intelligent Tutoring Systems by and for the Developing World: A Review of Trends and Approaches for Educational Technology in a Global Context - International Journal of Artificial Intelligence in Education [https://link.springer.com/article/10.1007/s40593-014-0028-6](https://link.springer.com/article/10.1007/s40593-014-0028-6)
 [17] 2023 Cyber Security Statistics The Ultimate List Of Stats, Data & Trends - PurpleSec [https://purplesec.us/resources/cyber-security-statistics/](https://purplesec.us/resources/cyber-security-statistics/)
 
-By Perplexity at [https://www.perplexity.ai/search/2b54dd89-9e5a-46a7-855e-abe1e4265e48?s=m](https://www.perplexity.ai/search/2b54dd89-9e5a-46a7-855e-abe1e4265e48?s=m)
-
 **What recent studies conducted in the third world, have demonstrated the community building, social inclusion, and economic development, that have resulted through the facility of digital inclusion, particularly of hand-held devices such as Android?**
 
 There's a growing body of research exploring the impact of digital inclusion, particularly through Android devices, in developing countries. Here are some recent studies highlighting the positive outcomes you mentioned:
@@ -2575,7 +2573,7 @@ As GNU/Linux is in main [FOSS](https://en.m.wikipedia.org/wiki/Free_and_open-sou
 
 **So plan for peace, but prepare for war!**
 
-**UNIX™, UNIX®, *NIX and their illegitimate progeny: Android and Termux**
+**UNIX™, UNIX®, \*NIX and their illegitimate progeny: Android and Termux**
 
 In the grand narrative of computing, UNIX threads a fascinating tale. Born in the late 1960s at Bell Labs, a fulcrum of innovation, it wasn't meant to conquer the world, but rather, it arose from a desire for freedom and exploration. Let's embark on a journey through its history, purpose, design, and philosophy, appreciating its unique tapestry woven into the fabric of computing.
 
@@ -3007,7 +3005,7 @@ The contrasting design philosophies of **security and control** vs. **openness a
 Key design differences:
 
 - **Android's focus on app sandboxing, security, and resource management:** This prioritizes protecting users from malicious apps, ensuring smooth system operation on limited resources, and preventing unauthorized access to sensitive data. This approach is crucial for mobile devices where security and performance are paramount.
-- **Traditional *NIX systems' focus on open access and user control:** These systems often grant users significant control over their systems, allowing them to install and modify software, access system files, and configure settings to their liking. This philosophy values user freedom and flexibility but can also pose security risks and impact system stability.
+- **Traditional \*NIX systems' focus on open access and user control:** These systems often grant users significant control over their systems, allowing them to install and modify software, access system files, and configure settings to their liking. This philosophy values user freedom and flexibility but can also pose security risks and impact system stability.
 
 The result is a clear separation between the two in terms of:
 
@@ -4004,6 +4002,9 @@ By mastering these concepts, you'll gain control over your digital assets and en
 Welcome to the fulcrum of automation, digital exploration, technological integration and synergy, that is the potentiality and application, of the contemporary shell script! The shell environment is the coalface and melting-pot of the digital world in all of its facets. Here, you'll learn how to harness the power of Bash and Zsh scripting in order to streamline your tasks, actively and pragmatically define and refine your technological interests and prowess, and empower the realisation of solutions to problems, and your ethical hacking endeavors. By writing simple scripts as an entry-level point of departure, you'll automate repetitive actions, analyze data efficiently, and build powerful tools for various hacking challenges.
 
 In the 'Explore' section of the GitHub website, in the subsection called 'Collections', that are “… curated lists and insight[s] into burgeoning industries, topics and communities…”, there is a particular curation, showcasing many of the text editor applications housed within GitHub repositories, an editor made the pith assertion: "The text editor is a **sacred** tool for developers." (NB: my emphasis in bold.) I agree, and you find that scriptors, coders, programmers, developers, hackers and software developers and engineers, albeit all those who script and write code, have a passionate, devotional and loyal following and fervour, for their beloved and favoured text editor and/or IDE. Mine effectively is Neovim in the Termux CLI, which through its exceptional community led development, of both the CLI package and the GUI application in their manifold evocations, but also their vast extensibility through the community infrastructure, resources and frameworks, that envelopes them in an ecosystem of an ever-growing number of plugins, many of which are in the Lua programming language. Now, I am being honest and forthright when I say, Neovim, Lua and the Plugins, are not only potentially, but are actually, a serious, perplexing and persistent mindfuck, well they have been in my experience, but they have rewarded grappling with this adversity, in their exponential rewards and returns. So, take this under advisement, as as Fleetwood Mac immortalised: “Go Your Own Way”, as have I! 
+
+Chris Grieser (https://x.com/pseudo_meta) provided a very useful code snippet for resolving an issue I had with Zsh with Lua Plugins for Neovim. You may see it annotated in my dotfiles/config files. He has a very interesting and useful weblog on Neovim:
+https://nanotipsforvim.prose.sh/neovim-as-ide
 
 **Shell default text editor** 
 
