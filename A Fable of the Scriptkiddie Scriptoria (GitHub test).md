@@ -11331,6 +11331,8 @@ Vaswani, Ashish; Shazeer, Noam & Parmar, Niki, *et al.* (2017 [v.1], revised 202
 
 **Z**
 
+# The following are notes and items, such as YouTube vids, that need to be integrated into the work
+
 Beneath the azure skies of ancient Greece, where philosophers grappled with the mysteries of the cosmos, a different kind of quest unfolded. In workshops bathed in the golden light of the Aegean, ingenious minds like Archimedes and Heron of Alexandria dreamt of machines that danced with the celestial ballet. They envisioned waterwheels forever turning, driven by the tireless pull of the moon, and spheres nestled within spheres, mimicking the endless waltz of the planets. Archimedes, with his mind a labyrinth of gears and levers, sought to harness the sun's fiery chariot, crafting mirrors to capture its radiant energy and set his contraptions in perpetual motion. His "water screw," a spiral that endlessly ascended, seemed to echo the Milky Way's celestial climb. In these dreams of clockwork cosmos, the Greeks sought not just practicality, but a glimpse into the divine machinery that orchestrated the universe's grand play.
 
 And in the verdant bamboo forests of ancient China, where dragons danced in the morning mist and the secrets of the universe were whispered in rustling leaves, the quest for perpetual motion took on a mystical allure. Taoist alchemists, their minds honed by meditation and fueled by potent elixirs, sought to harness the mythical yin and yang forces, the eternal push and pull that kept the universe in balance. They dreamt of mercury wheels eternally spinning, fueled by the quicksilver essence of life itself, and water clocks driven by the celestial dragon's endless dance. For the Chinese, these machines were not just feats of engineering, but talismans to capture the elusive Tao, the ever-flowing river of cosmic energy.
@@ -11355,6 +11357,8 @@ https://youtu.be/vJO-5gY0wpk?si=ejnZH4h_AIiwzOiP
 https://youtu.be/BnB2m1nXZ84?si=WSKq5gTvwzUKuGjb
 
 https://youtu.be/EW_2MhFu7tE?si=DwgrDDyte_s_4WsM
+
+https://youtu.be/LB9wVRYF9tA?si=aHSu1IdgnT5e74eC
 
 
 
