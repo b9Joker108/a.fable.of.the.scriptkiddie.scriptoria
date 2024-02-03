@@ -11211,13 +11211,23 @@ Gebremichael, Yonas (2023). 'Master Termux - Hacking with Android: Beginner to A
 
 **J**
 
+**M. Jones**
+
 Jones, M. (2011). 'Evolution of shells in Linux: From Bourne to Bash and beyond'. Source: [https://developer.ibm.com/tutorials/l-linux-shells/](https://developer.ibm.com/tutorials/l-linux-shells/) (accessed: Wednesday January 24, 2024)
 
 **K**
 
+**Brian W. Kernighan, *et al.*** 
+
 Kernighan, Brian W. & Pike, Rob (1984). 'The UNIX Programming Environment'. Bell Telephone Laboratories, Incorporated. Prentice-Hall Software Series. Englewood Cliffs, New Jersey, U. S. A.: Prentice-Hall, Inc. ISBN 0139376992
 
+**Vineeta Khemchandani, *et al.*** 
+
+Khemchandani, Vineeta; Anand, Darpan; Mishra, K.K. &  Harit, Sandeep (2022). 'UNIX Programming: UNIX Processes, Memory Management, Process Communication, Networking, and Shell Scripting'. London, U. K.: BPB Online. ISBN 9789355510402
+
 **L**
+
+**Jennifer S. Light** 
 
 Light, Jennifer S. (1999). 'When Computers were women' in *Technology and Culture*, July 1999, Vol 40, Issue 3, Research Library Core, pp. 455 - 483.
 
