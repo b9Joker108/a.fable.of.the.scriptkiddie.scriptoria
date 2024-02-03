@@ -11190,6 +11190,11 @@ This work accessibly presents the latest research on how people learn effectivel
 (4) Make It Stick: The Science of Successful Learning Hardcover - Amazon.com.au. https://www.amazon.com.au/Make-Stick-Science-Successful-Learning/dp/0674729013.
 (5) Make It Stick : The Science of Successful Learning - Google Books. https://books.google.com/books/about/Make_It_Stick.html?id=oneWAwAAQBAJ.
 
+**Ken O. Burtch** 
+
+Burtch, Ken O. (2004). 'Linux Shell Scripting with Bash'. Indianapolis, Indiana, U. S. A.: Sams Publishing. ISBN 0672326426
+
+
 **C**
 
 **Mendel Cooper**
