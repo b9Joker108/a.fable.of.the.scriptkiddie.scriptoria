@@ -11179,7 +11179,7 @@ Beer emphasizes the interconnectivity of symbols, highlighting how they often wo
 **Weaknesses:** Some critics have noted occasional inconsistencies in transliteration and the lack of in-depth analysis of specific iconographic themes. Additionally, the focus on line drawings might limit the understanding of nuanced details in actual thangka paintings. The monograph only runs to just over 390 pages. 
 
 
-**Peter Brown, et al.** 
+**Peter Brown, *et al.*** 
 
 Brown, Peter C.; Roediger III, Henry L. &  McDaniel, Mark A. (2014). 'Make It Stick: The Science of Successful Learning'. Cambridge, Massachusetts, U. S. A.: The Belknap Press *of* Harvard University Press. ISBN 9780674729018
 
@@ -11207,6 +11207,10 @@ Cooper, Mendel (2007). 'Advanced Bash-Scripting Guide: An in-depth exploration o
 Cooper, Mendel (2014). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Revision 10. Independently published. 
 
 **D**
+
+**Vedran Dakic, *et al.***
+
+Dakic, Vedran & Redzepagic, Jasmin  (2022). 'Linux Command Line and Shell Scripting Techniques: Master practical aspects of the Linux Command line and then use it as a part of the shell scripting process'. Birmingham, U. K.: Packt Publishing.  ISBN 9781800205192
 
 **Joseph DeVeau**
 
