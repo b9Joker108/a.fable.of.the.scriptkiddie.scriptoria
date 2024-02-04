@@ -21,6 +21,14 @@ Every effort has been made to make this book as complete and as accurate as poss
 
 **Trademarks and Copyrights**
 
+Any brand names and product names mentioned in this book may be subject to 
+trademark, brand or patent protection and if so, are trademarks or registered 
+trademarks of their respective holders. The use of brand names, product 
+names, common names, trade names, product descriptions, etc., even without 
+a particular marking in this work, is in no way to be construed to mean that 
+such names may be regarded as unrestricted in respect of trademark and 
+brand protection legislation, and could thus be used by anyone.
+
 This work mentions a number of ...
 
 **Meta and methodology**
