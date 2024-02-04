@@ -192,7 +192,7 @@ The purpose of this work is, fundamentally, to provide a roadmap for the acquiri
 
 I wholeheartedly encourage the forking of this repository to your own GitHub repository. Also, you may easily clone this repository locally, if you have `git` installed on your system with: 
 
-`git clone https://github.com/b9Joker108/a.fable.of.the.scriptkiddie.scriptoria`
+```git clone https://github.com/b9Joker108/a.fable.of.the.scriptkiddie.scriptoria```
 
 **Personal Knowledge Management System**
 
