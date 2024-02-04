@@ -11254,6 +11254,10 @@ Jones, M. (2011). 'Evolution of shells in Linux: From Bourne to Bash and beyond'
 
 Kernighan, Brian W. & Pike, Rob (1984). 'The UNIX Programming Environment'. Bell Telephone Laboratories, Incorporated. Prentice-Hall Software Series. Englewood Cliffs, New Jersey, U. S. A.: Prentice-Hall, Inc. ISBN 0139376992
 
+**Philip Kirkbride**
+
+ (2020). 'Basic Linux Terminal Tips and Tricks: Learn to Work Quickly on the Command Line'. First Edition. Berkeley, California, U. S. A.: Apress. ISBN 9781484260340
+
 **Vineeta Khemchandani, *et al.*** 
 
 Khemchandani, Vineeta; Anand, Darpan; Mishra, K.K. &  Harit, Sandeep (2022). 'UNIX Programming: UNIX Processes, Memory Management, Process Communication, Networking, and Shell Scripting'. London, U. K.: BPB Online. ISBN 9789355510402
