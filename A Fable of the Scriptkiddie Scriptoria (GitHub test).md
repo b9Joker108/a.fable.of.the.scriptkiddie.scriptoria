@@ -11248,6 +11248,10 @@ Gebremichael, Yonas (2023). 'Master Termux - Hacking with Android: Beginner to A
 
 **H**
 
+**Musaab Hasan, *et al.***
+
+Hasan, Musaab & Balbahaith, Zayed (2020). 'Mastering Linux Security'. Beau Massin, Mauritius: LAP LAMBERT Academic Publishing. ISBN 9786200566034
+
 **I**
 
 **J**
