@@ -11343,6 +11343,10 @@ Vaswani, Ashish; Shazeer, Noam & Parmar, Niki, *et al.* (2017 [v.1], revised 202
 
 **Y**
 
+**Ray Yao**
+
+Yao, Ray (2015). 'Shell Scripting In 8 Hours: For Beginners Learn Coding Fast'. Self published.
+
 **Z**
 
 # The following are notes and items, such as YouTube vids, that need to be integrated into the work
