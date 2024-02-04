@@ -11335,6 +11335,10 @@ Polkowski, Lech T. (2023). 'Logic - Reference Book for Computer Scientists - The
 
 **S**
 
+**Peter Seebach**
+
+Seebach, Peter (2008). 'Beginning Portable Shell Scripting: From Novice to Professional'. ISBN 9781430210436 (pbk) 
+
 **T**
 
 **U**
