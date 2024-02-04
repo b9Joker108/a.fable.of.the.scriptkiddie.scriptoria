@@ -11444,6 +11444,6 @@ https://youtu.be/Q9gmAgwT6o8?si=GHBXU3gb5FS7fNfP
 ## Invocation 
 
 <div style="width: 5cm; height: 5cm; border: 1px solid black;">
-<img src="hhhh" alt="This image is a representation of a thanka of Rongzom Mahapaṇḍita." style="width: 100%; height: 100%; object-fit: cover;">
+<img src="images/Rongzompa.jpg" alt="This image is a representation of a thanka of Rongzom Mahapaṇḍita." style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 
