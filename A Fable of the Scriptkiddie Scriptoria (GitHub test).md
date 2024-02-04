@@ -11274,6 +11274,10 @@ This author, researcher and Earth-bound-psychonaut, only has one name like Madon
 
 Melody (1995). 'Love Is in the Earth: A Kaleidoscope of Crystals: The Reference Book Describing the Metaphysical Properties of the Mineral Kingdom. Illustrations: Julianne Guilbault. Updated, third edition. Earth Love Pub House. ISBN-13 9780962819032 (paperback) 
 
+**Randall K. Michael**
+
+Michael, Randall K. (2008). 'Mastering UNIX®Shell Scripting: Bash, Bourne, and Korn Shell Scripting for Programmers, System Administrators, and UNIX Gurus'. Second Edition. Indianapolis, Indiana, U. S. A.: Wiley Publishing, Inc. ISBN 9780470183014
+
 **N**
 
 **O**
