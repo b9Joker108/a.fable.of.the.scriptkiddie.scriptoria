@@ -10,7 +10,7 @@ Pre-first draft, of work commenced early December 2023.
 
 **Licencing**
 
-The text (and images) and code in this work, and in its GitHub repository, are licenced separately, as both advised herein, and in the GitHub repository. 
+The text (and images) and code in this work, and in its GitHub repository, are licenced separately, as both advised herein, and in the designated folder in the GitHub repository. 
 
 ...
 ...
