@@ -11256,7 +11256,7 @@ Kernighan, Brian W. & Pike, Rob (1984). 'The UNIX Programming Environment'. Bell
 
 **Philip Kirkbride**
 
- (2020). 'Basic Linux Terminal Tips and Tricks: Learn to Work Quickly on the Command Line'. First Edition. Berkeley, California, U. S. A.: Apress. ISBN 9781484260340
+Kirkbride, Philip (2020). 'Basic Linux Terminal Tips and Tricks: Learn to Work Quickly on the Command Line'. First Edition. Berkeley, California, U. S. A.: Apress. ISBN 9781484260340
 
 **Vineeta Khemchandani, *et al.*** 
 
