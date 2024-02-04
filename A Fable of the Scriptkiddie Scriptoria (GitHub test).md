@@ -166,6 +166,10 @@ As [Köppl](https://rywiki.tsadra.org/index.php/Heidi_Koeppl) notes:
 
 [And so it is! ](https://en.m.wikipedia.org/wiki/Ceremonial_magic)
 
+I searched for an image of a thangka of Rongzompa on the Internet and liked this one. I found it on Pinterest, where it was labelled as an image of Rongzompa, but with no artist or source attestation. I just did a reverse image search on Monday February 5,2024, and found out that the thangka image is not Rongzom, but Guru Chowang (1212-1270), a Tibetan Tertön and Dzogchenpa. The reverse image search led me to The Treasury of Lives website, where the full image is located on Guru Chowang's biography. I have never heard of this Tertön before, as there are quite a number, but I have chanted his 'Seven Line Prayer' to Guru Rinpoche (or Padmasambhava), innumerable times at the behest of my Gurudeva and Dharmaraja, Chogyal Namkha'i Norbu Rinpoche (). It must be by the design of Rongzom, my Gurudeva, and Guru Chowang, that this mix-up and muddle has happened. I do not feel comfortable removing Guru Chowang, as he has been installed, albeit under misunderstanding and mistaken identity. The Treasury of Lives cryptically state that the image is reproduced by the permission of Shechen. Shechen is a monastery with an ancillary thangka painting school,... I also noted that the image of the thangka is in the public domain, as it is declared as such, on the English Wikimedia Commons, where the source is given as The Treasury of Lives. 
+
+I will search for a thangka image of Rongzompa, and install it the end of the work, so he may oversee the whole work from the rear, like the alpha wolf, that leads the pack from the rear whilst the pack is in procession.  
+
 Köppl, Heidi (2008). 'Establishing Appearances as Divine: Rongzom Chözang on Reasoning, Madhyamaka, and Purity'. Ithaca, New York: Snow Lion Publications. ISBN 9781559392884.
 
 Beer, Robert (1999). 'The Encyclopedia of Tibetan Symbols and Motifs'. Boston, Massachusetts, U. S. A.: Shambala Publications, Inc. ISBN 9781570624162 (cloth) 
