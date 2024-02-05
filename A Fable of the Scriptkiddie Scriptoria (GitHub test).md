@@ -11246,6 +11246,14 @@ I can't say with certainty, that I quite know exactly what all this means. But, 
 
 Anley, Chris; Heasman, John; Linder, Felix “FX” & Richarte, Gerardo (2007). 'The Shellcoder’s Handbook: Discovering and Exploiting Security Holes'. Second Edition. (NB: First Edition was written by Jack Koziol, David Litchfield, Dave Aitel, Chris Anley, Sinan Eren, Neel Mehta & Riley Hassell). Indianapolis, Indiana, U. S. A.: Wiley Publishing, Inc. ISBN 9780470080238
 
+**Osamu Aoki**
+
+Aoki, Osamu (2024). 'Debian Reference'. (version 2.113) (2024-02-02 13:34:43 UTC). Independently/Self-published. 
+
+**Purport**
+
+The implementation of Termux in Android, as well as a vast number of packages ported to the Termux repositories are drawn from the Debian GNU/Linux distributions across manifold implementations, and reworked, tweaked and optimised, for Android architectures and the Termux environment and their implementations. Therefore, Termux has a profound, deep and lasting relationship with the Debian GNU/Linux distributions. Hence, this masterwork and labour-of-love, that is the product of considerable effort and endeavour by Aoki, is to be cherished, and resourced, as standard. My intuition found it on the morning of Tuesday February 6, 2024, and prior to this, I didn't even know of its existence, but it has gone through a number of revisions, refinements and ammendations, since the work was commenced, in 2013. Therefore, it is now evident as a work of full maturation. It has only been hot-off-the-press circa four days. 
+
 **B**
 
 **Maurice J. Bach** 
