@@ -1419,7 +1419,8 @@ pkg i csh
 
 The C shell also spawned several variants, such as:
 
-- The rc shell (rc), ...
+- The rc shell (rc), "...is a command interpreter and programming language similar to sh. It is based on the AT&T Plan 9 shell of the same name. The shell offers a C-like syntax (much more so than the C shell), and a powerful mechanism for manipulating variables. It is reasonably small and reasonably fast, especially when compared to contemporary shells. It's use is intended to be interactive, but the language lends itself well to scripts." This direct quote was drawn from `info rc`, the GNU information page drawn from the rc implementation in the official Termux repository. 
+  
 ```zsh
 ~sgpt "Is the rcshell (rc) installed automatically with Termux? Is the rc an implementation of the Restricted C Shell (rcsh)?"
 No, the rc shell is not installed automatically with Termux. Termux comes with a minimal base
@@ -1435,7 +1436,11 @@ looking for the restricted version of the C Shell, it is typically invoked as rs
 NB: The reason why I asked ShellGPT these questions, is that when I executed:
 
 ```zsh
+pkg i rcshell                                                
+rcshell is already the newest version (1.7.4-4).
+```
 
+Hence, it was determined that `rc` was already installed, but I don't expressly remember installing it. As such, it may have been a package recommended by the Termux package manager, and I generally implement these wholesale, as standard, without significant prior investigation. 
 
 - The Restricted C shell (rcsh), a restricted version of csh that was created in 1980. It was a shell that limited the user's actions, such as changing directories, setting environment variables, and executing commands. It was used for security purposes, such as creating restricted accounts and chroot environments.
 - The TENEX C shell (tcsh), written by Ken Greer in 1975. It was an enhanced version of csh that added features such as command completion, command history, and improved scripting capabilities. It was the default shell in some BSD systems and macOS.
