@@ -1369,7 +1369,10 @@ I have integrated the information and the grapheme versions of the diagram of th
 
 # Everything in *NIX is structured and recorded within text files
 
-The kernel is constituted of text files. Directories are a special kind of text file. The operating system is constituted of text files, as is every facet of the GUI. The various shells executed in the terminal are all constituted by text files, as are all the packages available to them. 
+The *NIX kernel is constituted of text files. Directories are a special kind of text file. The operating system is constituted of text files, as is every facet of the GUI. The various shells executed in the terminal are all constituted by text files, as are all the packages available to them. 
+
+As an aside, file name extensions in *NIX, or Android, have no intrinsic bearing on the data contained within them. A file may contain JPEG data but be named anything it wants and not bear a .jpeg file extension. Most file formats have 'magic numbers' in the first few bytes to help identify the file format, so the file extension is inconsequential. File name extensions are mostly meant to help programmers and users organise and recognise particulate types of files, or more properly, thereby, understand the kind of data contained within them, and hence, their process. 
+
 
 # When a text file becomes executed or engaged in a process, it too becomes a process
 
