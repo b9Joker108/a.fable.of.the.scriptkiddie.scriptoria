@@ -11580,6 +11580,8 @@ https://youtu.be/Q9gmAgwT6o8?si=GHBXU3gb5FS7fNfP
 
 https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting
 
+https://tldp.org/LDP/www.debian.org/doc/manuals/debian-reference/
+
 ## Invocation 
 
 <div style="width: 5cm; height: 5cm; border: 1px solid black;">
