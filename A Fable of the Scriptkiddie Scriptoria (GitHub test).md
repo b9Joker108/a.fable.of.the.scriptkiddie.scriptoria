@@ -11170,6 +11170,10 @@ Bach, John (2020). 'Bash Scripting: Learning the bash Shell'. First edition. Ind
 
 Baranowski, Alex (2020). 'Bash Bushido: Become the Command Line Master'. Version 1.1. Self published/Kindle edition. ASIN B082Z65LCD Source: https://github.com/AlexBaranowski/bash-bushido-book/releases (accessed: Friday February 2, 2024)
 
+**Bruce Barnett**
+
+Barnett, Bruce (2023). 'Sh - the POSIX Shell'. Source: https://www.grymoire.com/Unix/Sh.html (accessed: Tuesday February 6, 2024) 
+
 **Gregory Bateson**
 
 Bateson, Gregory (2000) [First published 1972]. 'Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology'. University of Chicago Press. ISBN 9780226039053
