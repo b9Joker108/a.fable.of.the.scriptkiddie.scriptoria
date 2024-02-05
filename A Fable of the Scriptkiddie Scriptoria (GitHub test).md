@@ -1331,7 +1331,6 @@ The C shell also spawned several variants, such as the Restricted C shell (rcsh)
 
 The lineage of UNIX and Unix-like shells shows the evolution of one of the most fundamental and powerful tools in computing. The shells have influenced the development of many other programming languages and environments, such as Perl, Python, Ruby, and PowerShell. The shells have also enabled users to customize and automate their workflows, and to interact with their systems in creative and efficient ways.
 
-
 # UNIX Philosophy 
 
 By the grace of goddess Serendipity, I came across this pith reductionism or distillation of UNIX philosophy, and felt it valuable. Hence, I have transposed it here, with minor editing. It was prepared by Peter Krumins (https://github.com/pkrumins) a 'browserling'.
@@ -1412,7 +1411,11 @@ pkg install loksh
 
 ## The C Shell and its Variants
 
-Another branch of shells originated from the Thompson shell, rather than the Bourne shell. In 1978, Bill Joy, one of the founders of Sun Microsystems, wrote a new shell for the Berkeley Software Distribution (BSD), a variant of UNIX. This shell was called the C shell, or csh, because it had a syntax similar to the C programming language. The C shell added many interactive features that were missing in the Bourne shell, such as command completion, command history, job control, and aliases. The C shell also introduced the concept of shell variables, which are variables that can be set and modified by the user or the shell.
+Another branch of shells originated from the Thompson shell, rather than the Bourne shell. In 1978, Bill Joy, one of the founders of Sun Microsystems, wrote a new shell for the Berkeley Software Distribution (BSD), a variant of UNIX. This shell was called the C shell, or `csh`, because it had a syntax similar to the C programming language. The C shell added many interactive features that were missing in the Bourne shell, such as command completion, command history, job control, and aliases. The C shell also introduced the concept of shell variables, which are variables that can be set and modified by the user or the shell. An implementation of `csh` is available from the official Termux repository with:
+
+```zsh
+pkg i csh
+```
 
 The C shell also spawned several variants, such as:
 
