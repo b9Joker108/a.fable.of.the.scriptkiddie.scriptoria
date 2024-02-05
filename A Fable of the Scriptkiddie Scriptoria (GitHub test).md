@@ -12,6 +12,8 @@ Pre-first draft, of work commenced early December 2023.
 
 The text (and images) and code in this work, and in its GitHub repository, are licenced separately, as both advised herein, and in the designated folder in the GitHub repository. 
 
+This publication, and parts thereof, may be reproduced, stored in a retrieval system and/or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning and/or otherwise, as expressly permitted in the dual licencing. Requests to the publisher and author(s) for permission to reproduce or quote sections from this work, should be addressed to the contact details listed in its GitHub repository. 
+
 ...
 ...
 
@@ -20,6 +22,8 @@ The text (and images) and code in this work, and in its GitHub repository, are l
 Every effort has been made to make this book as complete and as accurate as possible, but no warranty nor fitness is implied. The information provided is on an “as is” basis. The author(s) and the publisher shall have neither liability nor responsibility to any person or entity with respect to any loss or damages arising from the information contained in this book.
 
 Please note the information contained within this document is for educational and entertainment purposes only. Every attempt has been made to provide accurate, up to date, reliable and complete information. No warranties of any kind are expressed nor implied. Readers acknowledge that the author(s) is/are not engaging in the rendering of legal, financial, medical and/or professional advice. The content of this book has been derived from various sources and personal experiences. Please consult a licensed professional before attempting any techniques outlined in this book. By reading this document, the reader agrees that under no circumstances are the author(s) responsible for any losses, direct or indirect, which are incurred as a result of the use of information contained within this document, including, but not limited to, errors, omissions, or inaccuracies.
+
+Limit of Liability/Disclaimer of Warranty: The publisher and the author(s) make no representations or warranties with respect to the accuracy or completeness of the contents of this work and specifically disclaim all warranties, including without limitation warranties of fitness for a particular purpose. No warranty may be created or extended by sales or promotional materials. The advice and strategies contained herein may not be suitable for every situation. This work is made available with the understanding that the publisher is not engaged in rendering legal, accounting, or other professional services. If professional assistance is required, the services of a competent professional person should be sought. Neither the publisher nor the author(s) shall be liable for damages arising herefrom. The fact that an organization, website and or repositories are referred to in this work as a citation and/or a potential source of further information does not mean that the author(s) nor the publisher endorses the information the organization or website may provide or recommendations it may make. Further, readers should be aware that Internet websites listed in this work may have changed or disappeared between when this work was written and when it is read.
 
 **Trademarks and Copyrights**
 
