@@ -1298,12 +1298,12 @@ I hope this explanation clarifies the challenges and offers some intriguing poss
 
 I understand. I have searched the web for the true history of UNIX and Unix-like shells, and I have found some discrepancies between your diagram and the sources I have consulted. Here are some of the corrections I suggest:
 
-- The "sh" shell was not the first shell in UNIX, but the second one. The first one was called "Thompson shell" and was written by Ken Thompson in 1969. ¹
-- The "csh" shell was not derived from "sh", but from "Thompson shell". It was created by Bill Joy in 1978 as a part of the Berkeley Software Distribution (BSD). ²
-- The "fish" shell was not derived from "tcsh", but from "sh". It was created by Axel Liljencrantz in 2005 as an alternative to the traditional shells. ³
-- The "zsh" shell was not derived from "sh", but from "ksh" and "csh". It was created by Paul Falstad in 1990 as a hybrid of the features of both shells. ⁴
+- The "sh" shell was not the first shell in UNIX, but the second one. The first one was called "Thompson shell" and was written by Ken Thompson in 1969.
+- The "csh" shell was not derived from "sh", but from "Thompson shell". It was created by Bill Joy in 1978 as a part of the Berkeley Software Distribution (BSD).
+- The "fish" shell was not derived from "tcsh", but from "sh". It was created by Axel Liljencrantz in 2005 as an alternative to the traditional shells.
+- The "zsh" shell was not derived from "sh", but from "ksh" and "csh". It was created by Paul Falstad in 1990 as a hybrid of the features of both shells.
 
-Based on these corrections, I have created a more accurate diagram of the historical evolution of UNIX and Unix-like shells. Please see the image below..
+Based on these corrections, I have created a more accurate diagram of the historical evolution of UNIX and Unix-like shells. Please see the image below.
 
 Source: Conversation with Bing, 22/01/2024
 (1) Unix-like - Wikipedia. https://en.wikipedia.org/wiki/Unix-like
@@ -1378,7 +1378,7 @@ The first shell in UNIX was the Thompson shell, written by Ken Thompson in 1969.
 
 ## The Bourne Shell and its Variants
 
-In 1971, Stephen Bourne wrote a new shell for UNIX, called the Bourne shell, or sh. Some people also refer to this as the POSIX shell, after the standard. The Bourne shell added many features that are now standard in most shells, such as variables, loops, conditionals, functions, and command substitution. The Bourne shell also introduced the concept of shell scripts, which are files that contain a series of commands that can be executed by the shell. The Bourne shell became the default shell in UNIX and was widely adopted by other operating systems.
+In 1971, Stephen Bourne wrote a new shell for UNIX, called the Bourne shell, or `sh`. Some people also refer to this as the POSIX shell, after the standard. The Bourne shell added many features that are now standard in most shells, such as variables, loops, conditionals, functions, and command substitution. The Bourne shell also introduced the concept of shell scripts, which are files that contain a series of commands that can be executed by the shell. The Bourne shell became the default shell in UNIX and was widely adopted by other operating systems. As such, an implementation of the Bourne Shell is packaged in most *NIX systems automatically, even when not the default shell, at time of installation. This is the case with Termux in Android. 
 
 However, the Bourne shell also had some drawbacks, such as the lack of interactive features, such as command completion, command history, and job control. To address these issues, several variants of the Bourne shell were created, such as:
 
@@ -1399,7 +1399,11 @@ After installing BusyBox, you can run ash by invoking `busybox ash`
 ```
 
 - The Debian Almquist shell (dash), a fork of ash that was created in 1997. It was designed to be POSIX-compliant and more portable than ash. It is the default shell in Ubuntu Linux and other Debian-based systems.
-- The Korn shell (ksh), written by David Korn in 1983. It was a powerful and versatile shell that combined the features of the Bourne shell and the C shell. It added features such as arrays, arithmetic expressions, aliases, built-in commands, and improved scripting capabilities. It was the default shell in some commercial UNIX systems, such as AIX and Solaris.
+- The Korn shell (ksh), written by David Korn in 1983. It was a powerful and versatile shell that combined the features of the Bourne shell and the C shell. It added features such as arrays, arithmetic expressions, aliases, built-in commands, and improved scripting capabilities. It was the default shell in some commercial UNIX systems, such as AIX and Solaris. An implementation of the Korn shell is installable from the Termux repository with the following:
+```zsh
+pkg install loksh
+```
+
 - The MirBSD Korn shell (mksh), a fork of ksh that was created in 2002. It was a modern and lightweight shell that was compatible with ksh and POSIX. It was the default shell in MirOS BSD and Android.
 - The Public Domain Korn shell (pdksh), a clone of ksh that was created in 1989. It was a free and open source shell that was compatible with ksh and POSIX. It was the default shell in some BSD systems and Linux distributions, such as OpenBSD and Slackware.
 - The Z shell (zsh), written by Paul Falstad in 1990. It was a hybrid shell that combined the features of the Korn shell and the C shell. It added features such as extended globbing, spelling correction, command completion, command history, and customizable prompts. It was a popular shell among advanced users and developers.
