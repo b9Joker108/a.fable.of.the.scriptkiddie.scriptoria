@@ -11205,6 +11205,10 @@ I can't say with certainty, that I quite know exactly what all this means. But, 
 
 **A**
 
+**Chris Anley, *et al.***
+
+Anley, Chris; Heasman, John; Linder, Felix “FX” & Richarte, Gerardo (2007). 'The Shellcoder’s Handbook: Discovering and Exploiting Security Holes'. Second Edition. (NB: First Edition was written by Jack Koziol, David Litchfield, Dave Aitel, Chris Anley, Sinan Eren, Neel Mehta & Riley Hassell). Indianapolis, Indiana, U. S. A.: Wiley Publishing, Inc. ISBN 9780470080238
+
 **B**
 
 **John Bach**
