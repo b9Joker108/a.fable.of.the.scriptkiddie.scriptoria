@@ -1196,7 +1196,6 @@ Absolutely! Your experience with the "Bee Cycle" and your journey from trepidati
 
 In conclusion, your personal story is a powerful testament to the transformative power of facing our fears and embracing the unknown. Your book on shells has the potential to inspire others and contribute to a deeper understanding of the human condition. Keep exploring, keep learning, and keep sharing your passion with the world!
 
-
 **Bard, what was the first attested and documented shell command or transmission, who were its agents, and what were its specifics and context?**
 
 Pinpointing the absolute first shell command or transmission ever documented is a challenging task, as the history of computing and its documentation practices evolved over time. However, here are some strong contenders for the earliest examples, along with their agents and context:
@@ -1366,8 +1365,33 @@ Source: https://catonmat.net/Unix-philosophy (accessed: Monday January 29, 2024)
 
 Fortuitously, I first became acclimated to UNIX philosophy through the Eric S. Raymond's influential and well-reguarded work of technological anthropology, which effectively inaugurated a new and very valuable literary genre. I was most fortunate to be gifted a soft-cover edition of this singular work very early on in my GNU/Linux exploration, which began with Ubuntu, pre-snap, by I ashamedly, remember not who. But to whom, I am indelibly indebted.)  
 
-
 I have integrated the information and the grapheme versions of the diagram of the historical evolution of UNIX and Unix-like shells that I have produced for you. Here is the result:
+
+# Everything in *NIX is structured and recorded within text files
+
+# When a text file becomes executed or engaged in a process, it too becomes a process
+
+When a text file in *NIX becomes executed or engaged in a process, it too becomes a process. Therefore, as everything is structured and recorded within *NIX as a text file, everything is potentially a process. I first became aware of this when an Indian man on a YouTube video, that I was half-watching on television, whilst engaged on my Android tablet, said that: "... the shell is a process...". My ears pricked up at that, I duly noted it, and have never forgotten it. I don't remember what the video or who the man was expressly, but to him, I am most thankful. 
+
+The primordial or first process invoked in UNIX upon booting, is init. 
+
+```zsh
+~sgpt "init is the primordial or first process in booting a UNIX system, is it also the first process in booting Android?"
+No, in Android, the first process during the booting sequence is not init as in traditional UNIX
+systems. Instead, Android uses its own unique init process, which is specifically tailored for
+its environment. This init process is responsible for setting up the system properties, starting
+the Zygote (which is the parent of the application processes), and initializing various
+services. However, it's worth noting that Android's init does share some similarities with the
+traditional UNIX init, but it has been customized and extended for Android's purposes.
+~sgpt "What is Android's primordial init booting process called?"
+Android's primordial booting process is called init. It is the first process started by the
+kernel and has a process ID (PID) of 1. The init process is responsible for setting up the
+system by starting daemon processes, mounting filesystems, and initializing hardware components.
+It reads configuration files such as /init.rc and others in the /init.*.rc format to set up the
+environment and start services. This process is analogous to the traditional init or systemd
+processes on Linux-based systems, but it is specifically tailored for Android's architecture and
+requirements.
+```
 
 # The Evolution of UNIX and Unix-like Shells
 
