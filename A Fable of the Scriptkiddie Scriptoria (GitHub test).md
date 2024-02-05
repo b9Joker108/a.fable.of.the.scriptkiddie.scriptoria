@@ -1419,6 +1419,24 @@ pkg i csh
 
 The C shell also spawned several variants, such as:
 
+- The rc shell (rc), ...
+```zsh
+~sgpt "Is the rcshell (rc) installed automatically with Termux? Is the rc an implementation of the Restricted C Shell (rcsh)?"
+No, the rc shell is not installed automatically with Termux. Termux comes with a minimal base
+system, and by default, it includes the bash shell. If you want to use the rc shell, you would
+need to install it manually using the package manager provided by Termux.
+
+Additionally, the rc shell is not an implementation of the Restricted C Shell (rcsh). Instead,
+rc is a command interpreter for Version 10 Unix and Plan 9 from Bell Labs. It is known for its
+simplicity and the influence it had on other shells, such as es and fish. The rc shell's syntax
+is significantly different from the traditional Bourne shell (sh) and its derivatives. If you're
+looking for the restricted version of the C Shell, it is typically invoked as rsh or tcsh -r.
+```
+NB: The reason why I asked ShellGPT these questions, is that when I executed:
+
+```zsh
+
+
 - The Restricted C shell (rcsh), a restricted version of csh that was created in 1980. It was a shell that limited the user's actions, such as changing directories, setting environment variables, and executing commands. It was used for security purposes, such as creating restricted accounts and chroot environments.
 - The TENEX C shell (tcsh), written by Ken Greer in 1975. It was an enhanced version of csh that added features such as command completion, command history, and improved scripting capabilities. It was the default shell in some BSD systems and macOS.
 - The Friendly Interactive Shell (fish), written by Axel Liljencrantz in 2005. It was a user-friendly and intuitive shell that added features such as syntax highlighting, autosuggestions, and web-based configuration. It was a popular shell among beginners and casual users.
