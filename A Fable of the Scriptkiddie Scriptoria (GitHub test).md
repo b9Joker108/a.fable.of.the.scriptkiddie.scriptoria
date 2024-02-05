@@ -14,7 +14,9 @@ The text (and images) and code in this work, and in its GitHub repository, are l
 
 https://github.com/b9Joker108/a.fable.of.the.scriptkiddie.scriptoria/tree/main/Licensing
 
-This publication, and parts thereof, may be reproduced, stored in a retrieval system and/or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning and/or otherwise, as expressly permitted in the dual licencing. Requests to the publisher and author(s) for permission to reproduce or quote sections from this work, should be addressed, as a courtesy, to the contact details as currently listed in its GitHub repository. 
+This publication, and parts thereof, may be reproduced, stored in a retrieval system and/or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning and/or otherwise, as expressly permitted in the dual licencing. Requests to the publisher and author(s) for permission to reproduce or quote sections from this work, should be addressed, as a courtesy, to the contact details as currently listed in its GitHub repository README.md file:
+
+
 
 ...
 ...
