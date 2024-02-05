@@ -1369,11 +1369,13 @@ I have integrated the information and the grapheme versions of the diagram of th
 
 # Everything in *NIX is structured and recorded within text files
 
+The kernel is constituted of text files. Directories are a special kind of text file. The operating system is constituted of text files, as is every facet of the GUI. The various shells executed in the terminal are all constituted by text files, as are all the packages available to them. 
+
 # When a text file becomes executed or engaged in a process, it too becomes a process
 
 When a text file in *NIX becomes executed or engaged in a process, it too becomes a process. Therefore, as everything is structured and recorded within *NIX as a text file, everything is potentially a process. I first became aware of this when an Indian man on a YouTube video, that I was half-watching on television, whilst engaged on my Android tablet, said that: "... the shell is a process...". My ears pricked up at that, I duly noted it, and have never forgotten it. I don't remember what the video or who the man was expressly, but to him, I am most thankful. 
 
-The primordial or first process invoked in UNIX upon booting, is init. 
+The primordial or first process invoked in UNIX upon booting, is [init](https://en.m.wikipedia.org/wiki/Init). 
 
 ```zsh
 ~sgpt "init is the primordial or first process in booting a UNIX system, is it also the first process in booting Android?"
