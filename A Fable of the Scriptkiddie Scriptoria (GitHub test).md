@@ -1378,11 +1378,26 @@ The first shell in UNIX was the Thompson shell, written by Ken Thompson in 1969.
 
 ## The Bourne Shell and its Variants
 
-In 1971, Stephen Bourne wrote a new shell for UNIX, called the Bourne shell, or sh. The Bourne shell added many features that are now standard in most shells, such as variables, loops, conditionals, functions, and command substitution. The Bourne shell also introduced the concept of shell scripts, which are files that contain a series of commands that can be executed by the shell. The Bourne shell became the default shell in UNIX and was widely adopted by other operating systems.
+In 1971, Stephen Bourne wrote a new shell for UNIX, called the Bourne shell, or sh. Some people also refer to this as the POSIX shell, after the standard. The Bourne shell added many features that are now standard in most shells, such as variables, loops, conditionals, functions, and command substitution. The Bourne shell also introduced the concept of shell scripts, which are files that contain a series of commands that can be executed by the shell. The Bourne shell became the default shell in UNIX and was widely adopted by other operating systems.
 
 However, the Bourne shell also had some drawbacks, such as the lack of interactive features, such as command completion, command history, and job control. To address these issues, several variants of the Bourne shell were created, such as:
 
-- The Almquist shell (ash), written by Kenneth Almquist in 1989. It was a small and fast shell that was compatible with the Bourne shell. It was the default shell in some BSD systems and later in Debian Linux.
+- The Almquist shell (ash), written by Kenneth Almquist in 1989. It is a small and fast shell that is compatible with the Bourne Shell (sh). It was the default shell in some BSD systems and later in Debian GNU/Linux.
+
+```zsh
+~sgpt "Is the ash shell installable in Termux?"
+Yes, the Almquist Shell (ash) is installable in Termux, an Android terminal emulator and Linux
+environment app. Ash is a lightweight Unix shell that is often used in embedded environments and
+is part of the BusyBox utility collection. To install ash in Termux, you would typically install
+the busybox package, which includes ash among other standard Unix utilities.
+
+You can install it by running the following command in Termux:
+
+`pkg install busybox`
+
+After installing BusyBox, you can run ash by invoking `busybox ash`
+```
+
 - The Debian Almquist shell (dash), a fork of ash that was created in 1997. It was designed to be POSIX-compliant and more portable than ash. It is the default shell in Ubuntu Linux and other Debian-based systems.
 - The Korn shell (ksh), written by David Korn in 1983. It was a powerful and versatile shell that combined the features of the Bourne shell and the C shell. It added features such as arrays, arithmetic expressions, aliases, built-in commands, and improved scripting capabilities. It was the default shell in some commercial UNIX systems, such as AIX and Solaris.
 - The MirBSD Korn shell (mksh), a fork of ksh that was created in 2002. It was a modern and lightweight shell that was compatible with ksh and POSIX. It was the default shell in MirOS BSD and Android.
