@@ -11338,6 +11338,10 @@ Jones, M. (2011). 'Evolution of shells in Linux: From Bourne to Bash and beyond'
 
 Kernighan, Brian W. & Pike, Rob (1984). 'The UNIX Programming Environment'. Bell Telephone Laboratories, Incorporated. Prentice-Hall Software Series. Englewood Cliffs, New Jersey, U. S. A.: Prentice-Hall, Inc. ISBN 0139376992
 
+**Michael Kerrisk**
+
+Kerrisk, Michael (2010). 'The Linux Programming Interface: A Linux and UNIX(R) System Programming Handbook'. San Francisco, California, U. S. A.: No Starch Press, Inc. ISBN 9781593272203 
+
 **Philip Kirkbride**
 
 Kirkbride, Philip (2020). 'Basic Linux Terminal Tips and Tricks: Learn to Work Quickly on the Command Line'. First Edition. Berkeley, California, U. S. A.: Apress. ISBN 9781484260340
