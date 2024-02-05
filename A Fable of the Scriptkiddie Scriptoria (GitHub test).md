@@ -11461,6 +11461,16 @@ Rochkind, Marc J. (2004). 'Advanced UNIX Programming'. Second Edition. Sixth Pri
 
 Seebach, Peter (2008). 'Beginning Portable Shell Scripting: From Novice to Professional'. ISBN 9781430210436 (pbk) 
 
+
+**W. Richard Stevens, *et al.***
+
+Stevens, W. Richard & Rago, Stephen A. (2013). 'Advanced Programming in the UNIX(R) Environment'. Third Edition. ISBN 9780321637734 (pbk. alk. paper)
+
+**Purport**
+
+If you thought that this work, and the author(s), are rather odd for including rather luxuriously annotated bibliographies within this genre, this work provides a precedent, albeit, its annotations are far more brief, humble and less luxurious, or indulgent, as the case may be made. 
+
+
 **T**
 
 **U**
