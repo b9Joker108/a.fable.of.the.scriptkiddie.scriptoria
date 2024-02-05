@@ -11260,6 +11260,29 @@ Hasan, Musaab & Balbahaith, Zayed (2020). 'Mastering Linux Security'. Beau Massi
 
 **I**
 
+**IEEE Computer Society, *et al.***
+
+IEEE Computer Society & The Open Group (2018). 'IEEE Standard for Information Technology Portable Operating System Interface (POSIX®) Base Specifications, Issue 7.  IEEE Std 1003.1-2017 (POSIX.1-2017)'. (Revision of IEEE Std 1003.1-2008).  IEEE 3 Park Avenue  New York, New York, U. S. A.:  IEEE Standards Association.
+
+In relation to shell scripting, the reference to the "IEEE Standard for Information Technology Portable Operating System Interface (POSIX®) Base Specifications, Issue 7" (referred to as POSIX.1-2017) holds significant importance, as the essential standard for Unix-based scripting. Here's why:
+
+**POSIX.1-2017 defines a standardized set of commands, utilities, and functionalities for Unix-like operating systems.** This means that **scripts written according to POSIX standards have a higher chance of being portable and running smoothly on different Unix-based systems like Linux, macOS, and BSD**.
+
+**Specifically for shell scripting, POSIX.1-2017 covers crucial aspects like:**
+
+* **Shell syntax and semantics:** This defines the basic structure and rules for writing shell commands, such as variable names, operators, control flow statements, and redirection.
+* **Built-in shell commands:** These are commands directly available within the shell environment, like `cd`, `mkdir`, `mv`, and `echo`. POSIX defines a core set of these commands and their expected behavior.
+* **External utilities:** These are standalone programs accessible from the shell, like `grep`, `sort`, and `cat`. POSIX specifies the functionalities and options for a set of common utilities.
+* **Environment variables:** These are named values used to store and access information during script execution. POSIX defines several standard environment variables and their meanings.
+
+Understanding POSIX.1-2017 standards gives you several advantages as a shell script writer:
+
+* **Portability:** Your scripts are more likely to work across different Unix systems without major modifications.
+* **Consistency:** You can rely on standardized behavior for commands and utilities, making your scripts more predictable.
+* **Clarity:** Knowing POSIX standards helps you write cleaner and more readable scripts that others can understand easily.
+
+While the full standard document is quite comprehensive, focusing on relevant sections based on your specific scripting needs can be beneficial. Additionally, several online resources and tutorials explain POSIX concepts in a more digestible manner.
+
 **J**
 
 **M. Jones**
