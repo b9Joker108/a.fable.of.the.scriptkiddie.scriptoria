@@ -1,6 +1,6 @@
 # A Fable of the Scriptkiddie Scriptoria: A Bash/Zsh roadmap/study-guide, leveraging the GNU/Linux shell & Termux scripting environment w/~ Android: unrooted, PRoot to root!
 
-## by The Google Bard Experiment, PerplexityAI & Bing Copilot, w/~ Beauford A. Stenberg (a.k.a. b9Joker108 at GitHub) 
+## by The Google Bard Experiment, PerplexityAI & Microsoft Bing Copilot, w/~ Beauford A. Stenberg (a.k.a. b9Joker108 at GitHub) 
 
 ## Publication details, editions, versions
 
@@ -11480,6 +11480,8 @@ https://youtu.be/JQBRzsPhw2w?si=8xtaJCPq0FCR9bQN
 
 https://youtu.be/Q9gmAgwT6o8?si=GHBXU3gb5FS7fNfP
 
+
+https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting
 
 ## Invocation 
 
