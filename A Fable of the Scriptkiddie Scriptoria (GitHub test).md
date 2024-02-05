@@ -10,7 +10,9 @@ Pre-first draft, of work commenced early December 2023.
 
 **Licencing**
 
-The text (and images) and code in this work, and in its GitHub repository, are licenced separately, as both advised herein, and in the designated folder in the GitHub repository. 
+The text (and images) and code in this work, and in its GitHub repository, are licenced separately, as both advised herein, and in the designated folder/directory in the GitHub repository:
+
+https://github.com/b9Joker108/a.fable.of.the.scriptkiddie.scriptoria/tree/main/Licensing
 
 This publication, and parts thereof, may be reproduced, stored in a retrieval system and/or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning and/or otherwise, as expressly permitted in the dual licencing. Requests to the publisher and author(s) for permission to reproduce or quote sections from this work, should be addressed, as a courtesy, to the contact details as currently listed in its GitHub repository. 
 
