@@ -11470,6 +11470,14 @@ Stevens, W. Richard & Rago, Stephen A. (2013). 'Advanced Programming in the UNIX
 
 If you thought that this work, and the author(s), are rather odd for including rather luxuriously annotated bibliographies within this genre, this work provides a precedent, albeit, its annotations are far more brief, humble and less luxurious, or indulgent, as the case may be made. 
 
+**Peter H. Salus**
+
+Salus, Peter H. (1994). 'A Quarter Century of UNIX'. Reading, Massachusetts, U. S. A.: Addison-Wesley Publishing Company, Inc. ISBN 0201547775
+
+**Purport**
+
+Though Salus' work doesn't have a bibliography, it does contain a humble 'Further Reading' section with brief annotations. So, another work in the genre, that provides a precedence for annotated bibliographies. 
+
 
 **T**
 
