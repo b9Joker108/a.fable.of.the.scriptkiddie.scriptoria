@@ -11219,6 +11219,10 @@ Anley, Chris; Heasman, John; Linder, Felix “FX” & Richarte, Gerardo (2007). 
 
 **B**
 
+**Maurice J. Bach** 
+
+Bach, Maurice J. (1986). 'The Design of the UNIX(R) Operating System'. Englewood Cliffs, New Jersey: Prentice-Hall, Inc. 
+
 **John Bach**
 
 Bach, John (2020). 'Bash Scripting: Learning the bash Shell'. First edition. Independently published. ISBN 9798685100719
