@@ -11451,6 +11451,10 @@ Polkowski, Lech T. (2023). 'Logic - Reference Book for Computer Scientists - The
 
 **R**
 
+**Marc J. Rochkind**
+
+Rochkind, Marc J. (2004). 'Advanced UNIX Programming'. Second Edition. Sixth Printing, 2008. Boston, Massachusetts, U. S. A.: Addison-Wesley, an imprint of Pearson PLC. ISBN 0131411543
+
 **S**
 
 **Peter Seebach**
