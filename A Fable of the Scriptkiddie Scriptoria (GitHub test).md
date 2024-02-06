@@ -1488,6 +1488,31 @@ Hence, it was determined that `rc` was already installed, but I don't expressly 
 - The TENEX C shell (tcsh), written by Ken Greer in 1975. It was an enhanced version of csh that added features such as command completion, command history, and improved scripting capabilities. It was the default shell in some BSD systems and macOS.
 - The Friendly Interactive Shell (fish), written by Axel Liljencrantz in 2005. It was a user-friendly and intuitive shell that added features such as syntax highlighting, autosuggestions, and web-based configuration. It was a popular shell among beginners and casual users.
 
+
+**Finding out what shells a user has access to, or installed**
+
+I found out about the following GNU/Linux shell command that works in Bash and Zsh, and lists a number of shell binaries installed on the system that are available to the user executing the command:
+`cat /etc/shells`, and I found it didn't work in my Sh, Bash and Zsh shells in my host Termux environment, but it did work in Sh, Bash and Zsh shells, in my proot-distro alias installations. 
+
+```zsh
+~sgpt "cat /etc/shells lists all the shells installed in my various proot-distro alias logins of Debian, Arch Linux and Kali Nethunter Rootless, but it doesnt work for my host Termux environment, what will?"
+In Termux, the list of available shells is not stored in /etc/shells because Termux does not use
+the traditional file system layout of a standard Linux distribution. Instead, you can find out
+which shells are installed by checking the $PREFIX/bin directory for executable files that are
+shells. You can use the following command to list the shells available in your Termux
+environment:
+
+ls -l $PREFIX/bin/*sh
+
+This command will list all executables that end with 'sh' in the $PREFIX/bin directory, which is
+where Termux stores user-executable binaries. This should include shells like bash, zsh, dash,
+etc., if they are installed.
+```
+
+I tried these options in my proot-distro installations, and in some of my user accounts, in my host Termux environment. Most shells installed were listed, but not all. 
+
+So, this will work for quite a number of shells potentially installed in Termux, but not `nu`, for example. 
+
 ## The Nu Shell
 
 A recent addition to the family of shells is the Nu shell, or nushell, written by Jonathan Turner and others in 2019. It is a new type of shell that has native support for structured and typed data, such as arrays, tables, records, numeric/boolean types, etc. It offers syntax and built-ins that make it easy to query, filter, sort, transform, convert, and otherwise manipulate various data types in a shell-like workflow. It also supports taking input and producing output in many builtin or user-defined formats, such as JSON, YAML, TOML, HTML, XML, SQL, CSV, Markdown tables, and others. It is a modern and innovative shell that aims to bring the Unix philosophy of shells to the current style of development.
