@@ -11522,6 +11522,10 @@ Though Salus' work doesn't have a bibliography, it does contain a humble 'Furthe
 
 **V**
 
+**Tom Van Vleck**
+
+Van Vleck, Tom (2024). 'Multics History'. Pittsburgh, Pennsylvania, U. S. A.: Multicians.org. Source: https://www.multicians.org/history.html (accessed: Tuesday February 6, 2024) 
+
 Vaswani, Ashish; Shazeer, Noam & Parmar, Niki, *et al.* (2017 [v.1], revised 2023 [v.7], online). 'Attention Is All You Need'. [arXiv.org](http://arxiv.org/)>cs>arXiv:1706.03762v7. Source: [https://doi.org/10.48550/arXiv.1706.03762](https://doi.org/10.48550/arXiv.1706.03762) (accessed: Wednesday January 24, 2024)
 
 **W**
