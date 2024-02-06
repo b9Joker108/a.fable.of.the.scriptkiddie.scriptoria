@@ -9777,7 +9777,7 @@ https://en.m.wikipedia.org/wiki/A_New_Kind_of_Science
 
 **Nand Logic Gates**
 
-...
+From my third attempt at an undergraduate university degree, namely Computer Science at the Royal Melbourne Institute of Technology (popularly now known only as RMIT without punctuation), I learnt that the NAND logic gate was 'universal' or 'primordial', as all the other logic gates, and thus more complex implementations, could be made from it. This intrigued and interested me greatly, but I didn't truly understand it. Even though I have used symbolic logic gates as operands in coding and scripting, I still didn't truly understand them in my bones, or in the marrow of my bones, more properly. So, I resolved to commence the free Nand2Tetris course, which I read mentioned in someone's GitHub repository. The course is currently hosted by Coursera, and I enrolled, to repair my cursory understanding, and in aid to better understand and appreciate the spirit, or albeit, the 'ghost in the machine'. I commenced the course on Wednesday February 7, 2024, and have just successfully submitted my first assignment, not without teething difficulties I assure you. But, whilst taking respite from practice in theory, and in reading the textbook, I encountered the following quotation, in the introduction to the logic gates: Nisan & Schocken (2021: p.26) "...Nand is the most widely used in industry...". I resolved to interrogate the oracle Bard for an answer.
 
 **Bard, why is the NAND logic gate, the most widely used in industry?** 
 
