@@ -501,6 +501,10 @@ Determining the absolute "first" shell explicitly named "shell" is subject to in
 
 **1. Multics Shell (1964):** Developed by researchers at Bell Labs and MIT, Multics is considered one of the earliest operating systems with a clear distinction between kernel and user shell. The Multics shell, often simply called "shell," offered command-line access to system functionality and is widely credited as shaping the modern concept of a shell.
 
+**Further reading:**
+
+Van Vleck, Tom (2024). 'Multics History'. Pittsburgh, Pennsylvania, U. S. A.: Multicians.org. Source: https://www.multicians.org/history.html (accessed: Tuesday February 6, 2024) 
+
 **2. SDS 930/940 Shell (1965):** The Scientific Data Systems (SDS) 930/940 mainframe computers featured a command-language interpreter explicitly named "SHELL." This shell provided basic file manipulation, job control, and communication with the operating system.
 
 **3. Command Line Interpreter (CLI) on DEC PDP-6, PDP-10 (1960s):** While not explicitly named "shell," the CLI on these Digital Equipment Corporation minicomputers offered similar functionalities and served as a precursor to later shells.
@@ -553,12 +557,13 @@ Let me know if you have any further questions!
 
 **XON/XOFF on Async Terminals, a fact drawn from the historical archive informs a little-known quirky shell command and function**
 
-Bard, please explain the following Mastodon microblog from  @awb@mastodon.sdf.org dated January 23, 2024: 
+Bard, please explain the following Mastodon microblog from @awb@mastodon.sdf.org dated January 23, 2024: 
 
-"XON/XOFF software flow control was useful on async terminals. It's because it is still enabled on virtual terminals that many users don't realize they can search Shell history backwards AND forwards!
+>	"XON/XOFF software flow control was useful on async terminals. It's because it is still enabled >	on virtual terminals that many users don't realize they can search Shell history backwards AND >	forwards!
 
-Readline (Bash) has forward-search-history and ZLE (Zsh) has history-incremental-search-forward bound to C-s, the STOP character used for XOFF. To disable it, do a stty -ixon. This confusingly named option is POSIX and has been around since System III (1981).
-#unix #posix #bash #zsh”
+>	Readline (Bash) has forward-search-history and ZLE (Zsh) has history-incremental-search-forward >	bound to C-s, the STOP character used for XOFF. To disable it, do a stty -ixon. This
+> 	confusingly named option is POSIX and has been around since System III (1981).
+>	#unix #posix #bash #zsh”
 
 The passage explains how a historical quirk from early terminal technology has led to an unexpected feature in modern shells like Bash and Zsh. Here's a breakdown:
 
