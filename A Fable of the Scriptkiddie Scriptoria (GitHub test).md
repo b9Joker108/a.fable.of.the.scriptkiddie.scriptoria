@@ -1702,6 +1702,27 @@ The emergence of the POSIX Shell Scripting standard wasn't a whimsical decision,
 * **Learning Curve Leveled:** Consistent syntax and utilities have simplified the learning curve for new scripters, encouraging broader participation and democratizing access to automation tools.
 * **Ecosystem Flourishes:** Standardization has paved the way for a thriving ecosystem of shared tools, libraries, and resources, further enriching the scripting landscape.
 
+**POSIX.1-2017 standard is also known as SUSv4-2018**
+
+The Single UNIX Specification, Version 4, Edition 2018 (SUSv4-2018) is another way to refer to the POSIX.1-2017 standard. Here's a breakdown of the meaning:
+
+- **Single UNIX Specification (SUS):** This refers to a set of standards intended to ensure compatibility among different UNIX-like operating systems. It defines a common set of APIs, commands, and functionalities that programs can rely on, regardless of the specific system they're running on.
+- **Version 4 (v4):** This indicates the current major version of the SUS standard. This version was released in 2018, hence the year suffix.
+- **POSIX:** This acronym stands for **Portable Operating System Interface for Computer Environments**. It's a specific part of the SUS that focuses on the core functionalities and API components, aiming for portability across different systems.
+
+Therefore, SUSv4-2018 essentially combines the broader SUS concept with the specific POSIX focus, specifically referring to the 2018 edition. Both terms refer to the same standard, but highlighting different aspects:
+
+* **SUSv4 emphasizes the single UNIX compatibility focus.**
+* **POSIX.1-2017 emphasizes the specific set of defined functionalities and APIs.**
+
+So, you can use either term depending on the context and what you want to emphasize. If you're specifically talking about the standard document itself, using the official name "POSIX.1-2017" might be more accurate. However, if you're focusing on the overall compatibility aspect for UNIX-like systems, "SUSv4-2018" could be appropriate.
+
+The current standard is viewable or downloadable online:
+
+https://pubs.opengroup.org/onlinepubs/9699919799/ (accessed: Wednesday February 7, 2024) 
+
+Why The Open Group did not just make available a .pdf of the document is mystifying, but I downloaded the .zip file and it is a .html archive, which is rather problematic to view within Android. There are a number of workarounds and solutions. One that is simple and pragmatic is to use the 'Simple HTML Viewer' Android app, freely downloadable from the Google Play Store, which makes the HTML archive, easily viewable and navigable on Android, with the assistance of a Web browser. 
+
 **Bard, are there texts dedicated to computational shell design philosophy, development, innovation and evolution, and evaluating differences?**
 
 Unfortunately, there aren't many **comprehensive texts** solely dedicated to the specific aspects you mentioned: computational shell design philosophy, development, innovation, evolution, and comparing different approaches. However, there are several resources that touch on these topics, offering valuable insights and perspectives:
