@@ -11230,6 +11230,16 @@ This video and tutorial has some quite accomplished aspects. It is worth noting,
 
 **S**
 
+Schocken, Simon & Nisan, Noam (2024). 'Build a Modern Computer from First Principles: From Nand to Tetris' (Nand2Tetris)(Project-Centered Course). I came across Nand2Tetris in a person's GitHub repository, and was suitably intriguee and impressed, that I researched it further. I located the website regarding it: 
+
+Free online course through Coursera. In this project-centered course you will build a modern computer system, from the ground up. We’ll divide this fascinating journey into six hands-on projects that will take you from constructing elementary logic gates all the way through creating a fully functioning general purpose computer. In the process, you will learn - in the most direct and constructive way - how computers work, and how they are designed.
+
+This is a self-contained course. All the knowledge necessary to succeed in the course and build the computer system will be given as part of the learning experience. Therefore, we assume no previous computer science or engineering knowledge, and all learners are welcome aboard. You will need no physical materials, since you will build the computer on your own PC, using a software-based hardware simulator, just like real computers are designed by computer engineers in the field. The hardware simulator, as well as other software tools, will be supplied freely after you enroll in the course.
+
+The course consists of six modules, each comprising a series of video lectures, and a project. You will need about 2-3 hours to watch each module's lectures, and about 5-10 hours to complete each one of the six projects. The course can be completed in six weeks, but you are welcome to take it at your own pace. You can watch a TED talk about this course by Googling "nand2tetris TED talk".
+
+Source: https://www.coursera.org/learn/build-a-computer (accessed: Wednesday February 7, 2024) 
+
 **T**
 
 **Derek Taylor (who goes by DT)**
