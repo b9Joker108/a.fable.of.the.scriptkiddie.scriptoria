@@ -11189,7 +11189,13 @@ A cautionary word, be careful where you prospect and source information on shell
 
 **M**
 
+**Talha Saif Malik of linuxhint@YouTube channel**
 
+Malik, Talha Saif of linuxhint@YouTube channel (May 28, 2019). 'Bash Scripting Full Course 3 Hours'. Source: https://youtu.be/e7BufAVwDiM?si=S7lQSDWhDbhx-qPI (accessed: Tuesday February 6, 2024). There is also written documentation for this YouTube video: https://linuxhint.com/3hr_bash_tutorial/ (accessed: Tuesday February 6, 2024). 
+
+**Purport**
+
+This video and tutorial has some quite accomplished aspects. It is worth noting, that while the presenter speaks in the beginning in what I suspect to be Hindi interspersed with broken English, throughout the vast majority of the tutorial, they speak only in English. The tutorial is worthwhile. 
 
 **N**
 
