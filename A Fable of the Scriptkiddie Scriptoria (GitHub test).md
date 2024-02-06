@@ -11230,13 +11230,17 @@ This video and tutorial has some quite accomplished aspects. It is worth noting,
 
 **S**
 
-Schocken, Simon & Nisan, Noam (2024). 'Build a Modern Computer from First Principles: From Nand to Tetris' (Nand2Tetris)(Project-Centered Course). I came across Nand2Tetris in a person's GitHub repository, and was suitably intriguee and impressed, that I researched it further. I located the website regarding it: 
+**Simon Schocken, *et al.***
 
-Free online course through Coursera. In this project-centered course you will build a modern computer system, from the ground up. We’ll divide this fascinating journey into six hands-on projects that will take you from constructing elementary logic gates all the way through creating a fully functioning general purpose computer. In the process, you will learn - in the most direct and constructive way - how computers work, and how they are designed.
+Schocken, Simon & Nisan, Noam (2024). 'Build a Modern Computer from First Principles: From Nand to Tetris' (Nand2Tetris)(Project-Centered Course). I came across Nand2Tetris in a person's GitHub repository, and was suitably intrigued and impressed, that I researched it further. I located the website regarding it: 
 
-This is a self-contained course. All the knowledge necessary to succeed in the course and build the computer system will be given as part of the learning experience. Therefore, we assume no previous computer science or engineering knowledge, and all learners are welcome aboard. You will need no physical materials, since you will build the computer on your own PC, using a software-based hardware simulator, just like real computers are designed by computer engineers in the field. The hardware simulator, as well as other software tools, will be supplied freely after you enroll in the course.
+https://www.nand2tetris.org/ (accessed: Wednesday February 7, 2024) 
 
-The course consists of six modules, each comprising a series of video lectures, and a project. You will need about 2-3 hours to watch each module's lectures, and about 5-10 hours to complete each one of the six projects. The course can be completed in six weeks, but you are welcome to take it at your own pace. You can watch a TED talk about this course by Googling "nand2tetris TED talk".
+I also sourced the book supporting the course:
+
+Nisan, Noam & Schocken, Shimon (2021). 'The Elements of Computing Systems Building a Modern Computer from First Principles'. Second Edition. Cambridge, Massachusetts, U. S. A.: The MIT Press. ISBN 9780262539807 (paperback)
+
+The free online course is hosted online through Coursera. I resolved to undertake the course and enrolled on Wednesday, February 7, 2024, as I felt my knowledge regarding the practical aspects of computers is still rather rudimentary and cursory, and I feel my naivete, practically impacts upon my shell scripting. In this project-centered course attendees build a modern computer system, from the ground up. The attendees commense with constructing elementary logic gates all the way through to creating a fully functioning general purpose computer. In the process, attendees learn, in the most direct and constructive way, how computers work, and how they are designed. The course is self-contained. All the knowledge necessary to succeed in the course and build the computer system will be given as part of the learning experience. Therefore, no previous computer science or engineering knowledge is required. No physical materials are required, since attendees will build the computer on their own devices, using a software-based hardware simulator, just like real computers are designed by computer engineers in the field. The hardware simulator, as well as other software tools, will be supplied freely after the attendees enroll in the course. The course consists of six modules, each comprising a series of video lectures, and a project. Attendees will require about 2-3 hours to watch each module's lectures, and about 5-10 hours to complete each one of the six projects. The course can be completed in six weeks, but you are welcome to take it at your own pace. A TED talk about this course may be watched by Googling "nand2tetris TED talk".
 
 Source: https://www.coursera.org/learn/build-a-computer (accessed: Wednesday February 7, 2024) 
 
@@ -11501,6 +11505,14 @@ Melody (1995). 'Love Is in the Earth: A Kaleidoscope of Crystals: The Reference 
 Michael, Randall K. (2008). 'Mastering UNIX®Shell Scripting: Bash, Bourne, and Korn Shell Scripting for Programmers, System Administrators, and UNIX Gurus'. Second Edition. Indianapolis, Indiana, U. S. A.: Wiley Publishing, Inc. ISBN 9780470183014
 
 **N**
+
+**Noam Nisan, *et al.***
+
+Nisan, Noam & Schocken, Shimon (2021). 'The Elements of Computing Systems Building a Modern Computer from First Principles'. Second Edition. Cambridge, Massachusetts, U. S. A.: The MIT Press. ISBN 9780262539807 (paperback).
+
+**Purport**
+
+This book, now in its second edition, is the theoretical component for the freely available course Nand To Tetris (Nand2Tetris), which I have resolved to undertake, so my practical knowledge of computers is not so rudimentary and fragmented. I feel, it will only inform my scripting endeavours. Details regarding the online course hosted by Coursera
 
 **O**
 
