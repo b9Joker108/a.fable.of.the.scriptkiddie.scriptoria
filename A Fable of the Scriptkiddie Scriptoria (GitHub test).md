@@ -4,9 +4,22 @@
 
 ## Publication details, editions, versions
 
-**v.1.0.0**
+**v.0.1.0.**
 
 Pre-first draft, of work commenced early December 2023.
+
+This work conforms with Semantic Versioning 2.0.0. Though, this standard is designed for software, it may be usefully applied to written documentation. 
+Please refer:  
+https://semver.org/ (accessed: Thursday February 8, 2024) 
+https://github.com/semver/semver (accessed: Thursday February 8, 2024) 
+
+Given a version number MAJOR.MINOR.PATCH, increment the:
+
+1. MAJOR version when you make  incompatible API changes
+2. MINOR version when you add functionality in a backward compatible manner
+3. PATCH version when you make backward compatible bug fixes
+
+The Semantic Versioning specification was originally authored by [Tom Preston-Werner](https://tom.preston-werner.com/), inventor of Gravatar and cofounder of GitHub. Preston-Werner initiated Semantic Versioning to mitigate the bane of what has become known as 'Dependency Hell'. I have experienced this particularly with Python, which has caused me much grief. Therefore, anything that minimises it, or indeed renders it as a historical oddity in software development, has my endorsement. 
 
 **Licensing**
 
