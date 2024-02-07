@@ -11807,6 +11807,9 @@ Rochkind, Marc J. (2004). 'Advanced UNIX Programming'. Second Edition. Sixth Pri
 
 Seebach, Peter (2008). 'Beginning Portable Shell Scripting: From Novice to Professional'. ISBN 9781430210436 (pbk) 
 
+**Justin Seitz, *et al.***
+
+Seitz,Justin & Arnold, Tim (2021). 'Black Hat Python: Python Programming for Hackers and Pentesters'. San Francisco, California, U. S. A.: No Starch Press, Inc. ISBN 9781718501133 (ebook)
 
 **W. Richard Stevens, *et al.***
 
