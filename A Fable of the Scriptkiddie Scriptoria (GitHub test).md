@@ -11707,6 +11707,10 @@ DeVeau, Joseph (2016). 'BASH Guide'. U. S. A.: JD Bookworks. ISBN 9780996337656
 
 **F**
 
+**Dolev Farhi, *et al.***
+
+Farhi, Dolev & Aleks, Nick (2023). 'Black Hat Bash: Bash Scripting for Hackers and Pentesters'. Early Access: First five chapters only. No Starch Press. ISBN 9781718503755 (ebook) Source: https://github.com/dolevf/Black-Hat-Bash (accessed: Thursday February 8, 2024) 
+
 **Eric Foster-Johnson, *et al.***
 
 Foster-Johnson, Eric; Welch, John C. & Anderson, Micah (2005). 'Beginning Shell Scripting'. Indianapolis, Indiana, U. S. A.: Wiley Publishing, Inc. ISBN 9780764583209
