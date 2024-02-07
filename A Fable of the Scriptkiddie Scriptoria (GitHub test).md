@@ -1343,6 +1343,76 @@ The C shell also spawned several variants, such as the Restricted C shell (rcsh)
 
 The lineage of UNIX and Unix-like shells shows the evolution of one of the most fundamental and powerful tools in computing. The shells have influenced the development of many other programming languages and environments, such as Perl, Python, Ruby, and PowerShell. The shells have also enabled users to customize and automate their workflows, and to interact with their systems in creative and efficient ways.
 
+**Bard, what computer languages were sh, Bash and Zsh written in?**
+
+While Bash and Zsh are primarily written in C, the original "sh" shell, which they both build upon, has a slightly different story.
+
+**sh (Bourne Shell):**
+
+* **Original implementation:** Written in **assembly language** for the PDP-7 and PDP-11 minicomputers in the 1970s. Assembly language is a low-level language specific to the architecture of a particular CPU, making it efficient but less portable.
+* **Later versions:** Subsequent implementations of "sh" were written in **C** for better portability and maintainability. The specific versions and languages used may vary depending on the operating system and distribution.
+
+**Bash (Bourne-Again Shell):**
+
+* Primarily written in **C**, with some performance-critical sections in **assembly language** for efficiency.
+
+**Zsh (Z shell):**
+
+* Primarily written in **C**, with additional use of **lex** and **yacc** for parsing its syntax. These are tools that help define the grammar and structure of the shell's commands.
+
+So, while Bash and Zsh are primarily C-based, the original "sh" shell had roots in assembly language before transitioning to C in later versions.
+
+You're absolutely right! My apologies for the previous inaccuracy. While both Bash and Zsh are primarily interpreted and executed within the context of larger operating systems, they do have specific languages used in their development. Here's a more accurate breakdown:
+
+**sh (Bourne shell):**
+
+* Written in **assembly language** for the PDP-7 minicomputer and later ported to other platforms like **C**.
+* The original Bourne shell wasn't intended as a full-fledged programming language, but rather a command interpreter. However, its syntax and features influenced later shells like Bash and Zsh.
+
+**Bash (Bourne-Again shell):**
+
+* Primarily written in **C**, with some performance-critical sections written in **assembly language**.
+* C provides the necessary efficiency and control for handling system interactions and low-level operations.
+* Bash also incorporates a **scripting language** based on C syntax, allowing users to automate tasks and extend shell functionality.
+
+**Zsh (Z shell):**
+
+* Primarily written in **C**, but also utilizes **lex** and **yacc** for parsing its syntax.
+* Lex and Yacc are tools specifically designed for generating lexical analyzers and parsers, respectively, which are crucial for interpreting shell commands and syntax.
+* Similar to Bash, Zsh also has a **scripting language** based on C syntax for user-defined extensions and automation.
+
+In essence, while these shells interact with the operating system and interpret user commands, they have their own internal languages built with C and related tools like lex and yacc to handle the specific syntax, parsing, and execution of their functionalities.
+
+You're absolutely right, I apologize for the confusion in my previous answer. While sh, Bash, and Zsh aren't directly "computer languages" themselves, they are definitely implemented in specific ones for their functionality. Here's a breakdown:
+
+**sh (Bourne shell):**
+
+* Primarily written in **C**
+* Some performance-critical portions might involve **assembly language**
+
+**Bash (Bourne-Again shell):**
+
+* Primarily written in **C**
+* Similar to sh, might have specific sections in **assembly language**
+
+**Zsh (Z shell):**
+
+* Mainly written in **C**
+* Utilizes **lex** for lexical analysis and **yacc** for parsing its syntax
+
+So, while these shells don't have scripting languages like Python or Java, they are indeed implemented using C and sometimes assembly language for optimization. Remember, they primarily function as interfaces for interacting with the operating system, hence not being complete "languages" themselves.
+
+I hope this clarifies! Feel free to ask if you have any further questions about sh, Bash, Zsh, or shell functionality in general.
+
+Neither Bash nor Zsh are technically written in a single "computer language" like Python or Java. They are both **shells**, which are special programs that provide an interface for users to interact with the operating system. Shells don't typically get written in languages like Python or Java; they are usually written in **C**.
+
+Here's the breakdown:
+
+* **Bash:** Bash, an acronym for "Bourne-Again SHell," was primarily written in **C** with some minor parts in **assembly language** for performance-critical sections.
+* **Zsh:** Zsh, short for "Z shell," is also mainly written in **C** but additionally utilizes **lex** and **yacc** for parsing its syntax.
+
+Though not directly considered "languages," both Bash and Zsh have their own **scripting languages** that allow users to automate tasks and extend their functionality. These scripting languages share similarities with C and other low-level languages but have features specifically designed for shell interactions.
+
 # UNIX Philosophy 
 
 By the grace of goddess Serendipity, I came across this pith reductionism or distillation of UNIX philosophy, and felt it valuable. Hence, I have transposed it here, with minor editing. It was prepared by Peter Krumins (https://github.com/pkrumins) a 'browserling'.
