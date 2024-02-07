@@ -106,6 +106,10 @@ Melody (1995). 'Love Is in the Earth: A Kaleidoscope of Crystals: The Reference 
 
 ## Frontmatter
 
+>	"Remember, the difference between script kiddies and professional hackers is
+>	that the former uses other people’s tools. The latter can write their own." 
+>		~ Charlie Miller (2020) in the 'Foreword' to Seitz & Arnold (2021: p. xvi)
+
 **Bing, in the discourse of programming, coding and hacking, to be termed and cast with the lot of the *scriptkiddie*, is to be disparaged and defamed. Like all progressive discourses that embrace and reframe their shadows in the Jungian denotation, I intend to position this work within such progressive iconoclasm. Moreover, so much work on shell scripting, coding and programming and attendant disciplines, is for the most-part, so dessicatingly dry and unfathomably impenetrable. Taking stock of this, I wished this work to partake of the iconoclasm of the bellwether, sublimating the manifold interpenetrating discourses of which it is constituted, partakes and subscribed, to the gestalt of literature and inspiration. And thereby, leaven and inform, the entirety of the academic and pedagogic discourse. What say you?**
 
 **Note: Please refer addendum for a cursory anthropological and ethnographic inquiry into a possible first attestation of scriptkiddie, and useful varietals, and close correlates.** 
