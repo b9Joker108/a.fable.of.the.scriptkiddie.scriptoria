@@ -8,7 +8,7 @@
 
 Pre-first draft, of work commenced early December 2023.
 
-**Licencing**
+**Licensing**
 
 The text (and images) and code in this work, and in its GitHub repository, are licenced separately, as both advised herein, and in the designated folder/directory in the GitHub repository:
 
