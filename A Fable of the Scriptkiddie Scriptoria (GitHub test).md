@@ -11579,6 +11579,10 @@ This book, now in its second edition, is the theoretical component for the freel
 
 **O**
 
+**John Orton**
+
+Orton, John (2009). 'Semiconductors and the Information Revolution: Magic Crystals that made IT Happen'. Amsterdam, The Netherlands: Academic Press (an imprint of Elsevier). ISBN 9780444532404
+
 **P**
 
 Peters, Ron (2009). 'Expert Shell Scripting'. Berkeley, California, U. S. A.: Apress. ISBN 9781430218425
