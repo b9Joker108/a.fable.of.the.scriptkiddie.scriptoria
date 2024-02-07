@@ -9335,6 +9335,9 @@ This list is just a starting point, and there are many other excellent academic 
 
 The first time I attempted an undergraduate university degree out of the three, was a Bachelor of Humanities at LaTrobe University, and my subjects were: History of Religion, (Classical) Sanskrit, Anthropology, History of India, and (Western) Philosophy. I had wanted to study philosophy formally for some time and was so excited to finally be doing so. My experience was so disillusioning and disorientating. Formal logic, in its Western permutation, was the mandatory first unit of the philosophy stream at the institution. It could not be escaped. It could not be avoided. In my youth, I found it so dry, impenetrable and inaccessible, and rather useless. I wasn't the only one. I was truly ignorant. If I remember properly, more people were enrolled in Logic, the first unit of the Philosophy stream, than in any other unit or subject in the entire university. My particular year, was also, as the lecturer said by memory, the largest class the university had ever seen. The logic lecture was in the largest lecture theatre or auditorium of the institution, all seats were occupied, people were bunched together, standing at the rear, people were seated down all the stairs, and throughout all the aisles, and some people were left outside, as they just couldn't fit in. Though, I now appreciate the primacy and foundational importance of formal logic as mandatory toolset, for evaluating various philosophical discourses, there was clearly an agenda in programming this very dry unit, at the outset of the discipline, given its substantial popularity. The formalises of the curriculum were purposeful and informed, in both their positive and negative denotation and applications. There were a vast number of drop-outs in the very early days, that just continued as the unit progressed. I ended up being one of them. My deep engagement and devotional research into traditional religio-cultural systems of Indo-Tibetan religions, necessitated studies their logical systems. Debate was so primary to all Dharmic Traditions, and rules of logic underpinned these traditions of debate. I came to love logic. This love and appreciation of Dharmic logic, then reformed my view and perspective of Western logic. It is taking all of this endeavour and knowledge in-sum, that I cannot over-emphasise the importance of grappling with logic enough. My dear readers, I really hope that you take this sage advice to heart, and but into action, and application. 
 
+Storytime_Sunshine@YouTube (June 16, 2023). 'Computer Engineering and the Adventures in Logic Land | Kids Book Read Aloud'. Source:
+https://youtu.be/HhM8KRkcr90?si=XjpPzn-Z6ZFlv60i (accessed: Wednesday February 7, 2024) 
+
 **Bard, please provide an historical and developmental overview of logic from its first emergence in human culture, taking into consideration all known human cultures?**
 
 ## A Journey Through Logic: A Historical and Developmental Overview
@@ -11513,6 +11516,11 @@ This video and tutorial has some quite accomplished aspects. It is worth noting,
 **R**
 
 **S**
+
+**Storytime Sunshine**
+
+Storytime_Sunshine@YouTube (June 16, 2023). 'Computer Engineering and the Adventures in Logic Land | Kids Book Read Aloud'. Source:
+https://youtu.be/HhM8KRkcr90?si=XjpPzn-Z6ZFlv60i (accessed: Wednesday February 7, 2024) 
 
 **Simon Schocken, *et al.***
 
