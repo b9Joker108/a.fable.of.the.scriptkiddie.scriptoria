@@ -11581,7 +11581,7 @@ This book, now in its second edition, is the theoretical component for the freel
 
 **John Orton**
 
-Orton, John (2009). 'Semiconductors and the Information Revolution: Magic Crystals that made IT Happen'. Amsterdam, The Netherlands: Academic Press (an imprint of Elsevier). ISBN 9780444532404
+Orton, John W. (2009). 'Semiconductors and the Information Revolution: Magic Crystals that made IT Happen'. Amsterdam, The Netherlands: Academic Press (an imprint of Elsevier). ISBN 9780444532404
 
 **P**
 
