@@ -11713,9 +11713,17 @@ Foster-Johnson, Eric; Welch, John C. & Anderson, Micah (2005). 'Beginning Shell 
 
 **G**
 
+**Simson Garfinkel, *et al.***
+
 Garfinkel, Simson; Weise, Daniel & Strassmann, Steven (eds.) (1994). 'The UNIX HATERS Handbook'. With illustrations by John Klossner. San Mateo, California, U. S. A.: IDG Books Worldwide, Inc. ISBN 1568842031
 
+**Yonas Gebremichael**  
+
 Gebremichael, Yonas (2023). 'Master Termux - Hacking with Android: Beginner to Advance Complete Guide'. Second edition. Self-published, with no declared ISBN. ASIN ‏B0CGNXTSVG
+
+**Googlers**
+
+Googlers (undated). '[Google] Shell Style Guide'. Revision 2.02. (NB: Authored, revised and maintained by many Googlers.)   Source: https://google.github.io/styleguide/shellguide.html (accessed: Thursday February 8, 2024) 
 
 **H**
 
