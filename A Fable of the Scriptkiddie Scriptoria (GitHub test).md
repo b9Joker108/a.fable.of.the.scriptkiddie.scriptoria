@@ -3954,8 +3954,9 @@ The GNU `man` package and the GNU `info` package are two different systems for p
 - The `man` package uses the roff or groff formatting system, whilst the `info` package uses the Texinfo system, which is based on TeX.
 - The `man` package organizes the documentation into short and separate pages, whilst the `info` package allows for longer and more comprehensive documents.
 - The `info` package supports features such as hyperlinks, full-text search, index, and linear browsing, which the `man` package does not.
+- apropos...
 
-You can access the man pages by typing `man` followed by the name of the program or command, and the `info` pages by typing `info` followed by the name of the program or command. You can also use the `--help` option to get a brief summary of the usage and options of a program or command.
+You can access the man pages by typing `man` followed by the name of the program or command, and the `info` pages by typing `info` followed by the name of the program or command. You can also use the `--help` option to get a brief summary of the usage and options of many packages, programs or commands.
 
 **Practical exercise:** Input `man` `man` for the traditional, introductory oldschool GNU manual experience, type `man` `info` for a traditional summary of how the ancestor views the heir, with `info` `man` brief yourself with how the progeny exalts and frames its ancestor, and finally invoke the introduction to the superset of GNU interactive documentation with `info` `info`. In following this exercise, just like Doctor Doolittle’s Push-me-pull-you, you won't know whether you are coming or going! 
 
@@ -3965,11 +3966,11 @@ You can access the man pages by typing `man` followed by the name of the program
 
 Welcome to the foundation of your scripting journey! Let's dive into the essential elements of Bash and Zsh that will guide you through the bitwise realm of automation and the intuitive and applied logic of practical hacking.
 
-*“You have brains in your head
-	and feet in your shoes,
-you can steer yourself in any
-	direction you choose!"*
-				Dr. Seuss
+>	*“You have brains in your head
+>		and feet in your shoes,
+>	you can steer yourself in any
+>		direction you choose!"*
+>			~ Dr. Seuss
 
 **1.0 Navigation:**
 
