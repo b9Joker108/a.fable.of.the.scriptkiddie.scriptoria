@@ -11912,6 +11912,10 @@ Garfinkel, Simson; Weise, Daniel & Strassmann, Steven (eds.) (1994). 'The UNIX H
 
 Gebremichael, Yonas (2023). 'Master Termux - Hacking with Android: Beginner to Advance Complete Guide'. Second edition. Self-published, with no declared ISBN. ASIN ‏B0CGNXTSVG
 
+**Matthew Gimson**
+
+Gimson, Matthew (2015). 'Linux Command Line: Fast and Easy! - Linux Commands, Bash Scripting Tricks, Linux Shell Programming Tips and Bash One-Liners'. Self-published. 
+
 **Leonardo Giordani**
 
 Giordani, Leonardo (2020). 'Beginner's Guide to the Unix Terminal: Learn bash and the Unix core utilities in a relaxed way'. (NB: Version published May 5, 2020). Leanpub.
