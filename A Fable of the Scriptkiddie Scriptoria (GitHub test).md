@@ -1080,9 +1080,13 @@ The [trigram](https://en.m.wikipedia.org/wiki/Trigram) "tty" became widely used 
 
 **tty: From teletype precursors, to implementation, to virtualisation and emulation**
 
+The following is essentially a wholesale transposition of the article McKay, as such, it is currently plagiarism. This is a strong, cautionary not for its future reworking. I am deeply indebted to him, he made it much clearer, than what I have outlined above. 
+
+McKay, Dave (2019). 'What is a TTY on Linux? (and How to Use the tty Command). Source: https://www.howtogeek.com/428174/what-is-a-tty-on-linux-and-how-to-use-the-tty-command/ (accessed: Thursday February 8, 2024)
+
 **Teleprinters From the 1800s**
 
-In the 1830s and 1840s, machines known as teleprinters were developed. These machines could send typed messages 'down the wire' to distant locations. The messages were typed by the sender on a keyboard of sorts. They were printed on paper at the receiving end. They were an evolutionary step in telegraphy, which had previously relied on Morse and similar codes.
+In the 1830s and 1840s, machines known as [teleprinters](https://en.wikipedia.org/wiki/Teleprinter) were developed. These machines could send typed messages 'down the wire' to distant locations. The messages were typed by the sender on a keyboard of sorts. They were printed on paper at the receiving end. They were an evolutionary step in [telegraphy](https://en.wikipedia.org/wiki/Telegraphy), which had previously relied on [Morse](https://en.wikipedia.org/wiki/Morse_code) and similar codes.
 
 Messages were encoded and transmitted, then received, decoded, and printed. There were several techniques used to encode and decode the messages. The most famous, and one of the most prolific, was patented in 1874 by Émile Baudot, for whom the baud rate is named. His character encoding scheme pre-dated ASCII by 89 years.
 
