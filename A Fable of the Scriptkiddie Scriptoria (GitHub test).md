@@ -11807,6 +11807,10 @@ Understanding POSIX.1-2017 standards gives you several advantages as a shell scr
 
 While the full standard document is quite comprehensive, focusing on relevant sections based on your specific scripting needs can be beneficial. Additionally, several online resources and tutorials explain POSIX concepts in a more digestible manner.
 
+**Bobby Iliev**
+
+Iliev, Bobby (2021). 'Introduction to Bash Scripting: For Developers'. Self-published. 
+
 **J**
 
 **M. Jones**
