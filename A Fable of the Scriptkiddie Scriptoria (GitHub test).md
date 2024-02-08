@@ -11954,6 +11954,10 @@ Though Salus' work doesn't have a bibliography, it does contain a humble 'Furthe
 
 **T**
 
+**Paul Troncone, *et al.***
+
+Troncone, Paul & Albing, Carl (2019). 'Cybersecurity Ops with Bash: Attack, Defend, and Analyze from the Command Line'. First Edition, Second Release: April, 24, 2020. Sebastapol, California, U. S. A.: O’Reilly Media, Inc. ISBN 9781492041313
+
 **U**
 
 **V**
