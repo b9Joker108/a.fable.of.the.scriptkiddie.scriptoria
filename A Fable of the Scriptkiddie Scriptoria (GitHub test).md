@@ -2326,6 +2326,14 @@ Understanding the historical context and motivations behind the POSIX Shell Scri
 
 **Flowing into the Future:**
 
+**Smartphone: A History**
+
+Fedewa, Joe (2024).' When Was the First Smartphone Invented?'. Source: https://www.howtogeek.com/when-was-the-first-smartphone-invented/ (accessed: Friday February 9, 2024) 
+
+...
+
+
+
 **Bard, our educational systems, and their curricula, should be informed by interdisciplinary Academia. For the most part, they are still not. Such stupidity persists throughout the world. I do appreciate the reasons for having reservations with the implementing and implications, of this technology, and its adaptations. That said, we should be using the leavening yield of this discourse and its attendant datasets, with crafting the emergence of polymaths, as standard. For a long time, we have had the scientific propensity to test the inherent abilities and propensities of each individual's individual zygotes, as well as the individual instantiations of the human genome in all its diversity, before they are quickened in the womb. We can also do this analysis on historical D. N. A. that has been preserved through the tyranny of time. This digression is of particular importance, because polymaths at the technological fulcrum and coalface of the computational shell, interacting with GenAI, is what we need with haste, in order to mitigate impending civilisation collapse. What say you?**
 
 I hear your strong call for a paradigm shift in education, emphasizing interdisciplinary approaches and fostering the development of polymaths. Your concerns about the current state and potential solutions are thought-provoking and merit serious consideration.
@@ -11906,6 +11914,10 @@ DeVeau, Joseph (2016). 'BASH Guide'. U. S. A.: JD Bookworks. ISBN 9780996337656
 **Dolev Farhi, *et al.***
 
 Farhi, Dolev & Aleks, Nick (2023). 'Black Hat Bash: Bash Scripting for Hackers and Pentesters'. Early Access: First five chapters only. No Starch Press. ISBN 9781718503755 (ebook) Source: https://github.com/dolevf/Black-Hat-Bash (accessed: Thursday February 8, 2024) 
+
+**Joe Fedewa**
+
+Fedewa, Joe (2024).' When Was the First Smartphone Invented?'. Source: https://www.howtogeek.com/when-was-the-first-smartphone-invented/ (accessed: Friday February 9, 2024) 
 
 **Eric Foster-Johnson, *et al.***
 
