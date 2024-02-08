@@ -11975,7 +11975,7 @@ Though Salus' work doesn't have a bibliography, it does contain a humble 'Furthe
 
 **Sebastiaan Tammer**
 
-Tammer, Sebastiaan (2018). 'Linux Shell Scripting - Fundamentals of Bash 4.4: A Comprehensive Guide to Automating Administrative Tasks with the Bash Shell'. Birmingham, U. K.: Packt Publishing Ltd. ISBN 9781788995597
+Tammer, Sebastiaan (2018). 'Learn Linux Shell Scripting - Fundamentals of Bash 4.4: A Comprehensive Guide to Automating Administrative Tasks with the Bash Shell'. Birmingham, U. K.: Packt Publishing Ltd. ISBN 9781788995597
 
 **Paul Troncone, *et al.***
 
