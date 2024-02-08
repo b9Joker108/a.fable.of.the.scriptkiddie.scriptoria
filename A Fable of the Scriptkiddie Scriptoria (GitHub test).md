@@ -11816,6 +11816,10 @@ Kernighan, Brian W. & Pike, Rob (1984). 'The UNIX Programming Environment'. Bell
 
 Kerrisk, Michael (2010). 'The Linux Programming Interface: A Linux and UNIX(R) System Programming Handbook'. San Francisco, California, U. S. A.: No Starch Press, Inc. ISBN 9781593272203 
 
+**Oliver Kiddle, *et al.***
+
+Kiddle, Oliver; Peek, Jerry & Stephenson, Peter (2005). 'From Bash to Z Shell: Conquering the Command Line'. Berkeley, California, U. S. A.: Apress. ISBN 1590593766 (pbk)
+
 **Philip Kirkbride**
 
 Kirkbride, Philip (2020). 'Basic Linux Terminal Tips and Tricks: Learn to Work Quickly on the Command Line'. First Edition. Berkeley, California, U. S. A.: Apress. ISBN 9781484260340
