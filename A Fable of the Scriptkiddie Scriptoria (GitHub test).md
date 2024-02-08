@@ -1580,6 +1580,15 @@ Here's the breakdown:
 
 Though not directly considered "languages," both Bash and Zsh have their own **scripting languages** that allow users to automate tasks and extend their functionality. These scripting languages share similarities with C and other low-level languages but have features specifically designed for shell interactions.
 
+# Bash
+
+This section is a wholesale transposition of McKay's excellent article listed below. It needs to be rewritten and edited. Well, the whole history *NIX shells and their evolution needs to be rewritten. But, I feel I will structure it around shell 'generations', which I am get to introduce into this work. So, until the 'generations' theory of modelling *NIX shell evolution is integrated, this section may continue to persist as a plagiarism. 
+
+McKay, Dave (2021). 'What Is the Bash Shell, and Why Is It So Important to Linux?'. Source: https://www.howtogeek.com/726559/what-is-the-bash-shell-and-why-is-it-so-important-to-linux/ (accessed: Friday February 9, 2024) 
+
+...
+
+
 # UNIX Philosophy 
 
 By the grace of goddess Serendipity, I came across this pith reductionism or distillation of UNIX philosophy, and felt it valuable. Hence, I have transposed it here, with minor editing. It was prepared by Peter Krumins (https://github.com/pkrumins) a 'browserling'.
@@ -12010,6 +12019,9 @@ Makan, Keith (2014). 'Penetration Testing with the Bash shell: Make the most of 
 **Dave McKay** 
 
 McKay, Dave (2019). 'What is a TTY on Linux? (and How to Use the tty Command)'. Source: https://www.howtogeek.com/428174/what-is-a-tty-on-linux-and-how-to-use-the-tty-command/ (accessed: Thursday February 8, 2024) 
+
+McKay, Dave (2021). 'What Is the Bash Shell, and Why Is It So Important to Linux?'. Source: https://www.howtogeek.com/726559/what-is-the-bash-shell-and-why-is-it-so-important-to-linux/ (accessed: Friday February 9, 2024) 
+
 
 **Melody**
 
