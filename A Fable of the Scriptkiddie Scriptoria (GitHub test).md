@@ -3944,6 +3944,10 @@ So, open your shell terminal, let the first line of code be your brushstroke, an
 
 **man and info** 
 
+>	"Give a man a fish, and you feed him for a day. 
+>	Teach a man to fish, and you feed him for a lifetime."
+>		~ English proverb
+
 The GNU `man` package and the GNU `info` package are two different systems for providing documentation about modules, packages and commands in the Termux shell environment. The main differences between them are:
 
 - The `man` package is older and more traditional, whilst the `info` package is newer and more advanced.
