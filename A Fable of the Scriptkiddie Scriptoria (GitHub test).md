@@ -446,7 +446,7 @@ Pouzin (2000), references Pouzin (1965a) and Pouzin (1965b).
 
 **Readings**
 
-Grantman, Alex (2023). 'What came first, the kernel or the shell?'. LinkedIn. Source: https://archive.org/details/grantman-alex-2023.-what-came-first-the-kernel-or-the-shell (accessed: Friday February 9, 2024)
+Grantman, Alex (2023). 'What came first, the kernel or the shell?'. LinkedIn. Source: https://www.linkedin.com/pulse/what-came-first-kernel-shell-alex-gantman (accessed: Friday February 9, 2024) Archived: https://archive.org/details/grantman-alex-2023.-what-came-first-the-kernel-or-the-shell (accessed: Friday February 9, 2024)
 
 Pouzin, Louis (2000). 'The Origin of the Shell'. Note: "Posted to feb_wwide 25 Nov 2000". Source: https://multicians.org/shell.html (accessed: Friday February 9, 2024)
 
