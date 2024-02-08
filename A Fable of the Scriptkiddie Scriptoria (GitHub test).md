@@ -439,12 +439,16 @@ The story of shells on mainframes is one of gradual evolution rather than a sing
 
 **Shell Concept and Implementation**
 
+The work of Grantman (2023) on the origins of the computational kernel and shell is a brilliant, evocative and insightful piece of writing: part social-history, part anthropology of technology, part research assignment with the capstone of an annotated pastiche and mosaic of extracts of primary source material. The methodology and its realisation is truly edifying and profoundly humbling. It was sourced as a post on LinkedIn where it was also stated to be cross-posted on Medium. I resolved to commend it to archival at the Internet Archive to preserve it for posterity. 
+
 Pouzin (2000), references Pouzin (1965a) and Pouzin (1965b). 
 
 
 **Readings**
 
-Pouzin, Louis (2000). 'The Origin of the Shell'. Note:  "Posted to feb_wwide 25 Nov 2000". Source: https://multicians.org/shell.html (accessed: Friday February 9, 2024)
+Grantman, Alex (2023). 'What came first, the kernel or the shell?'. LinkedIn. Source: https://archive.org/details/grantman-alex-2023.-what-came-first-the-kernel-or-the-shell (accessed: Friday February 9, 2024)
+
+Pouzin, Louis (2000). 'The Origin of the Shell'. Note: "Posted to feb_wwide 25 Nov 2000". Source: https://multicians.org/shell.html (accessed: Friday February 9, 2024)
 
 Pouzin, Louis (1965a). 'The SHELL: A Global Tool for Calling and Chaining Procedures in the System'. This title is the subject line in a document on Massachusetts Institute of Technology (MIT) Project MAC, letterhead, stating that it is "...Section IV of the Design Notebook...", with a distribution list, somewhat like a memo, dated: April 2, 1965. Source: https://people.csail.mit.edu/saltzer/Multics/Multics-Documents/MDN/MDN-4.pdf (accessed: Friday February 9, 2024) 
 
@@ -11958,6 +11962,10 @@ Giordani, Leonardo (2020). 'Beginner's Guide to the Unix Terminal: Learn bash an
 **Googlers**
 
 Googlers (undated). '[Google] Shell Style Guide'. Revision 2.02. (NB: Authored, revised and maintained by many Googlers.)   Source: https://google.github.io/styleguide/shellguide.html (accessed: Thursday February 8, 2024) 
+
+**Alex Grantman**
+
+Grantman, Alex (2023). 'What came first, the kernel or the shell?'. LinkedIn. Source: https://archive.org/details/grantman-alex-2023.-what-came-first-the-kernel-or-the-shell (accessed: Friday February 9, 2024)
 
 **H**
 
