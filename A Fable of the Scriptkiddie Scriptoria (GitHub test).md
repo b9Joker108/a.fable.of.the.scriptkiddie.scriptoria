@@ -1122,7 +1122,7 @@ The [DEC VT05](https://en.wikipedia.org/wiki/VT05) was an early example of a vir
 
 **Software Emulated Teletypes**
 
-In the desktop environment of Linux and other Unix-like operating systems such as macOS, the terminal window and applications such as x-term and Konsole are examples of virtual teletypes. But these are emulated entirely in software. They are called pseudo-teletypes. This was shortened to PTS.
+In the desktop environment of Linux and other Unix-like operating systems such as macOS, the terminal window and applications such as [x-term](https://en.wikipedia.org/wiki/Xterm) and [Konsole](https://en.wikipedia.org/wiki/Konsole) are examples of virtual teletypes. But these are emulated entirely in software. They are called pseudo-teletypes. This was shortened to PTS.
 
 And that's where tty comes in.
 
@@ -1132,12 +1132,23 @@ In Linux, there is a pseudo-teletype multiplexor which handles the connections f
 
 The tty command will print the name of the device file that your pseudo-teletype slave is using to interface to the master. And that, effectively, is the number of your terminal window.
 
-Let's see what tty reports for our terminal window:
+Let's see what executing `tty` reports for our terminal window:
 
-`tty`
+```zsh
+~tty
+/dev/pts/0
+```
+
+The response shows we are connected to the device file at /dev/pts/0.
+
+Our terminal window, which is a software emulation of a teletype (TTY), is interfaced to the pseudo-teletype multiplexor as a pseudo-teletype (PTS). And it happens to be number zero.
+
+**The Silent Option**
+The `-s` (silent) option causes `tty` to generate no output.
+
+`tty -s`
 
 
-...
 
 
 
