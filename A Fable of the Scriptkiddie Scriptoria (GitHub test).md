@@ -11965,7 +11965,7 @@ Googlers (undated). '[Google] Shell Style Guide'. Revision 2.02. (NB: Authored, 
 
 **Alex Grantman**
 
-Grantman, Alex (2023). 'What came first, the kernel or the shell?'. LinkedIn. Source: https://archive.org/details/grantman-alex-2023.-what-came-first-the-kernel-or-the-shell (accessed: Friday February 9, 2024)
+Grantman, Alex (2023). 'What came first, the kernel or the shell?'. LinkedIn. Source: https://www.linkedin.com/pulse/what-came-first-kernel-shell-alex-gantman (accessed: Friday February 9, 2024) Archived: https://archive.org/details/grantman-alex-2023.-what-came-first-the-kernel-or-the-shell (accessed: Friday February 9, 2024)
 
 **H**
 
