@@ -11709,6 +11709,8 @@ Burtch, Ken O. (2004). 'Linux Shell Scripting with Bash'. Indianapolis, Indiana,
 
 Cannon, Jason (2015). 'Shell Scripting'. Self-published. 
 
+Cannon, Jason (undated). 'Command Line Kung Fu'. Self-published. 
+
 **Mendel Cooper**
 
 Cooper, Mendel (2006). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Revision 4.2.01. Independently published. Source: https://linux.die.net/abs-guide/ (accessed: Friday February 2, 2024) 
