@@ -1088,17 +1088,17 @@ McKay, Dave (2019). 'What is a TTY on Linux? (and How to Use the tty Command). S
 
 In the 1830s and 1840s, machines known as [teleprinters](https://en.wikipedia.org/wiki/Teleprinter) were developed. These machines could send typed messages 'down the wire' to distant locations. The messages were typed by the sender on a keyboard of sorts. They were printed on paper at the receiving end. They were an evolutionary step in [telegraphy](https://en.wikipedia.org/wiki/Telegraphy), which had previously relied on [Morse](https://en.wikipedia.org/wiki/Morse_code) and similar codes.
 
-Messages were encoded and transmitted, then received, decoded, and printed. There were several techniques used to encode and decode the messages. The most famous, and one of the most prolific, was patented in 1874 by Émile Baudot, for whom the baud rate is named. His character encoding scheme pre-dated ASCII by 89 years.
+Messages were encoded and transmitted, then received, decoded, and printed. There were several techniques used to encode and decode the messages. The most famous, and one of the most prolific, was patented in 1874 by [Émile Baudot](https://en.wikipedia.org/wiki/%C3%89mile_Baudot), for whom the [baud rate](https://en.wikipedia.org/wiki/Symbol_rate) is named. His character encoding scheme pre-dated [ASCII](https://en.wikipedia.org/wiki/ASCII) by 89 years.
 
 Baudot's encoding eventually became the closest thing to a standard in teleprinter encoding, and it was adopted by most manufacturers. Baudot's original hardware design had only five keys, similar to piano keys. The operator was required to learn a particular key combination for each letter. Eventually, the Baudot encoding system was coupled to a traditional keyboard layout.
 
-To mark that advancement, the machines were named teletypewriters. This was shortened to teletypes and eventually to TTYs. So that's where we get the acronym TTY from, but what has telegraphy got to do with computing?
+To mark that advancement, the machines were named teletypewriters. This was shortened to teletypes and eventually to TTYs. So that's where we get the [acronym](https://en.wikipedia.org/wiki/Acronym) TTY from, but what has telegraphy got to do with computing?
 
 **ASCII and Telex**
 
 When ASCII arrived in 1963, it was adopted by the teletype manufacturers. Despite the invention and widespread use of the telephone, teletypes were still going strong.
 
-Telex was a worldwide network of teletypes that allowed written messages to be sent around the globe. They were the principal means of transmitting written messages in the period following World War II up to the fax machine boom of the 1980s.
+[Telex](https://en.wikipedia.org/wiki/Telex) was a worldwide network of teletypes that allowed written messages to be sent around the globe. They were the principal means of transmitting written messages in the period following World War II up to the [fax machine boom](https://en.wikipedia.org/wiki/Fax) of the 1980s.
 
 Computers were evolving too. They were becoming capable of interacting with users in real time, and of supporting multiple users. The old batch method of working became insufficient. People didn't want to wait 24 hours or longer for their results. Making stacks of punched cards and waiting overnight for results was no longer acceptable.
 
@@ -1116,9 +1116,9 @@ And of course, it used a more-or-less standard keyboard.
 
 Teletypes became the default means of interacting with the large mini and mainframe computers of that era.
 
-They were eventually replaced by devices that emulated those electro-mechanical machines using electronics. These had Cathode Ray Tubes (CRTs) instead of paper rolls. They didn't shake when delivering responses from the computer. They permitted hitherto impossible functionality, such as moving the cursor around the screen, clearing the screen, bolding text, and so on.
+They were eventually replaced by devices that emulated those electro-mechanical machines using electronics. These had [Cathode Ray Tubes](https://en.wikipedia.org/wiki/Cathode-ray_tube) (CRTs) instead of paper rolls. They didn't shake when delivering responses from the computer. They permitted hitherto impossible functionality, such as moving the cursor around the screen, clearing the screen, bolding text, and so on.
 
-The DEC VT05 was an early example of a virtual teletype, and an ancestor of the famous DEC VT100. Millions of DEC VT100s were sold.
+The [DEC VT05](https://en.wikipedia.org/wiki/VT05) was an early example of a virtual teletype, and an ancestor of the famous [DEC VT100](https://en.wikipedia.org/wiki/VT100). Millions of DEC VT100s were sold.
 
 **Software Emulated Teletypes**
 
