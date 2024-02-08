@@ -11875,6 +11875,10 @@ Michael, Randall K. (2008). 'Mastering UNIX®Shell Scripting: Bash, Bourne, and 
 
 **N**
 
+**Cameron Newham, *et al.***
+
+Newham, Cameron & Rosenblatt (2009). 'Learning the Bash Shell'. (NB: Covers Bash 3.0). Third Edition. Sebastopol, California, U. S. A.: O'Reilly Media, Inc. ISBN 0596009658
+
 **Noam Nisan, *et al.***
 
 Nisan, Noam & Schocken, Shimon (2021). 'The Elements of Computing Systems Building a Modern Computer from First Principles'. Second Edition. Cambridge, Massachusetts, U. S. A.: The MIT Press. ISBN 9780262539807 (paperback).
