@@ -11738,6 +11738,10 @@ Cooper, Mendel (2014). 'Advanced Bash-Scripting Guide: An in-depth exploration o
 
 Dakic, Vedran & Redzepagic, Jasmin  (2022). 'Linux Command Line and Shell Scripting Techniques: Master practical aspects of the Linux Command line and then use it as a part of the shell scripting process'. Birmingham, U. K.: Packt Publishing.  ISBN 9781800205192
 
+**Tye Darwin, *et al.*** 
+
+Darwin, Tye (auth.) & Guind, Dan (ed.)(2020). 'Learn Linux basics and Bash, shell, Python scripting for hacking using Kali Linux'. GVS Publications. 
+
 **Denys Dovhan, *et al.***
 
 Dovhan, Denys, *et al.* (2017). 'bash-handbook'. (v2.9.7). Source: https://github.com/denysdovhan/bash-handbook (accessed: Monday February 5, 2024). Note: You may install this locally with: `npm install -g bash-handbook`, and then execute with: `bash-handbook`. 
