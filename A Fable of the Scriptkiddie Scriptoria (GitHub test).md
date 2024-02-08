@@ -11713,6 +11713,8 @@ Burtch, Ken O. (2004). 'Linux Shell Scripting with Bash'. Indianapolis, Indiana,
 
 Cannon, Jason (2015). 'Shell Scripting'. Self-published. 
 
+Cannon, Jason (2014). 'Linux Succinctly'. Morrisville, North Carolina, U. S. A.: Syncfusion Inc. 
+
 Cannon, Jason (undated). 'Command Line Kung Fu'. Self-published. 
 
 **Mendel Cooper**
