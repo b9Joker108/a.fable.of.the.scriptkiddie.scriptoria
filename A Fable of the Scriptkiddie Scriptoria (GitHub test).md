@@ -437,6 +437,13 @@ The story of shells on mainframes is one of gradual evolution rather than a sing
 * **Agents:** Key figures like Louis Pouzin (Shell concept) and Ken Thompson (Thompson Shell) developed early command-line interpreters.
 * **Technologies:** Time-sharing systems allowed multiple users to access a single mainframe via terminals, necessitating efficient command interfaces.
 
+**Shell Concept and Implementation**
+
+Pouzin, Louis (1965). 'The SHELL: A Global Tool for Calling and Chaining Procedures in the System'. This title is the subject line in a document on Massachusetts Institute of Technology (MIT) Project MAC, letterhead, stating that it is "...Section IV of the Design Notebook...", with a distribution list, somewhat like a memo, dated: April 2, 1965. Source: https://people.csail.mit.edu/saltzer/Multics/Multics-Documents/MDN/MDN-4.pdf (accessed: Friday February 9, 2024) 
+
+
+
+
 **Rise of Prominent Shells (1970s - 1980s):**
 
 * **Context:** The Bourne Shell (Sh) became the dominant shell on Unix systems, while IBM developed the CMS EXEC and TSO shells for its mainframes.
@@ -12108,9 +12115,9 @@ Polkowski, Lech T. (2023). 'Logic - Reference Book for Computer Scientists - The
 * Future editions could expand on emerging areas of logic, such as probabilistic logic and quantum logic, to stay current with the field's advancements.
 * Additionally, incorporating interactive elements or online resources could enhance the book's accessibility and usefulness for readers.
 
+**Louis Pouzin**
 
-
-
+Pouzin, Louis (1965). 'The SHELL: A Global Tool for Calling and Chaining Procedures in the System'. This title is the subject line in a document on Massachusetts Institute of Technology (MIT) Project MAC, letterhead, stating that it is "... Section IV of the Design Notebook...", with a distribution list, somewhat like a memo, dated: April 2, 1965. Source: https://people.csail.mit.edu/saltzer/Multics/Multics-Documents/MDN/MDN-4.pdf (accessed: Friday February 9, 2024) 
 
 **Q**
 
