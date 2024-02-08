@@ -4,7 +4,7 @@
 
 ## Publication details, editions, versions
 
-**v.0.1.0.**
+**v.0.1.0**
 
 Pre-first draft, of work commenced early December 2023.
 
@@ -11863,6 +11863,10 @@ Light, Jennifer S. (1999). 'When Computers were women' in *Technology and Cultur
 **Keith Makan**
 
 Makan, Keith (2014). 'Penetration Testing with the Bash shell: Make the most of the Bash shell and Kali Linux's command-line-based security assessment tools'. Birmingham, U. K.: Packt Publishing, Ltd. ISBN 9781849695107
+
+**Dave McKay** 
+
+McKay, Dave (2019). 'What is a TTY on Linux? (and How to Use the tty Command)'. Source: https://www.howtogeek.com/428174/what-is-a-tty-on-linux-and-how-to-use-the-tty-command/ (accessed: Thursday February 8, 2024) 
 
 **Melody**
 
