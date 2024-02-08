@@ -1078,6 +1078,65 @@ This narrative codifies the historical significance of teletypes, async terminal
 
 The [trigram](https://en.m.wikipedia.org/wiki/Trigram) "tty" became widely used as an informal abbreviation for "Teletype", oft-used to designate the main text input and output device on many early computer devices. The abbreviation remains in use by [radio amateurs](https://en.m.wikipedia.org/wiki/Radio_amateur) ("ham radio"), in the hearing-impaired community, to refer to [text input and output assistive devices](https://en.m.wikipedia.org/wiki/Telecommunications_device_for_the_deaf), and as a command-line invocation, as follows. 
 
+**tty: From teletype precursors, to implementation, to virtualisation and emulation**
+
+**Teleprinters From the 1800s**
+
+In the 1830s and 1840s, machines known as teleprinters were developed. These machines could send typed messages 'down the wire' to distant locations. The messages were typed by the sender on a keyboard of sorts. They were printed on paper at the receiving end. They were an evolutionary step in telegraphy, which had previously relied on Morse and similar codes.
+
+Messages were encoded and transmitted, then received, decoded, and printed. There were several techniques used to encode and decode the messages. The most famous, and one of the most prolific, was patented in 1874 by Émile Baudot, for whom the baud rate is named. His character encoding scheme pre-dated ASCII by 89 years.
+
+Baudot's encoding eventually became the closest thing to a standard in teleprinter encoding, and it was adopted by most manufacturers. Baudot's original hardware design had only five keys, similar to piano keys. The operator was required to learn a particular key combination for each letter. Eventually, the Baudot encoding system was coupled to a traditional keyboard layout.
+
+To mark that advancement, the machines were named teletypewriters. This was shortened to teletypes and eventually to TTYs. So that's where we get the acronym TTY from, but what has telegraphy got to do with computing?
+
+**ASCII and Telex**
+
+When ASCII arrived in 1963, it was adopted by the teletype manufacturers. Despite the invention and widespread use of the telephone, teletypes were still going strong.
+
+Telex was a worldwide network of teletypes that allowed written messages to be sent around the globe. They were the principal means of transmitting written messages in the period following World War II up to the fax machine boom of the 1980s.
+
+Computers were evolving too. They were becoming capable of interacting with users in real time, and of supporting multiple users. The old batch method of working became insufficient. People didn't want to wait 24 hours or longer for their results. Making stacks of punched cards and waiting overnight for results was no longer acceptable.
+
+People needed a device that would allow them to enter instructions and get results sent back to them. People wanted efficiency.
+
+**The Teletype Repurposed**
+
+The teletype was the perfect candidate as an input/output device. It was, after all, a device designed to allow messages to be typed, encoded, sent, received, decoded, and printed.
+
+What did the teletype care if the device at the other end of the connection wasn't another teletype? As long as it spoke the same encoding language and could receive messages and send messages back, the teletype was happy.
+
+And of course, it used a more-or-less standard keyboard.
+
+**Hardware Emulated Teletypes**
+
+Teletypes became the default means of interacting with the large mini and mainframe computers of that era.
+
+They were eventually replaced by devices that emulated those electro-mechanical machines using electronics. These had Cathode Ray Tubes (CRTs) instead of paper rolls. They didn't shake when delivering responses from the computer. They permitted hitherto impossible functionality, such as moving the cursor around the screen, clearing the screen, bolding text, and so on.
+
+The DEC VT05 was an early example of a virtual teletype, and an ancestor of the famous DEC VT100. Millions of DEC VT100s were sold.
+
+**Software Emulated Teletypes**
+
+In the desktop environment of Linux and other Unix-like operating systems such as macOS, the terminal window and applications such as x-term and Konsole are examples of virtual teletypes. But these are emulated entirely in software. They are called pseudo-teletypes. This was shortened to PTS.
+
+And that's where tty comes in.
+
+What can tty Tell us?
+
+In Linux, there is a pseudo-teletype multiplexor which handles the connections from all of the terminal window pseudo-teletypes (PTS). The multiplexor is the master, and the PTS are the slaves. The multiplexor is addressed by the kernel through the device file located at /dev/ptmx.
+
+The tty command will print the name of the device file that your pseudo-teletype slave is using to interface to the master. And that, effectively, is the number of your terminal window.
+
+Let's see what tty reports for our terminal window:
+
+`tty`
+
+
+...
+
+
+
 ## Bard, please explain this Termux shell input/output:
 
 (base) root@localhost:~# tty
