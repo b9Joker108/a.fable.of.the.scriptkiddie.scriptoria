@@ -1148,9 +1148,74 @@ The `-s` (silent) option causes `tty` to generate no output.
 
 `tty -s`
 
+It does produce an exit value, however:
 
+0: if standard input is coming from a TTY device, emulated or physical.
+1: if standard input is not coming from a TTY device.
+2: Syntax error, incorrect command line parameters were used.
+3: A write error has occurred.
 
+This is likely to be most useful in Bash scripting. But, even on the command line, we can demonstrate how to have a command executed only if you are running in a terminal window (a TTY or a PTS session).
 
+`tty -s && echo "In a tty"`
+
+```zsh
+~tty -s && echo "In a tty"                                  
+In a tty
+```
+
+Because we are running in a TTY session, our exit code is 0, and the second command is executed.
+
+**The who Command**
+
+Other commands can reveal your TTY number. The `who` command will list information for all logged in users, including yourself.
+
+Alec and Mary are remotely connected to the Linux computer. They are connected to PTS one and two.
+
+User dave is shown as connected to ":0".
+
+This represents the screen and keyboard physically connected to the computer. Even though the screen and keyboard are hardware devices, they are still connected to the multiplexor through a device file. `tty` reveals that it is `/dev/pts/2`.
+
+**Accessing a TTY**
+
+You can access a full-screen TTY session by holding down the Ctrl+Alt keys, and pressing one of the function keys.
+
+Ctrl+Alt+F3 will bring up the login prompt of tty3.
+
+If you log in and issue the tty command, you'll see you are connected to /dev/tty3.
+
+This isn't a pseudo-teletype (emulated in software); it is a virtual teletype (emulated in hardware). It is using the screen and keyboard connected to your computer, to emulate a virtual teletype like the DEC VT100 used to do.
+
+You can use function keys Ctrl+Alt with function keys F3 to F6 and have four TTY sessions open if you choose. For example, you could be logged into tty3 and press Ctrl+Alt+F6 to go to tty6.
+
+To get back to your graphical desktop environment, press Ctrl+Alt+F2.
+
+Pressing Ctrl+Alt+F1 will return you to the login prompt of your graphical desktop session.
+
+At one time, Ctrl+Alt+F1 through to Ctrl+Alt+F6 would open up the full-screen TTY consoles, and Ctrl+Alt+F7 would return you to your graphical desktop environment. If you are running an older Linux distribution, this might be how your system behaves.
+
+This was tested on current releases of Manjaro, Ubuntu, and Fedora and they all behaved like this:
+
+1. Ctrl+Alt+F1: Returns you to the graphical desktop environment log in screen.
+2. Ctrl+Alt+F2: Returns you to the graphical desktop environment.
+3. Ctrl+Alt+F3: Opens TTY 3.
+4. Ctrl+Alt+F4: Opens TTY 4.
+5. Ctrl+Alt+F5: Opens TTY 5.
+6. Ctrl+Alt+F6: Opens TTY 6.
+
+Having access to these full-screen consoles allows people using command-line only installations of Linux---and many Linux servers are configured this way--- to have multiple consoles available.
+
+Ever been working on a Linux machine with a graphical desktop environment and had something cause your session to freeze? Now you can hop over to one of the TTY console sessions so that you can try to rectify the situation.
+
+You can use `top` and `ps` to try to identify the failed application, then use kill to terminate it, or just use shutdown to try to close down as gracefully as the state of the computer will allow.
+
+**Three Little Letters With a Lot of History**
+
+The `tty` command gets its name from a device from the late 1800s, appeared in Unix in 1971, and is part of Linux and Unix-like operating systems to this day.
+
+The little chap has quite a tale behind him.
+
+Dave McKay first used computers when punched paper tape was in vogue, and he has been programming ever since. After over 30 years in the IT industry, he is now a full-time technology journalist. During his career, he has worked as a freelance programmer, manager of an international software development team, an IT services project manager, and, most recently, as a Data Protection Officer. Dave is a Linux evangelist and open source advocate.
 
 ## Bard, please explain this Termux shell input/output:
 
