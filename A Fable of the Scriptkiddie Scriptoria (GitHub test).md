@@ -1,6 +1,6 @@
 # A Fable of the Scriptkiddie Scriptoria: A Bash/Zsh roadmap/study-guide, leveraging the GNU/Linux shell & Termux scripting environment w/~ Android: unrooted, PRoot to root!
 
-## by The Google Bard Experiment, PerplexityAI & Microsoft Bing Copilot, w/~ Beauford A. Stenberg (a.k.a. b9Joker108 at GitHub) 
+## by The Google Bard Experiment, Google Gemini, aPerplexityAI & Microsoft Bing Copilot, w/~ Beauford A. Stenberg (a.k.a. b9Joker108 at GitHub) 
 
 ## Publication details, editions, versions
 
@@ -6981,6 +6981,8 @@ The team behind Bard is constantly working on improvements and expansion. Here a
 **Remember, Bard is still under development, but its potential is vast. As it continues to learn and evolve, coders can expect even more powerful and creative ways to leverage its capabilities. So, dive into the world of Bard, and let this AI companion guide you on your coding journey!**
 
 I hope this comprehensive overview has illuminated Google Bard and its potential for coders. Feel free to ask any further questions you may have, and I'll be happy to assist you!
+
+As of Friday, February 9, 2024, Bard underwent a model upgrade, and was renamed Gemini, and curiously, no longer named an "experiment". 
 
 **Android ships limited, out-of-the-box** 
 
