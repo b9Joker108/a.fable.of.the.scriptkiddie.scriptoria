@@ -19,7 +19,7 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 2. MINOR version when you add functionality in a backward compatible manner
 3. PATCH version when you make backward compatible bug fixes
 
-The Semantic Versioning (aka 'SemVer') specification was originally authored by [Tom Preston-Werner](https://tom.preston-werner.com/), inventor of Gravatar and cofounder of GitHub. Preston-Werner initiated Semantic Versioning to mitigate the bane of what has become known as '[Dependency Hell](https://en.m.wikipedia.org/wiki/Dependency_hell)'. I have experienced this particularly with Python, which has caused me much grief. Therefore, anything that minimises it, or indeed renders it as a historical oddity in software development, has my endorsement. 
+The Semantic Versioning (aka 'SemVer') specification was originally authored by [Tom Preston-Werner](https://tom.preston-werner.com/), inventor of Gravatar and cofounder of GitHub. Preston-Werner initiated Semantic Versioning to mitigate the bane of what has become known as '[Dependency Hell](https://en.m.wikipedia.org/wiki/Dependency_hell)'. I first experienced this particularly with installing packages in Termux with Python package dependencies, which have caused me much Perplexity and grief. Therefore, anything that minimises it, or indeed renders it as a historical artefact and  oddity in software development, has my endorsement. 
 
 **Licensing**
 
