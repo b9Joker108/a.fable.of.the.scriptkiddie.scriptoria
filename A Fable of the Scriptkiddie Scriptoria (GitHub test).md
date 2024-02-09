@@ -439,7 +439,7 @@ The story of shells on mainframes is one of gradual evolution rather than a sing
 
 **Shell Concept and Implementation**
 
-The work of Grantman (2023) on the origins of the computational kernel and shell is a brilliant, evocative and insightful piece of writing: part social-history, part anthropology of technology, part research assignment with the capstone of an annotated pastiche and mosaic of extracts of primary source material. The methodology and its realisation is truly edifying and profoundly humbling. It was sourced as a post on LinkedIn where it was also stated to be cross-posted on Medium. I resolved to commend it to archival at the Internet Archive to preserve it for posterity. 
+The work of Grantman (2023) on the origins of the computational kernel and shell is a brilliant, evocative and insightful piece of writing: part social-history, part anthropology of technology, part research assignment with the capstone of an annotated pastiche and mosaic of extracts of primary source material. Its title: 'What came first, the kernel or the shell?', is play on the venerable English conundrum: 'What came first, the chicken or the egg?', which has its roots in the 'Symposiacs', but Plutarch (ggg), and in translation from the Ancient Greek. The methodology and its realisation in the work of Grantman, is truly edifying and profoundly humbling. It was sourced as a post on LinkedIn where it was also stated to be cross-posted on Medium. I resolved to commend it to archival at the Internet Archive to preserve it for posterity. 
 
 Pouzin (2000), references Pouzin (1965a) and Pouzin (1965b). 
 
