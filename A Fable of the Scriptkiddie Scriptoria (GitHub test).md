@@ -10122,7 +10122,84 @@ There are several key reasons why the NAND logic gate is the most widely used in
 In summary, the combination of versatility, performance, manufacturing advantages, and standardization has solidified the NAND gate as the dominant building block in digital logic circuits. While NOR gates have their own uses, the overall benefits of NAND gates outweigh them in most applications.
 
 
+**Gemini, the logic gates may be parsed into associate, commutative, etc., please elucidate?**
 
+You're right, logic gates can be categorized based on different properties like associativity and commutativity. Here's a breakdown:
+
+**Associativity:**
+
+* An associative gate is one where the order of operation for multiple inputs doesn't affect the final output. In simpler terms, grouping the inputs differently won't change the result.
+* Example: OR gate. (A OR B) OR C is the same as A OR (B OR C).
+* Non-associative gates: NAND, NOR, XOR, XNOR. The order of inputs matters for these gates.
+
+**Commutativity:**
+
+* A commutative gate is one where swapping the order of its inputs doesn't affect the final output.
+* Example: AND gate. A AND B is the same as B AND A.
+* Non-commutative gates: OR, XOR, XNOR. Swapping inputs changes the output for these gates.
+
+**Other properties:**
+
+* **Idempotence:** Output remains the same even with multiple repetitions of the same input. Example: NOT gate (NOT(NOT(A)) is the same as NOT(A)).
+* **Invertibility:** One gate can undo the operation of another. Example: NOT is the inverse of itself (NOT(NOT(A)) is the same as A).
+* **Completeness:** A set of gates is complete if any Boolean function can be built using only those gates. Examples: NAND and NOR are both complete sets.
+
+Understanding these properties can help you analyze and predict the behavior of logic circuits built with different gates.
+
+Here are some additional points to remember:
+
+* These properties only apply to the basic logic gates with two inputs.
+* Combining gates can create more complex circuits with different properties.
+* Understanding these properties is crucial for digital circuit design and analysis.
+
+Do you have any specific questions about a particular gate or property? I'd be happy to help you further.
+
+You're right, logic gates can be categorized based on various properties like associativity, commutativity, and others. Here's a breakdown:
+
+**Associativity:** This property refers to whether the order of operations within the gate matters.
+
+* **Associative gates:** These gates produce the same output regardless of the order of their inputs. Examples include AND, OR, and XOR gates.
+* **Non-associative gates:** The output of these gates depends on the order of their inputs. An example is the NAND gate (output is 1 only if both inputs are 0).
+
+**Commutativity:** This property refers to whether the order of the inputs affects the output.
+
+* **Commutative gates:** These gates produce the same output regardless of the order of their inputs. Examples include AND, OR, and XOR gates.
+* **Non-commutative gates:** The output of these gates depends on the order of their inputs. An example is the NOR gate (output is 0 only if both inputs are 1).
+
+**Other properties:**
+
+* **Idempotence:** The output is the same if an input is repeated. Only the NOT gate has this property.
+* **Invertibility:** The output can be inverted by applying the same gate again. NOT gate is the only one with this property.
+* **Completeness:** A set of gates is considered complete if any logical function can be built using only those gates. NAND and NOR gates are individually complete.
+
+**Understanding these properties is crucial for:**
+
+* **Simplifying logic circuits:** By rearranging gates based on their properties, you can potentially reduce the number of gates needed.
+* **Analyzing circuit behavior:** Knowing the properties of used gates helps predict the overall behavior of the circuit.
+* **Building complex functions:** By combining different gates with specific properties, you can create more complex logical functions.
+
+I hope this explanation clarifies the different properties of logic gates and their importance. Feel free to ask if you have further questions about specific gates or their applications.
+
+You're right, logic gates can indeed be classified into different categories based on their properties like associativity and commutativity. Here's a breakdown:
+
+**Associativity:**
+
+* **Associative gates:** These gates perform the same operation regardless of how the inputs are grouped. For example, an AND gate with inputs A, B, and C will have the same output whether you treat it as (A AND B) AND C or A AND (B AND C). Examples of associative gates include AND, OR, XOR, and XNOR.
+* **Non-associative gates:** These gates' output depends on the grouping of the inputs. For example, a NAND or NOR gate with three inputs will have different outputs depending on how you group them.
+
+**Commutativity:**
+
+* **Commutative gates:** These gates perform the same operation regardless of the order of their inputs. For example, an AND gate with inputs A and B will have the same output whether you treat it as A AND B or B AND A. Examples of commutative gates include AND, OR, XOR, and XNOR.
+* **Non-commutative gates:** These gates' output depends on the order of the inputs. For example, a NAND or NOR gate with two inputs will have different outputs depending on which input is first.
+
+**Other classifications:**
+
+* **Idempotent gates:** These gates have the property that applying the operation twice has the same effect as applying it once. Examples include AND and OR.
+* **Absorbent gates:** These gates have one input that "absorbs" the other input, resulting in the output being the same as the absorbing input. Examples include AND and NOR.
+
+It's important to note that these properties are specific to the **function** performed by the gate, not the physical implementation. Additionally, some gates can exhibit both associative and commutative behavior, while others might only have one or neither.
+
+If you have specific examples of logic gates you're interested in, I can help you analyze their properties and provide more detailed information.
 
 ## Mnemonic Mania for Bash and Zsh Gates & Bitwise Operators!
 
@@ -11122,13 +11199,13 @@ Source: Conversation with Bing, 01/02/2024
 (6) What is difference between zellij and tmux with similar ... - GitHub. https://github.com/zellij-org/zellij/discussions/1701.
 (7) tmux vs. screen - Super User. https://superuser.com/questions/236158/tmux-vs-screen.
 
-**Scriptkiddie**
+## Addendum: Scriptkiddie
 
 I happenned upon the following excellent work. I wish to install a reworked and edited version of it directly in this roadmap, and make thorough and cited reference to it. I have have parked it here for the interim. 
 
 https://liveoverflow.com/the-origin-of-script-kiddie-hacker-etymology/
 
-**Hall of Fame: a curation of salient biographies**
+## Hall of Fame: a curation of salient biographies**
 
 **A**
 
