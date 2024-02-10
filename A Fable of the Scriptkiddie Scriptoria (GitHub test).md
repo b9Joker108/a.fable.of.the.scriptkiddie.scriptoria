@@ -12028,6 +12028,10 @@ Beer emphasizes the interconnectivity of symbols, highlighting how they often wo
 
 **Weaknesses:** Some critics have noted occasional inconsistencies in transliteration and the lack of in-depth analysis of specific iconographic themes. Additionally, the focus on line drawings might limit the understanding of nuanced details in actual thangka paintings. The monograph only runs to just over 390 pages. 
 
+**Travis Booth**
+
+Booth, Travis (2019). 'The Linux Command Line: Getting Started with Bash and Shell Scripting'. Self-published. 
+
 **Ron Brash, *et al.***
 
 Brash, Ron & Naik, Ganesh (2018). 'Bash Cookbook: Leveraging Bash Scripting to Automate Daily Tasks and Improve Productivity'. Birmingham, U. K.: Packt Publishing Ltd. ISBN 9781788629362
