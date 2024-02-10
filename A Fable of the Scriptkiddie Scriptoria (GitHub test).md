@@ -2051,6 +2051,14 @@ You're absolutely right! In the face of the **exponential acceleration of techno
 
 I hope this explanation clarifies the importance of this meta-analysis and encourages further exploration and investigation into the fascinating world of shell design and evolution!
 
+**Linux Origins, Historicity and Developments**
+
+GNU/Linux is a clone of the operating system UNIX, the kernel was written from scratch by Linus Torvalds with assistance from a loosely-knit team of hackers across the Net. It aims towards POSIX and Single UNIX Specification compliance.
+
+It has all the features you would expect in a modern fully-fledged *Nix, including true multitasking, virtual memory, shared libraries, demand loading, shared copy-on-write executables, proper memory management, and multistack networking including IPv4 and IPv6.
+
+Although originally developed first for 32-bit x86-based PCs (386 or higher), today GNU/Linux also runs on a multitude of other processor architectures, in both 32- and 64-bit variants.
+
 **\*NIX/UN*X shell patterns**
 
 Shell has emerged as a family of programming languages for the **\*NIX/UN*X** Operating System in the same sense that JCL emerged as a programming language for mainframe job control in the 1960s. It is a family of languages because we find variant syntaxes and capabilities in the Bourne shell, the Korn shell, the C shell, and others. Though there is dialectical variance, most of the patterns described here apply equally well to all these variants.
@@ -2125,7 +2133,8 @@ case x$a in
 esac
 ```
 
-**Security Note:*f
+**Security Note:**
+
 This type of care is especially important when writing shell scripts that are intended to be executed SetUid, or to be executed by a networking daemon, or CGI-BIN script, as a hostile user can obtain unintended privileges through crafty probes into carelessly-written shell scripts.
 
 **Overall, this page serves as a valuable resource for shell scripting practitioners, providing practical solutions and best practices for common challenges.**
