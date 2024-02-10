@@ -7850,6 +7850,44 @@ These are some of the ways I think generative AI could lead to a more productive
 Source: Conversation with Bing, 10/02/2024
 (1) The Role Of Generative AI In The Next Phase Of Middleware - Forbes. https://www.forbes.com/sites/forbestechcouncil/2023/09/14/the-role-of-generative-ai-in-the-next-phase-of-middleware/.
 
+**PerplexityAI, I foresee the computational shell, for example Bash and Zsh, becoming a less prescriptive environment, and less a rules-based language environment, and Generative AI proficient in coding being embedded in the shell, or kernel, or both, or even middlewhere, or daemons, and directly nested in the operating system, so that the GUI dynamically reformulates and adapts to user workflows and projects, for example, or maybe all of these, but each Generative AI element having a different directive, but all of them being less fundamentally prescriptive, and more dynamic and adaptive. What say you?**
+
+The vision you've described for the future of computational shells and operating systems is one where generative AI plays a central role in creating a more dynamic, adaptive, and user-centric computing environment. This would involve integrating AI capabilities deeply into various layers of the system, from the shell to the kernel, and possibly through middleware or daemons. The goal would be to have the graphical user interface (GUI) and the system itself respond and adapt to the user's workflow and projects in real-time.
+
+While the current state of shell environments like Bash and Zsh is largely static and rules-based, there is a growing interest in making these environments more flexible and user-friendly. Discussions on platforms like Hacker News and Reddit reflect a desire for shells that are less complex and more intuitive, with some users expressing frustration with the limitations of current shell scripting and the appeal of more modern alternatives. The idea of a shell that can adapt to the user's level of expertise and automate complex tasks is certainly appealing.
+
+Generative AI, which can create content based on prompts, is already being explored as a means to automate tasks and potentially write scripts based on verbal or textual descriptions. This suggests a future where AI could assist in generating dynamic user interfaces and workflows, as seen in discussions about wizard engines and dynamic UIs in software development. 
+
+However, integrating AI into the shell or operating system at a deep level would require significant advancements in AI technology and its application in software engineering. It would also necessitate a rethinking of the traditional shell environment and the development of new paradigms for human-computer interaction.
+
+In summary, while the idea of a less prescriptive, more adaptive computational environment with embedded generative AI is compelling, it represents a forward-looking vision that would require substantial innovation and development in both AI and software design. The discussions and research in this area indicate a growing interest in such advancements, but realizing this vision would be a complex and multifaceted challenge. 
+
+Citations:
+[1] Unix Shell Programming: The Next 50 Years https://news.ycombinator.com/item?id=29610956
+[2] Future of Linux and AI https://www.reddit.com/r/linuxquestions/comments/17fwour/future_of_linux_and_ai/
+[3] Wizard Engine to build dynamic user-interface sequences https://stackoverflow.com/questions/69446442/wizard-engine-to-build-dynamic-user-interface-sequences
+[4] Hacker News https://news.ycombinator.com/item?id=15601825
+[5] Generative AI is overrated, long live old-school AI https://news.ycombinator.com/item?id=35171401
+[6] How to use a wizard to create step by step dynamic workflow? https://ux.stackexchange.com/questions/88659/how-to-use-a-wizard-to-create-step-by-step-dynamic-workflow
+[7] Bash as a shell in operating systems and zsh as an alternative https://www.sir-apfelot.de/en/bash-shell-zsh-alternative-53113/
+[8] Generative AI Cloud Platforms: AWS, Azure, or Google? https://thenewstack.io/generative-ai-cloud-services-aws-azure-or-google-cloud/
+[9] Building Dynamic UI with Visual Workflow Runtime API - Salesforce https://www.salesforce.com/video/193681/
+[10] Report on the “The Future of the Shell” Panel at HotOS 2021 https://mgree.github.io/papers/2021_hotos_panel_report.pdf
+[11] Originality's Shell Game: Navigating The 'Turtles All The Way Down' of AI and Copyright https://www.linkedin.com/pulse/originalitys-shell-game-navigating-turtles-all-way-down-adam-treitler-yeqce?trk=public_post
+[12] Chapter 10 Dynamic UI | Mastering Shiny https://mastering-shiny.org/action-dynamic.html
+[13] Brian Lovin https://brianlovin.com/hn/33419944
+[14] Generative AI Cloud Platforms: Choose from AWS, Azure, or Google Cloud https://cloud.folio3.com/blog/generative-ai-cloud-platforms-aws-azure-or-google-cloud/
+[15] Question: How to create "dynamic" workflows in ComfyUI? https://www.reddit.com/r/comfyui/comments/17n4rf4/question_how_to_create_dynamic_workflows_in/?rdt=45048
+[16] Mac is making zsh the new default, replacing bash - Unity Forum https://forum.unity.com/threads/mac-is-making-zsh-the-new-default-replacing-bash.689533/
+[17] Check Release · Workflow runs · jupyterlab/jupyter-ai https://github.com/jupyterlab/jupyter-ai/actions/workflows/check-release.yml
+[18] Introduction https://research.csiro.au/static/workspace/docs/tutconnectingworkflowtoui.html
+[19] How to coordinate bash profile with zsh https://stackoverflow.com/questions/62120521/how-to-coordinate-bash-profile-with-zsh
+[20] AI Operating System https://medium.datadriveninvestor.com/ai-operating-system-7809e7fc4e49?gi=0bae85fdcef2
+[21] Solved: Re: Workflow Approval User Dynamically Based on Ca... https://www.servicenow.com/community/now-platform-forum/workflow-approval-user-dynamically-based-on-cat-item-variable/m-p/1089715
+[22] What is your favorite shell and why? https://www.reddit.com/r/commandline/comments/qpiyun/what_is_your_favorite_shell_and_why/?rdt=40798
+[23] Semantic Kernel: Microsoft Answers Your Questions, Updates Docs for AI Integration SDK -- Visual Studio Magazine https://visualstudiomagazine.com/articles/2023/06/26/semantic-kernel-qa.aspx
+[24] Dynamic Orchestration Workflow Using Apache Airflow https://blog.clearscale.com/dynamic-orchestration-workflow-apache-airflow/
+
 **Addendum B. Mobile digital privacy and the journey to digital anonymity**
 
 **https://youtu.be/RyirQOCUUK8?si=-1_nGJeDi-153oWK**
