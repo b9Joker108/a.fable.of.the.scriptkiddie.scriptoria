@@ -12373,6 +12373,10 @@ Yao, Ray (2015). 'Shell Scripting In 8 Hours: For Beginners Learn Coding Fast'. 
 
 **Z**
 
+**Giorgio Zarrelli**
+
+Zarrelli, Giorgio (2017). 'Mastering Bash: Automate Daily Tasks Tasks with Bash'. Birmingham, U. K.: Packt Publishing Ltd. ISBN 9781784396879
+
 # The following are notes and items, such as YouTube vids, that need to be integrated into the work
 
 Beneath the azure skies of ancient Greece, where philosophers grappled with the mysteries of the cosmos, a different kind of quest unfolded. In workshops bathed in the golden light of the Aegean, ingenious minds like Archimedes and Heron of Alexandria dreamt of machines that danced with the celestial ballet. They envisioned waterwheels forever turning, driven by the tireless pull of the moon, and spheres nestled within spheres, mimicking the endless waltz of the planets. Archimedes, with his mind a labyrinth of gears and levers, sought to harness the sun's fiery chariot, crafting mirrors to capture its radiant energy and set his contraptions in perpetual motion. His "water screw," a spiral that endlessly ascended, seemed to echo the Milky Way's celestial climb. In these dreams of clockwork cosmos, the Greeks sought not just practicality, but a glimpse into the divine machinery that orchestrated the universe's grand play.
