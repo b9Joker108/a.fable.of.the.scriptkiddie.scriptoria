@@ -12091,6 +12091,10 @@ DeVeau, Joseph (2016). 'BASH Guide'. U. S. A.: JD Bookworks. ISBN 9780996337656
 
 **E**
 
+**Mokhtar Ebrahim, *et al.***
+
+Ebrahim, Mokhtar & Mallett, Andrew (2018). 'Mastering Linux Shell Scripting: A Practical Guide to Linux Command-line, Bash Scripting, and Shell Programming'. Second Edition. Birmingham, U. K.: Packt Publishing Ltd. ISBN 9781788990554
+
 **F**
 
 **Dolev Farhi, *et al.***
