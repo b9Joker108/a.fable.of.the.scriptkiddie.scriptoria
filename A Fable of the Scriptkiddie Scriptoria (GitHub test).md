@@ -12881,6 +12881,63 @@ A cautionary word, be careful where you prospect and source information on shell
 
 **G**
 
+**Neil Gershenfeld**
+
+Bing, please summarize the  Lex Fridman Podcast article: lexfridman@YouTube (May 29, 2023). 'Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication | Lex Friedman Podcast #380'. Source: https://youtu.be/YDjOS0VHEr4?si=eUHndzkGrmJFQ_Uq (accessed: Sunday, February 11, 2024) 
+
+Certainly! In the **Lex Fridman Podcast #380**, Neil Gershenfeld, the director of the **MIT Center for Bits and Atoms**, delves into fascinating topics related to self-replicating robots and the future of fabrication. Here are some key points from the conversation:
+
+1. **Turing's Missteps**: The discussion begins with an exploration of what **Alan Turing** got wrong in his predictions about computation and artificial intelligence.
+
+2. **MIT Center for Bits and Atoms**: Neil shares insights into the work done at the MIT Center for Bits and Atoms, which focuses on **digital fabrication**, **self-assembling robots**, and the intersection of physical and digital realms.
+
+3. **Self-Replicating Machines**: Neil discusses the concept of **self-reproducing automata**, which serves as the foundation of life. Understanding this concept is crucial for creating life in non-living materials.
+
+4. **Microrobots and Nano Bricks**: Neil's lab is working on creating **microrobots** using **nano bricks**. These tiny robots have the potential to build large-scale structures in space, incorporating functional cells.
+
+5. **Trash and Fabrication**: The conversation touches on the relationship between waste materials and fabrication processes.
+
+6. **Lab-Made Bioweapons and Genome**: Neil shares thoughts on lab-made bioweapons and the implications of manipulating the genome.
+
+7. **Quantum Computing and Microfluidic Bubble Computation**: The discussion expands to quantum computing and microfluidic bubble computation.
+
+8. **Maxwell's Demon and Consciousness**: Neil explores topics like **Maxwell's demon** and the nature of consciousness.
+
+9. **Cellular Automata and the Universe as a Computer**: The conversation concludes with insights into cellular automata and the intriguing idea that the universe itself might be a computer.
+
+For the full podcast episode, you can listen on [Apple Podcasts](https://apple.co/2lwqZIr), [Spotify](https://spoti.fi/2nEwCF8), or watch it on [YouTube](https://youtube.com/lexfridman) ¹.
+
+Source: Conversation with Bing, 11/02/2024
+(1) #380 – Neil Gershenfeld: Self-Replicating Robots and the Future of .... https://lexfridman.com/neil-gershenfeld/.
+(2) Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication .... https://podcastdisclosed.com/neil-gershenfeld-self-replicating-robots-and-the-future-of-fabrication-lex-fridman-podcast-380/.
+(3) #380 – Neil Gershenfeld: Self-Replicating Robots and the Future of .... https://nota.fm/lexfridman/380-neil-gershenfeld-self-replicating-robots-and-the-future-of-fabrication.
+(4) Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication .... https://www.youtube.com/watch?v=YDjOS0VHEr4.
+(5) undefined. https://drinkLMNT.com/lex.
+(6) undefined. http://netsuite.com/lex.
+(7) undefined. https://betterhelp.com/lex.
+(8) undefined. http://ng.cba.mit.edu/.
+(9) undefined. https://cba.mit.edu/.
+(10) undefined. https://fabfoundation.org/.
+(11) undefined. https://fablabs.io/.
+(12) undefined. https://fabacademy.org/.
+(13) undefined. https://fab.city/.
+(14) undefined. https://lexfridman.com/podcast.
+(15) undefined. https://apple.co/2lwqZIr.
+(16) undefined. https://spoti.fi/2nEwCF8.
+(17) undefined. https://lexfridman.com/feed/podcast/.
+(18) undefined. https://youtube.com/lexfridman.
+(19) undefined. https://youtube.com/lexclips.
+(20) undefined. https://www.patreon.com/lexfridman.
+(21) undefined. https://twitter.com/lexfridman.
+(22) undefined. https://www.instagram.com/lexfridman.
+(23) undefined. https://www.linkedin.com/in/lexfridman.
+(24) undefined. https://www.facebook.com/lexfridman.
+(25) undefined. https://medium.com/@lexfridman.
+
+**Purport**
+
+This video needs to be transcribed and meticulously edited. 
+
 
 **H**
 
