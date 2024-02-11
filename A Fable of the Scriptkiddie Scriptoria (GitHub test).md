@@ -4193,7 +4193,17 @@ They all render differently and function functionality. So, explore each of them
 
 As I am still new to all of these text web browsers myself, and they each have different functionality. I have resolved, for ease of use, to set up an alias to access the Zsh documentation with each of the four text HTML browsers, in my Zsh config file .zshrc. 
 
-...
+```zsh
+# Aliases to open up my Zsh official documents locally in four different text browsers
+alias zd1='lynx ~/zsh-docs/zsh_html/index.html'
+alias zd2='w3m ~/zsh-docs/zsh_html/index.html'
+alias zd3='links ~/zsh-docs/zsh_html/index.html'
+alias zd4='elinks ~/zsh-docs/zsh_html/index.html'
+```
+
+Source the .zshrc file. 
+
+Now, in Termux, six ply type: `zd1` <ENTER>, for example, and profit! 
 
 We may also view the html archive, external to Termux, in an Internet browser in Android, through a terminal launcher in Termux. We will discuss this later in this work. 
 
