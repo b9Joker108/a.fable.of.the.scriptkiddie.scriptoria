@@ -13513,9 +13513,15 @@ Troncone, Paul & Albing, Carl (2019). 'Cybersecurity Ops with Bash: Attack, Defe
 
 **V**
 
+**Jayant Varma, *et al.***
+
+Varma, Jayant & Johnson, Chris F. A. (2023). 'Pro Bash: Learn to Script and Program the GNU/Linux Shell'. Third Edition. California, U. S. A: Apress. ISBN 9781484295885 (electronic)
+
 **Tom Van Vleck**
 
 Van Vleck, Tom (2024). 'Multics History'. Pittsburgh, Pennsylvania, U. S. A.: Multicians.org. Source: https://www.multicians.org/history.html (accessed: Tuesday February 6, 2024) 
+
+**Ashish Vaswani, *et al.***
 
 Vaswani, Ashish; Shazeer, Noam & Parmar, Niki, *et al.* (2017 [v.1], revised 2023 [v.7], online). 'Attention Is All You Need'. [arXiv.org](http://arxiv.org/)>cs>arXiv:1706.03762v7. Source: [https://doi.org/10.48550/arXiv.1706.03762](https://doi.org/10.48550/arXiv.1706.03762) (accessed: Wednesday January 24, 2024)
 
