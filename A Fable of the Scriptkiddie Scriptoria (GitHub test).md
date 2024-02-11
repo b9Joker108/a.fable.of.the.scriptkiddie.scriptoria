@@ -4147,6 +4147,57 @@ You can access the man pages by typing `man` followed by the name of the program
 
 **Practical exercise:** Input `man` `man` for the traditional, introductory oldschool GNU manual experience, type `man` `info` for a traditional summary of how the ancestor views the heir, with `info` `man` brief yourself with how the progeny exalts and frames its ancestor, and finally invoke the introduction to the superset of GNU interactive documentation with `info` `info`. In following this exercise, just like Doctor Doolittle’s Push-me-pull-you, you won't know whether you are coming or going! 
 
+**Official Zsh documentation**
+
+Throughout writing this work, I have determined my everyday working shell to be Zsh. Therefore, it is wise to have the official Zsh documentation readily available and at-hand. 
+
+The official Zsh documentation is available online (refer: mmmm), Though, viewing the documentation online has merit, as it is the continuously updated authoritative source for the interactive shell and the scripting language, you may usefully and powerfully customise the information and how you access and view it, according to your requirements, if you install it locally. The archive is available for download in a number of forms, choose as appropriate according to your preference and use-case. I downloaded it in the form:  
+`zsh_html.tar.gz`.
+
+First, we create the directory where we wish to install it:
+
+```zsh
+mkdir -p ~/zsh-docs
+```
+Then, we move the downloaded file from the default downloads directory in Termux, to the new directory we just created:
+
+```zsh
+mv /data/data/com.termux/files/home/storage/downloads/zsh_html.tar.gz /data/data/com.termux/files/home/zsh-docs/
+```
+
+Note, I have used absolute file paths for clarity. 
+
+We now need to unzip the html archive and install it:
+
+```zsh
+tar -xzvf zsh_html.tar.gz -C ~/zsh-docs
+```
+
+Then, we move into the newly created directory:
+
+```zsh
+cd zsh-docs
+```
+
+There are a multitude of packages or applications that we may view html documents and archives with within Termux, such as: 
+
+`w3m`, `lynx`, `links`, `elinks`, etc. 
+
+We view it with w3m first, for example:
+
+```zsh
+w3m zsh_html
+```
+
+They all render differently and function functionality. So, explore each of them, and get used to their functionality. 
+
+As I am still new to all of these text web browsers myself, and they each have different functionality. I have resolved, for ease of use, to set up an alias to access the Zsh documentation with each of the four text HTML browsers, in my Zsh config file .zshrc. 
+
+...
+
+We may also view the html archive, external to Termux, in an Internet browser in Android, through a terminal launcher in Termux. We will discuss this later in this work. 
+
+
 ***Thus begins your mythical journey into the heart of Bash and Zsh shell scripting. Are you ready? Yes, you are!*** 
 
 ## Bash and Zsh Basics: Termux Navigation, Commands, File System, I/O Redirection
