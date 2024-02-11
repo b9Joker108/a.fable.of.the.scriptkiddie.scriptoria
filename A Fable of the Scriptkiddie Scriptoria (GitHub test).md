@@ -13470,6 +13470,10 @@ Rochkind, Marc J. (2004). 'Advanced UNIX Programming'. Second Edition. Sixth Pri
 
 **S**
 
+**Jason Savitt**
+
+Savitt, Jason (2019). 'Power User Guide: Linux Tricks, Hacks and Secrets'. Ultimate Edition, Vol. 1 & 2. Jason Savitt Press.
+
 **Peter Seebach**
 
 Seebach, Peter (2008). 'Beginning Portable Shell Scripting: From Novice to Professional'. ISBN 9781430210436 (pbk) 
