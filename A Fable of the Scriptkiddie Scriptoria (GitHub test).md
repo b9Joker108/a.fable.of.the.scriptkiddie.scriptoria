@@ -13322,6 +13322,10 @@ Iliev, Bobby (2021). 'Introduction to Bash Scripting: For Developers'. Self-publ
 
 **J**
 
+**Chris F. A. Johnson, *et al.***
+
+Johnson, Chris F. A. & Varma, Jayant (2015). 'Pro Bash Programming: Scripting the GNU/Linux Shell'. Second Edition. California, U. S. A: Apress. ISBN 9781484201213 (electronic)
+
 **M. Jones**
 
 Jones, M. (2011). 'Evolution of shells in Linux: From Bourne to Bash and beyond'. Source: [https://developer.ibm.com/tutorials/l-linux-shells/](https://developer.ibm.com/tutorials/l-linux-shells/) (accessed: Wednesday January 24, 2024)
