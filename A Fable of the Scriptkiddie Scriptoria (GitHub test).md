@@ -15173,6 +15173,8 @@ https://linux.die.net/man/
 
 https://youtu.be/vJO-5gY0wpk?si=ejnZH4h_AIiwzOiP
 
+https://www.shellscript.sh/
+
 
 https://youtu.be/BnB2m1nXZ84?si=WSKq5gTvwzUKuGjb
 
