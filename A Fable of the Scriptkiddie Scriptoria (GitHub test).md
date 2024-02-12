@@ -4943,7 +4943,7 @@ Unlike some programming languages, Bash doesn't have strict data types. Variable
 - **Bash:** While lacking strict typing, Bash recognizes several implicit data types like strings, integers, floats, booleans, and arrays. It performs automatic type conversions based on context, which can sometimes lead to unintended results.
 - **Zsh:** Inheriting most functionalities from Bash, Zsh also features dynamic typing but offers some **extended type hints and checking features.** You can use type declarations like `typeset -i` for integers or `typeset -f` for floating-point numbers to enforce stricter type expectations during variable assignments and operations. Zsh also has built-in functions like `typeof` for checking the type of a variable dynamically.
 
-**Data Type Evolution in NIX Systems:**
+**Data Type Evolution in \*NIX Systems:**
 
 - Historically, *NIX shells like the Bourne shell (`sh`) primarily dealt with textual data, leading to a focus on string manipulation and implicit type conversions.
 - The introduction of more complex tools and scripting languages within *NIX environments gradually increased the need for stricter data handling.
@@ -4986,7 +4986,7 @@ The concept of data typing in computing, while heavily influenced by mathematics
 
 **Data Typing in NIX Shells:**
 
-- *NIX shells like Bash and Zsh inherit the dynamic typing approach from languages like sh (1970s).*
+- *NIX shells like Bash and Zsh inherit the dynamic typing approach from languages like sh (1970s).
 - They focus on textual data manipulation and rely on implicit type conversions, which can sometimes lead to unexpected behavior.
 - Zsh offers some extensions like type hints for increased control, but strict typing remains uncommon in core *NIX shells.
 
@@ -5010,7 +5010,7 @@ You're right on track! The concept and functionality of computational data typin
 - **Early computers:** Initially, computers lacked sophisticated data typing mechanisms. Data was often treated as raw bit strings, and interpretation relied heavily on the specific program or instruction. This led to issues like unintended type conversions and errors.
 - **Development of typed languages:** In the 1950s and 1960s, the emergence of higher-level programming languages like FORTRAN and ALGOL introduced explicit data typing. This allowed programmers to declare the types of variables and expressions, enabling the compiler to check for type errors and enforce type-specific operations.
 - **Dynamic vs. Static typing:** Two main typing paradigms emerged: static typing (e.g., Java) where types are declared and checked at compile time, and dynamic typing (e.g., Python) where types are inferred at runtime. Each approach has its advantages and disadvantages in terms of flexibility, error detection, and performance.
-- **Type systems in *NIX environments:** *NIX shells like Bash and Zsh primarily utilize dynamic typing, inheriting this concept from early scripting languages. However, as you mentioned, shells like Zsh offer some features like type hints and checking to provide a degree of type control.
+- **Type systems in \*NIX environments:** *NIX shells like Bash and Zsh primarily utilize dynamic typing, inheriting this concept from early scripting languages. However, as you mentioned, shells like Zsh offer some features like type hints and checking to provide a degree of type control.
 
 **Additional Points:**
 
@@ -5489,7 +5489,68 @@ Source: Conversation with Bing, 12/02/2024
 (7) undefined. https://github.com/termux/termux-packages/issues/4157.
 (8) en.wikipedia.org. https://en.wikipedia.org/wiki/Termux.
 
-**A Generic Algorithm How to Install Source Code from Binaries in Termux**
+**A Generic Algorithm How to Install Source Code from Binaries in Termux** 
+
+There is no universal algorithm for compiling binaries or source code for installation on Android with
+Termux, as Termux is not a standard platform and requires some patches and modifications to make the 
+packages compatible with Android. However, there are some common steps that you may generally follow 
+depending on the type of project you wish to build.
+
+- First, you need to install the minimal set of build tools by running `pkg install build-essential`.
+- Next, you need to download or extract the source code of the package you want to build and check for
+  files named like `README` or `INSTALL`. They usually contain information about how to build the
+  package.
+- If the project uses Autotools (has a `./configure` script in the root directory), you can usually
+  build it with the following commands:
+
+```zsh
+./configure --prefix=$PREFIX
+make && make install
+```
+
+You may need to check the accepted configuration options by running `./configure --help` and adjust 
+them according to your needs. If the configuration fails, you can read the output printed on the screen
+and check the file `config.log` for more details.
+
+- If the project uses CMake (has a `CMakeLists.txt` file in the root directory), you can usually build
+  it with the following commands:
+
+```zsh
+mkdir <Directory_Name_for_Package_to_Be_Built>
+cd build
+cmake -DCMAKE_INSTALL_PREFIX="$PREFIX" ..
+make && make install
+```
+
+You may need to check the available CMake options by running `cmake -LH` and adjust them according to 
+your needs. If the configuration fails, you can read the output printed on the screen and check the 
+file `CMakeError.log` for more details.
+
+- If the project uses another build system or has a custom script, you may need to read the
+  documentation or the source code to figure out how to build it. You may also need to specify the
+  `$PREFIX` variable or other environment variables to make sure the package is installed in the
+  correct location.
+
+Alternatively, you can use the official Termux build environment available on GitHub, which provides a 
+Docker image or a Virtual Machine (VM) setup that can run on your PC or laptop. This way, you may 
+leverage the power of your PC or laptop to build packages faster and then transfer them to your device.
+You can also use the Termux community repositories³ that offer pre-built packages for various projects, 
+including GCC.
+
+(1) Building packages - Termux Wiki. https://wiki.termux.com/wiki/Building_packages.
+(2) Use GCC compiler in Termux? - Android Enthusiasts Stack Exchange. https://android.stackexchange.com/questions/182130/use-gcc-compiler-in-termux.
+(3) GitHub - cipherswami/termux-superuser: Runs Android su with all Termux .... https://github.com/cipherswami/termux-superuser.
+(4) undefined. https://github.com/termux/termux-packages.
+(5) undefined. https://github.com/termux/termux-packages/wiki/Build-environment.
+(6) undefined. https://github.com/termux/termux-packages/wiki/Building-packages.
+(7) undefined. https://github.com/termux/termux-packages/wiki/Creating-new-package.
+(8) undefined. https://github.com/termux/termux-packages/issues/4157.
+(9) undefined. https://github.com/its-pointless/its-pointless.github.io.
+(10) undefined. https://github.com/its-pointless/gcc_termux.
+(11) undefined. https://its-pointless.github.io/files/.
+(12) undefined. https://its-pointless.github.io/pointless.gpg.
+(13) https://github.com/its-pointless/its-pointless.github.io/blob/master/setup-pointless-repo.sh%29.
+(14) undefined. https://sdrausty.github.io/TermuxArch/docs/install.
 
 Follow these general steps:
 
