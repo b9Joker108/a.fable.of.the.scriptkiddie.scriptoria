@@ -5489,6 +5489,77 @@ Source: Conversation with Bing, 12/02/2024
 (7) undefined. https://github.com/termux/termux-packages/issues/4157.
 (8) en.wikipedia.org. https://en.wikipedia.org/wiki/Termux.
 
+**A Generic Algorithm How to Install Source Code from Binaries in Termux**
+
+Follow these general steps:
+
+1. **Install Required Packages**: Make sure you have the necessary packages to compile the package
+   from source, for example: 
+2. **Download the Source Code**: Get the `.tar.gz` file containing the source code.
+3. **Extract the Source Code**: Unpack the `.tar.gz` file to access the source code.
+4. **Configure the Build Environment**: Prepare the build environment with the appropriate
+   configuration.
+5. **Compile the Source Code**: Build the compiled package to be installed from the source code.
+6. **Install**: Install the compiled package onto your system.
+
+Here's a more detailed guide:
+
+1. `pkg upd && pkg upg
+2. Install the required build tools, for example: `make`, `wget`, `curl`, `tar`, etc.
+
+```zsh       
+pkg i make wget curl tar
+```
+
+3. Make a directory where you are going to install the package
+
+```zsh       
+mkdir <INSERT Directory Name>
+```
+												   
+3. Download the source code into the newly made directory:
+
+```zsh
+wget/curl <Insert URL, e.g. https://...tar.gz> # Use either wget or curl followed by URL
+```
+
+4. Extract the source code:
+
+```zsh
+tar -xzf <PackageName.tar.gz>
+```
+
+5. Change to the directory containing the source code:
+
+```zsh
+cd <PATH To Package Name> # Inset absolute or relative path to download package 
+```
+
+6. Configure the build environment:
+
+```zsh
+./<InstallationScript> # Insert name and file extension of installation script. Run script. 
+```
+
+7. Compile the source code (this may take a while):
+
+```zsh                                                                                                
+make -j#
+```                                                                                              
+		  
+The `-j#` flag tells `make` to use # cores for compilation. Adjust the # to reflect the number of 
+cores based on your device's capabilities.  
+
+8. Installation:       
+
+```zsh
+make install
+```
+
+After installation, you should verify that the package is installed correctly by running by trying to 
+confirm what version of the package has just been installed.
+
+
 **2. Environment Tweaks: Personalizing Your Console:**
 
 Make Termux feel like home! Customize your command prompt appearance, keyboard shortcuts, and even bind custom functionality to specific key combinations.
