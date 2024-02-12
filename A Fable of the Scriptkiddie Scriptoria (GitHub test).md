@@ -2831,8 +2831,6 @@ Citations:
 [24] Information Law and the Digital Transformation of the University: Navigating Digital Sovereignty, Data Governance, and Access to Research Data - IVIR [https://www.ivir.nl/projects/information-law-and-the-digital-transformation-of-the-university/](https://www.ivir.nl/projects/information-law-and-the-digital-transformation-of-the-university/)
 [25] Cloud services and government digital ... - Oxford Academic [https://academic.oup.com/ijlit/article-pdf/29/4/364/42880556/eaac003.pdf](https://academic.oup.com/ijlit/article-pdf/29/4/364/42880556/eaac003.pdf)
 
-By Perplexity at [https://www.perplexity.ai/search/3fd641e2-3619-431a-9015-710d58ddddfd?s=m](https://www.perplexity.ai/search/3fd641e2-3619-431a-9015-710d58ddddfd?s=m)
-
 Hello, this is Bing. I can help you find some academic studies of note that relate to your query. 😊
 
 Digital sovereignty is a term that refers to the ability of a state, an organization, or an individual to exercise control and autonomy over their digital assets, such as data, networks, platforms, and technologies. Digital sovereignty is influenced by various factors, such as geopolitics, regulation, governance, innovation, and ethics. Digital sovereignty also has implications for various domains, such as trade, security, human rights, and development. ¹
@@ -5461,6 +5459,35 @@ Just like a toolbox needs its wrenches and screwdrivers, Termux requires essenti
 
 - **Termux Package Manager:** Your personal app store within Termux! Use `pkg install <package-name>` to install tools like Python, Git, Nmap, or Curl.
 - **Essential Packages:** Start with basics like `python`, `git`, `curl`, `wget`, `nano` (text editor), and `man` (manual pages). Explore further based on your hacking interests – network scanners, vulnerability research tools, cryptography libraries, and more!
+
+
+**Compiling a package from binaries in Termux**
+
+Compiling a package from binaries in Termux can take a long time for several reasons:
+
+- Termux is not a standard platform, so it requires some patches and modifications to make the packages compatible with Android¹.
+- Termux uses a standalone Android NDK toolchain, which is a cross-compiler that runs on your device and generates code for your device's architecture². This can be slower than a native compiler that runs on the same architecture as the target device.
+- Termux does not support downloading pre-built binaries from Debian or Ubuntu repositories, so it has to build everything from source³. This means that it also has to build the dependencies of the package you want to install, which can add to the compilation time.
+- Termux does not have a dedicated build server or cloud service, so it relies on your device's CPU, RAM, and storage to perform the build. Depending on your device's specifications and the package's complexity, this can be a limiting factor.
+
+To speed up the compilation process, you can try the following tips:
+
+- Use the official Termux build environment available on GitHub⁴, which provides a Docker image or a VM setup that can run on your PC or laptop. This way, you can leverage the power of your PC or laptop to build packages faster and then transfer them to your device.
+- Use the `-I` option when running `./build-package.sh` to download and install the dependency packages automatically instead of building them². This can save you some time if the dependencies are already available in the Termux APT repository.
+- Use the `-q` option when running `./build-package.sh` to make the build quiet and suppress the verbose output². This can reduce the overhead of printing messages to the terminal and improve the performance.
+- Use the `-j` option when running `make` to specify the number of parallel jobs to run⁵. This can utilize the multiple cores of your device and speed up the compilation. However, be careful not to exceed the available memory or CPU resources of your device, as this can cause errors or crashes.
+
+I hope this helps you to understand why compiling a package from binaries in Termux can take a long time and how to improve it. If you have any other questions about Termux or package management, feel free to ask me. I'm here to help. 😊.
+
+Source: Conversation with Bing, 12/02/2024
+(1) Building packages · termux/termux-packages Wiki · GitHub. https://github.com/termux/termux-packages/wiki/Building-packages.
+(2) Building packages - Termux Wiki. https://wiki.termux.com/wiki/Building_packages.
+(3) Package Management - Termux Wiki. https://wiki.termux.com/wiki/Package_Management.
+(4) undefined. https://github.com/termux/termux-packages.
+(5) undefined. https://github.com/termux/termux-packages/wiki/Build-environment.
+(6) undefined. https://github.com/termux/termux-packages/wiki/Creating-new-package.
+(7) undefined. https://github.com/termux/termux-packages/issues/4157.
+(8) en.wikipedia.org. https://en.wikipedia.org/wiki/Termux.
 
 **2. Environment Tweaks: Personalizing Your Console:**
 
