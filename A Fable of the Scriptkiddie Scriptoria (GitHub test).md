@@ -4152,7 +4152,8 @@ You can access the man pages by typing `man` followed by the name of the program
 Throughout writing this work, I have determined my everyday working shell to be Zsh. Therefore, it is wise to have the official Zsh documentation readily available and at-hand. 
 
 The official Zsh documentation is available online (refer: mmmm), Though, viewing the documentation online has merit, as it is the continuously updated authoritative source for the interactive shell and the scripting language, you may usefully and powerfully customise the information and how you access and view it, according to your requirements, if you install it locally. The archive is available for download in a number of forms, choose as appropriate according to your preference and use-case. I downloaded it in the form:  
-`zsh_html.tar.gz`.
+
+`zsh_html.tar.gz`
 
 First, we create the directory where we wish to install it:
 
@@ -4203,9 +4204,46 @@ alias zd4='elinks ~/zsh-docs/zsh_html/index.html'
 
 Source the .zshrc file. 
 
-Now, in Termux, six ply type: `zd1` <ENTER>, for example, and profit! 
+Now, in Termux, simply type: `zd1` <ENTER>, for example, and profit! 
 
 We may also view the html archive, external to Termux, in an Internet browser in Android, through a terminal launcher in Termux. We will discuss this later in this work. 
+
+**Official GNU Bash documentation**
+
+The official GNU Bash documentation is also available in multiple formats, I resolved to install it locally with Termux in html with one page per node. So, I downloaded: 
+
+`bash.html_node.tar.gz`
+
+First, we create the directory where we wish to install it:
+
+
+```zsh
+mkdir -p ~/bash-docs
+```
+
+Then, we move the downloaded archive from the default downloads directory in Termux, to the new directory we just created:
+
+
+```zsh
+mv /data/data/com.termux/files/home/storage/downloads/bash.html_node.tar.gz /data/data/com.termux/files/home/bash-docs/
+```
+
+We now need to unzip the html archive and install it:
+
+
+```zsh
+tar -xzvf bash.html_node.tar.gz -C ~/bash-docs
+```
+
+```zsh
+# Aliases to open up my official GNU Bash documentation locally with Termux in four different text browsers
+alias bd1='lynx ~/bash-docs/index.html'
+alias bd2='w3m ~/bash-docs/index.html'
+alias bd3='links ~/bash-docs/index.html'
+alias bd4='elinks ~/bash-docs/index.html'
+```
+
+Source the .zshrc file. 
 
 
 ***Thus begins your mythical journey into the heart of Bash and Zsh shell scripting. Are you ready? Yes, you are!*** 
