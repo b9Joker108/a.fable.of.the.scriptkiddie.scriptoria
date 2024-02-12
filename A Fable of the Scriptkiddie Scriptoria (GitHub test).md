@@ -14918,6 +14918,10 @@ Iliev, Bobby (2021). 'Introduction to Bash Scripting: For Developers'. Self-publ
 
 **J**
 
+**Chris F. A. Johnson**
+
+Johnson, Chris F. A. (2009). 'Pro Bash Programming: Scripting the GNU/Linux Shell'. New York, New York: U. S. A: Apress. ISBN 9781430219989  (electronic)
+
 **Chris F. A. Johnson, *et al.***
 
 Johnson, Chris F. A. & Varma, Jayant (2015). 'Pro Bash Programming: Scripting the GNU/Linux Shell'. Second Edition. California, U. S. A: Apress. ISBN 9781484201213 (electronic)
