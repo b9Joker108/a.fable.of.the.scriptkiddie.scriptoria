@@ -2989,11 +2989,17 @@ Now, I am not implying that installing Termux in such entry-level Android hand-h
 
 Importantly, in his 'Linux Basics for Hackers' (2019), OccupyTheWeb states the following three direct attestations: 
 
-“Almost all the best hacker tools are written in Linux, so some basic Linux skills are a prerequisite to becoming a professional hacker.”
+>	“Almost all the best hacker tools are written in Linux, so some basic
+>	Linux skills are a prerequisite to becoming a professional hacker.”
 
-"Over 80 percent of mobile devices run Unix or Linux (iOS is Unix, and Android is Linux), so if you believe that the future of computing lies in mobile devices such as tablets and phones (it would be hard to argue otherwise), then the future is Unix/Linux.”
+>	"Over 80 percent of mobile devices run Unix or Linux (iOS is Unix, and
+>	Android is Linux), so if you believe that the future of computing lies
+>	in mobile devices such as tablets and phones (it would be hard to argue
+>	otherwise), then the future is Unix/Linux.”
 
-“To hack effectively, you must know and understand your operating system and, to a large extent, the operating system you are attacking. Linux is totally transparent, meaning we can see and manipulate all its working parts.”
+>	“To hack effectively, you must know and understand your operating system
+>	and, to a large extent, the operating system you are attacking. Linux is
+>	totally transparent, meaning we can see and manipulate all its working parts.”
 
 As you launch from lilly-pad to lotus-leaf in the primordial pond that is Termux, it is our aim that you will find this curriculum meticulously crafted and purposeful, with the intention to equip you with the mystical and arcane knowledge and skills to hack, so that you may wield the power of GNU/Linux, Android and Termux coding, regardless of the colour of your hat - for we affirm, that the world is made of all kinds, and we wouldn't collapse this diversity into homogeneity, or have it any other way.
 
@@ -3444,6 +3450,46 @@ The result is a clear separation between the two in terms of:
 This doesn't imply that one approach is inherently superior to the other. Both cater to different needs and environments. Android thrives in the mobile world with its security focus, while traditional *NIX systems shine in server environments or for advanced users who value granular control. Ultimately, understanding the contrasting design philosophies behind Android and *NIX systems helps inform the rationale of this roadmap, and its ilk.
 
 In summary, whilst Termux enables *NIX-like functionalities on Android, *Android itself isn't considered a true member of the *NIX family* due to its customized kernel, distinct user space, and differences in design philosophy and certification. However, extending the metaphor in this context, Termux and Android may be understood as the bastard lovechildren of the *NIX family, and in my estimation, this notoriety is a wellspring of power and agency from which the Android shell scriptors and hacktastic Termux actors may draw. Regardless of the much touted party-line and the rigid confines of the true letter-of-the-law, functionality and effectively, we may still leverage Termux on our handheld Android devices, to enjoy many benefits of the *NIX environment and its philosophy within the Android ecosystem. All this perfunctory ‘Much Adoe About Nothing’, is in truth merely naught, and just playing politics and wordgames. This is merely a strategy of control, and is concerned with establishing an in-group of those that are included, and an out-group, of those that are excluded. The politics of inclusion and exclusion. This discourse of control is primary in Anthropological discourse, and endemic to the human condition. Hackers breach such delimitations and boundaries for play, and routinely, as a matter of course, as well as a rite-of-passage. For with Termux, the most popular terminal emulator for Android, accessing and leveraging various shells (such as Bash and Zsh) via the interactive commandline interface, and issuing commands to Android’s customised Linux kernel, operating system and applications, is functionally indistinguishable from similar activities and their analogues throughout the *NIX family.
+
+**The History, Development and Implementation of PRoot**
+
+**Bing, I am wanting to find the history of the GNU-Linux package proot, who first implemented it, and why they named it proot, is it a contraction of pseudo root?**
+
+PRoot is a user-space implementation of chroot, mount --bind, and binfmt_misc, which allows users to perform operations that typically require root privileges without needing those privileges. This includes using an arbitrary directory as the new root filesystem, making files accessible elsewhere in the filesystem hierarchy, or executing programs built for another CPU architecture transparently through QEMU user-mode. 
+
+The name "PRoot" likely derives from its functionality as a "pseudo-root" environment, allowing users to simulate root access capabilities within a user-space application. While the search results do not explicitly confirm the origin of the name, the functionality of PRoot aligns with the concept of providing root-like capabilities ("pseudo-root") without needing actual root privileges. This interpretation is consistent with common naming conventions in software development, where "p" prefixes often indicate "pseudo" or "proxy" functionalities that simulate or extend the capabilities of another process or operation.
+
+The developers and the broader ecosystem around PRoot have leveraged its capabilities for various applications, including software development, testing, and running GNU/Linux distributions on Android devices without root access. PRoot's reliance on ptrace, an unprivileged system call available in every Linux kernel, underpins its ability to operate without requiring special permissions.
+
+Unfortunately, the specific individual or team that first implemented PRoot and their motivations beyond the technical capabilities described are not detailed in the provided search results. However, the tool's design and utility suggest a focus on enhancing flexibility, security, and accessibility for GNU/Linux users and developers, particularly in constrained or non-privileged environments. It is important to note that PRoot is the copyright of: 
+
+Citations:
+[1] Aboriginal Linux http://landley.net/aboriginal/history.html
+[2] PRoot https://wiki.gentoo.org/wiki/PRoot
+[3] Proot Name Meaning, Family History, Family Crest & Coats of Arms https://www.houseofnames.com/proot-family-crest
+[4] Proof $\lim\limits_{n \rightarrow \infty} {\sqrt{2+\sqrt{2+\cdots+\sqrt{2}}}}=2$ using Banach's Fixed Point https://math.stackexchange.com/questions/165027/proof-lim-limits-n-rightarrow-infty-sqrt2-sqrt2-cdots-sqrt2-2
+[5] The early days of Linux https://news.ycombinator.com/item?id=35557848
+[6] PRoot https://proot-me.github.io
+[7] Proot Surname https://forebears.io/surnames/proot
+[8] ! Are You A Robot? https://www.sciencedirect.com/topics/engineering/contraction-mapping
+[9] How to view history of apt-get install? https://askubuntu.com/questions/680410/how-to-view-history-of-apt-get-install
+[10] Discovered new BYOF technique to cryptomining with PRoot https://sysdig.com/blog/proot-post-explotation-cryptomining/
+[11] Why is the root user named root by default? https://serverfault.com/questions/208041/why-is-the-root-user-named-root-by-default
+[12] Electronic Journal of Differential Equations, Monograph 09, 2009, (90 pages). https://ejde.math.txstate.edu/Monographs/09/brooks.pdf
+[13] GNU Guix - Wikipedia https://en.wikipedia.org/wiki/GNU_Guix
+[14] PRoot/doc/proot/manual.txt at master · bbenzikry/PRoot https://github.com/bbenzikry/PRoot/blob/master/doc/proot/manual.txt
+[15] Origin of 'root' account https://unix.stackexchange.com/questions/7960/origin-of-root-account
+[16] PRoot https://wiki.archlinux.org/title/PRoot
+[17] GitHub - proot-me/proot-rs: Rust implementation of PRoot, a ptrace-based sandbox https://github.com/proot-me/proot-rs
+[18] Proot Meaning, Pronunciation, Numerology and More | NamesLook https://www.nameslook.com/proot
+[19] The Making of Linux: The World's First Open-Source Operating System https://youtube.com/watch?v=E0Q9KnYSVLc
+[20] /proc inside proot https://www.reddit.com/r/termux/comments/oalnsh/proc_inside_proot/
+[21] Proot :3 name ideas? https://www.reddit.com/r/protogen/comments/16kstn6/proot_3_name_ideas/
+[22] History of the Linux Kernel https://www.operating-system.org/betriebssystem/_english/bs-linux.htm
+[23] Proof of space - Wikipedia https://en.wikipedia.org/wiki/Proof_of_space
+[24] Pocket Linux Guide https://tldp.org/en/Pocket-Linux-Guide/
+[25] Ubuntu Manpage: PRoot https://manpages.ubuntu.com/manpages/trusty/man1/proot.1.html
+
 
 The relationship between GNU and the UNIX trademark is a bit complex, but I can shed some light on it:
 
