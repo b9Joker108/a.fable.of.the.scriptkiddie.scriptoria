@@ -3977,6 +3977,15 @@ I hope this clarifies the statement in relation to the first version of Android.
 
 [https://jackpal.github.io/Android-Terminal-Emulator/help/commands.html](https://jackpal.github.io/Android-Terminal-Emulator/help/commands.html)
 
+## Getting to Know Your Android Device 
+
+Every Android device is different. Some Android devices are profoundly different to others. Moreover, the granular extensibility and customisability forded by Termux, further makes every Android instantiation unique. It is important that you know your Android device thoroughly and deeply, as the specifics and specifications of your device, impact what applications and packages you may install and run/execute, and also impact on factors in the scripts your may download, customise, write and employ, on or for your device. This roadmap is designed, so that once you have completed the theory and practice of the work, you will be knowledgeable enough, to not only use a rooted Android device, but also, to root your device yourself. Too many people rush to use `su`, `tsu` and `sudo`, etc, without fully understanding them, their differences, their functionalities or their implications. It is best to fully understand your unrooted Android device and its unrooted Termux extensibility, before progression to the power and responsibility of a rooted Android device.
+
+On my Samsung Android hand-held devices, I tried every-which-way to determine with the on-board Samsung device information and with the extended functionality of Termux, what my devices' specific processors were, but to no avail. This information is fundamental and necessary to know your device, but Samsung, and most probably other vendors, obfuscate this. When I go to the Android 'About This Device' functionality in both of my devices, it is not expressly outlined, nor even when you enable the developer options, within both Samsung Galaxy devices, it still isn't listed. I tried many different ways to get Termux to report on the CPU, always the necessary specifics, were absent. Therefore, we must resort to Third Party Applications. 
+
+Mmmmmmmmm 
+
+
 **Phase 1: Foundations (Weeks 1-4)**
 
 - **(A) Week 1: The Terminal Playground:**
