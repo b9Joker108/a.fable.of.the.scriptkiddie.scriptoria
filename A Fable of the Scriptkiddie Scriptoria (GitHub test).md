@@ -3979,11 +3979,114 @@ I hope this clarifies the statement in relation to the first version of Android.
 
 ## Getting to Know Your Android Device 
 
-Every Android device is different. Some Android devices are profoundly different to others. Moreover, the granular extensibility and customisability forded by Termux, further makes every Android instantiation unique. It is important that you know your Android device thoroughly and deeply, as the specifics and specifications of your device, impact what applications and packages you may install and run/execute, and also impact on factors in the scripts your may download, customise, write and employ, on or for your device. This roadmap is designed, so that once you have completed the theory and practice of the work, you will be knowledgeable enough, to not only use a rooted Android device, but also, to root your device yourself. Too many people rush to use `su`, `tsu` and `sudo`, etc, without fully understanding them, their differences, their functionalities or their implications. It is best to fully understand your unrooted Android device and its unrooted Termux extensibility, before progression to the power and responsibility of a rooted Android device.
+Every Android device is different. Some Android devices are profoundly different to others. Moreover, the granular extensibility and customisability forded by Termux, further makes every Android instantiation unique. It is important that you know your Android device thoroughly and deeply, as the specifics and specifications of your device, impact what applications and packages you may install and run/execute, and also impact on factors in the scripts your may download, customise, write and employ, on or for your device. This roadmap is designed, so that once you have completed the theory and practice of the work, you will be knowledgeable enough, to not only use a rooted Android device, but also, to root your device yourself. Too many people rush to use `su`, `tsu` and `sudo`, etc, without fully understanding them, their differences, their functionalities or their implications, including dangers. It is best to fully understand your unrooted Android device and its unrooted Termux extensibility, before progression to the power and responsibility of a rooted Android device.
 
-On my Samsung Android hand-held devices, I tried every-which-way to determine with the on-board Samsung device information and with the extended functionality of Termux, what my devices' specific processors were, but to no avail. This information is fundamental and necessary to know your device, but Samsung, and most probably other vendors, obfuscate this. When I go to the Android 'About This Device' functionality in both of my devices, it is not expressly outlined, nor even when you enable the developer options, within both Samsung Galaxy devices, it still isn't listed. I tried many different ways to get Termux to report on the CPU, always the necessary specifics, were absent. Therefore, we must resort to Third Party Applications. 
+On my Samsung Android hand-held devices, I tried every-which-way to determine with the on-board Samsung device information and with the extended functionality of Termux, what my devices' specific processors were, but to no avail. This information is fundamental and necessary to know your device, but Samsung, and most probably other vendors, obfuscate this. When I go to the Android 'About This Device' functionality in both of my devices, it is not expressly outlined, nor even when you enable the developer options, within both Samsung Galaxy devices, it still isn't outlined. I tried many different ways to get Termux to report on the CPU, always the necessary specifics, were absent. Therefore, we must resort to Third Party Applications. 
 
-Mmmmmmmmm 
+Unfortunately, Termux doesn't have direct access to hardware information like the specific CPU model. This is because of security restrictions built into Android for user protection. However, there are several ways to get a good idea of your CPU model using Termux:
+
+**1. Use the `cat /proc/cpuinfo` command:**
+
+This command displays information about your device's processor, including details like architecture, features, and vendor. While it may not explicitly state the specific model name, it will likely point towards Qualcomm Snapdragon 8 Gen 2 (sm8550).
+
+**2. Use third-party apps:**
+
+Several apps on the Google Play Store can provide detailed information about your device's hardware, including the CPU model. Some popular choices include:
+
+- **CPU-Z:** This app displays detailed information about the CPU, GPU, RAM, and other hardware components.
+- **AIDA64:** This app offers comprehensive information about your device, including hardware, software, sensors, and more.
+- **DevCheck Hardware Info:** This app focuses on providing detailed information about hardware components.
+
+**3. Check your device specifications:**
+
+Most device manufacturers provide detailed specifications, including the CPU model, on their websites or official documentation. You can search for your specific device model and brand to find this information.
+
+**4. Utilize online resources:**
+
+Several websites and databases collect information about Android devices, including CPU models. Searching for your device model on these websites might reveal the specific CPU used.
+
+While Termux itself doesn't offer direct access to the CPU model, these alternative methods can help you determine the correct information with reasonable accuracy.
+
+Yes, you can determine your device's CPU information using Termux with a few different methods:
+
+**1. `cat /proc/cpuinfo`:**
+
+This command displays various information about your CPU, including the vendor, model, and number of cores. Look for lines starting with "Processor" and "model name". For example:
+
+```
+$ cat /proc/cpuinfo | grep -E 'Processor|model name'
+Processor       : 0
+model name      : kryo 730
+...
+```
+
+**2. `hwinfo --cpu`:**
+
+This command provides a more detailed overview of your CPU architecture and features. Look for sections like "CPU Architecture" and "CPU cores".
+
+**3. `aida64`:**
+
+This is a popular Android app that provides comprehensive device information, including detailed CPU specifications. You can download it from the Google Play Store and navigate to the "Device" section to find your CPU information.
+
+**4. `getprop ro.product.cpu.abi`:**
+
+This command returns the CPU architecture supported by your device. While not directly the model name, it can be used to identify specific Qualcomm Snapdragon processors based on their known architecture codes.
+
+**Specifically for Qualcomm Snapdragon 8 Gen 2:**
+
+- The model code for Snapdragon 8 Gen 2 is `sm8550`.
+- You can check if the model code appears in the output of any of the methods above.
+
+**Additional Notes:**
+
+- Be aware that some information might be displayed in a technical format requiring further research to interpret the exact model name.
+- If you're unsure about any information you find, consider searching online for resources specific to your device model and Qualcomm Snapdragon processor.
+
+Unfortunately, while Termux provides access to various information about your device, directly identifying the specific CPU model like "Snapdragon 8 Gen 2" might not be possible. However, you can use Termux to gather clues and determine the CPU architecture and some details which can help you confirm the model. Here are some methods:
+
+**1. Check `cat /proc/cpuinfo`:**
+
+This file contains detailed information about your device's CPU, including architecture, clock speed, and vendor-specific details. Look for lines like:
+
+- `processor`: This will show the CPU architecture, e.g., "ARMv9".
+- `hardware`: This might contain vendor information like "Qualcomm".
+- `model name`: This field might provide a more specific model identifier, but it's not guaranteed on all devices.
+
+**2. Use `termux-info` package:**
+
+This package provides a comprehensive overview of your device's hardware, including CPU information. Install it with:
+
+```
+pkg install termux-info
+```
+
+Then, run:
+
+```
+termux-info hardware | grep -i cpu
+```
+
+This will filter the output to show only CPU-related information.
+
+**3. Check kernel version:**
+
+Run:
+
+```
+uname -r
+```
+
+This will display your device's kernel version. You can then search online for information about which CPUs are supported by that specific kernel version on Qualcomm devices.
+
+**4. Use Aida64 app:**
+
+Aida64 is a popular app that provides detailed information about your device, including CPU model, architecture, and other hardware details. While not a Termux tool, it offers a more user-friendly interface and comprehensive data.
+
+**Remember:**
+
+- While these methods can help identify the CPU architecture and vendor, they might not pinpoint the exact model like "Snapdragon 8 Gen 2" due to limitations in available information.
+- Combining information from different sources and searching online with the obtained details can increase the chances of confirming the specific CPU model.
+
 
 
 **Phase 1: Foundations (Weeks 1-4)**
