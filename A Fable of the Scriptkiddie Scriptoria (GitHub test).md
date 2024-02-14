@@ -1783,9 +1783,9 @@ I tried these options in my proot-distro installations, and in some of my user a
 
 So, this will work for quite a number of shells potentially installed in Termux, but not `nu`, for example. 
 
-## The Nu Shell
+## The Nu-Shell
 
-A recent addition to the family of shells is the Nu shell, or nushell, written by Jonathan Turner and others in 2019. It is a new type of shell that has native support for structured and typed data, such as arrays, tables, records, numeric/boolean types, etc. It offers syntax and built-ins that make it easy to query, filter, sort, transform, convert, and otherwise manipulate various data types in a shell-like workflow. It also supports taking input and producing output in many builtin or user-defined formats, such as JSON, YAML, TOML, HTML, XML, SQL, CSV, Markdown tables, and others. It is a modern and innovative shell that aims to bring the Unix philosophy of shells to the current style of development.
+A recent addition to the family of shells is the Nu-shell, or Nushell (`nu`), written by Jonathan Turner and others in 2019. It is a new type of shell that has native support for structured and typed data, such as arrays, tables, records, numeric/boolean types, etc. It offers syntax and built-ins that make it easy to query, filter, sort, transform, convert, and otherwise manipulate various data types in a shell-like workflow. It also supports taking input and producing output in many builtin or user-defined formats, such as JSON, YAML, TOML, HTML, XML, SQL, CSV, Markdown tables, and others. It is a modern and innovative shell that aims to bring the Unix philosophy of shells to the current style of development.
 
  **That's correct! Nushell incorporates several functional programming concepts that distinguish it from traditional shells, shaping a unique and expressive way to interact with data:**
 
@@ -2949,37 +2949,53 @@ Now, I am not implying that installing Termux in such entry-level Android hand-h
 
 *********************************************
 
-“For a lot of people in the world a phone is their only computer. Termux is a great way to start to learn coding and system administration. It is also a great tool to use so you don't need an excess amount of apps.”
+>	“For a lot of people in the world a phone is their only computer. Termux 
+>	is a great way to start to learn coding and system administration. It is 
+>	also a great tool to use so you don't need an excess amount of apps.”
 
-‐ Sean Andreas, a real person, in his online beginners tome:
+		~ Sean Andreas, a real person, in his online beginners tome:
+		['Termux for Everyone' (2023)](https://termuxforeveryone.com/)
 
-['Termux for Everyone' (2023)](https://termuxforeveryone.com/)
+>	"Android is the future of hacking because it is the most widely used 
+>	operating system in the world and it has a lot of vulnerabilities that 
+>	can be exploited by hackers." 
 
-"Android is the future of hacking because it is the most widely used operating system in the world and it has a lot of vulnerabilities that can be exploited by hackers." 
+		~ John Wick, a fictional person, formerly the famed 
+		gun-for-hire, now a cybersecurity expert
 
-	- John Wick, a fictional person, formerly the famed gun-for-hire, now a 
-          cybersecurity expert
+>	"Android devices are the future of hacking because they offer more 
+>	flexibility and functionality than other platforms. They allow hackers 
+>	to create and run custom apps that can perform various malicious activities." 
 
-"Android devices are the future of hacking because they offer more flexibility and functionality than other platforms. They allow hackers to create and run custom apps that can perform various malicious activities." 
+		~ Jane Doe, dead, but formerly, a hacker and security researcher
 
-	- Jane Doe, dead, but formerly, a hacker and security researcher
+>	"Android devices are the future of hacking because they are easy to infect 
+>	with spyware and malware that can steal personal data, monitor activities, 
+>	and even control the device remotely." 
 
-"Android devices are the future of hacking because they are easy to infect with spyware and malware that can steal personal data, monitor activities, and even control the device remotely." 
+		~ Zack Whittaker, a fictional person and an intrepid TechCrunch reporter
 
-	- Zack Whittaker, a fictional person and an intrepid TechCrunch reporter
+>	“Android hand-held devices are the future of hacking not only because of 
+>	their power and versatility, but also because of their ease of concealability, 
+>	portability and destruction. They can be easily hidden, carried and disposed 
+>	of without leaving any trace.” 
 
-“Android hand-held devices are the future of hacking not only because of their power and versatility, but also because of their ease of concealability, portability and destruction. They can be easily hidden, carried and disposed of without leaving any trace.” 
+		~ James Bond, a beloved fictional spy and n∅∅b hacker, invested 
+		with innumerable smart gadgets 
 
-	- James Bond, a beloved fictional spy and n∅∅b hacker, invested with 	 
-          innumerable smart gadgets 
+>	“Android hand-held devices are ideal for hackers who want to operate in 
+>	stealth mode. They are small, light and easy to conceal. They can also be 
+>	quickly destroyed or wiped clean if the hacker is compromised or caught.” 
 
-“Android hand-held devices are ideal for hackers who want to operate in stealth mode. They are small, light and easy to conceal. They can also be quickly destroyed or wiped clean if the hacker is compromised or caught.” 
+		~ Alice Cooper, a real-life singer but fictive: 
+ 		hacker, gamer and erstwhile activist	
 
-	- Alice Cooper, a real-life singer but fictive: hacker, gamer and erstwhile activist
+>	“Android hand-held devices are perfect for hackers who need to move fast
+>	and stay under the radar. They are easy to transport, customize and encrypt.
+>	They can also be easily destroyed or discarded if the hacker needs to escape
+>	or evade detection.” 
 
-“Android hand-held devices are perfect for hackers who need to move fast and stay under the radar. They are easy to transport, customize and encrypt. They can also be easily destroyed or discarded if the hacker needs to escape or evade detection.” 
-
-	- Bob Smith, a make-believe, retired, FBI agent and cybercrime aficionado 
+		~ Bob Smith, a make-believe, retired, FBI agent and cybercrime aficionado 
 
 *Note: The above direct quotations, though edifying, are mostly unattested.* 
 
