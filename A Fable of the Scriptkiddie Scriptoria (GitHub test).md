@@ -3983,6 +3983,58 @@ Every Android device is different. Some Android devices are profoundly different
 
 On my Samsung Android hand-held devices, I tried every-which-way to determine with the on-board Samsung device information and with the extended functionality of Termux, what my devices' specific processors were, but to no avail. This information is fundamental and necessary to know your device, but Samsung, and most probably other vendors, obfuscate this. When I go to the Android 'About This Device' functionality in both of my devices, it is not expressly outlined, nor even when you enable the developer options, within both Samsung Galaxy devices, it still isn't outlined. I tried many different ways to get Termux to report on the CPU, always the necessary specifics, were absent. Therefore, we must resort to Third Party Applications. 
 
+I have a penchant and preference for FOSS applications and packages wherever and whenever possible. But, I am also a FOSS pragmatist, and will use non-FOSS applications and packages if they furnish my requirements, and fulfill my use-caseses. 
+
+Here are some Android applications that provide detailed device information, such as hardware, kernel, operating system, and application information and details:
+
+**Device Info**
+
+[Image of Device Info app icon]
+
+* This app displays a wealth of information about your device, including hardware (CPU, GPU, RAM, storage, sensors), software (operating system, kernel version, build number), battery, and network (Wi-Fi, cellular).
+* It also allows you to view and copy various device identifiers, such as IMEI, serial number, and MAC address.
+* Device Info is free and open-source, with no ads or in-app purchases.
+
+**AIDA64**
+
+[Image of AIDA64 app icon]
+
+* AIDA64 is a popular system information and diagnostic tool that provides comprehensive information about your Android device.
+* It includes details about the CPU, GPU, RAM, storage, sensors, battery, network, and software (operating system, kernel version, build number).
+* AIDA64 also offers a variety of features for diagnosing and troubleshooting hardware and software issues.
+* The basic version of AIDA64 is free, but a pro version with additional features is available for a purchase.
+
+**Droid Info**
+
+[Image of Droid Info app icon]
+
+* Droid Info is another great option for viewing detailed device information.
+* It provides information about the CPU, GPU, RAM, storage, sensors, battery, network, and software (operating system, kernel version, build number).
+* Droid Info also includes features for testing system performance, viewing running processes, and monitoring battery health.
+* Droid Info is free and open-source, with no ads or in-app purchases.
+
+**CCleaner**
+
+[Image of CCleaner app icon]
+
+* CCleaner is primarily known as a system cleaner, but it also offers a useful device information feature.
+* This feature displays details about the CPU, GPU, RAM, storage, battery, and network.
+* CCleaner is free, but a pro version with additional features is available for a purchase.
+
+**CPU-Z**
+
+[Image of CPU-Z app icon]
+
+* CPU-Z is a popular tool for viewing CPU information on computers, and it also has an Android version.
+* The Android version of CPU-Z displays information about the CPU, GPU, RAM, and operating system.
+* It is a simple and lightweight app that is great for quickly checking basic device information.
+* CPU-Z is free and open-source, with no ads or in-app purchases.
+
+These are just a few of the many FOSS Android applications that provide detailed device information. When choosing an app, consider your specific needs and preferences. Some apps offer more information than others, and some have additional features like performance testing or system cleaning.
+
+**Extract**
+Extract all the Termux functionality to determine hardware and include it in the scripting section. As we are going to have a script that defines the specifications of the system. 
+
 Unfortunately, Termux doesn't have direct access to hardware information like the specific CPU model. This is because of security restrictions built into Android for user protection. However, there are several ways to get a good idea of your CPU model using Termux:
 
 **1. Use the `cat /proc/cpuinfo` command:**
