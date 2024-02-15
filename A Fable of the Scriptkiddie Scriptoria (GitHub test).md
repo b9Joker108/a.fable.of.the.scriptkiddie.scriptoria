@@ -16162,6 +16162,10 @@ Though Salus' work doesn't have a bibliography, it does contain a humble 'Furthe
 
 Tammer, Sebastiaan (2018). 'Learn Linux Shell Scripting - Fundamentals of Bash 4.4: A Comprehensive Guide to Automating Administrative Tasks with the Bash Shell'. Birmingham, U. K.: Packt Publishing Ltd. ISBN 9781788995597
 
+**Austin Traver**
+
+Traver, Austin (2024). 'Zsh: Shell Scripting Primer'. Source: https://helpful.wiki/zsh/ (accessed: Friday, February 16, 2024) 
+
 **Paul Troncone, *et al.***
 
 Troncone, Paul & Albing, Carl (2019). 'Cybersecurity Ops with Bash: Attack, Defend, and Analyze from the Command Line'. First Edition, Second Release: April, 24, 2020. Sebastapol, California, U. S. A.: O’Reilly Media, Inc. ISBN 9781492041313
