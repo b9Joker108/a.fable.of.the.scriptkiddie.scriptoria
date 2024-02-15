@@ -16270,6 +16270,8 @@ https://youtu.be/9x5nGXXvIxc?si=WKMpOxUPCv0TFxvD
 
 https://youtu.be/c39QPDTDdXU?si=scyEffgZ_XbAWLbr
 
+https://community.unix.com/
+
 ## Invocation 
 
 <div style="width: 5cm; height: 5cm; border: 1px solid black;">
