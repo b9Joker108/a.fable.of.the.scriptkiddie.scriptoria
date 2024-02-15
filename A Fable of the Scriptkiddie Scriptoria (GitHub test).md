@@ -2064,7 +2064,9 @@ In 1971, Stephen Bourne wrote a new shell for UNIX, called the Bourne shell, or 
 
 However, the Bourne shell also had some drawbacks, such as the lack of interactive features, such as command completion, command history, and job control. To address these issues, several variants of the Bourne shell were created, such as:
 
-- The Almquist shell (ash), written by Kenneth Almquist in 1989. It is a small and fast shell that is compatible with the Bourne Shell (sh). It was the default shell in some BSD systems and later in Debian GNU/Linux.
+- The Almquist shell (ash), written by Kenneth Almquist in 1989. It is a small and fast shell that is
+  compatible with the Bourne Shell (sh). It was the default shell in some BSD systems and later in
+  Debian GNU/Linux.
 
 ```zsh
 ~sgpt "Is the ash shell installable in Termux?"
@@ -2080,17 +2082,36 @@ You can install it by running the following command in Termux:
 After installing BusyBox, you can run ash by invoking `busybox ash`
 ```
 
-- The Debian Almquist shell (dash), a fork of ash that was created in 1997. It was designed to be POSIX-compliant and more portable than ash. It is the default shell in Ubuntu Linux and other Debian-based systems.
-- The Korn shell (ksh), written by David Korn in 1983. It was a powerful and versatile shell that combined the features of the Bourne shell and the C shell. It added features such as arrays, arithmetic expressions, aliases, built-in commands, and improved scripting capabilities. It was the default shell in some commercial UNIX systems, such as AIX and Solaris. An implementation of the Korn shell is installable from the Termux repository with the following:
+- The Debian Almquist shell (dash), a fork of ash that was created in 1997. It was designed to be POSIX-
+  compliant and more portable than ash. It is the default shell in Ubuntu Linux and other Debian-based
+  systems.
+- The Korn shell (ksh), written by David Korn in 1983. It was a powerful and versatile shell that
+  combined the features of the Bourne shell and the C shell. It added features such as arrays,
+  arithmetic expressions, aliases, built-in commands, and improved scripting capabilities. It was the
+  default shell in some commercial UNIX systems, such as AIX and Solaris. An implementation of the Korn
+   shell is installable from the Termux repository with the following:
+  
 ```zsh
 pkg install loksh
 ```
 
-- The MirBSD Korn shell (mksh), a fork of ksh that was created in 2002. It was a modern and lightweight shell that was compatible with ksh and POSIX. It was the default shell in MirOS BSD and Android.
-- The Public Domain Korn shell (pdksh), a clone of ksh that was created in 1989. It was a free and open source shell that was compatible with ksh and POSIX. It was the default shell in some BSD systems and Linux distributions, such as OpenBSD and Slackware.
-- The Z shell (zsh), written by Paul Falstad in 1990. It was a hybrid shell that combined the features of the Korn shell and the C shell. It added features such as extended globbing, spelling correction, command completion, command history, and customizable prompts. It was a popular shell among advanced users and developers.
-- The Bourne-Again shell (bash), written by Brian Fox in 1989. It was a free and open source shell that was compatible with the Bourne shell and POSIX. It added features such as command completion, command history, job control, and improved scripting capabilities. It was the default shell in most Linux distributions and macOS.
-- The Restricted Bourne-Again shell (rbash), a restricted version of bash that was created in 1994. It was a shell that limited the user's actions, such as changing directories, setting environment variables, and executing commands. It was used for security purposes, such as creating restricted accounts and chroot environments.
+- The MirBSD Korn shell (mksh), a fork of ksh that was created in 2002. It was a modern and lightweight
+  shell that was compatible with ksh and POSIX. It was the default shell in MirOS BSD and Android.
+- The Public Domain Korn shell (pdksh), a clone of ksh that was created in 1989. It was a free and open
+  source shell that was compatible with ksh and POSIX. It was the default shell in some BSD systems and
+  Linux distributions, such as OpenBSD and Slackware.
+- The Z shell (zsh), written by Paul Falstad in 1990. It was a hybrid shell that combined the features
+  of the Korn shell and the C shell. It added features such as extended globbing, spelling correction,
+  command completion, command history, and customizable prompts. It was a popular shell among advanced
+  users and developers.
+- The Bourne-Again shell (bash), written by Brian Fox in 1989. It was a free and open source shell that
+  was compatible with the Bourne shell and POSIX. It added features such as command completion, command
+  history, job control, and improved scripting capabilities. It was the default shell in most Linux
+  distributions and macOS.
+- The Restricted Bourne-Again shell (rbash), a restricted version of bash that was created in 1994. It
+  was a shell that limited the user's actions, such as changing directories, setting environment
+  variables, and executing commands. It was used for security purposes, such as creating restricted
+  accounts and chroot environments.
 
 ## The C Shell and its Variants
 
@@ -2125,9 +2146,16 @@ rcshell is already the newest version (1.7.4-4).
 
 Hence, it was determined that `rc` was already installed, but I don't expressly remember installing it. As such, it may have been a package recommended by the Termux package manager, and I generally implement these wholesale, as standard, without significant prior investigation. 
 
-- The Restricted C shell (rcsh), a restricted version of csh that was created in 1980. It was a shell that limited the user's actions, such as changing directories, setting environment variables, and executing commands. It was used for security purposes, such as creating restricted accounts and chroot environments.
-- The TENEX C shell (tcsh), written by Ken Greer in 1975. It was an enhanced version of csh that added features such as command completion, command history, and improved scripting capabilities. It was the default shell in some BSD systems and macOS.
-- The Friendly Interactive Shell (fish), written by Axel Liljencrantz in 2005. It was a user-friendly and intuitive shell that added features such as syntax highlighting, autosuggestions, and web-based configuration. It was a popular shell among beginners and casual users.
+- The Restricted C shell (rcsh), a restricted version of csh that was created in 1980. It was a shell
+  that limited the user's actions, such as changing directories, setting environment variables, and
+  executing commands. It was used for security purposes, such as creating restricted accounts and chroot
+  environments.
+- The TENEX C shell (tcsh), written by Ken Greer in 1975. It was an enhanced version of csh that added
+  features such as command completion, command history, and improved scripting capabilities. It was the
+  default shell in some BSD systems and macOS.
+- The Friendly Interactive Shell (fish), written by Axel Liljencrantz in 2005. It was a user-friendly
+  and intuitive shell that added features such as syntax highlighting, autosuggestions, and web-based
+  configuration. It was a popular shell among beginners and casual users.
 
 
 **Finding out what shells a user has access to, or installed**
@@ -2162,24 +2190,37 @@ A recent addition to the family of shells is the Nu-shell, or Nushell (`nu`), wr
 
 **Key Functional Programming Features in Nushell:**
 
-- **Immutability:** Data values, once created, cannot be modified directly. Instead, new values are derived using operations, ensuring predictable outcomes and preventing unintended side effects.
-- **First-class functions:** Functions can be treated like any other data values, assigned to variables, passed as arguments to other functions, and returned as results. This enables powerful abstractions and code reuse.
-- **Pipes:**  Data flows through pipelines, with each stage applying a function to transform the data. This promotes modularity, readability, and the composition of complex operations from simple building blocks.
-- **Built-in data types:** Nushell offers a variety of built-in data types, including tables, arrays, strings, integers, and booleans, each with specific operations for manipulation. This encourages a structured approach to data processing.
-- **Pattern matching:** Powerful pattern matching capabilities allow for extracting and transforming data based on patterns, enabling concise and expressive data manipulation.
+- **Immutability:** Data values, once created, cannot be modified directly. Instead, new values are
+  derived using operations, ensuring predictable outcomes and preventing unintended side effects.
+- **First-class functions:** Functions can be treated like any other data values, assigned to
+  variables, passed as arguments to other functions, and returned as results. This enables powerful
+  abstractions and code reuse.
+- **Pipes:**  Data flows through pipelines, with each stage applying a function to transform the data.
+  This promotes modularity, readability, and the composition of complex operations from simple building
+  blocks.
+- **Built-in data types:** Nushell offers a variety of built-in data types, including tables, arrays,
+  strings, integers, and booleans, each with specific operations for manipulation. This encourages a
+  structured approach to data processing.
+- **Pattern matching:** Powerful pattern matching capabilities allow for extracting and transforming
+  data based on patterns, enabling concise and expressive data manipulation.
 
 **Examples of Functional Programming in Nushell:**
 
 - **Filtering data:** `ls | where size > 10MB` (filters files larger than 10MB)
 - **Transforming data:** `echo "hello world" | str to-upper` (converts string to uppercase)
-- **Combining data:** `cat file1.txt | str split-lines | sort | get 1..5` (sorts lines from a file and extracts the first 5)
-- **Creating custom functions:** `def double(x) { x * 2 }; echo 5 | double` (defines a function and applies it)
+- **Combining data:** `cat file1.txt | str split-lines | sort | get 1..5` (sorts lines from a file and
+  extracts the first 5)
+- **Creating custom functions:** `def double(x) { x * 2 }; echo 5 | double` (defines a function and
+  applies it)
 
 **Benefits of Functional Programming in Nushell:**
 
-- **Concise and expressive code:** Functional patterns often lead to more compact and readable scripts compared to traditional shell scripting approaches.
-- **Easier reasoning about code:** Immutability and pure functions make it simpler to understand and predict program behavior, reducing debugging time and enhancing code maintainability.
-- **Enhanced data processing capabilities:** Functional concepts align well with data-centric tasks, making Nushell particularly suitable for data manipulation and analysis.
+- **Concise and expressive code:** Functional patterns often lead to more compact and readable scripts
+  compared to traditional shell scripting approaches.
+- **Easier reasoning about code:** Immutability and pure functions make it simpler to understand and
+  predict program behavior, reducing debugging time and enhancing code maintainability.
+- **Enhanced data processing capabilities:** Functional concepts align well with data-centric tasks,
+  making Nushell particularly suitable for data manipulation and analysis.
 
 **Overall, Nushell's fusion of functional programming and shell scripting offers a unique and powerful approach to interacting with data and systems. It's a promising development in shell evolution, well-suited for modern data-driven workflows.**
 
