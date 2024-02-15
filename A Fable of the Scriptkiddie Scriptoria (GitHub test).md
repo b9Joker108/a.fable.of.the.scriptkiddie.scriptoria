@@ -15543,6 +15543,12 @@ Orton, John W. (2009). 'Semiconductors and the Information Revolution: Magic Cry
 
 **P**
 
+**Steve Parker**
+
+Parker, Steve (2011). 'Shell Scripting: Expert Recipes for Linux(R), Bash, and More'. Indianapolis, Indiana, U. S. A.: John Wiley & Sons, Inc. ISBN 9781118166338 (ebk) 
+
+**Ron Peters**
+
 Peters, Ron (2009). 'Expert Shell Scripting'. Berkeley, California, U. S. A.: Apress. ISBN 9781430218425
 
 **Lech T. Polkowski**
