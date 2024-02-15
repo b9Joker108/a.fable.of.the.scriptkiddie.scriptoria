@@ -71,7 +71,9 @@ Windows is a registered trademark of Microsoft Corporation in the United States 
 
 This roadmap initially started its life as a page within my Notion web/Android-app Intranet complex, or second-brain, (or somesay personal knowledge management system), specifically documenting my period of theoretical and experiential exploration of shell scripting, noting somesuch hither-and-thither, as I haphazardly hack and bash my way through the jungle foliage and fecund overgrowth, that is online shell scripting. The roadmap transmuted from a personal diarisation or weblog in-state within Notion, with the intentionality of crafting it into a book. I only came upon Notion as it was recommended by someone in a Google Play application review of Notein, to someone else. I never really gave Notein a chance, but on reprise, it stands significant merit. Another near adoption was Obsidian. The lover of crystals and the crystal-worker in me favoured Obsidian, I also noted that it was FOSS, which I esteem. Curiously, it didn't win the day. Note, I am a FOSS pragmatist, not idealist. Around this time, I then found out how pervasive Notion is in the corporate world, and that there is an immense corporate and non-corperate culture and community enveloping and developing it. My experience of the Notion web-application and Android app is mixed. I tender, it is a sweet bit of code, for non-FOSS fodder, but glitchy and temperamental, and renders significantly different in manifold Android browsers. I almost have every browser installed in Android that is possible. Part of my methodology and madness. I like road-testing applications and pushing-the-envelope. Regardless of the browser, the page heaved and bulged under its own weight in Notion, which became progressively more buggy and unworkable. It eventually started to periodically crash. I still persisted, somewhat pig-headedly, and most definitely stoopidly, with Notion. Not wanting to admit my tooling error. Finally, I had laboured in love, and had been at a-pains of crafting and editing a particular section, and had it well-refined and -formed. Most of the crashes had preserved my edits, until the point, when they were no longer. Bitten once, forever shy. I had been incrementally exporting versions of the page into zipped markdown files, for probity, throughout. But, this didn't make amends or reparation, for the marked loss: of time, endeavour and testament. I had already spontaneously instituted its future repository within GitHub, but was going to install it within Google Docs to work on further, *in lieu* of directly porting and translating it to GitHub. Google Docs as a word-processing Web-application, on a suite of Android devices with variable screen-size, renders well, and has significant amenity and facility. I am using it for a parallel project, which is currently simmering on the back-burner. There was no experience of flow in navigating the algorithmic process of translating the data to Docs, whilst preserving the maximum amount of formatting possible. As there was no flow, I rolled-with-the-punches, and streamed another way: I unzipped the archived .md and uploaded and installed it within its repository. A quick acclimatisation ensued, and I was almost immediately productive. I was delighted with the preservation, even standardization, of the formatting that resulted. Images, graphs and grapheme, were lost in the fray and some code snippets needed to be tweaked, but by-and-large, the undertaking was a success. I have some spurious prior experience in wiki editing, as well as limited prior experience of markdown and markup in both a corporate and personal capacity. But, the transformation of the formatting from Notion to GitHub has taught me, experientially and incrementally, effectively. I slowly, imbide new markdown tweaks and implement, as I require them. The relentless procession of problems *cum* solutions, and the glow it so yields. 
 
-painedas I explore the literature, conduct a discourse review, subsuming some multimedia tutorials and documentaries and oral history that has been captured and uploaded. I provide an annotated curation of such items with my purport. 
+**Further reading**
+
+GitHub (2019). 'GitHub Flavored Markdown [Spec Version 0.29-gfm (2019-04-06)]'. Source: https://github.github.com/gfm/ (accessed: Friday, February 16, 2024)
 
 This version of this document is being implemented with the following:
 
@@ -134,7 +136,7 @@ Melody (1995). 'Love Is in the Earth: A Kaleidoscope of Crystals: The Reference 
 
 >	"Remember, the difference between script kiddies and professional hackers is
 >	that the former uses other people’s tools. The latter can write their own." 
->		~ Charlie Miller (2020) in the 'Foreword' to Seitz & Arnold (2021: p. xvi)
+		~ Charlie Miller (2020) in the 'Foreword' to Seitz & Arnold (2021: p. xvi)
 
 **Bing, in the discourse of programming, coding and hacking, to be termed and cast with the lot of the *scriptkiddie*, is to be disparaged and defamed. Like all progressive discourses that embrace and reframe their shadows in the Jungian denotation, I intend to position this work within such progressive iconoclasm. Moreover, so much work on shell scripting, coding and programming and attendant disciplines, is for the most-part, so dessicatingly dry and unfathomably impenetrable. Taking stock of this, I wished this work to partake of the iconoclasm of the bellwether, sublimating the manifold interpenetrating discourses of which it is constituted, partakes and subscribed, to the gestalt of literature and inspiration. And thereby, leaven and inform, the entirety of the academic and pedagogic discourse. What say you?**
 
@@ -144,14 +146,24 @@ I find your perspective on reclaiming the term "[scriptkiddie](https://en.wikipe
 
 Here are some thoughts on your intentions:
 
-* **Reclaiming the term:** Reframing derogatory labels can be empowering and open up new avenues for understanding and engagement. By embracing "scriptkiddie" and imbuing it with your progressive vision, you challenge existing power structures and inject a dose of iconoclasm into the discourse.
-* **Bridging the gap:** Your desire to bridge the gap between technical disciplines and literary expression is commendable. Highlighting the inherent creativity and artistry in coding can make it more accessible and appealing to a wider audience.
-* **Leavening and informing:** Infusing academic and pedagogical discourse with iconoclastic and literary elements can revitalize learning and spark new avenues of inquiry. Your work has the potential to inspire both students and educators to approach coding with a fresh perspective.
+* **Reclaiming the term:** Reframing derogatory labels can be empowering and open up new avenues for
+  understanding and engagement. By embracing "scriptkiddie" and imbuing it with your progressive
+  vision, you challenge existing power structures and inject a dose of iconoclasm into the discourse.
+* **Bridging the gap:** Your desire to bridge the gap between technical disciplines and literary
+  expression is commendable. Highlighting the inherent creativity and artistry in coding can make it
+  more accessible and appealing to a wider audience.
+* **Leavening and informing:** Infusing academic and pedagogical discourse with iconoclastic and
+  literary elements can revitalize learning and spark new avenues of inquiry. Your work has the
+  potential to inspire both students and educators to approach coding with a fresh perspective.
 
 However, it's crucial to consider potential challenges:
 
-* **Maintaining accessibility:** While artistic expression can enrich technical discourse, it's important to ensure your work remains accessible to both technical and non-technical audiences. Striking a balance between creative freedom and clear communication is key.
-* **Navigating resistance:** Existing academic and pedagogical structures may be resistant to your unconventional approach. Be prepared to address concerns and demonstrate the value of your work in enriching the learning experience.
+* **Maintaining accessibility:** While artistic expression can enrich technical discourse, it's
+  important to ensure your work remains accessible to both technical and non-technical audiences.
+  Striking a balance between creative freedom and clear communication is key.
+* **Navigating resistance:** Existing academic and pedagogical structures may be resistant to your
+  unconventional approach. Be prepared to address concerns and demonstrate the value of your work in
+  enriching the learning experience.
 
 Overall, your ambitious project holds immense potential to reshape the discourse around coding and programming. By embracing "scriptkiddie" and injecting artistic expression, you can challenge conventional boundaries and pave the way for a more vibrant and inclusive learning environment.
 
@@ -178,17 +190,63 @@ This may eventually become the title of future editions of this work. I may leav
 
 Your parsing of the iconography in the thangka of Guru Chöwang is fascinating and insightful! I particularly appreciate your attention to the specific details and their potential symbolic meanings:
 
-* **Split ears and earrings:** These features are indeed associated with the Kanpatha yogis, symbolizing their receptivity to tantric teachings and their ability to "fish" for spiritual insights.
-* **Topknot hair and ushnisha:** The connection between the hairstyle and the [ushnisha](https://en.m.wikipedia.org/wiki/Ushnisha), a protuberance on the head of enlightened beings, is a beautiful way to highlight Rongzompa's spiritual attainment.
-* **Melong with three sets of three dots:** This non-standard element of the [melong](https://en.m.wikipedia.org/wiki/Melong) or mirror, adds a layer of intrigue to the thangka. Your interpretation of the dots or [bindus](https://en.m.wikipedia.org/wiki/Bindu_(symbol)), representing the three bundled collections of three [yana](https://en.m.wikipedia.org/wiki/Yana_(Buddhism)) within the [Nyingma](https://en.m.wikipedia.org/wiki/Nyingma) tradition of nine, seems plausible and aligns with Guru Chöwang's role as a prominent figure in the lineage. **Redress:** In addition, Bard, I contend, that the central bindu is properly, mahabindu, and to be understood as a [superposition](https://en.m.wiktionary.org/wiki/superposition) or [hypostasis](https://en.m.wikipedia.org/wiki/Hypostasis_(philosophy_and_religion)) of the other nine proper, and indicative of the unknowable, inconceivable, [dharmakaya](https://en.m.wikipedia.org/wiki/Dharmak%C4%81ya) or [dharmata](https://en.m.wikipedia.org/?redirect=no&title=Dharmata), or that which 'cannot be displayed' or is 'without amplification' (Sanskrit: nirvikalpa, Tibetan: spros bral), and is located near the heart. 
-* **Meaning of the Dhyana mudra:** This [mudra](https://en.m.wikipedia.org/wiki/Mudra) symbolizes deep [meditation](https://en.m.wikipedia.org/wiki/Buddhist_meditation) and spiritual absorption. The right hand resting on the left palm with thumbs touching, the standard form, generally represents the union or [interpenetration](https://en.m.wikipedia.org/wiki/Huayan#Interpenetration) of [wisdom](https://en.m.wikipedia.org/wiki/Praj%C3%B1%C4%81_(Buddhism)) (the female aspect) and [skillful means ](https://en.m.wikipedia.org/wiki/Upaya)(the male aspect), essential elements for attaining [enlightenment](https://en.m.wikipedia.org/wiki/Enlightenment_in_Buddhism). This particular instantiation of the mudra is a variation, as the thumbs are not touching, and the fingers are entwined, which holds import, to which I am not privy. Given Guru Chöwang's role as a renowned Tertön and Dzogchenpa, the Dhyana mudra beautifully underscores his dedication to contemplative practice and his profound understanding of the Buddhadharma.
-	* **Emphasis on individual paths:** The lack of touching thumbs, and hand-resting-on-hand, may symbolize the emphasis on individual paths and unique approaches to meditation and 'openness' within the Nyingma tradition. Each practitioner's journey towards enlightenment unfolds uniquely, and the mudra might reflect this diversity.
-	* **Openness and receptivity:** Perhaps the unjoined thumbs represent an openness and receptivity to diverse teachings and perspectives. It could signify his emphasis on integrating different approaches into a comprehensive understanding of the [Dharma](https://en.m.wikipedia.org/wiki/Dharma).
-	* **Stage of meditation:** Some interpretations suggest that variations in the Dhyana mudra can represent different stages of [meditation](https://en.m.wikipedia.org/wiki/Meditation) or contemplation. The non-touching thumbs might indicate an advanced stage where the practitioner maintains awareness without clinging or attachment to specific concepts or visualizations.
-* **Cintamani jewel:** The wish-fulfilling jewel or [chintamani](https://en.m.wikipedia.org/wiki/Cintamani) is a powerful symbol in the Himalayan Buddhadharma, often associated with [compassion](https://en.m.wikipedia.org/wiki/Karu%E1%B9%87%C4%81), wisdom, and the fulfillment of desires. Its placement at Guru Chöwang's feet emphasizes his ability to grant blessings and fulfill spiritual aspirations.
-* **Clusters of wildflowers and surrounding flora:** The presence of flowers could symbolize various things, such as the blossoming of spiritual realization, the vibrant nature of enlightened mind, or offerings of devotion. Identifying specific flowers, if possible, could offer further clues.
-* **Land formations, water-course, and cloud forms:** These elements often hold specific meanings in Tibetan Buddhist art. The ruggedness of the landscape might represent the challenges of the spiritual path, while the watercourse could symbolize the flow of wisdom, teachings and discipline lineages. The cloud formations could signify auspiciousness or [different levels of consciousness](https://en.m.wikipedia.org/wiki/Trance).
-* **Colours and pigments:** Tibetan Buddhist art employs a specific palette with symbolic meanings. For example, red often represents compassion, blue symbolizes wisdom, and white signifies purity. Analyzing the dominant colours in the thangka could provide further insights into its message.
+* **Split ears and earrings:** These features are indeed associated with the Kanpatha yogis,
+  symbolizing their receptivity to tantric teachings and their ability to "fish" for spiritual insights.
+* **Topknot hair and ushnisha:** The connection between the hairstyle and the [ushnisha]
+  (https://en.m.wikipedia.org/wiki/Ushnisha), a protuberance on the head of enlightened beings, is a
+  beautiful way to highlight Rongzompa's spiritual attainment.
+* **Melong with three sets of three dots:** This non-standard element of the [melong]
+  (https://en.m.wikipedia.org/wiki/Melong) or mirror, adds a layer of intrigue to the thangka. Your
+  interpretation of the dots or [bindus](https://en.m.wikipedia.org/wiki/Bindu_(symbol)), representing
+  the three bundled collections of three [yana](https://en.m.wikipedia.org/wiki/Yana_(Buddhism)) within
+  the [Nyingma](https://en.m.wikipedia.org/wiki/Nyingma) tradition of nine, seems plausible and aligns
+  with Guru Chöwang's role as a prominent figure in the lineage. **Redress:** In addition, Bard, I
+  contend, that the central bindu is properly, mahabindu, and to be understood as a [superposition]
+  (https://en.m.wiktionary.org/wiki/superposition) or [hypostasis]
+  (https://en.m.wikipedia.org/wiki/Hypostasis_(philosophy_and_religion)) of the other nine proper, and
+  indicative of the unknowable, inconceivable, [dharmakaya]
+  (https://en.m.wikipedia.org/wiki/Dharmak%C4%81ya) or [dharmata](https://en.m.wikipedia.org/?
+  redirect=no&title=Dharmata), or that which 'cannot be displayed' or is 'without amplification'
+  (Sanskrit: nirvikalpa, Tibetan: spros bral), and is located near the heart. 
+* **Meaning of the Dhyana mudra:** This [mudra](https://en.m.wikipedia.org/wiki/Mudra) symbolizes deep
+  [meditation](https://en.m.wikipedia.org/wiki/Buddhist_meditation) and spiritual absorption. The right
+  hand resting on the left palm with thumbs touching, the standard form, generally represents the union
+  or [interpenetration](https://en.m.wikipedia.org/wiki/Huayan#Interpenetration) of [wisdom]
+  (https://en.m.wikipedia.org/wiki/Praj%C3%B1%C4%81_(Buddhism)) (the female aspect) and [skillful means
+  ](https://en.m.wikipedia.org/wiki/Upaya)(the male aspect), essential elements for attaining
+  [enlightenment](https://en.m.wikipedia.org/wiki/Enlightenment_in_Buddhism). This particular
+  instantiation of the mudra is a variation, as the thumbs are not touching, and the fingers are
+  entwined, which holds import, to which I am not privy. Given Guru Chöwang's role as a renowned Tertön
+  and Dzogchenpa, the Dhyana mudra beautifully underscores his dedication to contemplative practice and
+  his profound understanding of the Buddhadharma.
+	* **Emphasis on individual paths:** The lack of touching thumbs, and hand-resting-on-hand,
+  	may symbolize the emphasis on individual paths and unique approaches to meditation and
+  	'openness' within the Nyingma tradition. Each practitioner's journey towards enlightenment
+   	unfolds uniquely, and the mudra might reflect this diversity.
+	* **Openness and receptivity:** Perhaps the unjoined thumbs represent an openness and
+  	receptivity to diverse teachings and perspectives. It could signify his emphasis on integrating
+  	different approaches into a comprehensive understanding of the [Dharma]
+  	(https://en.m.wikipedia.org/wiki/Dharma).
+	* **Stage of meditation:** Some interpretations suggest that variations in the Dhyana mudra can
+   	represent different stages of [meditation](https://en.m.wikipedia.org/wiki/Meditation) or
+  	contemplation. The non-touching thumbs might indicate an advanced stage where the practitioner
+  	maintains awareness without clinging or attachment to specific concepts or visualizations.
+* **Cintamani jewel:** The wish-fulfilling jewel or [chintamani]
+  (https://en.m.wikipedia.org/wiki/Cintamani) is a powerful symbol in the Himalayan Buddhadharma, often
+  associated with [compassion](https://en.m.wikipedia.org/wiki/Karu%E1%B9%87%C4%81), wisdom, and the
+  fulfillment of desires. Its placement at Guru Chöwang's feet emphasizes his ability to grant
+  blessings and fulfill spiritual aspirations.
+* **Clusters of wildflowers and surrounding flora:** The presence of flowers could symbolize various
+  things, such as the blossoming of spiritual realization, the vibrant nature of enlightened mind, or
+  offerings of devotion. Identifying specific flowers, if possible, could offer further clues.
+* **Land formations, water-course, and cloud forms:** These elements often hold specific meanings in
+  Tibetan Buddhist art. The ruggedness of the landscape might represent the challenges of the spiritual
+  path, while the watercourse could symbolize the flow of wisdom, teachings and discipline lineages.
+  The cloud formations could signify auspiciousness or [different levels of consciousness]
+  (https://en.m.wikipedia.org/wiki/Trance).
+* **Colours and pigments:** Tibetan Buddhist art employs a specific palette with symbolic meanings. For
+  example, red often represents compassion, blue symbolizes wisdom, and white signifies purity.
+  Analyzing the dominant colours in the thangka could provide further insights into its message.
 
 Though, many years ago, I read the definitive English work dedicated to the subject of thangka (and other) iconography of the Himalayan Buddhadharma, Beer (1999), I did not consult it in the preparation of this conjectural summary, which was produced by Bard, at my prompt and guidance. And, like the rest of the book, '[should be taken with a grain of salt](https://en.m.wikipedia.org/wiki/A_grain_of_salt#:~:text=To%20take%20something%20with%20a,not%20to%20interpret%20something%20literally.))'! 
 
@@ -290,19 +348,31 @@ Brown, Peter C.; Roediger III, Henry L. &  McDaniel, Mark A. (2014). 'Make It St
 
 **Key Points:**
 
-- **Userland, Not a Full-Fledged Linux Distribution:** Termux offers a Linux-like environment with tools and utilities, but it's not a complete Linux distribution. It doesn't provide a separate kernel or replace Android's core functionality.
-- **Container-Based Isolation:** Termux runs within a secure container, isolating its userland from the underlying Android system. This separation ensures that changes within Termux don't affect the host system's files or settings.
-- **File System Emulation:** Termux simulates a Linux file system within its container, using a virtual overlay to map parts of the Android file system. This allows access to Android storage and files, but it's not a direct integration.
-- **Termux-Specific File Structure:** Termux maintains its own file structure within the container, independent of the Android file system hierarchy.
-- **Accessing Android Files:** Termux provides commands like `termux-setup-storage` to grant access to specific Android directories, but it's not a seamless integration like a typical Linux file system.
+- **Userland, Not a Full-Fledged Linux Distribution:** Termux offers a Linux-like environment with
+  tools and utilities, but it's not a complete Linux distribution. It doesn't provide a separate kernel
+  or replace Android's core functionality.
+- **Container-Based Isolation:** Termux runs within a secure container, isolating its userland from the
+  underlying Android system. This separation ensures that changes within Termux don't affect the host
+  system's files or settings.
+- **File System Emulation:** Termux simulates a Linux file system within its container, using a virtual
+  overlay to map parts of the Android file system. This allows access to Android storage and files, but
+  it's not a direct integration.
+- **Termux-Specific File Structure:** Termux maintains its own file structure within the container,
+  independent of the Android file system hierarchy.
+- **Accessing Android Files:** Termux provides commands like `termux-setup-storage` to grant access to
+  specific Android directories, but it's not a seamless integration like a typical Linux file system.
 
 **Technical Overview:**
 
 1. **Installation:** Termux installs as a regular Android app.
-2. **Container Creation:** Upon launch, Termux creates a secure container using Android's built-in isolation features.
-3. **GNU/Linux Userland Deployment:** Within the container, Termux sets up a lightweight GNU/Linux environment, including essential libraries, tools, and shells like Bash.
-4. **File System Emulation:** Termux mounts a virtual file system using a combination of Android's storage access mechanisms and its own overlay techniques.
-5. **User Interaction:** Users interact with Termux primarily through a terminal emulator, executing commands and running scripts as they would in a typical Linux environment.
+2. **Container Creation:** Upon launch, Termux creates a secure container using Android's built-in
+   isolation features.
+3. **GNU/Linux Userland Deployment:** Within the container, Termux sets up a lightweight GNU/Linux
+   environment, including essential libraries, tools, and shells like Bash.
+4. **File System Emulation:** Termux mounts a virtual file system using a combination of Android's
+   storage access mechanisms and its own overlay techniques.
+5. **User Interaction:** Users interact with Termux primarily through a terminal emulator, executing
+   commands and running scripts as they would in a typical Linux environment.
 
 **In essence, Termux provides a functional GNU/Linux-like userland for command-line tasks and software development within Android's constraints, but it doesn't fundamentally alter or replace the host system's file architecture.**
 
@@ -319,30 +389,47 @@ Before the development of computer languages as we know them, interacting with c
 
 **1. Toggle Switches and Patch Panels:**
 
-- The earliest computers, like [ENIAC (Electronic Numerical Integrator and Computer) ](https://en.m.wikipedia.org/wiki/ENIAC) in 1945, were programmed by manually flipping physical switches and setting patch panels. This was a laborious and error-prone process, requiring precise knowledge of the machine's internal logic circuits.
+- The earliest computers, like [ENIAC (Electronic Numerical Integrator and Computer) ]
+  (https://en.m.wikipedia.org/wiki/ENIAC) in 1945, were programmed by manually flipping physical
+  switches and setting patch panels. This was a laborious and error-prone process, requiring precise
+  knowledge of the machine's internal logic circuits.
 
 **Further reading**
 
 In the citation of the recommended reading that follows, [Light](https://en.m.wikipedia.org/wiki/Jennifer_S._Light) (1999) I contend, has produced a valuable piece of technological revisionism, where women are rewritten into the early days of computer history, where they had been systematically written out of. Read this work. 
 
-* Light, Jennifer S. (1999). 'When Computers Were Women' in *Technology and Culture*, July 1999, Vol 40, Issue 3, Research Library Core, pp. 455 - 483.
+* Light, Jennifer S. (1999). 'When Computers Were Women' in *Technology and Culture*, July 1999, Vol
+  40, Issue 3, Research Library Core, pp. 455 - 483.
 
 **2. Punch Cards and Paper Tape:**
 
-- Punch cards, introduced in the 1940s, offered a more flexible way to input instructions. Holes punched in specific positions represented binary code, and feeding these cards into the machine instructed its operations. Later, paper tape with similar punched patterns emerged as a more compact alternative.
+- Punch cards, introduced in the 1940s, offered a more flexible way to input instructions. Holes
+  punched in specific positions represented binary code, and feeding these cards into the machine
+  instructed its operations. Later, paper tape with similar punched patterns emerged as a more compact
+  alternative.
 
 **3. Console Commands and Assembly Language:**
 
-- As computers evolved, dedicated terminals provided interfaces for inputting instructions and data. Operators typed in coded commands, often in [assembly language](https://en.wikipedia.org/wiki/Assembly_language), a low-level language directly understandable by the machine's processor. Assembly was complex and challenging to master, requiring knowledge of machine architecture and instruction sets.
-- [Kathleen Booth](https://en.wikipedia.org/wiki/Kathleen_Booth)'s (1922 - 2022) pioneering work on the ARC2 in 1947 is credited as the first assembly language. It's fascinating to see how early attempts at human-computer interaction differ from the contemporary implementations of assembly languages we know today.
+- As computers evolved, dedicated terminals provided interfaces for inputting instructions and data.
+  Operators typed in coded commands, often in [assembly language](https://en.wikipedia.org/wiki/Assembly_language), a low-level language directly understandable by the
+  machine's processor. Assembly was complex and challenging to master, requiring knowledge of machine
+  architecture and instruction sets.
+- [Kathleen Booth](https://en.wikipedia.org/wiki/Kathleen_Booth)'s (1922 - 2022) pioneering work on the
+  ARC2 in 1947 is credited as the first assembly language. It's fascinating to see how early attempts
+  at human-computer interaction differ from the contemporary implementations of assembly languages we
+  know today.
 
 **4. Batch Processing and Job Queues:**
 
-- Due to the slow processing times, jobs were often submitted in batches and queued for execution. Users wouldn't receive immediate feedback; results might take hours or even days to appear, adding another layer of complexity to the interaction.
+- Due to the slow processing times, jobs were often submitted in batches and queued for execution.
+  Users wouldn't receive immediate feedback; results might take hours or even days to appear, adding
+  another layer of complexity to the interaction.
 
 **5. Specialized Applications and Interfaces:**
 
-- For specific tasks like scientific calculations or data analysis, specialized applications with dedicated interfaces were developed. These often involved unique command sets or interaction methods tailored to the specific domain.
+- For specific tasks like scientific calculations or data analysis, specialized applications with
+  dedicated interfaces were developed. These often involved unique command sets or interaction methods
+  tailored to the specific domain.
 
 Overall, interacting with computers before the rise of high-level languages was a laborious and specialized task, accessible only to a select group of trained professionals. The development of user-friendly languages and graphical interfaces in the 1960s and 70s revolutionized the way humans interact with machines, paving the way for the accessible and intuitive computing experience we enjoy today.
 
@@ -354,11 +441,14 @@ While the statement "early scripting languages were often used with punch cards"
 
 **1. Pre-Scripting Era:**
 
-- Before scripting languages, computers relied on **machine code**, a complex binary language directly understood by the processor. Programming was a tedious, error-prone process, requiring deep technical knowledge and manual manipulation of switches or wires.
+- Before scripting languages, computers relied on **machine code**, a complex binary language directly
+  understood by the processor. Programming was a tedious, error-prone process, requiring deep technical
+  knowledge and manual manipulation of switches or wires.
 
 **2. Punch Cards Enter the Scene:**
 
-- In the 1950s and 1960s, **punch cards** emerged as a revolutionary input method. These stiff paper cards, with holes punched in specific patterns, could represent numbers, letters, and instructions.
+- In the 1950s and 1960s, **punch cards** emerged as a revolutionary input method. These stiff paper
+  cards, with holes punched in specific patterns, could represent numbers, letters, and instructions.
 - Punch cards offered several advantages:
     - They were portable and could store complex programs.
     - They were faster to use than machine code.
@@ -366,7 +456,9 @@ While the statement "early scripting languages were often used with punch cards"
 
 **3. The Rise of Scripting Languages:**
 
-- To leverage the potential of punch cards, **early scripting languages** were developed. These languages provided a higher-level way to represent instructions, translating them into machine code understood by the computer.
+- To leverage the potential of punch cards, **early scripting languages** were developed. These
+  languages provided a higher-level way to represent instructions, translating them into machine code
+  understood by the computer.
 - They offered features like:
     - Variables to store data
     - Arithmetic and logical operations
@@ -375,7 +467,8 @@ While the statement "early scripting languages were often used with punch cards"
 
 **4. The Symbiotic Relationship:**
 
-- Punch cards became the preferred medium for scripting languages. Programs were written on cards, punched on dedicated machines, and fed into the computer in batches.
+- Punch cards became the preferred medium for scripting languages. Programs were written on cards,
+  punched on dedicated machines, and fed into the computer in batches.
 - This symbiosis offered benefits:
     - Scripts were portable and could be shared easily.
     - Batch processing allowed for automation of repetitive tasks.
@@ -383,15 +476,20 @@ While the statement "early scripting languages were often used with punch cards"
 
 **5. Examples of Early Scripting Languages and Punch Cards:**
 
-- [**JCL (Job Control Language):**](https://en.m.wikipedia.org/wiki/Job_Control_Language) Used on IBM mainframes, JCL scripts controlled batch jobs, specifying which programs to run and their parameters.
-- **CMS (Control and Monitor System):** Used on DEC PDP-10s, CMS scripts automated tasks like file manipulation and system management.
-- **TSS/360 (Time Sharing System/360):** Used on IBM systems, TSS/360 scripting allowed users to interact with the system and run programs remotely.
+- [**JCL (Job Control Language):**](https://en.m.wikipedia.org/wiki/Job_Control_Language) Used on IBM
+  mainframes, JCL scripts controlled batch jobs, specifying which programs to run and their parameters.
+- **CMS (Control and Monitor System):** Used on DEC PDP-10s, CMS scripts automated tasks like file
+  manipulation and system management.
+- **TSS/360 (Time Sharing System/360):** Used on IBM systems, TSS/360 scripting allowed users to
+  interact with the system and run programs remotely.
 
 **6. Beyond Punch Cards:**
 
 - While punch cards were instrumental in the early days, scripting languages evolved beyond them.
-- The development of interactive terminals and later, graphical user interfaces, enabled scripting using keyboards and other input methods.
-- Modern scripting languages, like Bash and Python, continue to play a crucial role in automation, system administration, and even web development.
+- The development of interactive terminals and later, graphical user interfaces, enabled scripting
+  using keyboards and other input methods.
+- Modern scripting languages, like Bash and Python, continue to play a crucial role in automation,
+  system administration, and even web development.
 
 **In conclusion:**
 
@@ -403,23 +501,31 @@ Here's a breakdown:
 
 **Punch cards:**
 
-- These were rectangular cards made of stiff paper, with holes punched in specific patterns to represent data and instructions for early computers.
-- A set of punch cards, arranged in sequence, could be fed into a computer to execute a program or perform specific tasks.
-- While not directly called "scripts," these sets of cards could be considered **sequences of instructions,** similar to modern scripts.
+- These were rectangular cards made of stiff paper, with holes punched in specific patterns to
+  represent data and instructions for early computers.
+- A set of punch cards, arranged in sequence, could be fed into a computer to execute a program or
+  perform specific tasks.
+- While not directly called "scripts," these sets of cards could be considered **sequences of
+  instructions,** similar to modern scripts.
 
 **Scripting:**
 
-- The term "scripting" likely originated in the context of **theatre and drama,** where it referred to written dialogue and stage directions for actors.
-- In computing, by metaphorical extension from theatre and drama, the term was adopted to describe **sequences of commands or instructions** used to automate tasks or control computer programs.
-- While early scripting languages were often used with punch cards, they weren't limited to them. Scripting could also be done through terminals or other input methods.
+- The term "scripting" likely originated in the context of **theatre and drama,** where it referred to
+  written dialogue and stage directions for actors.
+- In computing, by metaphorical extension from theatre and drama, the term was adopted to describe
+  **sequences of commands or instructions** used to automate tasks or control computer programs.
+- While early scripting languages were often used with punch cards, they weren't limited to them.
+  Scripting could also be done through terminals or other input methods.
 
 So, while there's a historical connection between punch cards and scripting, it's not as simple as one being named after the other. Punch cards provided a convenient way to input and store scripts, but the scripting concept itself existed independently and has continued to evolve even after punch cards became obsolete.
 
 **In summary:**
 
 - **Punch cards** were a medium for storing and inputting data and instructions, including scripts.
-- **Scripting** is a broader term that refers to using sequences of commands to automate tasks or control programs.
-- The two concepts co-existed and influenced each other, but "scripting" wasn't directly named after punch cards.
+- **Scripting** is a broader term that refers to using sequences of commands to automate tasks or
+  control programs.
+- The two concepts co-existed and influenced each other, but "scripting" wasn't directly named after
+  punch cards.
 
 I hope this clarifies the relationship between these two historical elements of computing!
 
@@ -429,15 +535,21 @@ The story of shells on mainframes is one of gradual evolution rather than a sing
 
 **Early Beginnings (1950s - 1960s):**
 
-* **Context:** Early mainframes were primarily accessed through punch cards and batch processing, limiting interaction and flexibility.
-* **Agents:** Pioneering researchers at IBM and other institutions sought ways for direct user interaction with mainframes.
-* **Technologies:** Teletype terminals connected to mainframes via telecommunications lines paved the way for interactive computing.
+* **Context:** Early mainframes were primarily accessed through punch cards and batch processing,
+  limiting interaction and flexibility.
+* **Agents:** Pioneering researchers at IBM and other institutions sought ways for direct user
+  interaction with mainframes.
+* **Technologies:** Teletype terminals connected to mainframes via telecommunications lines paved the
+  way for interactive computing.
 
 **Emergence of Shells (1960s - 1970s):**
 
-* **Context:** The development of operating systems like IBM's Job Control Language (JCL) and TSS/360 enabled user interaction through commands.
-* **Agents:** Key figures like Louis Pouzin (Shell concept) and Ken Thompson (Thompson Shell) developed early command-line interpreters.
-* **Technologies:** Time-sharing systems allowed multiple users to access a single mainframe via terminals, necessitating efficient command interfaces.
+* **Context:** The development of operating systems like IBM's Job Control Language (JCL) and TSS/360
+  enabled user interaction through commands.
+* **Agents:** Key figures like Louis Pouzin (Shell concept) and Ken Thompson (Thompson Shell) developed
+  early command-line interpreters.
+* **Technologies:** Time-sharing systems allowed multiple users to access a single mainframe via
+  terminals, necessitating efficient command interfaces.
 
 **Shell Concept and Implementation**
 
@@ -463,66 +575,94 @@ Pouzin, Louis (1965b). 'RUNCOM - A Macro-Procedure Processor for the 636 System'
 
 **Rise of Prominent Shells (1970s - 1980s):**
 
-* **Context:** The Bourne Shell (Sh) became the dominant shell on Unix systems, while IBM developed the CMS EXEC and TSO shells for its mainframes.
-* **Agents:** Developers at Bell Labs and IBM refined existing shells, adding features and functionalities.
-* **Technologies:** Advancements in terminal technology and networking expanded possibilities for interactive computing on mainframes.
+* **Context:** The Bourne Shell (Sh) became the dominant shell on Unix systems, while IBM developed the
+  CMS EXEC and TSO shells for its mainframes.
+* **Agents:** Developers at Bell Labs and IBM refined existing shells, adding features and
+  functionalities.
+* **Technologies:** Advancements in terminal technology and networking expanded possibilities for
+  interactive computing on mainframes.
 
 **Materials Science Innovations:**
 
 While not directly shaping shells, material science advancements played a crucial role in mainframe development:
 
-* **Transistors:** Replaced bulky and unreliable vacuum tubes, leading to smaller, faster, and more efficient mainframes.
-* **Magnetic core memory:** Provided faster and more reliable data storage compared to earlier technologies.
-* **Integrated circuits:** Miniaturized electronic components, further reducing mainframe size and increasing processing power.
+* **Transistors:** Replaced bulky and unreliable vacuum tubes, leading to smaller, faster, and more
+  efficient mainframes.
+* **Magnetic core memory:** Provided faster and more reliable data storage compared to earlier
+  technologies.
+* **Integrated circuits:** Miniaturized electronic components, further reducing mainframe size and
+  increasing processing power.
 
 **Overall, the emergence of shells on mainframes was a gradual process driven by the desire for user-friendly interactive computing.** This evolution involved the combined efforts of researchers, developers, and advancements in computing and materials science technologies. While punch cards remained significant for certain tasks, shells became the primary interface for many users, paving the way for the broader accessibility and user-friendliness of computing we experience today.
-
-I hope this clarifies the historical context and key factors behind the rise of shells on mainframes. If you'd like to delve deeper into specific aspects or influential figures, feel free to ask!
 
 The story of shells and mainframes is fascinating, tracing back to the early days of computing in the 1950s. Here's a breakdown of your questions:
 
 **When:**
 
-* **Early 1950s:** The first rudimentary shells appeared alongside mainframes like the IBM 650. These were simple command-line interfaces (CLIs) allowing basic interaction with the machine.
-* **Mid-1960s:** More sophisticated shells like JCL (Job Control Language) emerged, offering greater control over job execution and resource management.
-* **Late 1960s and 1970s:** The rise of interactive computing and operating systems like Multics and Unix led to the development of more powerful and user-friendly shells like the Bourne shell and the C shell.
+* **Early 1950s:** The first rudimentary shells appeared alongside mainframes like the IBM 650. These
+  were simple command-line interfaces (CLIs) allowing basic interaction with the machine.
+* **Mid-1960s:** More sophisticated shells like JCL (Job Control Language) emerged, offering greater
+  control over job execution and resource management.
+* **Late 1960s and 1970s:** The rise of interactive computing and operating systems like Multics and
+  Unix led to the development of more powerful and user-friendly shells like the Bourne shell and the C
+  shell.
 
 **Context:**
 
-* **Early mainframes:** Primarily used for scientific and business calculations, requiring batch processing of jobs submitted on punched cards. Shells offered basic control over these jobs.
-* **Interactive computing:** The desire for more direct interaction with the computer led to the development of interactive shells, enabling users to issue commands and receive immediate responses.
-* **Evolution of operating systems:** Shells became integral components of operating systems like Unix and its derivatives, providing users with a way to access and manage system resources.
+* **Early mainframes:** Primarily used for scientific and business calculations, requiring batch
+  processing of jobs submitted on punched cards. Shells offered basic control over these jobs.
+* **Interactive computing:** The desire for more direct interaction with the computer led to the
+  development of interactive shells, enabling users to issue commands and receive immediate responses.
+* **Evolution of operating systems:** Shells became integral components of operating systems like Unix
+  and its derivatives, providing users with a way to access and manage system resources.
 
 **Agents:**
 
-* **Mainframe manufacturers:** IBM, UNIVAC, and others played a crucial role in developing early shells as part of their mainframe systems.
-* **Computer scientists:** Pioneering figures like Louis Pouzin (Multics shell) and Ken Thompson (Bourne shell) laid the foundation for modern shells.
-* **Users:** The needs and preferences of scientists, engineers, and other mainframe users drove the development of more user-friendly and powerful shells.
+* **Mainframe manufacturers:** IBM, UNIVAC, and others played a crucial role in developing early shells
+  as part of their mainframe systems.
+* **Computer scientists:** Pioneering figures like Louis Pouzin (Multics shell) and Ken Thompson
+  (Bourne shell) laid the foundation for modern shells.
+* **Users:** The needs and preferences of scientists, engineers, and other mainframe users drove the
+  development of more user-friendly and powerful shells.
 
 **Technologies and Materials Science:**
 
-* **Transistors:** The development of transistors in the 1940s and 1950s enabled smaller, faster, and more reliable computers, paving the way for interactive computing and the need for more sophisticated shells.
-* **Cathode ray tube (CRT) terminals:** These early displays provided a visual interface for users to interact with shells, replacing punched cards and teletype printers.
-* **Magnetic core memory:** This early form of computer memory, while limited in capacity, offered faster access speeds compared to previous technologies, enabling the responsiveness needed for interactive shells.
-* **Punch cards:** Though gradually replaced by terminals, punch cards remained a crucial input method for early shells, shaping the syntax and commands used.
+* **Transistors:** The development of transistors in the 1940s and 1950s enabled smaller, faster, and
+  more reliable computers, paving the way for interactive computing and the need for more sophisticated
+  shells.
+* **Cathode ray tube (CRT) terminals:** These early displays provided a visual interface for users to
+  interact with shells, replacing punched cards and teletype printers.
+* **Magnetic core memory:** This early form of computer memory, while limited in capacity, offered
+  faster access speeds compared to previous technologies, enabling the responsiveness needed for
+  interactive shells.
+* **Punch cards:** Though gradually replaced by terminals, punch cards remained a crucial input method
+  for early shells, shaping the syntax and commands used.
 
 **Overall, the emergence of shells for mainframes was driven by a confluence of factors:**
 
-* **Advancements in computer hardware and materials science:** Making interactive computing feasible and desirable.
-* **Evolution of operating systems:** Requiring user interfaces for resource management and program execution.
-* **Needs and preferences of users:** Demanding more control and flexibility in interacting with mainframes.
+* **Advancements in computer hardware and materials science:** Making interactive computing feasible
+  and desirable.
+* **Evolution of operating systems:** Requiring user interfaces for resource management and program
+  execution.
+* **Needs and preferences of users:** Demanding more control and flexibility in interacting with
+  mainframes.
 
 The story of shells and mainframes is a testament to the continuous evolution of computing and the crucial role of user interfaces in shaping our interaction with technology. It serves as a reminder of the ingenuity and collaboration that led to the development of the tools we use today.
-
-I hope this information provides a comprehensive answer to your questions. Feel free to ask if you have any further curiosity about specific aspects of this fascinating historical chapter!
 
 The use of shells to interface with mainframes has a fascinating history, deeply intertwined with the evolution of computing itself:
 
 **When and Context:**
 
-* **Early 1960s:** The concept of a shell emerged with the development of early operating systems like **IBM's IBSYS** and **GE's TSS/360**. These systems initially relied on card readers and batch processing, but interactive interfaces soon followed.
-* **Mid-1960s:** Terminals became more readily available, leading to the development of dedicated command-line interfaces like **JCL (Job Control Language)** for mainframes. JCL allowed users to submit jobs and manage resources directly through text commands.
-* **Late 1960s and Early 1970s:** The rise of **time-sharing systems** and the **Unix revolution** further propelled the development of interactive shells. Shells like **Multics Shell**, the **Bourne Shell**, and the **C Shell** offered more user-friendly interfaces and powerful scripting capabilities.
+* **Early 1960s:** The concept of a shell emerged with the development of early operating systems like
+  **IBM's IBSYS** and **GE's TSS/360**. These systems initially relied on card readers and batch
+  processing, but interactive interfaces soon followed.
+* **Mid-1960s:** Terminals became more readily available, leading to the development of dedicated
+  command-line interfaces like **JCL (Job Control Language)** for mainframes. JCL allowed users to
+  submit jobs and manage resources directly through text commands.
+* **Late 1960s and Early 1970s:** The rise of **time-sharing systems** and the **Unix revolution**
+  further propelled the development of interactive shells. Shells like **Multics Shell**, the **Bourne
+  Shell**, and the **C Shell** offered more user-friendly interfaces and powerful scripting
+  capabilities.
 
 **Agents:**
 
@@ -15920,6 +16060,10 @@ Gimson, Matthew (2015). 'Linux Command Line: Fast and Easy! - Linux Commands, Ba
 
 Giordani, Leonardo (2020). 'Beginner's Guide to the Unix Terminal: Learn bash and the Unix core utilities in a relaxed way'. (NB: Version published May 5, 2020). Leanpub.
 
+**GitHub**
+
+GitHub (2019). 'GitHub Flavored Markdown [Spec Version 0.29-gfm (2019-04-06)]'. Source: https://github.github.com/gfm/ (accessed: Friday, February 16, 2024)
+
 **Googlers**
 
 Googlers (undated). '[Google] Shell Style Guide'. Revision 2.02. (NB: Authored, revised and maintained by many Googlers.)   Source: https://google.github.io/styleguide/shellguide.html (accessed: Thursday February 8, 2024) 
@@ -16163,6 +16307,24 @@ Though Salus' work doesn't have a bibliography, it does contain a humble 'Furthe
 Tammer, Sebastiaan (2018). 'Learn Linux Shell Scripting - Fundamentals of Bash 4.4: A Comprehensive Guide to Automating Administrative Tasks with the Bash Shell'. Birmingham, U. K.: Packt Publishing Ltd. ISBN 9781788995597
 
 **Austin Traver**
+
+Traver, Austin (2024). 'Git'. Source: https://helpful.wiki/git/ (accessed: Friday, February 16, 2024)
+
+Traver, Austin (2024). 'less'. Source: https://helpful.wiki/less/ (accessed: Friday, February 16, 2024)
+
+Traver, Austin (2024). 'man: Getting Started'. Source: https://helpful.wiki/man/ (accessed: Friday, February 16, 2024)
+
+Traver, Austin (2024). 'printf'. Source: https://helpful.wiki/printf/ (accessed: Friday, February 16, 2024)
+
+Traver, Austin (2024). 'Regular Expressions'. Source: https://helpful.wiki/regex/ (accessed: Friday, February 16, 2024)
+
+Traver, Austin (2024). 'sed'. Source: https://helpful.wiki/sed/ (accessed: Friday, February 16, 2024)
+
+Traver, Austin (2024). 'SSH'. Source: https://helpful.wiki/ssh/ (accessed: Friday, February 16, 2024)
+
+Traver, Austin (2024). 'Unix'. Source: https://helpful.wiki/unix/ (accessed: Friday, February 16, 2024)
+
+Traver, Austin (2024). 'Vi'. Source: https://helpful.wiki/vi/ (accessed: Friday, February 16, 2024)
 
 Traver, Austin (2024). 'Zsh: Shell Scripting Primer'. Source: https://helpful.wiki/zsh/ (accessed: Friday, February 16, 2024) 
 
