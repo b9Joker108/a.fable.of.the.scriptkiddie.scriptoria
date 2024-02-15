@@ -666,16 +666,23 @@ The use of shells to interface with mainframes has a fascinating history, deeply
 
 **Agents:**
 
-* **Mainframe manufacturers:** IBM, GE, and other companies played a crucial role in developing early operating systems and shells for their respective mainframe platforms.
-* **Computer scientists:** Pioneering figures like Louis Pouzin (Multics Shell), Dennis Ritchie (Bourne Shell), and Bill Joy (C Shell) shaped the design and functionalities of early shells.
-* **Academic institutions:** Universities and research labs played a vital role in research and development, fostering the theoretical and practical foundations of interactive computing.
+* **Mainframe manufacturers:** IBM, GE, and other companies played a crucial role in developing early
+  operating systems and shells for their respective mainframe platforms.
+* **Computer scientists:** Pioneering figures like Louis Pouzin (Multics Shell), Dennis Ritchie (Bourne
+  Shell), and Bill Joy (C Shell) shaped the design and functionalities of early shells.
+* **Academic institutions:** Universities and research labs played a vital role in research and
+  development, fostering the theoretical and practical foundations of interactive computing.
 
 **Technologies and Innovations:**
 
-* **Transistor technology:** The miniaturization and cost reduction enabled by transistors paved the way for smaller, faster computers and the development of interactive interfaces.
-* **Teletype machines and terminals:** The availability of affordable terminals made it feasible for users to interact directly with mainframes through shells.
-* **Time-sharing systems:** These systems allowed multiple users to share a single mainframe, further necessitating user-friendly interfaces and command-line tools like shells.
-* **Operating system advancements:** The development of multi-user operating systems with resource management capabilities laid the groundwork for more complex and powerful shells.
+* **Transistor technology:** The miniaturization and cost reduction enabled by transistors paved the
+  way for smaller, faster computers and the development of interactive interfaces.
+* **Teletype machines and terminals:** The availability of affordable terminals made it feasible for
+  users to interact directly with mainframes through shells.
+* **Time-sharing systems:** These systems allowed multiple users to share a single mainframe, further
+  necessitating user-friendly interfaces and command-line tools like shells.
+* **Operating system advancements:** The development of multi-user operating systems with resource
+  management capabilities laid the groundwork for more complex and powerful shells.
 
 **Materials science advancements:** While not directly related to shells themselves, the development of integrated circuits (ICs) and memory technologies played a crucial role in overall computer miniaturization and performance improvements, contributing to the feasibility and widespread adoption of interactive mainframes and shells.
 
@@ -717,25 +724,40 @@ Determining the absolute "first" of these terms is tricky, as their usage and di
 
 **1. First in Actuality:**
 
-- **Shell:** The Multics Shell (1964) arguably offers the clearest claim. It provided command-line access with functionality distinct from the kernel, making it a strong contender for the first "shell" in practice.
-- **Console:** Early computers often interacted with users through physical consoles with switches, lights, and dials. Identifying the "first" becomes murky in this context. However, the SDS 930/940 command console (1965) offered specific command capabilities, making it an early forerunner.
-- **Terminal:** Teletype terminals became popular input/output devices for computers in the 1950s and 1960s. Pinpointing the "first" is difficult, but early models like the Model 33 (1940) and Model 35 (1950) played crucial roles in shaping the concept.
+- **Shell:** The Multics Shell (1964) arguably offers the clearest claim. It provided command-line
+  access with functionality distinct from the kernel, making it a strong contender for the first
+  "shell" in practice.
+- **Console:** Early computers often interacted with users through physical consoles with switches,
+  lights, and dials. Identifying the "first" becomes murky in this context. However, the SDS 930/940
+  command console (1965) offered specific command capabilities, making it an early forerunner.
+- **Terminal:** Teletype terminals became popular input/output devices for computers in the 1950s and
+  1960s. Pinpointing the "first" is difficult, but early models like the Model 33 (1940) and Model 35
+  (1950) played crucial roles in shaping the concept.
 
 **2. First in Name:**
 
-- **Shell:** While Multics used "shell," the term likely first appeared in a broader sense. The phrase "user shell" was documented in Multics manuals dating back to 1964.
-- **Console:** The term "console" existed before computers, referring to furniture holding controls for instruments or switches. Its evolution to describe computer interfaces likely originated in the 1950s with the rise of dedicated communication peripherals.
-- **Terminal:** The usage of "terminal" for computer connections emerged early with teletype technology. The Model 33 teletype manual from 1940 uses the term "terminal equipment."
+- **Shell:** While Multics used "shell," the term likely first appeared in a broader sense. The phrase
+  "user shell" was documented in Multics manuals dating back to 1964.
+- **Console:** The term "console" existed before computers, referring to furniture holding controls for
+  instruments or switches. Its evolution to describe computer interfaces likely originated in the 1950s
+  with the rise of dedicated communication peripherals.
+- **Terminal:** The usage of "terminal" for computer connections emerged early with teletype
+  technology. The Model 33 teletype manual from 1940 uses the term "terminal equipment."
 
 **3. Technical Distinctions:**
 
-- **Shell:** It's a program providing a text-based user interface to interact with operating system functions. It interprets commands, executes programs, and provides feedback.
-- **Console:** Primarily refers to the physical interface through which user interacts with a system, often including a keyboard and display. It can encompass both a shell interface and other forms of interaction.
-- **Terminal:** Initially denoted a physical device like a teletype but can now refer to any interface providing text-based access to a system, including virtual terminals within graphical interfaces.
+- **Shell:** It's a program providing a text-based user interface to interact with operating system
+  functions. It interprets commands, executes programs, and provides feedback.
+- **Console:** Primarily refers to the physical interface through which user interacts with a system,
+  often including a keyboard and display. It can encompass both a shell interface and other forms of
+  interaction.
+- **Terminal:** Initially denoted a physical device like a teletype but can now refer to any interface
+  providing text-based access to a system, including virtual terminals within graphical interfaces.
 
 **In summary:**
 
-- Identifying the absolute "first" for each term is challenging due to gradual evolution and diverse historical contexts.
+- Identifying the absolute "first" for each term is challenging due to gradual evolution and diverse
+  historical contexts.
 - Multics Shell and SDS 930/940 console emerge as strong contenders for "first in actuality."
 - The terms themselves existed before being applied to computers, often in broader contexts.
 - Technical distinctions are:
@@ -751,7 +773,8 @@ Let me know if you have any further questions!
 
 Bard, please explain the following Mastodon microblog from @awb@mastodon.sdf.org dated January 23, 2024: 
 
->	"XON/XOFF software flow control was useful on async terminals. It's because it is still enabled >	on virtual terminals that many users don't realize they can search Shell history backwards AND >	forwards!
+>	"XON/XOFF software flow control was useful on async terminals. It's because it is still enabled
+>	on virtual terminals that many users don't realize they can search Shell history backwards AND >	forwards!
 
 >	Readline (Bash) has forward-search-history and ZLE (Zsh) has history-incremental-search-forward >	bound to C-s, the STOP character used for XOFF. To disable it, do a stty -ixon. This
 > 	confusingly named option is POSIX and has been around since System III (1981).
@@ -761,28 +784,38 @@ The passage explains how a historical quirk from early terminal technology has l
 
 **1. XON/XOFF Flow Control:**
 
-- In the days of dial-up connections and slow terminals, data transferred asynchronously, meaning characters could arrive faster than the terminal could display them. XON/XOFF flow control used special control characters (XON and XOFF) to tell the sending device to pause or resume sending data based on the terminal's buffer capacity.
+- In the days of dial-up connections and slow terminals, data transferred asynchronously, meaning
+  characters could arrive faster than the terminal could display them. XON/XOFF flow control used
+  special control characters (XON and XOFF) to tell the sending device to pause or resume sending data
+  based on the terminal's buffer capacity.
 - The STOP character (Ctrl+S) sent XOFF, while the START character (Ctrl+Q) sent XON.
 
 **2. Virtual Terminals and XOFF Legacy:**
 
-- With the rise of virtual terminals and faster connections, XON/XOFF became largely obsolete. However, many virtual terminals still keep some of its legacy enabled by default.
-- This includes the binding of Ctrl+S (STOP) to "forward-search-history" in Readline (used by Bash) and "history-incremental-search-forward" in Zsh.
+- With the rise of virtual terminals and faster connections, XON/XOFF became largely obsolete. However,
+  many virtual terminals still keep some of its legacy enabled by default.
+- This includes the binding of Ctrl+S (STOP) to "forward-search-history" in Readline (used by Bash) and
+  "history-incremental-search-forward" in Zsh.
 
 **3. The Unexpected Search Feature:**
 
-- Many users aren't aware that Ctrl+S (STOP) can be used to search their shell history **forwards**, because they only associate it with pausing text output from an old era.
-- This hidden feature adds a convenient way to navigate through past commands without remembering specific keywords.
+- Many users aren't aware that Ctrl+S (STOP) can be used to search their shell history **forwards**,
+  because they only associate it with pausing text output from an old era.
+- This hidden feature adds a convenient way to navigate through past commands without remembering
+  specific keywords.
 
 **4. Disabling XOFF and Forward Search:**
 
-- You can disable XOFF flow control on your virtual terminal by running the command `stty -ixon`. This removes the Ctrl+S binding for both pausing output and history search.
-- However, note that `stty` is part of the POSIX standard and has been around since System III (1981), making it a fundamental Unix/Linux tool with many functionalities beyond just XOFF control.
+- You can disable XOFF flow control on your virtual terminal by running the command `stty -ixon`. This
+  removes the Ctrl+S binding for both pausing output and history search.
+- However, note that `stty` is part of the POSIX standard and has been around since System III (1981),
+  making it a fundamental Unix/Linux tool with many functionalities beyond just XOFF control.
 
 **5. Hashtags and Takeaways:**
 
 - The hashtags highlight the relevance of the topic to Unix, POSIX, Bash, and Zsh.
-- This passage shows how historical technology may leave unintentional yet useful features in modern systems, and how exploring those quirks can unlock hidden capabilities.
+- This passage shows how historical technology may leave unintentional yet useful features in modern
+  systems, and how exploring those quirks can unlock hidden capabilities.
 
 I hope this explanation clarifies the technical and historical context behind the unexpected connection between XOFF flow control and forward shell history search. Feel free to ask any further questions you may have!
 
@@ -808,10 +841,15 @@ I apologize for the confusion! When I mentioned "async terminals" in the previou
 
 Here's a breakdown:
 
-- **Asynchronous communication:** Data is sent in "bursts" without a constant clock signal. The receiver needs to buffer the data and reassemble it in the correct order. This was prevalent in early terminal connections over dial-up modems and serial ports.
-- **Analogue vs. digital:** Both analogue and digital technologies can be used for asynchronous communication. Early terminals could be:
-    - **Analogue:** Analogue terminals used electrical signals to represent data, similar to how a telephone transmits sound. These were commonly used with modems over phone lines.
-    - **Digital:** Digital terminals used binary data (0s and 1s) to represent information. These became more common as serial ports and dedicated data lines gained popularity.
+- **Asynchronous communication:** Data is sent in "bursts" without a constant clock signal. The
+  receiver needs to buffer the data and reassemble it in the correct order. This was prevalent in early
+  terminal connections over dial-up modems and serial ports.
+- **Analogue vs. digital:** Both analogue and digital technologies can be used for asynchronous
+  communication. Early terminals could be:
+    - **Analogue:** Analogue terminals used electrical signals to represent data, similar to how a
+      telephone transmits sound. These were commonly used with modems over phone lines.
+    - **Digital:** Digital terminals used binary data (0s and 1s) to represent information. These
+      became more common as serial ports and dedicated data lines gained popularity.
 
 Therefore, the async terminals I mentioned could have been either analogue or digital depending on the specific technology employed at that time. The focus in the explanation was on the asynchronous communication protocol and its unexpected legacy in modern shells, not the specific signal or electrical characteristics of the terminals themselves.
 
@@ -823,9 +861,16 @@ Analogue teletypes didn't transmit alternating currents (AC) directly. Instead, 
 
 Here's how it worked:
 
-1. **Data Representation:** Information, like characters or text, was first converted into electrical signals representing different data states. These signals could be different voltage levels, pulse lengths, or even the presence or absence of a current.
-2. **Current Modulation:** This encoded data then modulated the flow of DC current in the circuit. For example, a high voltage level might correspond to a strong current flow, while a low voltage level might represent a weak or even zero current flow. Different data patterns would create variations in the DC current's intensity, effectively carrying the information across the communication line.
-3. **Demodulation at the Receiver:** At the receiving end, the modulated DC current was demodulated to recover the original data patterns. This could be done using various techniques, depending on the specific encoding scheme used.
+1. **Data Representation:** Information, like characters or text, was first converted into electrical
+   signals representing different data states. These signals could be different voltage levels, pulse
+   lengths, or even the presence or absence of a current.
+2. **Current Modulation:** This encoded data then modulated the flow of DC current in the circuit. For
+   example, a high voltage level might correspond to a strong current flow, while a low voltage level
+   might represent a weak or even zero current flow. Different data patterns would create variations in
+   the DC current's intensity, effectively carrying the information across the communication line.
+3. **Demodulation at the Receiver:** At the receiving end, the modulated DC current was demodulated to
+   recover the original data patterns. This could be done using various techniques, depending on the
+   specific encoding scheme used.
 
 Therefore, although the underlying electrical transmission was based on a DC circuit, the information itself was carried through variations in the current's intensity, making it more akin to a **stream of modulated DC pulses** rather than pure AC.
 
@@ -865,15 +910,21 @@ The signal channel in your handheld Android device depends on what type of signa
 
 **Cellular network:**
 
-- When making calls, sending texts, or using mobile data, your Android device utilizes radio waves as the signal channel. These radio waves operate within specific frequency bands depending on the network technology (4G, 5G, etc.) and are transmitted/received through an antenna built into your device.
+- When making calls, sending texts, or using mobile data, your Android device utilizes radio waves as
+  the signal channel. These radio waves operate within specific frequency bands depending on the
+  network technology (4G, 5G, etc.) and are transmitted/received through an antenna built into your
+  device.
 
 **Wi-Fi:**
 
-- For connecting to wireless networks, your Android device uses radio waves in the 2.4 GHz and 5 GHz bands. It transmits and receives data through its internal Wi-Fi antenna to communicate with nearby routers or access points.
+- For connecting to wireless networks, your Android device uses radio waves in the 2.4 GHz and 5 GHz
+  bands. It transmits and receives data through its internal Wi-Fi antenna to communicate with nearby
+  routers or access points.
 
 **Bluetooth:**
 
-- Bluetooth also employs radio waves, operating in the 2.4 GHz band, to establish short-range wireless connections with other devices like headphones, speakers, or fitness trackers.
+- Bluetooth also employs radio waves, operating in the 2.4 GHz band, to establish short-range wireless
+  connections with other devices like headphones, speakers, or fitness trackers.
 
 **GPS:**
 
