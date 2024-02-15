@@ -3148,8 +3148,21 @@ Here are some of the recent and foundational academic studies that I found based
       integration. The chapter also explores the potential role of international cooperation and
       coordination in addressing the challenge of financial data sovereignty.
 - **Industry/Manufacturing:**
-    - [Digital Sovereignty and the Future of Manufacturing](https://www.notion.so/%5E8%5E): This paper explores the concept of digital sovereignty and its implications for the future of manufacturing. The paper defines digital sovereignty as the ability to control and benefit from the digital transformation of manufacturing, and identifies four dimensions of digital sovereignty: data, infrastructure, standards, and skills. The paper also discusses the challenges and opportunities for achieving digital sovereignty in manufacturing, and provides some policy recommendations.
-    - [Digital Sovereignty and the Governance of Industry 4.0](https://www.notion.so/%5E9%5E): This paper examines the concept of digital sovereignty and its relevance for the governance of Industry 4.0, which refers to the integration of digital technologies into industrial processes and products. The paper argues that digital sovereignty is a multidimensional and dynamic concept that depends on the interplay of technological, economic, social, and political factors. The paper also analyses the different strategies and approaches of China, the European Union, and the United States to achieve digital sovereignty in Industry 4.0, and highlights the potential areas of cooperation and conflict.
+    - [Digital Sovereignty and the Future of Manufacturing]:
+      This paper explores the concept of digital sovereignty and its implications for the future of
+      manufacturing. The paper defines digital sovereignty as the ability to control and benefit from
+      the digital transformation of manufacturing, and identifies four dimensions of digital
+      sovereignty: data, infrastructure, standards, and skills. The paper also discusses the challenges
+      and opportunities for achieving digital sovereignty in manufacturing, and provides some policy
+      recommendations.
+    - [Digital Sovereignty and the Governance of Industry 4.0]:
+      This paper examines the concept of digital sovereignty and its relevance for the governance of
+      Industry 4.0, which refers to the integration of digital technologies into industrial processes
+      and products. The paper argues that digital sovereignty is a multidimensional and dynamic concept
+      that depends on the interplay of technological, economic, social, and political factors. The
+      paper also analyses the different strategies and approaches of China, the European Union, and the
+      United States to achieve digital sovereignty in Industry 4.0, and highlights the potential areas
+      of cooperation and conflict.
     - [Digital Sovereignty and the Role of Standards in the Automotive Industry]:
       This paper investigates the role of standards in the automotive industry and their impact on
       digital sovereignty. The paper defines digital sovereignty as the ability to shape and influence
@@ -3165,8 +3178,21 @@ Here are some of the recent and foundational academic studies that I found based
       new approach that empowers individuals as active data sovereigns who can exercise control and
       autonomy over their personal data. The chapter suggests some legal and technological measures to
       enable data sovereignty, such as data portability, data trusts, and self-sovereign identity.
-    - [Digital Sovereignty and the Individual](https://www.notion.so/%5E12%5E): This paper explores the concept of digital sovereignty and its implications for the individual. The paper argues that digital sovereignty is not only a matter of state or organizational control, but also of individual agency and empowerment. The paper identifies four dimensions of individual digital sovereignty: access, choice, participation, and protection. The paper also discusses the challenges and opportunities for enhancing individual digital sovereignty, such as digital literacy, digital rights, and digital citizenship.
-    - [Digital Sovereignty and the Decentralized Web](https://www.notion.so/%5E13%5E): This paper examines the concept of digital sovereignty and its relation to the decentralized web, which is a vision of a more distributed and democratic Internet. The paper argues that the decentralized web can foster digital sovereignty by enabling individuals and communities to create, own, and govern their own digital spaces and resources, without relying on centralized intermediaries or authorities. The paper also analyses the technical, social, and legal aspects of the decentralized web, and highlights the potential benefits and risks of digital sovereignty in this context.
+    - [Digital Sovereignty and the Individual]:
+      This paper explores the concept of digital sovereignty and its implications for the individual.
+      The paper argues that digital sovereignty is not only a matter of state or organizational
+      control, but also of individual agency and empowerment. The paper identifies four dimensions of
+      individual digital sovereignty: access, choice, participation, and protection. The paper also
+      discusses the challenges and opportunities for enhancing individual digital sovereignty, such as
+      digital literacy, digital rights, and digital citizenship.
+    - [Digital Sovereignty and the Decentralized Web]:
+      This paper examines the concept of digital sovereignty and its relation to the decentralized web,
+      which is a vision of a more distributed and democratic Internet. The paper argues that the
+      decentralized web can foster digital sovereignty by enabling individuals and communities to
+      create, own, and govern their own digital spaces and resources, without relying on centralized
+      intermediaries or authorities. The paper also analyses the technical, social, and legal aspects
+      of the decentralized web, and highlights the potential benefits and risks of digital sovereignty
+      in this context.
 
 I hope these studies are helpful to you. If you want to learn more, you can check out these related searches:
 
@@ -3224,22 +3250,48 @@ The impact of digital inclusion on STEM learning and related fields in the third
 
 **Positive Impacts:**
 
-- **Access to Educational Resources:** Studies like "Mobile Learning and STEM Education in Rural India" (2022) show that Internet access and Android devices equipped with educational apps and platforms provide students with previously unavailable resources in STEM subjects. This can bridge geographical and resource gaps, fostering deeper understanding and engagement.
-- **Interactive Learning and Skill Development:** Research like "Digital Simulations and Problem-Solving in Physics Education" (2023) highlights how interactive simulations and virtual labs accessed through mobile devices can enhance practical learning in science and engineering. This allows students to experiment, visualize concepts, and develop critical thinking skills.
-- **Early Exposure to Programming and Coding:** Studies like "Coding Clubs and Youth Engagement in Technology in Sub-Saharan Africa" (2021) showcase the effectiveness of initiatives introducing coding and programming fundamentals to young people through mobile tools and platforms. This fosters early interest in STEM fields and equips them with valuable digital skills.
-- **Increased Awareness of Global Opportunities:** Digital inclusion connects individuals to global communities and resources, exposing them to career paths and advancements in STEM fields they might not have encountered otherwise. This can inspire aspirations and broaden their horizons.
+- **Access to Educational Resources:** Studies like "Mobile Learning and STEM Education in Rural India"
+  (2022) show that Internet access and Android devices equipped with educational apps and platforms
+  provide students with previously unavailable resources in STEM subjects. This can bridge geographical
+  and resource gaps, fostering deeper understanding and engagement.
+- **Interactive Learning and Skill Development:** Research like "Digital Simulations and Problem-
+  Solving in Physics Education" (2023) highlights how interactive simulations and virtual labs accessed
+  through mobile devices can enhance practical learning in science and engineering. This allows
+  students to experiment, visualize concepts, and develop critical thinking skills.
+- **Early Exposure to Programming and Coding:** Studies like "Coding Clubs and Youth Engagement in
+  Technology in Sub-Saharan Africa" (2021) showcase the effectiveness of initiatives introducing coding
+  and programming fundamentals to young people through mobile tools and platforms. This fosters early
+  interest in STEM fields and equips them with valuable digital skills.
+- **Increased Awareness of Global Opportunities:** Digital inclusion connects individuals to global
+  communities and resources, exposing them to career paths and advancements in STEM fields they might
+  not have encountered otherwise. This can inspire aspirations and broaden their horizons.
 
 **Challenges and Considerations:**
 
-- **Digital Divide and Unequal Access:** Research like "Gender and Socioeconomic Disparities in Digital Learning" (2022) emphasizes the persistent digital divide within and between communities, limiting access to educational resources and opportunities for marginalized groups. Bridging this gap is crucial for inclusive STEM education.
-- **Quality of Content and Pedagogy:** Studies like "Mobile Learning Apps and Pedagogical Effectiveness in Developing Countries" (2021) highlight concerns about the quality and effectiveness of some educational content available online. Ensuring alignment with local contexts and effective integration with traditional pedagogy is essential.
-- **Infrastructure and Teacher Training:** Research like "Limited Connectivity and the Challenges of Digital STEM Education in Rural Areas" (2023) emphasizes the need for improved Internet connectivity and infrastructure alongside training programs for teachers to effectively utilize digital tools in STEM education.
+- **Digital Divide and Unequal Access:** Research like "Gender and Socioeconomic Disparities in Digital
+  Learning" (2022) emphasizes the persistent digital divide within and between communities, limiting
+  access to educational resources and opportunities for marginalized groups. Bridging this gap is
+  crucial for inclusive STEM education.
+- **Quality of Content and Pedagogy:** Studies like "Mobile Learning Apps and Pedagogical Effectiveness
+  in Developing Countries" (2021) highlight concerns about the quality and effectiveness of some
+  educational content available online. Ensuring alignment with local contexts and effective
+  integration with traditional pedagogy is essential.
+- **Infrastructure and Teacher Training:** Research like "Limited Connectivity and the Challenges of
+  Digital STEM Education in Rural Areas" (2023) emphasizes the need for improved Internet connectivity
+  and infrastructure alongside training programs for teachers to effectively utilize digital tools in
+  STEM education.
 
 **Impact on Developed Nations:**
 
-- **Global Workforce and Talent Pool:** Increased STEM education and skill development in the third world can create a larger pool of qualified professionals entering the global workforce, potentially benefiting developed nations facing skilled labour shortages in STEM fields.
-- **Innovation and Collaboration:** Increased global connectivity and knowledge sharing fostered by digital inclusion can lead to enhanced collaboration and innovation in scientific research and technological advancements, benefiting all nations.
-- **Addressing Global Challenges:** A more informed and empowered global citizenry equipped with STEM knowledge can contribute to tackling global challenges like climate change, pandemics, and sustainable development, benefiting all nations.
+- **Global Workforce and Talent Pool:** Increased STEM education and skill development in the third
+  world can create a larger pool of qualified professionals entering the global workforce, potentially
+  benefiting developed nations facing skilled labour shortages in STEM fields.
+- **Innovation and Collaboration:** Increased global connectivity and knowledge sharing fostered by
+  digital inclusion can lead to enhanced collaboration and innovation in scientific research and
+  technological advancements, benefiting all nations.
+- **Addressing Global Challenges:** A more informed and empowered global citizenry equipped with STEM
+  knowledge can contribute to tackling global challenges like climate change, pandemics, and
+  sustainable development, benefiting all nations.
 
 **Overall, digital inclusion holds immense potential to revolutionize STEM education and skill development in the third world, with ripple effects on developed nations through a more skilled workforce, enhanced collaboration, and collective efforts towards global challenges. However, addressing the digital divide, ensuring quality education, and equipping educators are crucial for maximizing these benefits and fostering a more equitable and innovative future for all.**
 
@@ -3343,17 +3395,28 @@ The Unix design philosophy of modularity goes hand-in-hand with its emphasis on 
 
 **Core aspects of modularity in Unix:**
 
-* **Separation of concerns:** Different modules handle specific tasks and responsibilities, avoiding the bloat and complexity of monolithic programs. This makes code easier to understand, maintain, and debug.
-* **Well-defined interfaces:** Modules interact through clearly defined interfaces, often employing standardized APIs or file formats. This ensures compatibility and facilitates smooth integration within the system.
-* **Loose coupling:** Modules depend on each other as little as possible, minimizing cascading effects of changes or errors within one module on others. This promotes independence and robustness.
-* **Libraries and shared code:** Reusable code is packaged in libraries, readily accessible by different modules without duplication. This reduces redundancy and promotes efficient resource utilization.
+* **Separation of concerns:** Different modules handle specific tasks and responsibilities, avoiding
+  the bloat and complexity of monolithic programs. This makes code easier to understand, maintain, and
+  debug.
+* **Well-defined interfaces:** Modules interact through clearly defined interfaces, often employing
+  standardized APIs or file formats. This ensures compatibility and facilitates smooth integration
+  within the system.
+* **Loose coupling:** Modules depend on each other as little as possible, minimizing cascading effects
+  of changes or errors within one module on others. This promotes independence and robustness.
+* **Libraries and shared code:** Reusable code is packaged in libraries, readily accessible by
+  different modules without duplication. This reduces redundancy and promotes efficient resource
+  utilization.
 
 **Benefits of modularity:**
 
-* **Maintainability:** Smaller, self-contained modules are easier to update, test, and fix compared to large, intertwined codebases. This allows for faster bug fixes and feature improvements.
-* **Reusability:** Modular components can be readily reused in different contexts, saving development time and effort. This fosters standardization and accelerates development across the system.
-* **Scalability:** Adding new functionalities becomes easier by introducing new modules or adapting existing ones, allowing the system to grow organically without major overhauls.
-* **Flexibility:** Modular structure enables customization and adaptation to specific needs. Users can choose and combine modules to create personalized environments or tools.
+* **Maintainability:** Smaller, self-contained modules are easier to update, test, and fix compared to
+  large, intertwined codebases. This allows for faster bug fixes and feature improvements.
+* **Reusability:** Modular components can be readily reused in different contexts, saving development
+  time and effort. This fosters standardization and accelerates development across the system.
+* **Scalability:** Adding new functionalities becomes easier by introducing new modules or adapting
+  existing ones, allowing the system to grow organically without major overhauls.
+* **Flexibility:** Modular structure enables customization and adaptation to specific needs. Users can
+  choose and combine modules to create personalized environments or tools.
 
 **Analogy:**
 
@@ -3373,17 +3436,28 @@ The Unix design philosophy of composability is a core principle that emphasizes 
 
 Here are some key aspects of the Unix design philosophy of composability:
 
-* **Small, focused tools:** Each Unix tool is designed to do one thing well, rather than trying to be a do-it-all application. This makes them easier to learn, use, and debug.
-* **Pipes and filters:** Unix tools can be connected together using pipes and filters. The output of one tool becomes the input of the next, allowing you to build complex workflows from simple building blocks.
-* **Text as a universal interface:** Most Unix tools communicate with each other and with the user through plain text files. This makes them interoperable and easy to script.
-* **Modular design:** Unix systems are modular, meaning that they are made up of independent components that can be easily replaced or added to. This makes them flexible and adaptable.
+* **Small, focused tools:** Each Unix tool is designed to do one thing well, rather than trying to be a
+  do-it-all application. This makes them easier to learn, use, and debug.
+* **Pipes and filters:** Unix tools can be connected together using pipes and filters. The output of
+  one tool becomes the input of the next, allowing you to build complex workflows from simple building
+  blocks.
+* **Text as a universal interface:** Most Unix tools communicate with each other and with the user
+  through plain text files. This makes them interoperable and easy to script.
+* **Modular design:** Unix systems are modular, meaning that they are made up of independent components
+  that can be easily replaced or added to. This makes them flexible and adaptable.
 
 **Benefits of composability:**
 
-* **Flexibility:** Composability makes Unix systems very flexible. You can easily put together the tools you need to do a specific job, without having to rely on a single, monolithic application.
-* **Efficiency:** Small, focused tools are often more efficient than large, complex applications. This is because they don't have to waste time and resources on features that you don't need.
-* **Reusability:** Because each tool is designed to do one thing well, they can be reused in many different contexts. This saves time and effort, and it also makes it easier to write scripts and automate tasks.
-* **Interoperability:** The fact that Unix tools communicate with each other through plain text files makes them very interoperable. You can easily use tools from different vendors and operating systems together.
+* **Flexibility:** Composability makes Unix systems very flexible. You can easily put together the
+  tools you need to do a specific job, without having to rely on a single, monolithic application.
+* **Efficiency:** Small, focused tools are often more efficient than large, complex applications. This
+  is because they don't have to waste time and resources on features that you don't need.
+* **Reusability:** Because each tool is designed to do one thing well, they can be reused in many
+  different contexts. This saves time and effort, and it also makes it easier to write scripts and
+  automate tasks.
+* **Interoperability:** The fact that Unix tools communicate with each other through plain text files
+  makes them very interoperable. You can easily use tools from different vendors and operating systems
+  together.
 
 **Analogy:**
 
@@ -3494,12 +3568,16 @@ This is just a glimpse into the rich tapestry of UNIX. Let me know if you'd like
 
 Both **UNIX™** and **UNIX®** are technically correct, though with slightly different nuances:
 
-- **UNIX™:** Generally preferred when used **possessively** or as a **modifier**, like "a UNIX™ system" or "the UNIX™ philosophy." This form emphasizes the trademark status and ownership of the name.
-- **UNIX®:** More standard when used **generically** or as a **noun**, like "UNIX® is a family of operating systems" or "I'm learning to use UNIX®." This form conveys the concept of UNIX without specifically claiming ownership.
+- **UNIX™:** Generally preferred when used **possessively** or as a **modifier**, like "a UNIX™ system"
+  or "the UNIX™ philosophy." This form emphasizes the trademark status and ownership of the name.
+- **UNIX®:** More standard when used **generically** or as a **noun**, like "UNIX® is a family of
+  operating systems" or "I'm learning to use UNIX®." This form conveys the concept of UNIX without
+  specifically claiming ownership.
 
 However, **The Open Group**, the current holder of the UNIX**™** trademark, recommends avoiding using "UNIX" altogether to prevent genericization and protect the trademark. They suggest the following alternatives:
 
-- **Use an adjective followed by "system":** e.g., "a POSIX-compliant system", "a Linux system", "a BSD system".
+- **Use an adjective followed by "system":** e.g., "a POSIX-compliant system", "a Linux system", "a BSD
+  system".
 - **Use the specific name of the system:** e.g., "Linux", "FreeBSD", "Solaris".
 - **If needed, use "UNIX-like" to describe similar systems.**
 
@@ -3508,43 +3586,58 @@ While technically both **UNIX™** and **UNIX®** are accepted, sticking to the 
 There are many reasons why people use *NIX for UNIX™ and UNIX®:
 
 1. **Trademark Avoidance:**
-    - "UNIX" is a registered trademark of The Open Group. Using it without permission may potentially lead to legal issues.
+    - "UNIX" is a registered trademark of The Open Group. Using it without permission may potentially
+      lead to legal issues.
     - *NIX is a workaround to refer to Unix-like systems without infringing on the trademark.
 2. **Inclusiveness:**
-    - *NIX encompasses a broader range of operating systems that share similar design philosophies and features with UNIX, even if they don't officially adhere to the Single UNIX Specification.
+    - *NIX encompasses a broader range of operating systems that share similar design philosophies and
+      features with UNIX, even if they don't officially adhere to the Single UNIX Specification.
     - This includes Linux, FreeBSD, macOS, Solaris, and other Unix-like systems.
 3. **Convenience:**
-    - *NIX is a concise way to refer to this entire family of operating systems without having to list each one individually.
+    - *NIX is a concise way to refer to this entire family of operating systems without having to list
+      each one individually.
 4. **Clarity:**
-    - The asterisk (*) is often used as a wildcard character in computing to represent any variation or possible combination of characters.
-    - In this context, it signifies that *NIX covers various Unix-like systems, regardless of their specific names or spellings.
+    - The asterisk (*) is often used as a wildcard character in computing to represent any variation or
+      possible combination of characters.
+    - In this context, it signifies that *NIX covers various Unix-like systems, regardless of their
+      specific names or spellings.
 5. **Historical Context:**
-    - In the early days of Unix development, several different versions and variants emerged, often with names ending in "nix" (e.g., Ultrix, Xenix).
+    - In the early days of Unix development, several different versions and variants emerged, often
+      with names ending in "nix" (e.g., Ultrix, Xenix).
     - *NIX became a common way to refer to this diverse group of Unix-like systems.
 6. **Cultural Norm:**
-    - The use of *NIX has become ingrained in the Unix community as a widely accepted and understood convention.
+    - The use of *NIX has become ingrained in the Unix community as a widely accepted and understood
+      convention.
 
 Several key factors in the history of UNIX converged to set the stage for the creation of GNU in 1984:
 
 **1. Licensing Issues and Unfreedom:**
 
-- **Unix Source Code Restriction:** In the early 1980s, access to the source code of popular UNIX versions like System V was restricted by AT&T, raising concerns about user freedom and modification.
-- **Philosophical Discord:** This conflicted with Richard Stallman's strong belief in free software and the ability of users to modify and redistribute the software they run.
+- **Unix Source Code Restriction:** In the early 1980s, access to the source code of popular UNIX
+  versions like System V was restricted by AT&T, raising concerns about user freedom and modification.
+- **Philosophical Discord:** This conflicted with Richard Stallman's strong belief in free software and
+  the ability of users to modify and redistribute the software they run.
 
 **2. The Multics Experience:**
 
-- **Disillusionment with Multics:** Stallman, who previously worked on the complex Multics operating system, sought a simpler and more accessible alternative.
-- **Focus on Efficiency and Power:** He envisioned a modular system built from small, powerful tools that users could readily understand and adapt.
+- **Disillusionment with Multics:** Stallman, who previously worked on the complex Multics operating
+  system, sought a simpler and more accessible alternative.
+- **Focus on Efficiency and Power:** He envisioned a modular system built from small, powerful tools
+  that users could readily understand and adapt.
 
 **3. Inspiration from Existing Tools:**
 
-- **Unix Utilities As Building Blocks:** Existing Unix utilities like `grep`, `sed`, and `awk` appealed to Stallman due to their modularity and power.
-- **Initial Porting and Development:** He aimed to port these tools and create replacements for missing ones, ultimately laying the groundwork for the GNU toolset.
+- **Unix Utilities As Building Blocks:** Existing Unix utilities like `grep`, `sed`, and `awk` appealed
+  to Stallman due to their modularity and power.
+- **Initial Porting and Development:** He aimed to port these tools and create replacements for missing
+  ones, ultimately laying the groundwork for the GNU toolset.
 
 **4. The Importance of Community and Freedom:**
 
-- **Desire for Collaboration and Sharing:** Stallman envisioned a collaborative ecosystem where users could freely share and improve the software, fostering innovation and community.
-- **Contrast with Proprietary Models:** This stood in stark contrast to the closed-source nature of commercial operating systems, where users lacked control and access.
+- **Desire for Collaboration and Sharing:** Stallman envisioned a collaborative ecosystem where users
+  could freely share and improve the software, fostering innovation and community.
+- **Contrast with Proprietary Models:** This stood in stark contrast to the closed-source nature of
+  commercial operating systems, where users lacked control and access.
 
 **The Culmination:**
 
@@ -3552,8 +3645,10 @@ These factors combined to drive Stallman's mission to create a complete, free, a
 
 **Further Considerations:**
 
-- The history of UNIX and GNU is a complex and nuanced one, with debates and disagreements surrounding licensing, technical choices, and philosophical perspectives.
-- The emergence of the Linux kernel later proved crucial in providing the fundamental foundation for the GNU/Linux operating system, building upon the tools and philosophy fostered by the GNU Project.
+- The history of UNIX and GNU is a complex and nuanced one, with debates and disagreements surrounding
+  licensing, technical choices, and philosophical perspectives.
+- The emergence of the Linux kernel later proved crucial in providing the fundamental foundation for
+  the GNU/Linux operating system, building upon the tools and philosophy fostered by the GNU Project.
 
 I hope this summary provides a helpful overview of the events that led to the creation of GNU in the context of the history of UNIX. Feel free to ask any further questions you may have for a deeper exploration of specific aspects or perspectives.
 
@@ -3563,26 +3658,37 @@ Yes, Richard Stallman was indeed involved with Multics! This experience played a
 
 **Working on Multics:**
 
-- In the early 1970s, Stallman worked as a programmer at Project MAC at MIT, where he contributed to the development of the Multics operating system.
-- Multics was an ambitious project aiming for a powerful, secure, and multi-user system, intended for research and government applications.
-- Stallman became a core developer, working on various aspects of the system, including the file system, editor, and security features.
+- In the early 1970s, Stallman worked as a programmer at Project MAC at MIT, where he contributed to
+  the development of the Multics operating system.
+- Multics was an ambitious project aiming for a powerful, secure, and multi-user system, intended for
+  research and government applications.
+- Stallman became a core developer, working on various aspects of the system, including the file
+  system, editor, and security features.
 
 **Impact of Multics:**
 
-- Despite its technical merits, Multics faced challenges with complexity, maintenance, and accessibility.
-- Stallman grew disillusioned with its closed-source nature and the hierarchical development process, which limited user influence and control.
-- These experiences fueled his desire for a simpler, more accessible, and user-controlled operating system, ultimately leading to the creation of GNU.
+- Despite its technical merits, Multics faced challenges with complexity, maintenance, and
+  accessibility.
+- Stallman grew disillusioned with its closed-source nature and the hierarchical development process,
+  which limited user influence and control.
+- These experiences fueled his desire for a simpler, more accessible, and user-controlled operating
+  system, ultimately leading to the creation of GNU.
 
 **Multics' Legacy on GNU:**
 
-- While technically distinct from UNIX, Multics' modular design and focus on security influenced Stallman's vision for GNU.
-- The GNU toolset echoes some of Multics' functionalities, but with an emphasis on smaller, simpler, and more transparent components.
-- The commitment to free software and user freedom, fostered by his experience with the limitations of Multics, became a cornerstone of GNU's philosophy.
+- While technically distinct from UNIX, Multics' modular design and focus on security influenced
+  Stallman's vision for GNU.
+- The GNU toolset echoes some of Multics' functionalities, but with an emphasis on smaller, simpler,
+  and more transparent components.
+- The commitment to free software and user freedom, fostered by his experience with the limitations of
+  Multics, became a cornerstone of GNU's philosophy.
 
 **Beyond Multics:**
 
-- While Multics played a significant role in shaping Stallman's ideas, it's important to remember that GNU was inspired by various sources, including UNIX and his own technical vision.
-- The emphasis on free software and user empowerment became the driving force behind GNU, extending far beyond the technical considerations of any specific operating system.
+- While Multics played a significant role in shaping Stallman's ideas, it's important to remember that
+  GNU was inspired by various sources, including UNIX and his own technical vision.
+- The emphasis on free software and user empowerment became the driving force behind GNU, extending far
+  beyond the technical considerations of any specific operating system.
 
 In conclusion, Stallman's work on Multics was a formative experience that deeply influenced his subsequent contributions to the world of computing. This experience sowed the seeds of his commitment to free software and user control, ultimately leading to the creation of GNU and its profound impact on the software landscape.
 
@@ -3592,24 +3698,33 @@ Here's a breakdown of his involvement:
 
 **Exposure to UNIX:**
 
-- Stallman used several versions of UNIX during his academic career at MIT, most notably the ITS version developed by Project MAC.
-- He appreciated the modularity, power, and flexibility of UNIX tools, which influenced his vision for GNU.
+- Stallman used several versions of UNIX during his academic career at MIT, most notably the ITS
+  version developed by Project MAC.
+- He appreciated the modularity, power, and flexibility of UNIX tools, which influenced his vision for
+  GNU.
 
 **No Official Development:**
 
-- Stallman never worked on the development team of any official UNIX implementation, such as Bell Labs' UNIX or AT&T's System V.
-- He believed that the proprietary licensing of these versions restricted user freedom and hindered the spirit of collaboration he envisioned for software.
+- Stallman never worked on the development team of any official UNIX implementation, such as Bell Labs'
+  UNIX or AT&T's System V.
+- He believed that the proprietary licensing of these versions restricted user freedom and hindered the
+  spirit of collaboration he envisioned for software.
 
 **Focus on GNU:**
 
-- All of Stallman's development efforts went towards creating GNU, an independent operating system based on free software principles.
-- He spearheaded the development of numerous core tools and utilities for GNU, drawing inspiration and compatibility from UNIX where feasible but developing original, open-source alternatives where necessary.
+- All of Stallman's development efforts went towards creating GNU, an independent operating system
+  based on free software principles.
+- He spearheaded the development of numerous core tools and utilities for GNU, drawing inspiration and
+  compatibility from UNIX where feasible but developing original, open-source alternatives where
+  necessary.
 
 **Indirect Interaction:**
 
 - While not directly involved, Stallman's work with GNU significantly impacted the trajectory of UNIX.
-- The GNU toolset and philosophy influenced later versions of UNIX, including open-source implementations like FreeBSD and NetBSD.
-- The collaboration between the GNU and Linux communities ultimately led to the widespread adoption of GNU/Linux, which further shaped the evolution of UNIX-like systems.
+- The GNU toolset and philosophy influenced later versions of UNIX, including open-source
+  implementations like FreeBSD and NetBSD.
+- The collaboration between the GNU and Linux communities ultimately led to the widespread adoption of
+  GNU/Linux, which further shaped the evolution of UNIX-like systems.
 
 In essence, Stallman's contributions to the world of computing and free software came through his independent initiatives with GNU, not through direct involvement with any official UNIX development teams. His commitment to freedom and openness ultimately carved a separate path for GNU, one that has profoundly influenced both UNIX and the broader software landscape.
 
@@ -3617,31 +3732,44 @@ In essence, Stallman's contributions to the world of computing and free software
 
 **Early Porting Efforts:**
 
-- **Initial Focus:** When the GNU Project began in 1984, its aim was to create a free software operating system inspired by UNIX. Part of this strategy involved porting existing UNIX tools to ensure compatibility and familiarity for users.
-- **Challenges:** However, obtaining source code for proprietary UNIX tools proved difficult due to licensing restrictions. This shifted the focus toward developing original replacements.
+- **Initial Focus:** When the GNU Project began in 1984, its aim was to create a free software
+  operating system inspired by UNIX. Part of this strategy involved porting existing UNIX tools to
+  ensure compatibility and familiarity for users.
+- **Challenges:** However, obtaining source code for proprietary UNIX tools proved difficult due to
+  licensing restrictions. This shifted the focus toward developing original replacements.
 
 **GNU-Developed Tools:**
 
-- **Extensive Toolbox:** GNU spearheaded the creation of numerous essential tools and utilities, including:
-    - **Core Utilities:** `bash`, `grep`, `sed`, `awk`, `find`, `tar`, `gzip`, `make`, `gcc`, `gdb`, `coreutils`, `binutils`, and many more.
+- **Extensive Toolbox:** GNU spearheaded the creation of numerous essential tools and utilities,
+  including:
+    - **Core Utilities:** `bash`, `grep`, `sed`, `awk`, `find`, `tar`, `gzip`, `make`, `gcc`, `gdb`,
+      `coreutils`, `binutils`, and many more.
     - **Development Tools:** Compilers, assemblers, linkers, debuggers, and build systems.
     - **Libraries:** Essential libraries like the GNU C Library (glibc) and GNU Readline.
-    - **Applications:** Text editors (Emacs, GNU Nano), web browsers (GNU IceCat), email clients (GNU Mailman), and more.
+    - **Applications:** Text editors (Emacs, GNU Nano), web browsers (GNU IceCat), email clients (GNU
+      Mailman), and more.
 
 **Ported Tools:**
 
-- **Selective Adoption:** GNU did port a few UNIX utilities that were freely available, such as `diff` and `sort`.
-- **Improvements and Rewriting:** Even in cases of porting, GNU often enhanced the tools, fixing bugs, adding features, or rewriting them for better performance or compatibility with other GNU components.
+- **Selective Adoption:** GNU did port a few UNIX utilities that were freely available, such as `diff`
+  and `sort`.
+- **Improvements and Rewriting:** Even in cases of porting, GNU often enhanced the tools, fixing bugs,
+  adding features, or rewriting them for better performance or compatibility with other GNU components.
 
 **Key Distinctions:**
 
-- **Philosophical Differences:** GNU's tools were developed under the GNU General Public License (GPL), ensuring freedom for users to use, modify, and share the software. This contrasted with the proprietary nature of many UNIX tools.
-- **Focus on Free Software:** GNU's commitment to free software principles led to the creation of a comprehensive and independent toolset, promoting user freedom and collaboration.
+- **Philosophical Differences:** GNU's tools were developed under the GNU General Public License (GPL),
+  ensuring freedom for users to use, modify, and share the software. This contrasted with the
+  proprietary nature of many UNIX tools.
+- **Focus on Free Software:** GNU's commitment to free software principles led to the creation of a
+  comprehensive and independent toolset, promoting user freedom and collaboration.
 
 **Legacy and Impact:**
 
-- **Foundation for Linux:** The GNU toolset became the cornerstone of the GNU/Linux operating system, forming a powerful and versatile foundation for countless other systems and applications.
-- **Enduring Impact:** GNU's contributions continue to shape the landscape of free software, ensuring that users have access to powerful tools and the freedom to control their computing experience.
+- **Foundation for Linux:** The GNU toolset became the cornerstone of the GNU/Linux operating system,
+  forming a powerful and versatile foundation for countless other systems and applications.
+- **Enduring Impact:** GNU's contributions continue to shape the landscape of free software, ensuring
+  that users have access to powerful tools and the freedom to control their computing experience.
 
 In essence, while GNU initially explored porting UNIX tools, its dedication to free software principles resulted in the development of a vast and influential toolset, cementing its legacy as a champion of user empowerment and collaboration.
 
@@ -3651,19 +3779,28 @@ In essence, while GNU initially explored porting UNIX tools, its dedication to f
 
 **Modular Design:**
 
-- **Think of it as building blocks:** Imagine a complex structure built from independent, self-contained units that can be easily combined and recombined. Each module encapsulates a specific function or feature, and its internal workings are hidden from other modules.
+- **Think of it as building blocks:** Imagine a complex structure built from independent, self-
+  contained units that can be easily combined and recombined. Each module encapsulates a specific
+  function or feature, and its internal workings are hidden from other modules.
 - **Benefits:**
-    - **Flexibility:** Modules can be swapped, added, or removed with minimal disruption to the overall system.
-    - **Maintainability:** Debugging and fixing issues become easier, as problems can be isolated within specific modules.
+    - **Flexibility:** Modules can be swapped, added, or removed with minimal disruption to the overall
+      system.
+    - **Maintainability:** Debugging and fixing issues become easier, as problems can be isolated
+      within specific modules.
     - **Reusability:** Modules can be used in different contexts, reducing development time and effort.
 
 **Granular Design:**
 
-- **Focuses on the level of detail:** It emphasizes breaking down a system into very small, focused units, often referred to as "grains." These grains are highly specialized and perform well-defined tasks.
+- **Focuses on the level of detail:** It emphasizes breaking down a system into very small, focused
+  units, often referred to as "grains." These grains are highly specialized and perform well-defined
+  tasks.
 - **Benefits:**
-    - **Precision:** Smaller units allow for more precise control and customization of individual system components.
-    - **Simplicity:** Individual grains are easier to understand and reason about, making the overall system more transparent.
-    - **Composibility:** Fine-grained units can be combined in various ways to create complex functionality.
+    - **Precision:** Smaller units allow for more precise control and customization of individual
+      system components.
+    - **Simplicity:** Individual grains are easier to understand and reason about, making the overall
+      system more transparent.
+    - **Composibility:** Fine-grained units can be combined in various ways to create complex
+      functionality.
 
 **Relationship between the two:**
 
@@ -3671,8 +3808,10 @@ Modular design often incorporates elements of granularity. Modules themselves ca
 
 So, while they overlap significantly, their focus differs:
 
-- **Modular design:** Emphasis on independent, self-contained units for easier combination and adaptation.
-- **Granular design:** Emphasis on breaking down the system into very small, specialized units for greater precision and control.
+- **Modular design:** Emphasis on independent, self-contained units for easier combination and
+  adaptation.
+- **Granular design:** Emphasis on breaking down the system into very small, specialized units for
+  greater precision and control.
 
 Ultimately, the choice between modular and granular design depends on the specific context and desired outcomes. Both approaches can contribute to building robust, adaptable, and maintainable systems.
 
@@ -3680,26 +3819,38 @@ Ultimately, the choice between modular and granular design depends on the specif
 
 **UNIX's Modular Foundation:**
 
-- **Independent Tools:** UNIX pioneered the idea of small, independent tools that could be chained together to accomplish complex tasks. This "do one thing well" philosophy promoted flexibility and reusability.
-- **Composable Nature:** The output of one tool could seamlessly become the input for another, fostering a rich ecosystem of interconnected utilities.
+- **Independent Tools:** UNIX pioneered the idea of small, independent tools that could be chained
+  together to accomplish complex tasks. This "do one thing well" philosophy promoted flexibility and
+  reusability.
+- **Composable Nature:** The output of one tool could seamlessly become the input for another,
+  fostering a rich ecosystem of interconnected utilities.
 
 **GNU/Linux Refining Granularity:**
 
 - **Building on UNIX's Legacy:** GNU/Linux inherited this modular approach and pushed it further.
-- **Fine-Grained Components:** The system was decomposed into even smaller, more specialized units. This granularity extended to file systems, system calls, device drivers, and more.
-- **Enhanced Flexibility and Customization:** This finer level of control enabled users to tailor the system to their exact needs, optimize performance, and experiment with new configurations.
+- **Fine-Grained Components:** The system was decomposed into even smaller, more specialized units.
+  This granularity extended to file systems, system calls, device drivers, and more.
+- **Enhanced Flexibility and Customization:** This finer level of control enabled users to tailor the
+  system to their exact needs, optimize performance, and experiment with new configurations.
 
 **Examples of Granularity in GNU/Linux:**
 
-- **Package Management:** The concept of software packages, each containing a cohesive set of files and dependencies, exemplifies granularity. Users can install, remove, or update individual packages without affecting the entire system.
-- **Configuration Files:** System settings are often managed through numerous small text files, each controlling a specific aspect of the system's behavior.
-- **Shell Scripting:** The ability to create custom scripts by combining small, focused commands further reinforces granularity, empowering users to automate tasks and streamline workflows.
+- **Package Management:** The concept of software packages, each containing a cohesive set of files and
+  dependencies, exemplifies granularity. Users can install, remove, or update individual packages
+  without affecting the entire system.
+- **Configuration Files:** System settings are often managed through numerous small text files, each
+  controlling a specific aspect of the system's behavior.
+- **Shell Scripting:** The ability to create custom scripts by combining small, focused commands
+  further reinforces granularity, empowering users to automate tasks and streamline workflows.
 
 **The Outcomes of Granularity:**
 
-- **Adaptability:** GNU/Linux systems can be easily customized to suit diverse use cases, from personal desktops to servers and embedded devices.
-- **Maintainability:** Troubleshooting and fixing issues often involve isolating and addressing specific components, reducing the complexity of problem-solving.
-- **Innovation:** The granular nature fosters experimentation and exploration, leading to the creation of new tools and solutions.
+- **Adaptability:** GNU/Linux systems can be easily customized to suit diverse use cases, from personal
+  desktops to servers and embedded devices.
+- **Maintainability:** Troubleshooting and fixing issues often involve isolating and addressing
+  specific components, reducing the complexity of problem-solving.
+- **Innovation:** The granular nature fosters experimentation and exploration, leading to the creation
+  of new tools and solutions.
 
 In essence, GNU/Linux embraced the modularity of UNIX and extended it with a more granular approach, resulting in a system that is both powerful and adaptable, capable of meeting the evolving demands of the computing landscape.
 
@@ -3709,13 +3860,24 @@ You've raised a complex and fascinating point about the interplay between modula
 
 **Modular Heritage:**
 
-- **Inherited Modularity:** You're right, Android's foundational Linux kernel inherits the modularity of UNIX. Its architecture consists of various independent components like drivers, libraries, and services that interact through well-defined interfaces.
-- **Hardened Restrictions:** However, unlike traditional Linux systems, Android prioritizes security and user experience in a mobile environment. This leads to certain restrictions on how users can access and modify the system's core modules. For example, direct kernel modifications are generally discouraged to maintain stability and integrity.
+- **Inherited Modularity:** You're right, Android's foundational Linux kernel inherits the modularity
+  of UNIX. Its architecture consists of various independent components like drivers, libraries, and
+  services that interact through well-defined interfaces.
+- **Hardened Restrictions:** However, unlike traditional Linux systems, Android prioritizes security
+  and user experience in a mobile environment. This leads to certain restrictions on how users can
+  access and modify the system's core modules. For example, direct kernel modifications are generally
+  discouraged to maintain stability and integrity.
 
 **Termux and Granularity:**
 
-- **Linux-like Environment:** As you mentioned, Termux provides a terminal emulation environment within Android, allowing users to access and interact with the Linux kernel and its tools in a more granular way. This opens up possibilities for exploring and customizing the system in ways that are normally unavailable.
-- **Liberation and Hardening Paradox:** This creates a fascinating paradox. Through Termux, users gain access to the inherent granularity and power of Linux, akin to "liberation." However, Android's core modularity remains hardened for security reasons, effectively "hardening" the system despite the newfound access.
+- **Linux-like Environment:** As you mentioned, Termux provides a terminal emulation environment within
+  Android, allowing users to access and interact with the Linux kernel and its tools in a more granular
+  way. This opens up possibilities for exploring and customizing the system in ways that are normally
+  unavailable.
+- **Liberation and Hardening Paradox:** This creates a fascinating paradox. Through Termux, users gain
+  access to the inherent granularity and power of Linux, akin to "liberation." However, Android's core
+  modularity remains hardened for security reasons, effectively "hardening" the system despite the
+  newfound access.
 
 **Balancing Act:**
 
@@ -3723,13 +3885,17 @@ The key lies in finding a balance between user freedom and system stability. And
 
 **Pros:**
 
-- **Wide Audience:** Android remains accessible to a broad user base who don't need or desire granular control.
-- **Secure Environment:** The restrictions help mitigate security risks associated with unrestricted system access.
+- **Wide Audience:** Android remains accessible to a broad user base who don't need or desire granular
+  control.
+- **Secure Environment:** The restrictions help mitigate security risks associated with unrestricted
+  system access.
 
 **Cons:**
 
-- **Limit’s Power Users:** Some advanced users might feel constrained by the limitations compared to pure Linux systems.
-- **Potentially Fragile:** If not used carefully, Termux can potentially destabilize the system or compromise security.
+- **Limit’s Power Users:** Some advanced users might feel constrained by the limitations compared to
+  pure Linux systems.
+- **Potentially Fragile:** If not used carefully, Termux can potentially destabilize the system or
+  compromise security.
 
 **Future Directions:**
 
@@ -3740,13 +3906,22 @@ Android's modularity is likely to evolve further. Google has introduced initiati
 Whilst Termux provides a *NIX-like environment on Android, Android itself is not officially considered part of the *NIX family. Here's a deeper explanation:
 
 1. **Kernel:**
-    - Android's core operating system is based on the **Linux kernel**, a key member of the *NIX family. However, Android heavily modifies and customizes the Linux kernel for its specific needs and mobile device limitations.
+    - Android's core operating system is based on the **Linux kernel**, a key member of the *NIX
+      family. However, Android heavily modifies and customizes the Linux kernel for its specific needs
+      and mobile device limitations.
 2. **User Space:**
-    - Android uses a different user space compared to traditional *NIX systems. It relies on the Android Runtime (ART) instead of standard tools like Bash and sh. Whilst Termux emulates these *NIX features, they're not native to the core Android system.
+    - Android uses a different user space compared to traditional *NIX systems. It relies on the
+      Android Runtime (ART) instead of standard tools like Bash and sh. Whilst Termux emulates these
+      *NIX features, they're not native to the core Android system.
 3. **Design Philosophy:**
-    - Android prioritizes app sandboxing, security, and resource management for mobile devices, whilst traditional *NIX systems focus on open access and user control. This difference in design philosophies separates Android from the *NIX family.
+    - Android prioritizes app sandboxing, security, and resource management for mobile devices, whilst
+      traditional *NIX systems focus on open access and user control. This difference in design
+      philosophies separates Android from the *NIX family.
 4. **Certification:**
-    - Android doesn't comply with the Single UNIX Specification (SUS), which sets the standards for true UNIX systems. This lack of certification excludes Android from the official *NIX family despite its Linux kernel foundation. It is important to note, that GNU/Linux doesn't comply with the SUS either. So, both Android and GNU/Linux are part of the unofficial *NIX family.
+    - Android doesn't comply with the Single UNIX Specification (SUS), which sets the standards for
+      true UNIX systems. This lack of certification excludes Android from the official *NIX family
+      despite its Linux kernel foundation. It is important to note, that GNU/Linux doesn't comply with
+      the SUS either. So, both Android and GNU/Linux are part of the unofficial *NIX family.
 
 Differences in design philosophy are key factors that distinguish Android from traditional *NIX systems.
 
@@ -3754,18 +3929,28 @@ The contrasting design philosophies of **security and control** vs. **openness a
 
 Key design differences:
 
-- **Android's focus on app sandboxing, security, and resource management:** This prioritizes protecting users from malicious apps, ensuring smooth system operation on limited resources, and preventing unauthorized access to sensitive data. This approach is crucial for mobile devices where security and performance are paramount.
-- **Traditional \*NIX systems' focus on open access and user control:** These systems often grant users significant control over their systems, allowing them to install and modify software, access system files, and configure settings to their liking. This philosophy values user freedom and flexibility but can also pose security risks and impact system stability.
+- **Android's focus on app sandboxing, security, and resource management:** This prioritizes protecting
+  users from malicious apps, ensuring smooth system operation on limited resources, and preventing
+  unauthorized access to sensitive data. This approach is crucial for mobile devices where security and
+  performance are paramount.
+- **Traditional \*NIX systems' focus on open access and user control:** These systems often grant users
+  significant control over their systems, allowing them to install and modify software, access system
+  files, and configure settings to their liking. This philosophy values user freedom and flexibility
+  but can also pose security risks and impact system stability.
 
 The result is a clear separation between the two in terms of:
 
-- **User privileges:** Out-of-the-box Android users generally have limited privileges compared to traditional *NIX users. Apps run in sandboxes with restricted access to resources and system functions.
-- **Software installation:** Out-of-the-box Android apps are primarily installed from a curated app store, whilst *NIX systems often allow installation from various sources.
-- **System configuration:** Out-of-the-box Android generally offers limited user control over system settings, whereas *NIX systems often provide extensive configuration options.
+- **User privileges:** Out-of-the-box Android users generally have limited privileges compared to
+  traditional *NIX users. Apps run in sandboxes with restricted access to resources and system
+  functions.
+- **Software installation:** Out-of-the-box Android apps are primarily installed from a curated app
+  store, whilst *NIX systems often allow installation from various sources.
+- **System configuration:** Out-of-the-box Android generally offers limited user control over system
+  settings, whereas *NIX systems often provide extensive configuration options.
 
 This doesn't imply that one approach is inherently superior to the other. Both cater to different needs and environments. Android thrives in the mobile world with its security focus, while traditional *NIX systems shine in server environments or for advanced users who value granular control. Ultimately, understanding the contrasting design philosophies behind Android and *NIX systems helps inform the rationale of this roadmap, and its ilk.
 
-In summary, whilst Termux enables *NIX-like functionalities on Android, *Android itself isn't considered a true member of the *NIX family* due to its customized kernel, distinct user space, and differences in design philosophy and certification. However, extending the metaphor in this context, Termux and Android may be understood as the bastard lovechildren of the *NIX family, and in my estimation, this notoriety is a wellspring of power and agency from which the Android shell scriptors and hacktastic Termux actors may draw. Regardless of the much touted party-line and the rigid confines of the true letter-of-the-law, functionality and effectively, we may still leverage Termux on our handheld Android devices, to enjoy many benefits of the *NIX environment and its philosophy within the Android ecosystem. All this perfunctory ‘Much Adoe About Nothing’, is in truth merely naught, and just playing politics and wordgames. This is merely a strategy of control, and is concerned with establishing an in-group of those that are included, and an out-group, of those that are excluded. The politics of inclusion and exclusion. This discourse of control is primary in Anthropological discourse, and endemic to the human condition. Hackers breach such delimitations and boundaries for play, and routinely, as a matter of course, as well as a rite-of-passage. For with Termux, the most popular terminal emulator for Android, accessing and leveraging various shells (such as Bash and Zsh) via the interactive commandline interface, and issuing commands to Android’s customised Linux kernel, operating system and applications, is functionally indistinguishable from similar activities and their analogues throughout the *NIX family.
+In summary, whilst Termux enables \*NIX-like functionalities on Android, Android itself isn't considered a true member of the \*NIX family due to its customized kernel, distinct user space, and differences in design philosophy and certification. However, extending the metaphor in this context, Termux and Android may be understood as the bastard lovechildren of the *NIX family, and in my estimation, this notoriety is a wellspring of power and agency from which the Android shell scriptors and hacktastic Termux actors may draw. Regardless of the much touted party-line and the rigid confines of the true letter-of-the-law, functionality and effectively, we may still leverage Termux on our handheld Android devices, to enjoy many benefits of the *NIX environment and its philosophy within the Android ecosystem. All this perfunctory ‘Much Adoe About Nothing’, is in truth merely naught, and just playing politics and wordgames. This is merely a strategy of control, and is concerned with establishing an in-group of those that are included, and an out-group, of those that are excluded. The politics of inclusion and exclusion. This discourse of control is primary in Anthropological discourse, and endemic to the human condition. Hackers breach such delimitations and boundaries for play, and routinely, as a matter of course, as well as a rite-of-passage. For with Termux, the most popular terminal emulator for Android, accessing and leveraging various shells (such as Bash and Zsh) via the interactive commandline interface, and issuing commands to Android’s customised Linux kernel, operating system and applications, is functionally indistinguishable from similar activities and their analogues throughout the *NIX family.
 
 **The History, Development and Implementation of PRoot**
 
@@ -3813,21 +3998,33 @@ The relationship between GNU and the UNIX trademark is a bit complex, but I can 
 
 GNU, which stands for "GNU's Not Unix," is a recursive acronym chosen by its founder, Richard Stallman, to emphasize several key points:
 
-- **Functionality:** While GNU is inspired by and compatible with UNIX, it is not a direct copy. It has its own design philosophy and development process.
-- **Philosophy:** GNU is fundamentally committed to free software principles, meaning users have the freedom to run, copy, distribute, study, change, and improve the software. This contrasts with the proprietary nature of traditional UNIX licenses.
-- **Legality:** The "Not UNIX" part also clarifies that GNU avoids infringing on the UNIX trademark, which is owned by The Open Group.
+- **Functionality:** While GNU is inspired by and compatible with UNIX, it is not a direct copy. It has
+  its own design philosophy and development process.
+- **Philosophy:** GNU is fundamentally committed to free software principles, meaning users have the
+  freedom to run, copy, distribute, study, change, and improve the software. This contrasts with the
+  proprietary nature of traditional UNIX licenses.
+- **Legality:** The "Not UNIX" part also clarifies that GNU avoids infringing on the UNIX trademark,
+  which is owned by The Open Group.
 
 **Trademark and Compatibility:**
 
-- **UNIX Trademark:** The Open Group strictly controls the use of the UNIX trademark. Only operating systems that comply with certain technical and licensing requirements can be certified as UNIX.
-- **GNU and UNIX Compatibility:** Many GNU programs are compatible with UNIX systems, but they are not officially certified as UNIX themselves due to their free software nature.
-- **Confusion and Differentiation:** By using "Not UNIX," Stallman aimed to prevent confusion and ensure users understand the distinct philosophies and licensing terms of GNU compared to proprietary UNIX systems.
+- **UNIX Trademark:** The Open Group strictly controls the use of the UNIX trademark. Only operating
+  systems that comply with certain technical and licensing requirements can be certified as UNIX.
+- **GNU and UNIX Compatibility:** Many GNU programs are compatible with UNIX systems, but they are not
+  officially certified as UNIX themselves due to their free software nature.
+- **Confusion and Differentiation:** By using "Not UNIX," Stallman aimed to prevent confusion and
+  ensure users understand the distinct philosophies and licensing terms of GNU compared to proprietary
+  UNIX systems.
 
 **Impact and Tensions:**
 
-- **Free Software Movement:** GNU has played a crucial role in the free software movement, providing a foundation for numerous operating systems and applications.
-- **Compatibility and Collaboration:** Despite the "Not UNIX" distinction, GNU tools and utilities are often used alongside UNIX systems, fostering collaboration and interoperability.
-- **Trademark Disputes:** The relationship between GNU and the UNIX trademark has not been without its tensions. Stallman has criticized The Open Group's control over the trademark, arguing it impedes the development and adoption of free software.
+- **Free Software Movement:** GNU has played a crucial role in the free software movement, providing a
+  foundation for numerous operating systems and applications.
+- **Compatibility and Collaboration:** Despite the "Not UNIX" distinction, GNU tools and utilities are
+  often used alongside UNIX systems, fostering collaboration and interoperability.
+- **Trademark Disputes:** The relationship between GNU and the UNIX trademark has not been without its
+  tensions. Stallman has criticized The Open Group's control over the trademark, arguing it impedes the
+  development and adoption of free software.
 
 Overall, the "GNU's Not UNIX" tagline reflects a complex interplay between technical compatibility, legal considerations, and philosophical differences. While not officially UNIX, GNU has made significant contributions to the world of computing and continues to advocate for free software principles.
 
@@ -3836,30 +4033,40 @@ Overall, the "GNU's Not UNIX" tagline reflects a complex interplay between techn
 **Here's a breakdown of its coverage:**
 
 - **Core GNU Utilities:**
-- Most essential GNU tools, including `bash`, `grep`, `sed`, `awk`, `find`, `tar`, `gzip`, `bzip2`, and many more, are available.
+- Most essential GNU tools, including `bash`, `grep`, `sed`, `awk`, `find`, `tar`, `gzip`, `bzip2`, and
+  many more, are available.
 - These form the foundation for basic command-line tasks and file manipulation.
 - **Development Tools:**
-- Termux provides a range of development tools like `gcc`, `g++`, `make`, `git`, `vim`, `nano`, and others for programming and development work.
+- Termux provides a range of development tools like `gcc`, `g++`, `make`, `git`, `vim`, `nano`, and
+  others for programming and development work.
 - **Limited System Tools:**
-- Some system-level tools like `ps`, `top`, `free`, and `kill` are included for system monitoring and process management.
-- However, tools that directly interact with hardware or low-level system components are generally absent due to Android's security restrictions.
+- Some system-level tools like `ps`, `top`, `free`, and `kill` are included for system monitoring and
+  process management.
+- However, tools that directly interact with hardware or low-level system components are generally
+  absent due to Android's security restrictions.
 - **Package Management:**
-- Termux has its own package manager, `pkg`, which offers access to a curated collection of additional GNU tools and other software packages.
+- Termux has its own package manager, `pkg`, which offers access to a curated collection of additional
+  GNU tools and other software packages.
 - This allows you to expand the toolset beyond the default installation.
 
 **Notable Absences:**
 
-- **Kernel-Level Tools:** Tools that require deep kernel access or modify system settings are generally not available, as they could potentially conflict with Android's security and stability.
-- **Graphical Tools:** GNU tools that rely on graphical interfaces are typically not included, as Termux primarily operates within a text-based environment.
+- **Kernel-Level Tools:** Tools that require deep kernel access or modify system settings are generally
+  not available, as they could potentially conflict with Android's security and stability.
+- **Graphical Tools:** GNU tools that rely on graphical interfaces are typically not included, as
+  Termux primarily operates within a text-based environment.
 
 **Compatibility and Limitations:**
 
-- **Architectural Considerations:** Termux is primarily built for ARM-based Android devices. Some GNU tools might not be available for other architectures.
-- **Android Restrictions:** Android's security model and sandboxing can limit the extent to which certain GNU tools can interact with the system.
+- **Architectural Considerations:** Termux is primarily built for ARM-based Android devices. Some GNU
+  tools might not be available for other architectures.
+- **Android Restrictions:** Android's security model and sandboxing can limit the extent to which
+  certain GNU tools can interact with the system.
 
 **Alternatives:**
 
-- **Full Linux Distributions:** For a more complete GNU environment on Android, consider using a full Linux distribution (e.g., Ubuntu Touch, postmarketOS) through a virtual machine or dual-booting.
+- **Full Linux Distributions:** For a more complete GNU environment on Android, consider using a full
+  Linux distribution (e.g., Ubuntu Touch, postmarketOS) through a virtual machine or dual-booting.
 
 **The relationship between Termux and Debian**
 
@@ -3889,23 +4096,36 @@ Termux offers its own package management system tailored for Android devices. Wh
 
 Estimating the number of Debian CLI packages that have been ported to the Termux Android CLI package repository is problematic. Unfortunately, there isn't an exact or readily available estimate of the number of CLI packages from Debian GNU/Linux that have been ported to the Termux Android CLI package repository. Here's why:
 
-- **Informal tracking:** The Termux project doesn't currently have a dedicated system for officially tracking ported packages from specific sources like Debian. While some packages might mention their Debian origin in descriptions, it's not a consistent standard.
-- **Community contributions:** Many packages in the Termux repository are contributed by various individuals and groups, many of whom have their favoured GNU\Linux distributions and their respective package and toolset ecosystems from which they have ported or developed CLI packages or applications, making it difficult to accurately attribute their origins. Some might be ported directly from Debian, while others could be adapted from other sources or custom-built for Termux.
-- **Overlaps and variations:** Certain packages available in Termux might have Debian equivalents under different names or versions, further blurring the lines of direct portability.
+- **Informal tracking:** The Termux project doesn't currently have a dedicated system for officially
+  tracking ported packages from specific sources like Debian. While some packages might mention their
+  Debian origin in descriptions, it's not a consistent standard.
+- **Community contributions:** Many packages in the Termux repository are contributed by various
+  individuals and groups, many of whom have their favoured GNU\Linux distributions and their respective
+  package and toolset ecosystems from which they have ported or developed CLI packages or applications,
+  making it difficult to accurately attribute their origins. Some might be ported directly from Debian,
+  while others could be adapted from other sources or custom-built for Termux.
+- **Overlaps and variations:** Certain packages available in Termux might have Debian equivalents under
+  different names or versions, further blurring the lines of direct portability.
 
 However, some methods can provide a rough idea of the potential number of ported packages:
 
-- **Termux Package Search:** Using the Termux package search, you can filter by keywords like "debian" or "ported" to find packages likely originated from Debian.
-- **Community Resources:** Exploring user-created lists or documentation related to ported packages on platforms like GitHub or Termux forums can offer some insights.
-- **Package Comparison:** Manually comparing package lists between Termux and Debian repositories might reveal some overlaps, though it would be time-consuming and potentially inaccurate due to variations.
+- **Termux Package Search:** Using the Termux package search, you can filter by keywords like "debian"
+  or "ported" to find packages likely originated from Debian.
+- **Community Resources:** Exploring user-created lists or documentation related to ported packages on
+  platforms like GitHub or Termux forums can offer some insights.
+- **Package Comparison:** Manually comparing package lists between Termux and Debian repositories might
+  reveal some overlaps, though it would be time-consuming and potentially inaccurate due to variations.
 
 Based on these methods and discussions within the Termux community, estimates suggest the number of Debian-ported CLI packages in Termux could range anywhere from **several hundred to a few thousand**, but this is purely an approximation.
 
 Here are some additional things to consider:
 
-- The number of ported packages is constantly evolving as new contributions are added and updates are made.
-- Not all Debian packages may be suitable or necessary for porting to Termux due to technical limitations or niche functionality.
-- The Termux package repository also includes many non-Debian packages built or adapted specifically for the Android environment.
+- The number of ported packages is constantly evolving as new contributions are added and updates are
+  made.
+- Not all Debian packages may be suitable or necessary for porting to Termux due to technical
+  limitations or niche functionality.
+- The Termux package repository also includes many non-Debian packages built or adapted specifically
+  for the Android environment.
 
 I hope this information gives you a better understanding of the current state of Debian CLI package portability to Termux, even though a precise estimate remains elusive. For further exploration, consider using the suggestions above to identify specific Debian packages you're interested in and investigate their portability status within the Termux community.
 
@@ -3915,34 +4135,50 @@ Porting a standard Debian CLI package to the Android Termux CLI can be a multifa
 
 **1. Assess Compatibility:**
 
-- **Dependencies:** Check if the package's dependencies are available on Termux, either pre-installed or through additional repositories. Missing dependencies can be significant roadblocks.
-- **Architecture:** Ensure the package is compiled for the correct architecture (usually ARM) used by Termux. Recompilation might be necessary.
-- **Libraries:** Analyze the package's library requirements and whether they are available in Termux. You might need to find compatible alternatives or compile missing libraries.
-- **System Calls:** Review if the package relies on system calls not supported by Termux. Implementing workarounds or finding alternative approaches might be required.
+- **Dependencies:** Check if the package's dependencies are available on Termux, either pre-installed
+  or through additional repositories. Missing dependencies can be significant roadblocks.
+- **Architecture:** Ensure the package is compiled for the correct architecture (usually ARM) used by
+  Termux. Recompilation might be necessary.
+- **Libraries:** Analyze the package's library requirements and whether they are available in Termux.
+  You might need to find compatible alternatives or compile missing libraries.
+- **System Calls:** Review if the package relies on system calls not supported by Termux. Implementing
+  workarounds or finding alternative approaches might be required.
 
 **2. Adapt the Build System:**
 
-- **Build scripts:** Translate the package's build scripts (e.g., Makefile) to be compatible with Termux, potentially using tools like "ndk-build" or custom scripts.
-- **Cross-compilation:** If necessary, set up cross-compilation to build the package on a non-Android machine for the target Termux architecture.
-- **Environment variables:** Adjust environment variables for the Termux build environment, including paths to libraries and headers.
+- **Build scripts:** Translate the package's build scripts (e.g., Makefile) to be compatible with
+  Termux, potentially using tools like "ndk-build" or custom scripts.
+- **Cross-compilation:** If necessary, set up cross-compilation to build the package on a non-Android
+  machine for the target Termux architecture.
+- **Environment variables:** Adjust environment variables for the Termux build environment, including
+  paths to libraries and headers.
 
 **3. Address Package Specifics:**
 
-- **Permissions:** Adapt the package to adhere to Android's stricter permission management. You might need to request and handle permissions dynamically within the package.
-- **Storage access:** Modify the package to work within Termux's sandboxing limitations for app storage access. Consider using Termux's storage API for external storage access.
-- **User interface:** Depending on the package, adapting the user interface might be necessary. Consider using native Android UI elements or libraries like Qt for cross-platform UI development.
+- **Permissions:** Adapt the package to adhere to Android's stricter permission management. You might
+  need to request and handle permissions dynamically within the package.
+- **Storage access:** Modify the package to work within Termux's sandboxing limitations for app storage
+  access. Consider using Termux's storage API for external storage access.
+- **User interface:** Depending on the package, adapting the user interface might be necessary.
+  Consider using native Android UI elements or libraries like Qt for cross-platform UI development.
 
 **4. Testing and Packaging:**
 
-- **Thorough testing:** Test the ported package extensively on various Android devices and Termux versions to ensure compatibility and functionality.
-- **Packaging:** Create a Termux package file (.deb) incorporating the compiled binaries and resources for easy installation and management within Termux.
-- **Distribution:** Consider the distribution method, whether through sideloading, custom repositories, or sharing with other users.
+- **Thorough testing:** Test the ported package extensively on various Android devices and Termux
+  versions to ensure compatibility and functionality.
+- **Packaging:** Create a Termux package file (.deb) incorporating the compiled binaries and resources
+  for easy installation and management within Termux.
+- **Distribution:** Consider the distribution method, whether through sideloading, custom repositories,
+  or sharing with other users.
 
 **Additional Considerations:**
 
-- **Security:** Pay close attention to security implications when porting, especially regarding permissions and data handling.
-- **Legal aspects:** Check for any licenses or copyright restrictions that might affect the porting process.
-- **Community support:** Joining relevant Termux communities can offer valuable support and resources for the porting effort.
+- **Security:** Pay close attention to security implications when porting, especially regarding
+  permissions and data handling.
+- **Legal aspects:** Check for any licenses or copyright restrictions that might affect the porting
+  process.
+- **Community support:** Joining relevant Termux communities can offer valuable support and resources
+  for the porting effort.
 
 **Remember:** Porting a standard Debian CLI package to Termux can be a complex and challenging process, requiring technical expertise and careful consideration. However, with proper planning, adaptation, and testing, it can be a rewarding way to bring valuable software to the Android platform.
 
@@ -3956,19 +4192,29 @@ The level of automation in porting a standard Debian CLI package to the Android 
 
 **Automatable aspects:**
 
-- **Dependency verification:** Tools like `pkg_resources` in Python can automate checking if Termux provides all the package's dependencies.
-- **Building scripts:** Using tools like `autoconf` and `automake` can automate building the package based on pre-defined rules and configure scripts.
-- **Cross-compilation:** Tools like `ndk-build` and `cmake` can automate cross-compiling the package for the target Android architecture.
-- **Packaging:** Frameworks like `fpm` can automate creating Termux package files (.deb) based on templates and configuration files.
-- **Testing:** Automated testing frameworks like `unittest` or `pytest` can help run basic tests on the ported package.
+- **Dependency verification:** Tools like `pkg_resources` in Python can automate checking if Termux
+  provides all the package's dependencies.
+- **Building scripts:** Using tools like `autoconf` and `automake` can automate building the package
+  based on pre-defined rules and configure scripts.
+- **Cross-compilation:** Tools like `ndk-build` and `cmake` can automate cross-compiling the package
+  for the target Android architecture.
+- **Packaging:** Frameworks like `fpm` can automate creating Termux package files (.deb) based on
+  templates and configuration files.
+- **Testing:** Automated testing frameworks like `unittest` or `pytest` can help run basic tests on the
+  ported package.
 
 **Less automatable aspects:**
 
-- **Compatibility assessment:** Analyzing system calls, library requirements, and potential integration issues with Termux might still require manual investigation and adaptation.
-- **Permission handling:** Implementing and requesting permissions dynamically within the package often requires manual coding and adjustments.
-- **Storage access:** Adapting the package to work within Termux's sandboxing for storage access might need specific code changes and configuration.
-- **User interface:** Porting graphical interfaces or adapting console interactions might require significant manual effort and platform-specific considerations.
-- **Testing edge cases:** Thorough testing across various Android devices and versions often involves manual interaction and scenario setup.
+- **Compatibility assessment:** Analyzing system calls, library requirements, and potential integration
+  issues with Termux might still require manual investigation and adaptation.
+- **Permission handling:** Implementing and requesting permissions dynamically within the package often
+  requires manual coding and adjustments.
+- **Storage access:** Adapting the package to work within Termux's sandboxing for storage access might
+  need specific code changes and configuration.
+- **User interface:** Porting graphical interfaces or adapting console interactions might require
+  significant manual effort and platform-specific considerations.
+- **Testing edge cases:** Thorough testing across various Android devices and versions often involves
+  manual interaction and scenario setup.
 
 **Overall:**
 
@@ -3976,9 +4222,13 @@ While completely automating the porting process for any Debian package might be 
 
 Here are some additional factors to consider:
 
-- **Existing scripts and tools:** The availability of pre-existing scripts or tools specifically designed for porting Debian packages to Termux can further increase automation potential.
-- **Package complexity:** Simpler packages with fewer dependencies and platform-specific features are generally easier to automate porting for compared to complex ones.
-- **Community resources:** Leveraging resources like existing ported packages, community discussions, and documentation can offer valuable insights and solutions for automating specific aspects of the porting process.
+- **Existing scripts and tools:** The availability of pre-existing scripts or tools specifically
+  designed for porting Debian packages to Termux can further increase automation potential.
+- **Package complexity:** Simpler packages with fewer dependencies and platform-specific features are
+  generally easier to automate porting for compared to complex ones.
+- **Community resources:** Leveraging resources like existing ported packages, community discussions,
+  and documentation can offer valuable insights and solutions for automating specific aspects of the
+  porting process.
 
 In conclusion, automating the porting of Debian packages to Termux is possible to a significant extent, but it's not a one-size-fits-all solution. Implementing automated tools along with manual skill and adaptation can significantly streamline the process while ensuring compatibility and functionality for specific packages and Android environments.
 
@@ -3987,12 +4237,15 @@ In conclusion, automating the porting of Debian packages to Termux is possible t
 **What is debootstrap?**
 
 - It's a tool for creating a minimal Debian base system within a directory on a non-Debian system.
-- It works by downloading essential packages from a Debian mirror and setting up a basic file system structure.
+- It works by downloading essential packages from a Debian mirror and setting up a basic file system
+  structure.
 
 **Role of debootstrap in Termux:**
 
-- Termux is an Android terminal emulator and Linux environment, but it's not a full-fledged Debian system.
-- debootstrap allows you to create a more complete Debian environment within Termux, providing access to a wider range of Debian packages and tools.
+- Termux is an Android terminal emulator and Linux environment, but it's not a full-fledged Debian
+  system.
+- debootstrap allows you to create a more complete Debian environment within Termux, providing access
+  to a wider range of Debian packages and tools.
 
 **How to use debootstrap in Termux:**
 
@@ -4001,7 +4254,8 @@ In conclusion, automating the porting of Debian packages to Termux is possible t
 2. **Create a directory for the Debian system:**
     - `mkdir debian-stretch` (replace with your desired distribution)
 3. **Run debootstrap:**
-    - `debootstrap stretch debian-stretch <http://deb.debian.org/debian`> (replace "stretch" with the desired release)
+    - `debootstrap stretch debian-stretch <http://deb.debian.org/debian`> (replace "stretch" with the
+      desired release)
 4. **Enter the chroot environment:**
     - `cd debian-stretch`
     - `proot --link2symlink -q bash`
@@ -4010,9 +4264,11 @@ Now you're within the Debian system, ready to install packages and use Debian to
 
 **Key considerations:**
 
-- **Architecture:** Choose the correct `debootstrap` command for your device's architecture (arm, arm64, x86, etc.).
+- **Architecture:** Choose the correct `debootstrap` command for your device's architecture (arm,
+  arm64, x86, etc.).
 - **Root privileges:** `debootstrap` doesn't require root, but some actions within the chroot might.
-- **Package management:** Use `apt` within the chroot to manage packages, keeping it updated for security.
+- **Package management:** Use `apt` within the chroot to manage packages, keeping it updated for
+  security.
 - **Persistence:** The Debian system exists within a directory, so changes persist across sessions.
 
 **Advantages of  debootstrap in Termux:**
@@ -4035,10 +4291,13 @@ While both PRoot-distro and debootstrap can create Debian environments within Te
 
 **Functional differences:**
 
-- **Pre-built Debian environments:** Downloads pre-built Debian rootfs archives instead of downloading individual packages.
+- **Pre-built Debian environments:** Downloads pre-built Debian rootfs archives instead of downloading
+  individual packages.
 - **Faster setup:** Installation and setup are quicker as the entire file system is downloaded at once.
-- **Limited customization:** Offers preconfigured environments with less flexibility for custom package selection.
-- **Potentially outdated:** Pre-built images might not be the latest Debian releases, requiring manual updates.
+- **Limited customization:** Offers preconfigured environments with less flexibility for custom package
+  selection.
+- **Potentially outdated:** Pre-built images might not be the latest Debian releases, requiring manual
+  updates.
 
 **Practical differences:**
 
@@ -4050,21 +4309,24 @@ While both PRoot-distro and debootstrap can create Debian environments within Te
 
 **Functional differences:**
 
-- **Manual package download:** Downloads individual packages from Debian mirrors, offering greater flexibility.
+- **Manual package download:** Downloads individual packages from Debian mirrors, offering greater
+  flexibility.
 - **Customizable:** Allows choosing specific Debian release and installing desired packages.
 - **More complex setup:** Requires more commands and configuration compared to PRoot-distro.
 - **Latest distribution:** Provides access to the latest Debian releases directly from mirrors.
 
 **Practical differences:**
 
-- **Potentially slower setup:** Downloading individual packages can take longer than downloading a pre-built image.
+- **Potentially slower setup:** Downloading individual packages can take longer than downloading a pre-
+  built image.
 - **Larger storage footprint:** Downloaded packages accumulate over time, increasing storage usage.
 - **Greater package availability:** Access to the entire Debian package repository.
 
 **Choosing between PRoot-distro and debootstrap depends on your priorities:**
 
 - **For beginners or quick setup:** Choose PRoot-distro for its ease and speed.
-- **For customization and latest packages:** Opt for debootstrap if you need specific packages or prefer the latest Debian releases.
+- **For customization and latest packages:** Opt for debootstrap if you need specific packages or
+  prefer the latest Debian releases.
 - **For minimal storage usage:** Consider PRoot-distro if storage space is a constraint.
 
 Ultimately, both methods achieve similar goals, so the best option depends on your specific needs and preferences. Feel free to experiment and see which approach works best for you!
@@ -4076,14 +4338,17 @@ Choosing between Debian implemented with `debootstrap` on Termux and Debian in a
 **Advantages:**
 
 - **Lightweight:** Requires minimal resources, suitable for older or less powerful devices.
-- **More integrated with Termux:** Can access some Termux features like shared storage and environment variables.
+- **More integrated with Termux:** Can access some Termux features like shared storage and environment
+  variables.
 - **Faster startup:** Usually starts up faster than proot environments.
 - **Simple setup:** Relatively straightforward to set up using existing Termux packages.
 
 **Disadvantages:**
 
-- **Limited functionality:** Only provides a minimal Debian environment, missing various tools and libraries by default.
-- **Manual configuration:** Requires more manual configuration and package installation compared to proot-distro.
+- **Limited functionality:** Only provides a minimal Debian environment, missing various tools and
+  libraries by default.
+- **Manual configuration:** Requires more manual configuration and package installation compared to
+  proot-distro.
 - **Less stable:** Might encounter compatibility issues due to integration with Termux.
 - **Limited package selection:** Doesn't have access to the full range of Debian packages directly.
 
@@ -4091,22 +4356,28 @@ Choosing between Debian implemented with `debootstrap` on Termux and Debian in a
 
 **Advantages:**
 
-- **Full Debian experience:** Provides a complete Debian environment with most tools and libraries included.
+- **Full Debian experience:** Provides a complete Debian environment with most tools and libraries
+  included.
 - **Larger package selection:** Access to the full range of Debian packages for greater flexibility.
 - **Better compatibility:** Offers better compatibility with existing Debian software and libraries.
-- **Easier package management:** `apt` package manager in proot-distro simplifies package installation and updates.
+- **Easier package management:** `apt` package manager in proot-distro simplifies package installation
+  and updates.
 
 **Disadvantages:**
 
 - **Resource intensive:** Requires more RAM and CPU resources compared to debootstrap.
 - **Slower startup:** Takes longer to start up the proot environment.
 - **More complex setup:** Requires additional steps to set up compared to debootstrap.
-- **Less integrated with Termux:** Limited access to Termux features like shared storage or environment variables.
+- **Less integrated with Termux:** Limited access to Termux features like shared storage or environment
+  variables.
 
 **In summary:**
 
-- **Choose debootstrap:** If you need a lightweight Debian environment with faster startup and some Termux integration, but are ok with a limited experience and more manual configuration.
-- **Choose proot-distro:** If you want a complete Debian experience with access to all packages, easier package management, and better compatibility, but have enough resources and don't mind slower startup and limited Termux integration.
+- **Choose debootstrap:** If you need a lightweight Debian environment with faster startup and some
+  Termux integration, but are ok with a limited experience and more manual configuration.
+- **Choose proot-distro:** If you want a complete Debian experience with access to all packages, easier
+  package management, and better compatibility, but have enough resources and don't mind slower startup
+  and limited Termux integration.
 
 Ultimately, the best choice depends on your individual priorities and usage scenario. Consider your needs for resource usage, functionality, package selection, and ease of use to make the best decision for your Android environment.
 
@@ -4118,14 +4389,16 @@ I hope this comparison helps you choose the most suitable Debian implementation 
 
 **PRoot-distro:**
 
-- **Estimated package count:** Typically contains a smaller subset of Debian packages, often around **10,000-15,000** packages.
+- **Estimated package count:** Typically contains a smaller subset of Debian packages, often around
+  **10,000-15,000** packages.
 - **Factors affecting count:**
     - Specific Debian release used for the pre-built image.
     - Intended purpose of the image (e.g., minimal vs. full-featured).
 
 **Debootstrap:**
 
-- **Estimated package count:** Accesses the full Debian package repository, offering over **59,000** packages in the stable release (as of July 2023).
+- **Estimated package count:** Accesses the full Debian package repository, offering over **59,000**
+  packages in the stable release (as of July 2023).
 - **Factors affecting count:**
     - Chosen Debian release (newer releases might have more packages).
     - Enabled repositories (e.g., main, contrib, non-free).
@@ -4133,17 +4406,20 @@ I hope this comparison helps you choose the most suitable Debian implementation 
 **Key takeaways:**
 
 - PRoot-distro provides a reasonable selection of packages for common tasks, but its choice is limited.
-- Debootstrap offers access to the vast majority of Debian packages, providing more comprehensive options.
+- Debootstrap offers access to the vast majority of Debian packages, providing more comprehensive
+  options.
 
 **Additional considerations:**
 
 - PRoot-distro images might include essential packages not available in Termux's primary repositories.
-- Debootstrap allows installation of packages that conflict with Termux's own packages, potentially causing issues.
+- Debootstrap allows installation of packages that conflict with Termux's own packages, potentially
+  causing issues.
 
 **Recommendations:**
 
 - If you need a quick and easy setup with a basic set of packages, PRoot-distro is a viable option.
-- For extensive package availability, customization, and access to the latest Debian releases, debootstrap is the preferred choice.
+- For extensive package availability, customization, and access to the latest Debian releases,
+  debootstrap is the preferred choice.
 - If you're unsure, try both methods to see which better suits your needs and preferences.
 
 **Reasons for the estimated Debian package count available to a proot-distro alias of Debian** 
@@ -4152,23 +4428,38 @@ The smaller estimated Debian package count (around 10,000-15,000) available to a
 
 **1. Limited Resource Availability:**
 
-- **Proot environments:** Running a full Debian system within a proot environment on Android consumes more resources like RAM and CPU compared to native Termux applications. Therefore, prioritizing essential core packages and tools helps maintain performance and stability.
-- **Device Constraints:** Android devices, especially older ones, have limited hardware resources compared to typical desktop or server environments. Providing a smaller selection of packages ensures compatibility and smooth operation for a wider range of devices.
+- **Proot environments:** Running a full Debian system within a proot environment on Android consumes
+  more resources like RAM and CPU compared to native Termux applications. Therefore, prioritizing
+  essential core packages and tools helps maintain performance and stability.
+- **Device Constraints:** Android devices, especially older ones, have limited hardware resources
+  compared to typical desktop or server environments. Providing a smaller selection of packages ensures
+  compatibility and smooth operation for a wider range of devices.
 
 **2. Compatibility Challenges:**
 
-- **Android API Access:** Not all Debian packages are designed to interact with the specific APIs and restrictions of the Android environment. Porting and adapting packages for proper functionality takes time and effort, resulting in a curated selection of compatible packages.
-- **Library Dependencies:** Some Debian packages might rely on libraries or utilities not readily available within the proot environment or Termux itself. Providing only compatible packages avoids potential dependency issues and installation failures.
+- **Android API Access:** Not all Debian packages are designed to interact with the specific APIs and
+  restrictions of the Android environment. Porting and adapting packages for proper functionality takes
+  time and effort, resulting in a curated selection of compatible packages.
+- **Library Dependencies:** Some Debian packages might rely on libraries or utilities not readily
+  available within the proot environment or Termux itself. Providing only compatible packages avoids
+  potential dependency issues and installation failures.
 
 **3. Focus on Usability:**
 
-- **Essential Tools:** The proot-distro aliases in Termux aim to deliver a comprehensive set of essential command-line tools and utilities for developers and power users. Providing a more focused selection of relevant packages enhances usability and avoids overwhelming users with potentially unfamiliar or unnecessary software.
-- **Community Maintenance:** Maintaining a smaller package base is easier for the Termux community, facilitating faster updates, bug fixes, and compatibility checks for a more stable user experience.
+- **Essential Tools:** The proot-distro aliases in Termux aim to deliver a comprehensive set of
+  essential command-line tools and utilities for developers and power users. Providing a more focused
+  selection of relevant packages enhances usability and avoids overwhelming users with potentially
+  unfamiliar or unnecessary software.
+- **Community Maintenance:** Maintaining a smaller package base is easier for the Termux community,
+  facilitating faster updates, bug fixes, and compatibility checks for a more stable user experience.
 
 **4. Additional Factors:**
 
-- **Security Considerations:** Including only well-vetted and security-conscious packages can mitigate potential risks associated with running a full Debian environment within a sandboxed Android system.
-- **Custom Packages:** Users can always download and install non-included Debian packages manually within the proot environment for specific needs, though careful testing and compatibility checks are recommended.
+- **Security Considerations:** Including only well-vetted and security-conscious packages can mitigate
+  potential risks associated with running a full Debian environment within a sandboxed Android system.
+- **Custom Packages:** Users can always download and install non-included Debian packages manually
+  within the proot environment for specific needs, though careful testing and compatibility checks are
+  recommended.
 
 In summary, the smaller Debian package count in Termux proot-distros isn't due to limitations in proot technology but rather a calculated balance between resource constraints, compatibility considerations, usability, and maintainability. It aims to provide a stable and optimized experience for users who need core Debian tools and the flexibility to extend functionality as needed.
 
@@ -4176,10 +4467,14 @@ I hope this explanation clarifies the reasons behind the smaller package selecti
 
 Some possible reasons for the smaller estimated Debian package count available to a proot-distro alias of Debian in Termux are:
 
-- The proot-distro image is based on a minimal Debian installation, which only includes essential packages and a few common ones¹.
-- The proot-distro image is optimized for size and performance, which means that some packages may be removed or replaced with smaller equivalents².
-- The proot-distro image may not support all the architectures, releases, and flavors of Debian, which limits the number of available packages³.
-- The proot-distro image may not have access to all the sections of the Debian archive, such as contrib, non-free, or backports, which reduces the number of available packages.
+- The proot-distro image is based on a minimal Debian installation, which only includes essential
+  packages and a few common ones¹.
+- The proot-distro image is optimized for size and performance, which means that some packages may be
+  removed or replaced with smaller equivalents².
+- The proot-distro image may not support all the architectures, releases, and flavors of Debian, which
+  limits the number of available packages³.
+- The proot-distro image may not have access to all the sections of the Debian archive, such as
+  contrib, non-free, or backports, which reduces the number of available packages.
 
 (1) 6. Best Packaging Practices — developers-reference 13.4 ... - Debian. [https://www.debian.org/doc/manuals/developers-reference/best-pkging-practices.en.html](https://www.debian.org/doc/manuals/developers-reference/best-pkging-practices.en.html).
 (2) ReduceDebian - Debian Wiki. [https://wiki.debian.org/ReduceDebian](https://wiki.debian.org/ReduceDebian).
@@ -4192,11 +4487,20 @@ Some possible reasons for the smaller estimated Debian package count available t
 
 The smaller estimated Debian package count (around 10,000-15,000) available to a proot-distro alias of Debian in Termux compared to the full Debian repository (over 50,000) can be attributed to several factors:
 
-1. **Architecture Compatibility**: Not all Debian packages are compatible with the ARM architecture used by most Android devices. Some packages are designed specifically for other architectures like x86 or x86_64.
-2. **Termux Limitations**: Termux provides a limited environment compared to a full Linux distribution. Some packages may not work correctly due to these limitations, and thus are not included in the Termux repositories.
-3. **Package Dependencies**: Some Debian packages have dependencies that cannot be met within the Termux environment. If a package relies on software or libraries that are not available or functional in Termux, that package cannot be included. 
-5. **Storage Constraints**: Android devices typically have less storage space than traditional computers. To conserve space, the Termux repositories may prioritize including smaller, more commonly used packages. 
-6. **Security and Stability**: Some packages may be excluded due to security concerns or stability issues within the Termux environment. 
+1. **Architecture Compatibility**: Not all Debian packages are compatible with the ARM architecture
+   used by most Android devices. Some packages are designed specifically for other architectures like
+   x86 or x86_64.
+2. **Termux Limitations**: Termux provides a limited environment compared to a full Linux distribution.
+   Some packages may not work correctly due to these limitations, and thus are not included in the
+   Termux repositories.
+3. **Package Dependencies**: Some Debian packages have dependencies that cannot be met within the
+   Termux environment. If a package relies on software or libraries that are not available or
+   functional in Termux, that package cannot be included. 
+4. **Storage Constraints**: Android devices typically have less storage space than traditional
+   computers. To conserve space, the Termux repositories may prioritize including smaller, more
+   commonly used packages. 
+5. **Security and Stability**: Some packages may be excluded due to security concerns or stability
+   issues within the Termux environment. 
 
 It's important to note that while the number of packages is smaller, many of the most commonly used and important packages are available, allowing for a wide range of functionality within Termux.
 
@@ -4215,17 +4519,20 @@ Citations:
 **While exact package counts fluctuate, here are the distributions consistently recognized for their vast repositories:**
 
 1. **Debian:**
-    - Renowned for its extensive repository, boasting over **59,000 packages** in the stable release (as of July 2023).
+    - Renowned for its extensive repository, boasting over **59,000 packages** in the stable release
+      (as of July 2023).
     - Includes a wide array of software across diverse categories.
     - Serves as the foundation for numerous other distributions, further expanding its reach.
 2. **Arch Linux:**
     - Operates a rolling release model, ensuring access to the latest software versions.
-    - Offers an official repository with over **15,000 packages**, complemented by the extensive Arch User Repository (AUR), a community-driven repository containing over **85,000 packages**.
+    - Offers an official repository with over **15,000 packages**, complemented by the extensive Arch
+      User Repository (AUR), a community-driven repository containing over **85,000 packages**.
 3. **Gentoo:**
     - Emphasizes flexibility and customization, allowing users to build packages from source.
     - Provides access to a vast repository of **over 65,000 packages**, catering to diverse needs.
 4. **Ubuntu:**
-    - Based on Debian, it inherits a large package base and adds additional software for user-friendliness.
+    - Based on Debian, it inherits a large package base and adds additional software for user-
+      friendliness.
     - Its official repositories contain **over 40,000 packages**.
     - Offers optional repositories for proprietary software and drivers.
 5. **Fedora:**
@@ -4235,14 +4542,18 @@ Citations:
 
 **Factors influencing package counts:**
 
-- **Release cycle:** Rolling release distributions often have newer and more packages than those with fixed release cycles.
-- **Repository type:** Official repositories prioritize stability and security, while community-maintained repositories might offer a wider range of experimental or niche software.
-- **Philosophy:** Distributions prioritizing freedom and choice often have larger repositories, while those focusing on simplicity or security might have more curated selections.
+- **Release cycle:** Rolling release distributions often have newer and more packages than those with
+  fixed release cycles.
+- **Repository type:** Official repositories prioritize stability and security, while community-
+  maintained repositories might offer a wider range of experimental or niche software.
+- **Philosophy:** Distributions prioritizing freedom and choice often have larger repositories, while
+  those focusing on simplicity or security might have more curated selections.
 
 **Remember:**
 
 - Package count isn't the sole determinant of a distribution's quality.
-- Consider other factors like stability, community support, ease of use, and alignment with your specific needs when choosing a distribution.
+- Consider other factors like stability, community support, ease of use, and alignment with your
+  specific needs when choosing a distribution.
 
 **Would it be correct to say, that out of all the currently active GNU/Linux distributions, that Debian is almost the most venerable, as well has has the largest official package repository?**
 
@@ -4250,19 +4561,29 @@ Yes, it would be quite accurate to say that Debian is **one of the most venerabl
 
 **Venerable:**
 
-- **Founded in 1993:** Debian is one of the oldest active distributions, predating many prominent names like Ubuntu and Fedora.
-- **Stable foundation:** Its focus on stability and thorough testing has earned it a reputation for reliability and longevity.
-- **Influential role:** Debian serves as the base for numerous other distributions, further solidifying its legacy.
+- **Founded in 1993:** Debian is one of the oldest active distributions, predating many prominent names
+  like Ubuntu and Fedora.
+- **Stable foundation:** Its focus on stability and thorough testing has earned it a reputation for
+  reliability and longevity.
+- **Influential role:** Debian serves as the base for numerous other distributions, further solidifying
+  its legacy.
 
 **Largest official package repository:**
 
-- **Over 59,000 packages:** As of July 2023, Debian boasts a staggering number of packages in its official repository, encompassing a vast array of software for diverse needs.
-- **Focus on quality:** While not the absolute leader in total package count (including user repositories), Debian prioritizes stability and security, ensuring high-quality packages for its users.
+- **Over 59,000 packages:** As of July 2023, Debian boasts a staggering number of packages in its
+  official repository, encompassing a vast array of software for diverse needs.
+- **Focus on quality:** While not the absolute leader in total package count (including user
+  repositories), Debian prioritizes stability and security, ensuring high-quality packages for its
+  users.
 
 **However, it's worth noting a few nuances:**
 
-- **Arch Linux with AUR:** Technically, Arch Linux, with its official repository alongside the **massive and vibrant Arch User Repository (AUR)**, might have a larger overall package count. However, the AUR is community-driven and not officially curated, making it a different type of repository compared to Debian's.
-- **Other contenders:** Distributions like Gentoo also offer expansive repositories, often focusing on user-compiled packages, which can inflate total counts.
+- **Arch Linux with AUR:** Technically, Arch Linux, with its official repository alongside the
+  **massive and vibrant Arch User Repository (AUR)**, might have a larger overall package count.
+  However, the AUR is community-driven and not officially curated, making it a different type of
+  repository compared to Debian's.
+- **Other contenders:** Distributions like Gentoo also offer expansive repositories, often focusing on
+  user-compiled packages, which can inflate total counts.
 
 **Therefore, while not strictly the absolute leader in every metric, Debian undeniably stands out as one of the most venerable and prominent distributions with an exceptionally large and high-quality official package repository.**
 
@@ -4300,14 +4621,30 @@ Citations:
 
 ### The Arch Linux Wiki compared Arch Linux to Debian
 
-- **[Debian](https://www.debian.org/)** is the largest upstream Linux distribution with a bigger community and features stable, testing, and unstable branches, offering hundreds of thousands **[packages](https://packages.debian.org/unstable/)**. The available number of Arch binary packages is more modest. However, when including the **[AUR](https://wiki.archlinux.org/title/AUR)**, the quantities are comparable.
-- Debian has a more vehement stance on free software but still includes non-free software in its non-free repositories. Arch is more lenient, and therefore inclusive, concerning *non-free packages* as defined by GNU.
-- Debian focuses on stringent testing of the Stable branch, which is "frozen" and supported up to **[five years](https://wiki.debian.org/LTS)**. Arch packages are more current than Debian Stable, being more comparable to the Debian Testing and Unstable branches, and has no fixed release schedule.
-- Debian is available for many architectures, including alpha, arm, hppa, i386, x86_64, ia64, m68k, mips, mipsel, powerpc, s390, and sparc, whereas Arch is x86_64 only.
-- Arch provides more expedient support for building custom, installable packages from outside sources, with a ports-like package build system. Debian does not offer a ports system, relying instead on its large binary repositories.
-- The Arch installation system only offers a minimal base, transparently exposed during system configuration, whereas Debian's methods, such as the use of apt *tasks* to install pre-selected groups of packages, offer a more automatically configured approach as well as several alternative methods of installation.
-- Arch generally packages software libraries together with their header files, whereas in Debian header files have to be downloaded separately.
-- Arch keeps patching to a minimum, thus avoiding problems that upstream are unable to review, whereas Debian patches its packages more liberally for a wider audience.
+- **[Debian](https://www.debian.org/)** is the largest upstream Linux distribution with a bigger
+  community and features stable, testing, and unstable branches, offering hundreds of thousands **
+  [packages](https://packages.debian.org/unstable/)**. The available number of Arch binary packages is
+  more modest. However, when including the **[AUR](https://wiki.archlinux.org/title/AUR)**, the
+  quantities are comparable.
+- Debian has a more vehement stance on free software but still includes non-free software in its non-
+  free repositories. Arch is more lenient, and therefore inclusive, concerning \*non-free packages* as
+  defined by GNU.
+- Debian focuses on stringent testing of the Stable branch, which is "frozen" and supported up to
+  **[five years](https://wiki.debian.org/LTS)**. Arch packages are more current than Debian Stable,
+  being more comparable to the Debian Testing and Unstable branches, and has no fixed release schedule.
+- Debian is available for many architectures, including alpha, arm, hppa, i386, x86_64, ia64, m68k,
+  mips, mipsel, powerpc, s390, and sparc, whereas Arch is x86_64 only.
+- Arch provides more expedient support for building custom, installable packages from outside sources,
+  with a ports-like package build system. Debian does not offer a ports system, relying instead on its
+  large binary repositories.
+- The Arch installation system only offers a minimal base, transparently exposed during system
+  configuration, whereas Debian's methods, such as the use of apt *tasks* to install pre-selected
+  groups of packages, offer a more automatically configured approach as well as several alternative
+  methods of installation.
+- Arch generally packages software libraries together with their header files, whereas in Debian header
+  files have to be downloaded separately.
+- Arch keeps patching to a minimum, thus avoiding problems that upstream are unable to review, whereas
+  Debian patches its packages more liberally for a wider audience.
 
 Source: [https://wiki.archlinux.org/title/Arch_compared_to_other_distributions](https://wiki.archlinux.org/title/Arch_compared_to_other_distributions) (Monday January 22, 2024)
 
@@ -4317,21 +4654,30 @@ When applied to the first version of Android, released in 2008, the statement ab
 
 **1. Shell availability:**
 
-- The first version of Android (1.0) **did not have a directly accessible shell** for users. Access to the Linux shell underlying Android required specific technical knowledge and tools.
-- The developer SDK did, however, include a command-line interface (CLI) called `adb` that allowed developers to interact with their devices via a computer.
+- The first version of Android (1.0) **did not have a directly accessible shell** for users. Access to
+  the Linux shell underlying Android required specific technical knowledge and tools.
+- The developer SDK did, however, include a command-line interface (CLI) called `adb` that allowed
+  developers to interact with their devices via a computer.
 
 **2. Built-in commands:**
 
-- The first version of Android had a limited set of built-in commands accessible through apps like the "Terminal Emulator" for developers. These commands primarily focused on file system manipulation, process management, and basic system information.
-- Users wouldn't have encountered these commands directly through typical smartphone usage like phone calls, messaging, or web browsing.
+- The first version of Android had a limited set of built-in commands accessible through apps like the
+  "Terminal Emulator" for developers. These commands primarily focused on file system manipulation,
+  process management, and basic system information.
+- Users wouldn't have encountered these commands directly through typical smartphone usage like phone
+  calls, messaging, or web browsing.
 
 **3. Adding shells and commands:**
 
-- Adding additional shells or commands in the first version of Android required advanced technical knowledge and rooting the device. Rooting essentially grants superuser privileges, allowing bypassing certain restrictions and modifying the system.
+- Adding additional shells or commands in the first version of Android required advanced technical
+  knowledge and rooting the device. Rooting essentially grants superuser privileges, allowing bypassing
+  certain restrictions and modifying the system.
 
 **Overall:**
 
-- While technically accurate, the statement about shells and commands is somewhat misleading when applied to the first version of Android for regular users. The shell and built-in commands were primarily relevant for developers and power users with technical expertise.
+- While technically accurate, the statement about shells and commands is somewhat misleading when
+  applied to the first version of Android for regular users. The shell and built-in commands were
+  primarily relevant for developers and power users with technical expertise.
 
 It's worth noting that subsequent versions of Android made the shell and certain commands more readily accessible for advanced users, but full shell access through the "Terminal Emulator" became widespread only around Android 2.3 (Gingerbread) in 2010.
 
@@ -4353,33 +4699,43 @@ Here are some Android applications that provide detailed device information, suc
 
 [Image of Device Info app icon]
 
-* This app displays a wealth of information about your device, including hardware (CPU, GPU, RAM, storage, sensors), software (operating system, kernel version, build number), battery, and network (Wi-Fi, cellular).
-* It also allows you to view and copy various device identifiers, such as IMEI, serial number, and MAC address.
+* This app displays a wealth of information about your device, including hardware (CPU, GPU, RAM,
+  storage, sensors), software (operating system, kernel version, build number), battery, and network
+  (Wi-Fi, cellular).
+* It also allows you to view and copy various device identifiers, such as IMEI, serial number, and MAC
+  address.
 * Device Info is free and open-source, with no ads or in-app purchases.
 
 **AIDA64**
 
 [Image of AIDA64 app icon]
 
-* AIDA64 is a popular system information and diagnostic tool that provides comprehensive information about your Android device.
-* It includes details about the CPU, GPU, RAM, storage, sensors, battery, network, and software (operating system, kernel version, build number).
-* AIDA64 also offers a variety of features for diagnosing and troubleshooting hardware and software issues.
-* The basic version of AIDA64 is free, but a pro version with additional features is available for a purchase.
+* AIDA64 is a popular system information and diagnostic tool that provides comprehensive information
+  about your Android device.
+* It includes details about the CPU, GPU, RAM, storage, sensors, battery, network, and software
+  (operating system, kernel version, build number).
+* AIDA64 also offers a variety of features for diagnosing and troubleshooting hardware and software
+  issues.
+* The basic version of AIDA64 is free, but a pro version with additional features is available for a
+  purchase.
 
 **Droid Info**
 
 [Image of Droid Info app icon]
 
 * Droid Info is another great option for viewing detailed device information.
-* It provides information about the CPU, GPU, RAM, storage, sensors, battery, network, and software (operating system, kernel version, build number).
-* Droid Info also includes features for testing system performance, viewing running processes, and monitoring battery health.
+* It provides information about the CPU, GPU, RAM, storage, sensors, battery, network, and software
+  (operating system, kernel version, build number).
+* Droid Info also includes features for testing system performance, viewing running processes, and
+  monitoring battery health.
 * Droid Info is free and open-source, with no ads or in-app purchases.
 
 **CCleaner**
 
 [Image of CCleaner app icon]
 
-* CCleaner is primarily known as a system cleaner, but it also offers a useful device information feature.
+* CCleaner is primarily known as a system cleaner, but it also offers a useful device information
+  feature.
 * This feature displays details about the CPU, GPU, RAM, storage, battery, and network.
 * CCleaner is free, but a pro version with additional features is available for a purchase.
 
@@ -4407,9 +4763,12 @@ This command displays information about your device's processor, including detai
 
 Several apps on the Google Play Store can provide detailed information about your device's hardware, including the CPU model. Some popular choices include:
 
-- **CPU-Z:** This app displays detailed information about the CPU, GPU, RAM, and other hardware components.
-- **AIDA64:** This app offers comprehensive information about your device, including hardware, software, sensors, and more.
-- **DevCheck Hardware Info:** This app focuses on providing detailed information about hardware components.
+- **CPU-Z:** This app displays detailed information about the CPU, GPU, RAM, and other hardware
+  components.
+- **AIDA64:** This app offers comprehensive information about your device, including hardware,
+  software, sensors, and more.
+- **DevCheck Hardware Info:** This app focuses on providing detailed information about hardware
+  components.
 
 **3. Check your device specifications:**
 
@@ -4453,8 +4812,10 @@ This command returns the CPU architecture supported by your device. While not di
 
 **Additional Notes:**
 
-- Be aware that some information might be displayed in a technical format requiring further research to interpret the exact model name.
-- If you're unsure about any information you find, consider searching online for resources specific to your device model and Qualcomm Snapdragon processor.
+- Be aware that some information might be displayed in a technical format requiring further research to
+  interpret the exact model name.
+- If you're unsure about any information you find, consider searching online for resources specific to
+  your device model and Qualcomm Snapdragon processor.
 
 Unfortunately, while Termux provides access to various information about your device, directly identifying the specific CPU model like "Snapdragon 8 Gen 2" might not be possible. However, you can use Termux to gather clues and determine the CPU architecture and some details which can help you confirm the model. Here are some methods:
 
@@ -4464,7 +4825,8 @@ This file contains detailed information about your device's CPU, including archi
 
 - `processor`: This will show the CPU architecture, e.g., "ARMv9".
 - `hardware`: This might contain vendor information like "Qualcomm".
-- `model name`: This field might provide a more specific model identifier, but it's not guaranteed on all devices.
+- `model name`: This field might provide a more specific model identifier, but it's not guaranteed on
+  all devices.
 
 **2. Use `termux-info` package:**
 
@@ -4498,8 +4860,10 @@ Aida64 is a popular app that provides detailed information about your device, in
 
 **Remember:**
 
-- While these methods can help identify the CPU architecture and vendor, they might not pinpoint the exact model like "Snapdragon 8 Gen 2" due to limitations in available information.
-- Combining information from different sources and searching online with the obtained details can increase the chances of confirming the specific CPU model.
+- While these methods can help identify the CPU architecture and vendor, they might not pinpoint the
+  exact model like "Snapdragon 8 Gen 2" due to limitations in available information.
+- Combining information from different sources and searching online with the obtained details can
+  increase the chances of confirming the specific CPU model.
 
 
 
@@ -4565,10 +4929,15 @@ Aida64 is a popular app that provides detailed information about your device, in
     - **Choose a real-world hacking challenge:** Design a project that utilizes your scripting skills.
     - **Plan, develop, and execute your script:** Apply your knowledge to solve the challenge.
     - **Document and present your findings:** Showcase your skills and expertise.
-    - **Peer review and feedback:** In regards to the showcasing of your Capstone Project, learn from your peers, iterate and refine your work with a focus on continuous improvement processes and benchmarking, information and knowledge capture, and a geneal final project evaluation informed by a 360 degree project design elegance.
+    - **Peer review and feedback:** In regards to the showcasing of your Capstone Project, learn from
+      your peers, iterate and refine your work with a focus on continuous improvement processes and
+      benchmarking, information and knowledge capture, and a geneal final project evaluation informed
+      by a 360 degree project design elegance.
 - (L) **Week 12: Continued Learning and New Horizons:**
     - **Staying up-to-date:** The ever-evolving landscape of hacking and security.
-    - **Future directions, new projects and learning initiatives**: Take stock of the whole journey you have undertaken in traversing this Bash and Zsh scripting roadmap and learning guide, and use what you have learnt to leverage new projects and initiatives.
+    - **Future directions, new projects and learning initiatives**: Take stock of the whole journey you
+      have undertaken in traversing this Bash and Zsh scripting roadmap and learning guide, and use
+      what you have learnt to leverage new projects and initiatives.
 
 *Please contemplate as you act upon this work. Upon completion, if you feel so inclined, please provide feedback, a critique or specific elements for inclusion and improvement in future versions, editions and reworkings of this detailed roadmap and study-guide. Also, provide but one script with purpose, precision and prescience, to the showcase and catchment, otherwise known as the repository of magico-intentionality, and make sure it an exemplar of the sublimation of the art-science of the shell script.* 
 
@@ -4587,9 +4956,12 @@ In the buzzing and frenetic symphony of the digital age, where ones and zeros da
 
 This work is not merely a technical manual, but a testament to the artistry of scripting. It is a love song to the conciseness, the power, the sheer beauty of crafting digital magic from strings of commands. It is an invitation to step into the Scriptorium, to pick up your quill of code, and join the symphony of automation. Prepare to be inspired, to be challenged, and to be forever changed by the transformative power of shell scripting.
 
-# “If you want to learn something, read about it. If you want to understand something, write about it. If you want to master something, teach it.”
+>	“If you want to learn something, read about it.
+>	If you want to understand something, write about it.
+>	If you want to master something, teach it.”
 
-—  popularly attributed to [Yogi Bhajan](https://en.m.wikipedia.org/wiki/Yogi_Bhajan), but also said to be a Hindu as well as a Chinese proverb!
+		~ popularly attributed to [Yogi Bhajan](https://en.m.wikipedia.org/wiki/Yogi_Bhajan), 
+ 		but also said to be a Hindu, as well as a Chinese, proverb!
 
 But then, as the old adage goes: “… Those that can't do: teach… “, well that's how I first heard it.
 
@@ -4657,14 +5029,17 @@ So, open your shell terminal, let the first line of code be your brushstroke, an
 
 >	"Give a man a fish, and you feed him for a day. 
 >	Teach a man to fish, and you feed him for a lifetime."
->		~ English proverb
+		~ English proverb
 
 The GNU `man` package and the GNU `info` package are two different systems for providing documentation about modules, packages and commands in the Termux shell environment. The main differences between them are:
 
 - The `man` package is older and more traditional, whilst the `info` package is newer and more advanced.
-- The `man` package uses the roff or groff formatting system, whilst the `info` package uses the Texinfo system, which is based on TeX.
-- The `man` package organizes the documentation into short and separate pages, whilst the `info` package allows for longer and more comprehensive documents.
-- The `info` package supports features such as hyperlinks, full-text search, index, and linear browsing, which the `man` package does not.
+- The `man` package uses the roff or groff formatting system, whilst the `info` package uses the
+  Texinfo system, which is based on TeX.
+- The `man` package organizes the documentation into short and separate pages, whilst the `info`
+  package allows for longer and more comprehensive documents.
+- The `info` package supports features such as hyperlinks, full-text search, index, and linear
+  browsing, which the `man` package does not.
 - apropos...
 
 You can access the man pages by typing `man` followed by the name of the program or command, and the `info` pages by typing `info` followed by the name of the program or command. You can also use the `--help` option to get a brief summary of the usage and options of many packages, programs or commands.
@@ -4780,7 +5155,7 @@ Welcome to the foundation of your scripting journey! Let's dive into the essenti
 >		and feet in your shoes,
 >	you can steer yourself in any
 >		direction you choose!"*
->			~ Dr. Seuss
+			~ Dr. Seuss
 
 **1.0 Navigation:**
 
@@ -4788,27 +5163,58 @@ Think of the terminal as your map and the commands as your compass. Mastering na
 
 **1.1** **Term Navigation:**
 
-- **Directories:** Explore your digital landscape with (`cd`): change directories (`cd path`), access your home directory (`cd ~`), and list contents (`ls`). Create new directories or folders (`mkdir folder_name`) and remove them (`rmdir folder_name`). In the terminal, we use the [tilde](https://en.m.wikipedia.org/wiki/Tilde) `~` in various ways and sometimes call the symbol (as opposed to the diacritic) a squiggle, squiggly, swiggle, or twiddle. According to the [Jargon File](https://en.m.wikipedia.org/wiki/Jargon_File), other synonyms sometimes used in programming include not, approx, wiggle, enyay (after [eñe](https://en.m.wikipedia.org/wiki/%C3%91)) and (humorously) squiggle. On *NIX-like operating systems (including [AIX](https://en.m.wikipedia.org/wiki/IBM_AIX), [BSD](https://en.m.wikipedia.org/wiki/Berkeley_Software_Distribution), [GNU/Linux](https://en.m.wikipedia.org/wiki/Linux) and [macOS](https://en.m.wikipedia.org/wiki/MacOS)), tilde normally indicates the current user's [home directory](https://en.m.wikipedia.org/wiki/Home_directory). For example, if the current user's home directory is `/home/user`, then the command `cd ~` is equivalent to `cd /home/user`, `cd $HOME`, or `cd`. This convention derives from the [Lear-Siegler ADM-3A](https://en.m.wikipedia.org/wiki/Lear_Siegler) terminal in common use during the 1970s, which happened to have the tilde symbol and the word "Home" (for moving the cursor to the upper left) on the same key. When prepended to a particular username, the tilde indicates that user's home directory (e.g., `~janedoe` for the home directory of user janedoe, such as `/home/janedoe`).
-- **Tab Completion:** Befriend your virtual keyboard's `<Tab>` key! It autocompletes file and directory names, saving you precious typing time.
-- **Wildcards:** These are your search party: `*` matches any number of characters, `?` replaces one, and `[]` lets you specify character sets for flexible navigation.
+- **Directories:** Explore your digital landscape with (`cd`): change directories (`cd path`), access
+  your home directory (`cd ~`), and list contents (`ls`). Create new directories or folders (`mkdir
+  folder_name`) and remove them (`rmdir folder_name`). In the terminal, we use the [tilde]
+  (https://en.m.wikipedia.org/wiki/Tilde) `~` in various ways and sometimes call the symbol (as opposed
+  to the diacritic) a squiggle, squiggly, swiggle, or twiddle. According to the [Jargon File]
+  (https://en.m.wikipedia.org/wiki/Jargon_File), other synonyms sometimes used in programming include
+  not, approx, wiggle, enyay (after [eñe](https://en.m.wikipedia.org/wiki/%C3%91)) and (humorously)
+  squiggle. On *NIX-like operating systems (including [AIX](https://en.m.wikipedia.org/wiki/IBM_AIX),
+  [BSD](https://en.m.wikipedia.org/wiki/Berkeley_Software_Distribution), [GNU/Linux]
+  (https://en.m.wikipedia.org/wiki/Linux) and [macOS](https://en.m.wikipedia.org/wiki/MacOS)), tilde
+  normally indicates the current user's [home directory]
+  (https://en.m.wikipedia.org/wiki/Home_directory). For example, if the current user's home directory
+  is `/home/user`, then the command `cd ~` is equivalent to `cd /home/user`, `cd $HOME`, or `cd`. This
+  convention derives from the [Lear-Siegler ADM-3A](https://en.m.wikipedia.org/wiki/Lear_Siegler)
+  terminal in common use during the 1970s, which happened to have the tilde symbol and the word "Home"
+  (for moving the cursor to the upper left) on the same key. When prepended to a particular username,
+  the tilde indicates that user's home directory (e.g., `~janedoe` for the home directory of user
+  janedoe, such as `/home/janedoe`).
+- **Tab Completion:** Befriend your virtual keyboard's `<Tab>` key! It autocompletes file and directory
+  names, saving you precious typing time.
+- **Wildcards:** These are your search party: `*` matches any number of characters, `?` replaces one,
+  and `[]` lets you specify character sets for flexible navigation.
 
 **1.2** **Commands:**
 
-- **Echo Your Way:** Start with `echo` to print text on the screen, displaying messages and experimenting with syntax.
-- **GNU/Linux Man is Mentor:** Need help? Unfurl the ‘GNU/Linux Manual’: `man command_name` reveals the secrets of any command at your fingertips! Most entries in Man have: (a) creator(s), iterator(s) and/or maintainer(s). Be present to the digital **Truth:** that **You** are standing on the shoulders of **Giants**. Honour the witwise Ancestors, exalt and sing their praises!
-- **Clean Slate:** Feeling overwhelmed? `clear` erases the screen, giving you a fresh start in your digital workspace.
+- **Echo Your Way:** Start with `echo` to print text on the screen, displaying messages and
+  experimenting with syntax.
+- **GNU/Linux Man is Mentor:** Need help? Unfurl the ‘GNU/Linux Manual’: `man command_name` reveals the
+  secrets of any command at your fingertips! Most entries in Man have: (a) creator(s), iterator(s)
+  and/or maintainer(s). Be present to the digital **Truth:** that **You** are standing on the shoulders
+  of **Giants**. Honour the witwise Ancestors, exalt and sing their praises!
+- **Clean Slate:** Feeling overwhelmed? `clear` erases the screen, giving you a fresh start in your
+  digital workspace.
 
 **1.3** **File System:**
 
-- **Pathfinding:** Master the map of your data: absolute paths like `/path/to/file` start from the root, while relative paths like `./file` navigate from your current location.
-- **File Power Tools:** Create, read, copy, move, and delete files with confidence using `touch`, `cat`, `cp`, `mv`, and `rm`. Edit their contents with text editors like `nano`, `vi`, `vim` and/or `nvim`, etc.
-- **Archive and Compress:** Pack your data efficiently! `tar` creates archives, while `gzip` and `bzip2` shrink their size for convenient storage and sharing.
+- **Pathfinding:** Master the map of your data: absolute paths like `/path/to/file` start from the
+  root, while relative paths like `./file` navigate from your current location.
+- **File Power Tools:** Create, read, copy, move, and delete files with confidence using `touch`,
+  `cat`, `cp`, `mv`, and `rm`. Edit their contents with text editors like `nano`, `vi`, `vim` and/or
+  `nvim`, etc.
+- **Archive and Compress:** Pack your data efficiently! `tar` creates archives, while `gzip` and
+  `bzip2` shrink their size for convenient storage and sharing.
 
 **1.4** **I/O Redirection:**
 
-- **Data Flow Control:** Think of pipes (`|`) as conveyor belts, carrying the output of one command to the input of the next. This is how data flows through complex command chains.
-- **Output Destinations:** Don't let data vanish! Send a command's output to a file with `> filename`. To add or append to existing content without overwriting, use `>> filename`.
-- **Input Sources:** Need to feed a command? Use `< filename` to read data from a file. Pipes and redirection work hand-in-hand for sophisticated data processing.
+- **Data Flow Control:** Think of pipes (`|`) as conveyor belts, carrying the output of one command to
+  the input of the next. This is how data flows through complex command chains.
+- **Output Destinations:** Don't let data vanish! Send a command's output to a file with `> filename`.
+  To add or append to existing content without overwriting, use `>> filename`.
+- **Input Sources:** Need to feed a command? Use `< filename` to read data from a file. Pipes and
+  redirection work hand-in-hand for sophisticated data processing.
 
 **1.A Principal Reading: ‘Learning UNIX Shell Scripting’ by Richard Silverman (1993, O'Reilly Media) - Chapter 3: ‘Navigating the Shell - Your Control Center’**
 
@@ -4825,11 +5231,15 @@ Silverman's classic text offers a gentle and engaging introduction to shell basi
 - **Environment Variable:** A named storage location for global settings accessed by programs.
 - **File:** A named collection of data stored on the computer.
 - **Output:** The data produced by a command.
-- **Pipe:** A connection between two commands, passing the output of one directly to the input of the other.
+- **Pipe:** A connection between two commands, passing the output of one directly to the input of the
+  other.
 - **Relative Path:** A path to a file relative to your current location in the file system.
-- **Standard Streams:** Predefined channels for data flow between programs: stdin (user input), stdout (program output), and stderr (error output).
-- **Tab Completion:** A feature that automatically completes file and directory names based on partial input.
-- **Wildcard:** A symbol like `*` or `?` that matches either multiple or singular character(s) in a file or directory name.
+- **Standard Streams:** Predefined channels for data flow between programs: stdin (user input), stdout
+  (program output), and stderr (error output).
+- **Tab Completion:** A feature that automatically completes file and directory names based on partial
+  input.
+- **Wildcard:** A symbol like `*` or `?` that matches either multiple or singular character(s) in a
+  file or directory name.
 
 **1.C Further Exploration:**
 
@@ -4839,20 +5249,37 @@ Silverman's chapter is just the tip of the iceberg! For deeper dives, explore ot
 
 These are the tools that make things happen. Each command has a specific purpose and way of being used.
 
-- **Basic commands:** Learn the essentials like `pwd` (print working directory), `mkdir` (create directory), `rmdir` (remove directory), `touch` (create empty file), and `rm` (remove file).
-- **Man pages:** Every command has a manual page for detailed information. Use `man ls` to learn about the `ls` command and its many options.
-- **Command flags and options:** Most commands offer additional functionality through flags and options. For example, `ls -a` shows hidden files.
+- **Basic commands:** Learn the essentials like `pwd` (print working directory), `mkdir` (create
+  directory), `rmdir` (remove directory), `touch` (create empty file), and `rm` (remove file).
+- **Man pages:** Every command has a manual page for detailed information. Use `man ls` to learn about
+  the `ls` command and its many options.
+- **Command flags and options:** Most commands offer additional functionality through flags and
+  options. For example, `ls -a` shows hidden files.
 
 **2.1** **Termux Power Tools:**
 
-- **Command Aliases:** Create shortcuts for frequently used commands. `alias ll="ls -l"` saves precious keystrokes while keeping your code clean.
-- **Command Functions:** Define custom functions to encapsulate complex operations. Break down large scripts into reusable modules for enhanced organization and efficiency. Thus, you amass a library!
-- **History Expansion:** Explore the Bash and Zsh `history` with exclamation points. `!n` repeats the nth command, `!prefix` searches history for matching commands, and `!$` retrieves the last argument from the previous command.
-- **Globbing Beyond Wildcards:** Expand on basic wildcards. Brace expansions like `{file1,file2}` match multiple files, while double asterisks (`**`) recursively descend directories, finding all matching files within.
-- **Process Control:** Manage running processes with finesse. `jobs` lists active jobs, `bg %n` sends a job to the background, and `fg %n` brings it to the foreground. You can even control jobs by process IDs with `kill` and `wait`.
-- **Text Processing Powerhouse:** Utilize built-in tools for powerful text manipulation: `grep` searches for patterns in files, `cut` extracts specific columns, `sed` performs in-place editing, `awk` ****processes and analyzes text data, often for pattern-based searching and data extraction, all within the terminal.
-- **Conditionals and Loops:** Automate repetitive tasks with logic. `if` statements based on conditions execute specific commands, while `for` and `while` loops iterate through lists or files, automating workflows.
-- **Pipes and Filters Revisited:** Master the art of data flow. Combine pipes and filters like `sort` and `uniq` to process data in stages, creating complex transformations from simple commands.
+- **Command Aliases:** Create shortcuts for frequently used commands. `alias ll="ls -l"` saves precious
+  keystrokes while keeping your code clean.
+- **Command Functions:** Define custom functions to encapsulate complex operations. Break down large
+  scripts into reusable modules for enhanced organization and efficiency. Thus, you amass a library!
+- **History Expansion:** Explore the Bash and Zsh `history` with exclamation points. `!n` repeats the
+  nth command, `!prefix` searches history for matching commands, and `!$` retrieves the last argument
+  from the previous command.
+- **Globbing Beyond Wildcards:** Expand on basic wildcards. Brace expansions like `{file1,file2}` match
+  multiple files, while double asterisks (`**`) recursively descend directories, finding all matching
+  files within.
+- **Process Control:** Manage running processes with finesse. `jobs` lists active jobs, `bg %n` sends a
+  job to the background, and `fg %n` brings it to the foreground. You can even control jobs by process
+  IDs with `kill` and `wait`.
+- **Text Processing Powerhouse:** Utilize built-in tools for powerful text manipulation: `grep`
+  searches for patterns in files, `cut` extracts specific columns, `sed` performs in-place editing,
+  `awk` ****processes and analyzes text data, often for pattern-based searching and data extraction,
+  all within the terminal.
+- **Conditionals and Loops:** Automate repetitive tasks with logic. `if` statements based on conditions
+  execute specific commands, while `for` and `while` loops iterate through lists or files, automating
+  workflows.
+- **Pipes and Filters Revisited:** Master the art of data flow. Combine pipes and filters like `sort`
+  and `uniq` to process data in stages, creating complex transformations from simple commands.
 
 **2.A Principal Reading:** **"The Z Shell Handbook" by Arthur Crowfoot (2013, No Starch Press) - Chapter 6: ‘Power Tools for the Command Line’**
 
@@ -4861,18 +5288,26 @@ Crowfoot's handbook delves beyond everyday commands, revealing the hidden potent
 **2.B Keyword Glossary:**
 
 - **Alias:** A custom abbreviation for a frequently used command.
-- **Background Process:** A running program detached from the terminal, allowing further interaction with the shell.
+- **Background Process:** A running program detached from the terminal, allowing further interaction
+  with the shell.
 - **Command Function:** A user-defined block of code executed like a regular command.
 - **Conditionals:** `if` statements that execute commands based on true or false conditions.
-- **Foreground Process:** A program currently occupying the terminal's focus, receiving all keyboard input.
+- **Foreground Process:** A program currently occupying the terminal's focus, receiving all keyboard
+  input.
 - **Globbing:** Expanding wildcards like `*` and `?` to match multiple files or individual characters.
-- **History Expansion:** Using exclamation points (e.g., `!n`) to access and manipulate past commands in `history`.
-- **Job Control:** Managing running processes by sending them to background, foreground, or terminating them.
+- **History Expansion:** Using exclamation points (e.g., `!n`) to access and manipulate past commands
+  in `history`.
+- **Job Control:** Managing running processes by sending them to background, foreground, or terminating
+  them.
 - **Loop:** A repetitive block of code iterating through a list or while a condition is true.
-- **Pipe:** An `|`connection between two commands, sending the output of one directly to the input of the other.
-- **Process:** A running program, occupying system resources and performing a specific task. The shell itself, is a process!
-- **Regular Expression:** A pattern used for searching and manipulating text in a variety of specific or applied ways.
-- **Text Processing:** Manipulating the content of files using commands like `grep`, `cut`, `awk`and `sed`.
+- **Pipe:** An `|`connection between two commands, sending the output of one directly to the input of
+  the other.
+- **Process:** A running program, occupying system resources and performing a specific task. The shell
+  itself, is a process!
+- **Regular Expression:** A pattern used for searching and manipulating text in a variety of specific
+  or applied ways.
+- **Text Processing:** Manipulating the content of files using commands like `grep`, `cut`, `awk`and
+  `sed`.
 
 **2.C Beyond Crowfoot:** Remember, this is just the tip of the iceberg! Explore online resources, experiment with advanced techniques, and delve deeper into Crowfoot's handbook to unlock the full potential of Termux's powerful command arsenal. With practice and perseverance, you'll transform from a dabbling and inexacting sometime and occasional user into a confident Termuxi mage and don virtuoso amongst the elect Turmuxii, wielding code as your wand and commands as your charms to stave and manage mischief, and to shape and manifest your bitwise digital realm exactly as your sovereign interpretive logic and worldview desires.
 
@@ -4880,21 +5315,30 @@ Crowfoot's handbook delves beyond everyday commands, revealing the hidden potent
 
 Think of the file system as the organized storage space on your device. Understanding its structure is key for managing your files effectively.
 
-- **File types:** Regular files hold content (text, images), directories group files, and special files represent devices or resources.
-- **Permissions:** Access control is crucial. Use `chmod` to change file permissions (read, write, execute) for different users.
-- **Hidden files:** Files starting with a dot `.`, called dotfiles, are hidden. Invoke `ls -a` to show them.
+- **File types:** Regular files hold content (text, images), directories group files, and special files
+  represent devices or resources.
+- **Permissions:** Access control is crucial. Use `chmod` to change file permissions (read, write,
+  execute) for different users.
+- **Hidden files:** Files starting with a dot `.`, called dotfiles, are hidden. Invoke `ls -a` to show
+  them.
 
 **3.1** **File System Mastery:**
 
 - **File Attributes:** Go beyond file names and sizes. Uncover hidden properties like timestamps
-    
-    (`ls -l`), file types (`file`), and ownership (`stat`). Manipulate timestamps with `touch` and ownership with `chown`, tailoring your file system to your needs.
-    
-- **Permissions Demystified:** Understand the access control system. `chmod` allows you to adjust read, write, and execute permissions (rwx) for users, groups, and others, ensuring data integrity and preventing unauthorized access.
-- **Symbolic Links:** Create shortcuts without copying data. `ln -s` creates a symbolic link, referencing the original file like a portal, saving storage space and  streamlining access.
-- **Hard Links:** Forge unbreakable bonds. Unlike symbolic links, `ln` creates a hard link, a duplicate file sharing the same data block as the original, ensuring consistent updates and redundancy.
-- **Finding Your Way:** Navigating the labyrinth with finesse. Beyond `cd`, master advanced directory manipulation with `mkdir` for creating nested structures, `mv` for renaming and moving files, and `rm -rf` for cautious deletion (irreversible, use with care!).
-- **Archiving and Compression:** Preserve and optimize. `tar` creates archives for organized storage, while `gzip` and `bzip2` shrink file sizes for efficient transfer and backup.
+  (`ls -l`), file types (`file`), and ownership (`stat`). Manipulate timestamps with `touch` and
+  ownership with `chown`, tailoring your file system to your needs.
+- **Permissions Demystified:** Understand the access control system. `chmod` allows you to adjust read,
+  write, and execute permissions (rwx) for users, groups, and others, ensuring data integrity and
+  preventing unauthorized access.
+- **Symbolic Links:** Create shortcuts without copying data. `ln -s` creates a symbolic link,
+  referencing the original file like a portal, saving storage space and  streamlining access.
+- **Hard Links:** Forge unbreakable bonds. Unlike symbolic links, `ln` creates a hard link, a duplicate
+  file sharing the same data block as the original, ensuring consistent updates and redundancy.
+- **Finding Your Way:** Navigating the labyrinth with finesse. Beyond `cd`, master advanced directory
+  manipulation with `mkdir` for creating nested structures, `mv` for renaming and moving files, and `rm
+  -rf` for cautious deletion (irreversible, use with care!).
+- **Archiving and Compression:** Preserve and optimize. `tar` creates archives for organized storage,
+  while `gzip` and `bzip2` shrink file sizes for efficient transfer and backup.
 
 **3.A Principal Reading: ‘Linux Command Line and Shell Scripting Bible’ by Richard Blum (2018, Wiley) - Chapter 10: ‘Mastering File Attributes and Permissions’**
 
@@ -4903,9 +5347,12 @@ Blum's comprehensive guide dives beyond basic file commands, empowering you to f
 **3.B Keyword Glossary:**
 
 - **Attribute:** A property of a file beyond its name and size, like timestamps, type, or ownership.
-- **Hard Link:** A duplicate file sharing the same data block as the original, ensuring consistent updates.
-- **Permission:** A privilege to read, write, or execute a file, controlled by a system of access control lists.
-- **Symbolic Link:** A shortcut referencing the original file like a portal, saving storage space and streamlining access.
+- **Hard Link:** A duplicate file sharing the same data block as the original, ensuring consistent
+  updates.
+- **Permission:** A privilege to read, write, or execute a file, controlled by a system of access
+  control lists.
+- **Symbolic Link:** A shortcut referencing the original file like a portal, saving storage space and
+  streamlining access.
 
 **3.C Further Exploration:** Remember, Blum's chapter is just the beginning! Explore online tutorials, delve deeper into his book, and experiment with the commands to solidify your file system mastery. With practice and exploration, you'll transform your Termux environment into a well-organized haven of digital assets, readily accessible and under your complete control.
 
@@ -4913,17 +5360,24 @@ Blum's comprehensive guide dives beyond basic file commands, empowering you to f
 
 Imagine data flowing through pipes. Redirection controls how commands receive input and send output.
 
-- **Standard input (stdin):** By default, commands read from the virtual keyboard. Use `>` to redirect the output of another command to a file (e.g., `ls >filelist.txt`).
-- **Standard output (stdout):** This is the default output displayed on the screen. Use `<` to redirect a file's content as input to a command (e.g., `grep error logfile.txt`).
-- **Standard error (stderr):** Errors are usually displayed on the screen along with output. Use `2>` to redirect errors to a separate file (e.g., `ls 2>errors.txt`).
+- **Standard input (stdin):** By default, commands read from the virtual keyboard. Use `>` to redirect
+  the output of another command to a file (e.g., `ls >filelist.txt`).
+- **Standard output (stdout):** This is the default output displayed on the screen. Use `<` to redirect
+  a file's content as input to a command (e.g., `grep error logfile.txt`).
+- **Standard error (stderr):** Errors are usually displayed on the screen along with output. Use `2>`
+  to redirect errors to a separate file (e.g., `ls 2>errors.txt`).
 
 **Practical Exercises:**
 
-- Navigate through different directories in your Termux environment. Create subdirectories and practice moving between them.
-- List files and directories using different options of the `ls` command. Try to display hidden files and detailed information about files.
+- Navigate through different directories in your Termux environment. Create subdirectories and practice
+  moving between them.
+- List files and directories using different options of the `ls` command. Try to display hidden files
+  and detailed information about files.
 - Create new files and directories using `touch` and `mkdir`. Remove them using `rm` and `rmdir`.
-- Experiment with basic commands like `pwd`, `man`, `info`, and `chmod` to understand their functionality.
-- Practice redirecting output and input. Try piping the output of `ls` to `grep` to search for specific files. Redirect errors to a separate file to keep your output clean.
+- Experiment with basic commands like `pwd`, `man`, `info`, and `chmod` to understand their
+  functionality.
+- Practice redirecting output and input. Try piping the output of `ls` to `grep` to search for specific
+  files. Redirect errors to a separate file to keep your output clean.
 
 Remember, the best way to learn is by doing! These exercises are just a starting point. Explore new commands, experiment with combinations, and don't be afraid to make mistakes. As you practice, you'll gain confidence and navigate the world of Bash and Zsh with ease.
 
@@ -4940,37 +5394,50 @@ Welcome to the world of text manipulation! Here, you'll learn how to wield power
 Imagine a magnifying glass for text files. `grep` searches for specific patterns within files and displays matching lines.
 
 - **Basic usage:** `grep "pattern" filename` searches for the "pattern" in the "filename".
-- **Options:** Fine-tune your search with options like `i` (case-insensitive), `v` (inverse match), and `r` (recursive search in directories).
-- **Regular expressions:** Take your search power to the next level! Learn regular expressions to match complex patterns (e.g., `grep "[0-9]{3}-[0-9]{3}-[0-9]{4}" phone_data.txt` finds phone numbers).
+- **Options:** Fine-tune your search with options like `i` (case-insensitive), `v` (inverse match), and
+  `r` (recursive search in directories).
+- **Regular expressions:** Take your search power to the next level! Learn regular expressions to match
+  complex patterns (e.g., `grep "[0-9]{3}-[0-9]{3}-[0-9]{4}" phone_data.txt` finds phone numbers).
 
 **2. sed: The Stream Editor**
 
 Think of `sed` as a surgeon for text files. It allows you to edit, delete, or insert lines and characters on the fly.
 
-- **Basic usage:** `sed "s/pattern/replacement/g" filename` replaces all occurrences of "pattern" with "replacement" in "filename" (g for global).
-- **Commands:** `sed "d" deletes lines, "i\text" inserts text before a line, and "a\text" appends text after a line.
-- **Practice:** Use `sed` to clean log files by removing empty lines or specific keywords. Try formatting data by adding prefixes or suffixes to lines.
+- **Basic usage:** `sed "s/pattern/replacement/g" filename` replaces all occurrences of "pattern" with
+  "replacement" in "filename" (g for global).
+- **Commands:** `sed "d" deletes lines, "i\text" inserts text before a line, and "a\text" appends text
+  after a line.
+- **Practice:** Use `sed` to clean log files by removing empty lines or specific keywords. Try
+  formatting data by adding prefixes or suffixes to lines.
 
 **3. awk: The All-Powerful Analyzer**
 
 Imagine a Swiss Army knife for text processing. `awk` combines searching, filtering, and data manipulation in one powerful tool.
 
-- **Basic usage:** `awk 'pattern {action}' filename` applies the "action" to lines matching the "pattern".
-- **Patterns and actions:** Patterns can be simple strings or complex expressions. Actions can include printing, arithmetic operations, and string manipulation.
-- **Examples:** Use `awk '/error/' logfile.txt` to show lines with "error", or `awk '{print $1,$4}' data.txt` to print the first and fourth columns of each line.
+- **Basic usage:** `awk 'pattern {action}' filename` applies the "action" to lines matching the
+  "pattern".
+- **Patterns and actions:** Patterns can be simple strings or complex expressions. Actions can include
+  printing, arithmetic operations, and string manipulation.
+- **Examples:** Use `awk '/error/' logfile.txt` to show lines with "error", or `awk '{print $1,$4}'
+  data.txt` to print the first and fourth columns of each line.
 
 **4. cut: The Precision Cutter**
 
 Think of `cut` as a laser for extracting specific parts of lines. It slices and dices text files with surgical precision.
 
-- **Basic usage:** `cut -d delimiter field_numbers filename` extracts specified fields (field_numbers) based on a delimiter (e.g., comma, space).
-- **Options:** Use `f` to specify individual fields, `c` for character positions, and `-delimiter` for custom delimiters.
-- **Example:** Use `cut -d ',' -f2,4 users.csv` to extract the second and fourth columns (names and emails) from a comma-separated file.
+- **Basic usage:** `cut -d delimiter field_numbers filename` extracts specified fields (field_numbers)
+  based on a delimiter (e.g., comma, space).
+- **Options:** Use `f` to specify individual fields, `c` for character positions, and `-delimiter` for
+  custom delimiters.
+- **Example:** Use `cut -d ',' -f2,4 users.csv` to extract the second and fourth columns (names and
+  emails) from a comma-separated file.
 
 **Practical Exercises:**
 
-- Combine these tools to analyze web server logs. Use `grep` to find specific IP addresses, then use `cut` to extract specific fields like timestamp or status code.
-- Practice formatting data for further analysis. Use `sed` to remove unwanted characters or rearrange columns.
+- Combine these tools to analyze web server logs. Use `grep` to find specific IP addresses, then use
+  `cut` to extract specific fields like timestamp or status code.
+- Practice formatting data for further analysis. Use `sed` to remove unwanted characters or rearrange
+  columns.
 - Try writing simple scripts that automate data manipulation tasks using these tools.
 
 Remember, mastery comes with practice. Experiment, explore different combinations, and don't hesitate to consult online resources or ask for help. You'll be surprised by the power and versatility of these text processing tools as you navigate the exciting world of ethical hacking!
@@ -4988,7 +5455,9 @@ In the digital world, files are valuable assets, and controlling access to them 
 - **User:** Any individual interacting with the system.
 - **Group:** A collection of users sharing permissions for specific files or directories.
 - **Owner:** The user who created a file or directory.
-- **Permissions:** Rules defining what user(s) , group(s) and owner can do with a file (read, write, execute). Represented either by simple alpha symbol or the more powerful superset of arguments, numerically represented by a three-digit number:
+- **Permissions:** Rules defining what user(s) , group(s) and owner can do with a file (read, write,
+  execute). Represented either by simple alpha symbol or the more powerful superset of arguments,
+  numerically represented by a three-digit number:
     - **4 (r):** Read permission - view file content.
     - **2 (w):** Write permission - modify file content.
     - **1 (x):** Execute permission - run programs or scripts.
@@ -5011,18 +5480,22 @@ For example, `chmod 755 file.txt` grants:
 
 - Each file or directory has a primary group associated with it.
 - Users belonging to that group share certain permissions.
-- To grant group ownership-like control, add users to the shared group and set appropriate group permissions using `chmod`.
+- To grant group ownership-like control, add users to the shared group and set appropriate group
+  permissions using `chmod`.
 
 **2. Access Control Lists (ACLs):**
 
 - ACLs provide more granular control beyond the traditional owner-group-others model.
-- You can assign specific permissions to individual users or groups, regardless of their primary group membership.
-- If your file system supports ACLs (e.g., ext4, XFS), use commands like `setfacl` and `getfacl` to manage them.
+- You can assign specific permissions to individual users or groups, regardless of their primary group
+  membership.
+- If your file system supports ACLs (e.g., ext4, XFS), use commands like `setfacl` and `getfacl` to
+  manage them.
 
 **Remember:**
 
 - The concept of "multiple owners" in the traditional sense doesn't apply.
-- Groups and ACLs offer ways to simulate shared ownership and control access for multiple users effectively.
+- Groups and ACLs offer ways to simulate shared ownership and control access for multiple users
+  effectively.
 - Choose the approach that best suits your specific needs and file system capabilities.
 
 **2. Access Control:**
@@ -5033,21 +5506,29 @@ Files and directories have three sets of permissions: owner, group, and others. 
 
 The `chmod` command is your key to adjusting access control. Here's how you wield it:
 
-- **Basic usage:** `chmod <octal_mode> filename` sets the permissions for the entire file using an octal number (e.g., `chmod 755 file.txt` grants rwx to owner, rx to group, and rx to others).
-- **Symbolic mode:** Use letters for easier representation (e.g., `chmod u+w file.txt` grants write permission to the owner).
-- **Understanding owner vs. group vs. others:** Remember, changing group ownership requires the set-bit permission on the directory.
+- **Basic usage:** `chmod <octal_mode> filename` sets the permissions for the entire file using an
+  octal number (e.g., `chmod 755 file.txt` grants rwx to owner, rx to group, and rx to others).
+- **Symbolic mode:** Use letters for easier representation (e.g., `chmod u+w file.txt` grants write
+  permission to the owner).
+- **Understanding owner vs. group vs. others:** Remember, changing group ownership requires the set-bit
+  permission on the directory.
 
 **4. Practical Examples:**
 
-- **Securing sensitive files:** Restrict access to your personal documents by removing write permission for group and others.
-- **Sharing files with specific access levels:** Grant group members read access to project files while reserving write permission for yourself.
-- **Ethical hacking applications:** Analyze file permissions on vulnerable servers to identify potential access control weaknesses.
+- **Securing sensitive files:** Restrict access to your personal documents by removing write permission
+  for group and others.
+- **Sharing files with specific access levels:** Grant group members read access to project files while
+  reserving write permission for yourself.
+- **Ethical hacking applications:** Analyze file permissions on vulnerable servers to identify
+  potential access control weaknesses.
 
 **5. Exercises:**
 
 - Practice changing file permissions using both octal and symbolic modes.
-- Create directories with specific group permissions and experiment with adding or removing users from the group to observe the access changes.
-- Analyze file permissions on public servers hosted online and try to identify potential security vulnerabilities based on access control settings.
+- Create directories with specific group permissions and experiment with adding or removing users from
+  the group to observe the access changes.
+- Analyze file permissions on public servers hosted online and try to identify potential security
+  vulnerabilities based on access control settings.
 
 **Bonus Tip:** Remember, with great power comes great responsibility. Use your knowledge of permissions ethically and avoid exploiting vulnerabilities for malicious purposes.
 
@@ -5070,21 +5551,26 @@ In Termux, if `echo $EDITOR` doesn't return anything, it means that no default t
 
 **Environment variable $EDITOR:**
 
-* This variable stores the path to the text editor that Termux will invoke by default when commands like `nano` or `vim` are used without specifying a file.
+* This variable stores the path to the text editor that Termux will invoke by default when commands
+  like `nano` or `vim` are used without specifying a file.
 * If it's empty, Termux won't know which editor to use and won't be able to automatically launch one.
 
 **Possible reasons for an empty $EDITOR:**
 
 * **Fresh installation:** Termux doesn't come with a pre-defined default text editor.
-* **Manual configuration:** You may have intentionally or unintentionally removed the text editor setting.
-- **Conflicting environment:** Specific configurations or scripts may have temporarily cleared the variable.
+* **Manual configuration:** You may have intentionally or unintentionally removed the text editor
+  setting.
+- **Conflicting environment:** Specific configurations or scripts may have temporarily cleared the
+  variable.
 
 **What to do next:**
 
-1. **Identify preferred editor:** Choose the text editor you'd like to use as default (e.g., `nano`, `micro`, `vi`, `vim`, Neovim (a.k.a `nvim`), or`emacs`, etc.).
+1. **Identify preferred editor:** Choose the text editor you'd like to use as default (e.g., `nano`,
+   `micro`, `vi`, `vim`, Neovim (a.k.a `nvim`), or`emacs`, etc.).
 2. **Set the $EDITOR variable:**
     - Open Termux.
-    - Type `export EDITOR=/path/to/your/editor` (replace `/path/to/your/editor` with the actual path of your chosen editor).
+    - Type `export EDITOR=/path/to/your/editor` (replace `/path/to/your/editor` with the actual path of
+      your chosen editor).
     - Press Enter.
     - To determine the actual path of your chosen editor, execute `which <insert text editor name>`
     
@@ -5093,108 +5579,126 @@ In Termux, if `echo $EDITOR` doesn't return anything, it means that no default t
 
 **Additional notes:**
 
-- You can make the setting permanent by adding the `export EDITOR=` line to your `~/.bashrc` configuration file, or as appropriate in your chosen shell configuration file.
-- Termux provides packages for various editors. Use `pkg install <editor_name>` to install the one you prefer.
-- Note, you may need to research and tweak these instructions for your particular system implementation. 
+- You can make the setting permanent by adding the `export EDITOR=` line to your `~/.bashrc`
+  configuration file, or as appropriate in your chosen shell configuration file.
+- Termux provides packages for various editors. Use `pkg install <editor_name>` to install the one you
+  prefer.
+- Note, you may need to research and tweak these instructions for your particular system
+  implementation. 
 
 **1. Script Basics:**
 
 A shell script is a special kind of textfile containing source code that consists of a series of commands, most of which are generally executed in sequence. Think of it as a recipe for your hand-held (or other) device, telling it what to do incrementally or step-by-step.
 
-- **Illuminating the scripting toolset :** You may effectively employ any text editor (and/or IDE) available to you for scripting the experiential aspects and projects enshrined and advocated within this roadmap. Waxing lyrical, this work, in truth, is more than a shell-scripting roadmap, it is a meta-roadmap; for, it consists of a dynamic plurality and curation of manifold interpenetrating shell scripting roadmaps, theoretical and experiential. I contend, that the complex system, so achieved, and which may be constantly refined and developed, is not only invaluable, but inestimable. It is, in effect, what sets this work apart from others in the genre and discourse. Just as traversing any journey with a guide is, in the instantiation, unique. So too, is the experiential enrichment of each and every person who engages this work, and how they facilitate and navigate it: to write, formulate and codify their scripting learnings, endeavours and resultant journey.
+- **Illuminating the scripting toolset :** You may effectively employ any text editor (and/or IDE)
+  available to you for scripting the experiential aspects and projects enshrined and advocated within
+  this roadmap. Waxing lyrical, this work, in truth, is more than a shell-scripting roadmap, it is a
+  meta-roadmap; for, it consists of a dynamic plurality and curation of manifold interpenetrating shell
+  scripting roadmaps, theoretical and experiential. I contend, that the complex system, so achieved,
+  and which may be constantly refined and developed, is not only invaluable, but inestimable. It is, in
+  effect, what sets this work apart from others in the genre and discourse. Just as traversing any
+  journey with a guide is, in the instantiation, unique. So too, is the experiential enrichment of each
+  and every person who engages this work, and how they facilitate and navigate it: to write, formulate
+  and codify their scripting learnings, endeavours and resultant journey.
     
-    Now, returning to the ‘matter at *hand*’, forgive the shameless pun, as well as the stock turn of phrase. The potential candidates available to the individual on an Android hand-held device to fulfil the role of text editor (and/or IDE) , is unable to be definitely or definitively quantified, but the number is, with certainty, exceedingly vast: from the popular, to the arcane, from the ridiculous, to the sublime, from all the whizbang extensibility possible in a bespoke and customised IDE, to a sparse and Spartan, traditional, primary CLI text editor. From my extensive research and practical endeavour, I strongly advocate Neovim in the Termux CLI. If you don't yet know, you will come to realise and experience, the fervour and irrationality that pretty much all scriptors in my experience have (including myself), for their chosen text editor (or IDE). Neovim, is grounded in Vim, which in turn, is grounded in vi. All three of them are intimately informed by, and integrated with, their *NIX hosts.
+Now, returning to the ‘matter at *hand*’, forgive the shameless pun, as well as the stock turn of phrase. The potential candidates available to the individual on an Android hand-held device to fulfil the role of text editor (and/or IDE) , is unable to be definitely or definitively quantified, but the number is, with certainty, exceedingly vast: from the popular, to the arcane, from the ridiculous, to the sublime, from all the whizbang extensibility possible in a bespoke and customised IDE, to a sparse and Spartan, traditional, primary CLI text editor. From my extensive research and practical endeavour, I strongly advocate Neovim in the Termux CLI. If you don't yet know, you will come to realise and experience, the fervour and irrationality that pretty much all scriptors in my experience have (including myself), for their chosen text editor (or IDE). Neovim, is grounded in Vim, which in turn, is grounded in vi. All three of them are intimately informed by, and integrated with, their *NIX hosts.
+
+**Bard, please generate an incisive narrative on the emergence, history and development of the CLI text editor that the *NIX inherited and evolved, focus on why vi is so formative and beloved, then continue with its fork Vim, conveying why it was so formative and how it evolved, then the fork Neovim, and how it has developed and evolved. Showcase the vast granularity of all three of them but particularly in the profound granularity of Neovim and its vast extensibility through its plugin ecosystem. Chart the relationship and interpretation of these CLI text editors with the terminal, shell and *NIX operating systems. Convey key actors.**
     
-    **Bard, please generate an incisive narrative on the emergence, history and development of the CLI text editor that the *NIX inherited and evolved, focus on why vi is so formative and beloved, then continue with its fork Vim, conveying why it was so formative and how it evolved, then the fork Neovim, and how it has developed and evolved. Showcase the vast granularity of all three of them but particularly in the profound granularity of Neovim and its vast extensibility through its plugin ecosystem. Chart the relationship and interpretation of these CLI text editors with the terminal, shell and *NIX operating systems. Convey key actors.**
+In the primordial soup of the command line, where ones and zeros swirled in eddies of primeval code, three titans of text arose: vi, Vim, and Neovim. Their saga is etched in the flickering cursor, a testament to the *NIX spirit of power and granularity.
     
-    In the primordial soup of the command line, where ones and zeros swirled in eddies of primeval code, three titans of text arose: vi, Vim, and Neovim. Their saga is etched in the flickering cursor, a testament to the *NIX spirit of power and granularity.
+**vi, the Ascetic:** Born in the fiery crucible of the 1970s, vi was a spartan warrior. Modal editing, cryptic commands, and the ever-present threat of the dreaded `^D` – it was a tool for hackers, not hand-holders. Yet, in its rawness lay its allure. Every keystroke was deliberate, a conversation with the machine, forging mastery through sweat and grit. Bill Joy, its creator, imbued vi with the *NIX ethos: power through simplicity, efficiency through control.
     
-    **vi, the Ascetic:** Born in the fiery crucible of the 1970s, vi was a spartan warrior. Modal editing, cryptic commands, and the ever-present threat of the dreaded `^D` – it was a tool for hackers, not hand-holders. Yet, in its rawness lay its allure. Every keystroke was deliberate, a conversation with the machine, forging mastery through sweat and grit. Bill Joy, its creator, imbued vi with the *NIX ethos: power through simplicity, efficiency through control.
+**Vim, the Heretic:** Enter Bram Moolenaar, a Dutch programmer who saw vi's potential. In 1991, he forked vi, not to overthrow, but to evolve. Vim retained the core, but adorned it with features – plugins, syntax highlighting, undo/redo. It was heresy to some, progress to others. Vim wasn't just a text editor; it was a platform, a canvas for customization. Communities bloomed, crafting plugins for every conceivable task, pushing the boundaries of what a text editor could be.
     
-    **Vim, the Heretic:** Enter Bram Moolenaar, a Dutch programmer who saw vi's potential. In 1991, he forked vi, not to overthrow, but to evolve. Vim retained the core, but adorned it with features – plugins, syntax highlighting, undo/redo. It was heresy to some, progress to others. Vim wasn't just a text editor; it was a platform, a canvas for customization. Communities bloomed, crafting plugins for every conceivable task, pushing the boundaries of what a text editor could be.
+**Neovim, the Prodigy:** Yet, even Vim wasn't boundless. Its architecture, like an aging cathedral, creaked under the weight of its own extensions. So, in 2014, Thiago de Arruda embarked on a daring quest: Neovim. Built from the ground up, Neovim embraced the future – asynchronous plugins, Lua scripting, and seamless integration with modern tools. It was vi's spirit reborn in a 21st-century shell.
     
-    **Neovim, the Prodigy:** Yet, even Vim wasn't boundless. Its architecture, like an aging cathedral, creaked under the weight of its own extensions. So, in 2014, Thiago de Arruda embarked on a daring quest: Neovim. Built from the ground up, Neovim embraced the future – asynchronous plugins, Lua scripting, and seamless integration with modern tools. It was vi's spirit reborn in a 21st-century shell.
+But this is not a story of linear succession. vi, Vim, and Neovim co-exist, each catering to a different facet of the *NIX soul. vi, the stoic sage, whispers its wisdom to hardcore terminal dwellers. Vim, the versatile craftsman, serves coders and sysadmins alike. And Neovim, the visionary, beckons developers and tinkerers to shape the future of text editing.
     
-    But this is not a story of linear succession. vi, Vim, and Neovim co-exist, each catering to a different facet of the *NIX soul. vi, the stoic sage, whispers its wisdom to hardcore terminal dwellers. Vim, the versatile craftsman, serves coders and sysadmins alike. And Neovim, the visionary, beckons developers and tinkerers to shape the future of text editing.
+Their relationship with the terminal and shell is symbiotic. The terminal is their canvas, the shell their conduit. Together, they form the triumvirate of *NIX text manipulation, shaping code, prose, and everything in between.
     
-    Their relationship with the terminal and shell is symbiotic. The terminal is their canvas, the shell their conduit. Together, they form the triumvirate of *NIX text manipulation, shaping code, prose, and everything in between.
+Key actors? Countless. From the visionary developers to the plugin-wielding wizards, the story of these text editors is a testament to the collaborative spirit of the *NIX community. It's a story of pushing boundaries, embracing complexity, and ultimately, wielding the power of text with unparalleled precision. So, fire up your terminal, choose your weapon, and join the saga. The cursor blinks, beckoning you to write your own chapter in the epic of *NIX text editing.
     
-    Key actors? Countless. From the visionary developers to the plugin-wielding wizards, the story of these text editors is a testament to the collaborative spirit of the *NIX community. It's a story of pushing boundaries, embracing complexity, and ultimately, wielding the power of text with unparalleled precision. So, fire up your terminal, choose your weapon, and join the saga. The cursor blinks, beckoning you to write your own chapter in the epic of *NIX text editing.
+Remember, this is just a starting point. You can delve deeper into specific features, historical controversies, or influential figures within each editor's community. The beauty of this story lies in its depth and the passionate opinions it evokes. Feel free to add your own insights and interpretations to make the narrative truly your own.
     
-    Remember, this is just a starting point. You can delve deeper into specific features, historical controversies, or influential figures within each editor's community. The beauty of this story lies in its depth and the passionate opinions it evokes. Feel free to add your own insights and interpretations to make the narrative truly your own.
+## In the Terminal's Belly: A Saga of Text, Code, and Keys
     
-    ## In the Terminal's Belly: A Saga of Text, Code, and Keys
+In the primordial ooze of the command line, where pixels were scarce and processing power precious, a text editor emerged – vi. Born from the mind of Bill Joy in the 1970s, it was rough-hewn and cryptic, demanding mastery of arcane modes and cryptic commands. Yet, for hackers and sysadmins, it was a revelation. Its modal editing, lightning-fast navigation, and ruthless efficiency made it the perfect tool for sculpting code and text in the confines of the terminal.
     
-    In the primordial ooze of the command line, where pixels were scarce and processing power precious, a text editor emerged – vi. Born from the mind of Bill Joy in the 1970s, it was rough-hewn and cryptic, demanding mastery of arcane modes and cryptic commands. Yet, for hackers and sysadmins, it was a revelation. Its modal editing, lightning-fast navigation, and ruthless efficiency made it the perfect tool for sculpting code and text in the confines of the terminal.
+Vi's legacy wasn't without its thorns. Its learning curve was Mount Doom, its interface a labyrinth, and its error messages, pronouncements from the cryptic gods themselves. But for those who cracked its code, vi became a badge of honor, a mark of belonging to the *NIX priesthood. It was more than an editor; it was a philosophy, a way of life lived in the flickering glow of the terminal.
     
-    Vi's legacy wasn't without its thorns. Its learning curve was Mount Doom, its interface a labyrinth, and its error messages, pronouncements from the cryptic gods themselves. But for those who cracked its code, vi became a badge of honor, a mark of belonging to the *NIX priesthood. It was more than an editor; it was a philosophy, a way of life lived in the flickering glow of the terminal.
+Enter Bram Moolenaar, a Dutch programmer who saw not the limitations, but the potential. In 1988, he birthed Vim, not a revolution, but an evolution. Vim built upon vi's core, adding features like plugins, syntax highlighting, and multiple windows. It softened the edges without sacrificing the soul, making vi's power accessible to a wider audience.
     
-    Enter Bram Moolenaar, a Dutch programmer who saw not the limitations, but the potential. In 1988, he birthed Vim, not a revolution, but an evolution. Vim built upon vi's core, adding features like plugins, syntax highlighting, and multiple windows. It softened the edges without sacrificing the soul, making vi's power accessible to a wider audience.
+But the story doesn't end there. In 2014, Thiago de Arruda, another restless spirit, saw further horizons. He envisioned a Vim unbound by its single-threaded core, a Vim that could embrace the power of modern processors and APIs. Thus, Neovim was born. It retained the familiar Vim interface, but its heart thrummed with a new rhythm, asynchronous and extensible.
     
-    But the story doesn't end there. In 2014, Thiago de Arruda, another restless spirit, saw further horizons. He envisioned a Vim unbound by its single-threaded core, a Vim that could embrace the power of modern processors and APIs. Thus, Neovim was born. It retained the familiar Vim interface, but its heart thrummed with a new rhythm, asynchronous and extensible.
+Neovim's true power lies in its plugin ecosystem. Plugins transform it from a text editor into a swiss army knife for the mind. LSP integration for real-time code completion, language servers for specialized editing, and integrations with the outside world – Neovim's canvas is boundless.
     
-    Neovim's true power lies in its plugin ecosystem. Plugins transform it from a text editor into a swiss army knife for the mind. LSP integration for real-time code completion, language servers for specialized editing, and integrations with the outside world – Neovim's canvas is boundless.
+The relationship between these editors and the *NIX ecosystem is symbiotic. The terminal is their canvas, the shell their conduit, and the operating system their lifeblood. They are the tools that shape the digital world, line by line, keystroke by keystroke.
     
-    The relationship between these editors and the *NIX ecosystem is symbiotic. The terminal is their canvas, the shell their conduit, and the operating system their lifeblood. They are the tools that shape the digital world, line by line, keystroke by keystroke.
+But the story isn't just about code and features. It's about the people who wield these tools, the hackers who push their boundaries, the contributors who breathe life into the code, and the community that binds them all together. It's a testament to the enduring power of the command line, a place where creativity and efficiency collide, and where the lines between programmer and artist blur.
     
-    But the story isn't just about code and features. It's about the people who wield these tools, the hackers who push their boundaries, the contributors who breathe life into the code, and the community that binds them all together. It's a testament to the enduring power of the command line, a place where creativity and efficiency collide, and where the lines between programmer and artist blur.
+So, the next time you blink into the terminal, remember the saga of vi, Vim, and Neovim. Remember the pioneers who forged their paths in the digital wilderness, and the countless minds who continue to shape this ever-evolving landscape. For in the belly of the terminal, lies not just code, but a testament to the human spirit's boundless capacity to create and innovate.
     
-    So, the next time you blink into the terminal, remember the saga of vi, Vim, and Neovim. Remember the pioneers who forged their paths in the digital wilderness, and the countless minds who continue to shape this ever-evolving landscape. For in the belly of the terminal, lies not just code, but a testament to the human spirit's boundless capacity to create and innovate.
-    
-    **Key Actors:**
+**Key Actors:**
     
     - Bill Joy (vi)
     - Bram Moolenaar (Vim)
     - Thiago de Arruda (Neovim)
     - The *NIX community (hackers, contributors, users)
     
-    This narrative is just a starting point, and you can delve deeper into specific aspects, technical details, or personal anecdotes to enrich the story further. Remember, the true magic lies in the details and the passion of the people who make this ecosystem thrive.
+This narrative is just a starting point, and you can delve deeper into specific aspects, technical details, or personal anecdotes to enrich the story further. Remember, the true magic lies in the details and the passion of the people who make this ecosystem thrive.
     
-    In the austere realm of the command line, where bits flicker and keystrokes echo, a lineage of text editors reigns supreme. Their story, etched in terminal history, is not one of linear progression, but of rebellion, evolution, and an almost symbiotic relationship with the *NIX ecosystem itself.
+In the austere realm of the command line, where bits flicker and keystrokes echo, a lineage of text editors reigns supreme. Their story, etched in terminal history, is not one of linear progression, but of rebellion, evolution, and an almost symbiotic relationship with the *NIX ecosystem itself.
     
-    At the genesis stands vi, birthed in the fiery crucible of Bill Joy's emacs. Cryptic, modal, and unforgiving, it mirrored the *NIX spirit – power through complexity. Its terse commands, woven into muscle memory, became a badge of honor for those who navigated the labyrinthine depths of the system. vi was not just a tool, it was a rite of passage, a gateway to the true power of the command line.
+At the genesis stands vi, birthed in the fiery crucible of Bill Joy's emacs. Cryptic, modal, and unforgiving, it mirrored the *NIX spirit – power through complexity. Its terse commands, woven into muscle memory, became a badge of honor for those who navigated the labyrinthine depths of the system. vi was not just a tool, it was a rite of passage, a gateway to the true power of the command line.
     
-    Then came Bram Moolenaar, a young Dutchman who saw not vi's limitations, but its potential. In 1991, he birthed Vim, an "improved" vi, not a usurper. He built upon its core, adding features like plugins, syntax highlighting, and multiple buffers, transforming the editor into a customizable powerhouse. Vim became the playground of power users, a canvas where macros danced and plugins orchestrated symphonies of automation.
+Then came Bram Moolenaar, a young Dutchman who saw not vi's limitations, but its potential. In 1991, he birthed Vim, an "improved" vi, not a usurper. He built upon its core, adding features like plugins, syntax highlighting, and multiple buffers, transforming the editor into a customizable powerhouse. Vim became the playground of power users, a canvas where macros danced and plugins orchestrated symphonies of automation.
     
-    Yet, the thirst for innovation remained unquenched. In 2014, Thiago de Arruda, another visionary, envisioned a Vim unbound by its legacy. Neovim emerged, a fork built upon Vim's foundation, but with a modern architecture and a focus on extensibility. Its asynchronous plugin system, Lua scripting, and native LSP integration pushed the boundaries of granularity, allowing users to sculpt the editor to their every whim.
+Yet, the thirst for innovation remained unquenched. In 2014, Thiago de Arruda, another visionary, envisioned a Vim unbound by its legacy. Neovim emerged, a fork built upon Vim's foundation, but with a modern architecture and a focus on extensibility. Its asynchronous plugin system, Lua scripting, and native LSP integration pushed the boundaries of granularity, allowing users to sculpt the editor to their every whim.
     
-    The relationship between these editors and the *NIX trinity is a fascinating dance. The terminal, their stage, provides the raw power and immediacy. The shell, their conductor, orchestrates the flow of commands. And the *NIX operating system, their canvas, serves as the fertile ground for their endless customization.
+The relationship between these editors and the *NIX trinity is a fascinating dance. The terminal, their stage, provides the raw power and immediacy. The shell, their conductor, orchestrates the flow of commands. And the *NIX operating system, their canvas, serves as the fertile ground for their endless customization.
     
-    Key actors dot this landscape. Bill Joy, the fiery creator of vi. Bram Moolenaar, the quiet architect of Vim. Thiago de Arruda, the visionary behind Neovim. And countless plugin developers, who breathe life into these editors, crafting extensions that range from the mundane to the mind-boggling.
+Key actors dot this landscape. Bill Joy, the fiery creator of vi. Bram Moolenaar, the quiet architect of Vim. Thiago de Arruda, the visionary behind Neovim. And countless plugin developers, who breathe life into these editors, crafting extensions that range from the mundane to the mind-boggling.
     
-    But the true heart of this story lies not in the individuals, but in the spirit of innovation that permeates the *NIX world. It is a spirit that thrives on challenge, that celebrates mastery, and that finds beauty in the intricate dance of commands and keystrokes.
+But the true heart of this story lies not in the individuals, but in the spirit of innovation that permeates the *NIX world. It is a spirit that thrives on challenge, that celebrates mastery, and that finds beauty in the intricate dance of commands and keystrokes.
     
-    So, the next time you enter the terminal and your fingers caress the keyboard, remember the lineage that stretches before you. Remember vi, the stoic elder. Remember Vim, the versatile champion. And remember Neovim, the ever-evolving prodigy. They are not just tools, they are testaments to the power and passion that fuel the *NIX soul.
+So, the next time you enter the terminal and your fingers caress the keyboard, remember the lineage that stretches before you. Remember vi, the stoic elder. Remember Vim, the versatile champion. And remember Neovim, the ever-evolving prodigy. They are not just tools, they are testaments to the power and passion that fuel the *NIX soul.
     
-    This is not merely a tale of editors, but a chronicle of a community, a testament to the enduring legacy of a philosophy: that in the depths of complexity lies not just power, but also endless possibilities for creation.
+This is not merely a tale of editors, but a chronicle of a community, a testament to the enduring legacy of a philosophy: that in the depths of complexity lies not just power, but also endless possibilities for creation.
     
-    ## In the Terminal's Crucible: A Symphony of Text Editors
+## In the Terminal's Crucible: A Symphony of Text Editors
     
-    Within the stark beauty of the command line, where cursor blinks are brushstrokes and keystrokes melodies, a singular lineage of text editors reigns. Their story, etched in terminal history, is not a linear ascent, but a vibrant tapestry woven from rebellion, evolution, and an inextricable bond with the *NIX ecosystem itself.
+Within the stark beauty of the command line, where cursor blinks are brushstrokes and keystrokes melodies, a singular lineage of text editors reigns. Their story, etched in terminal history, is not a linear ascent, but a vibrant tapestry woven from rebellion, evolution, and an inextricable bond with the *NIX ecosystem itself.
     
-    At the genesis stands **vi**, born from the fiery embers of Bill Joy's emacs. Cryptic, modal, and unforgiving, it mirrored the *NIX spirit – power forged in complexity. Its terse commands, etched into muscle memory, became a badge of honor for those who delved into the system's labyrinthine depths. Vi was not just a tool, it was a rite of passage, a gateway to the true power of the command line.
+At the genesis stands **vi**, born from the fiery embers of Bill Joy's emacs. Cryptic, modal, and unforgiving, it mirrored the *NIX spirit – power forged in complexity. Its terse commands, etched into muscle memory, became a badge of honor for those who delved into the system's labyrinthine depths. Vi was not just a tool, it was a rite of passage, a gateway to the true power of the command line.
     
-    **Bram Moolenaar**, a young Dutchman, saw not vi's limitations, but its potential. In 1991, he birthed **Vim**, not a usurper, but an "improved" vi. He built upon its core, infusing it with features like plugins, syntax highlighting, and multiple buffers, transforming the editor into a customizable powerhouse. Vim became the playground of power users, a canvas where macros danced and plugins orchestrated symphonies of automation.
+**Bram Moolenaar**, a young Dutchman, saw not vi's limitations, but its potential. In 1991, he birthed **Vim**, not a usurper, but an "improved" vi. He built upon its core, infusing it with features like plugins, syntax highlighting, and multiple buffers, transforming the editor into a customizable powerhouse. Vim became the playground of power users, a canvas where macros danced and plugins orchestrated symphonies of automation.
     
-    Yet, the thirst for innovation remained unquenched. In 2014, **Thiago de Arruda**, another visionary, envisioned a Vim unbound by its legacy. **Neovim** emerged, a fork built upon Vim's foundation, but with a modern architecture and a laser focus on extensibility. Its asynchronous plugin system, Lua scripting, and native LSP integration shattered granularity barriers, allowing users to sculpt the editor to their every whim, like clay in the hands of a master sculptor.
+Yet, the thirst for innovation remained unquenched. In 2014, **Thiago de Arruda**, another visionary, envisioned a Vim unbound by its legacy. **Neovim** emerged, a fork built upon Vim's foundation, but with a modern architecture and a laser focus on extensibility. Its asynchronous plugin system, Lua scripting, and native LSP integration shattered granularity barriers, allowing users to sculpt the editor to their every whim, like clay in the hands of a master sculptor.
     
-    This intricate dance between editors and the *NIX trinity – the **terminal** as stage, the **shell** as conductor, and the ***NIX operating system** as fertile canvas – has captivated scholars and researchers alike.
+This intricate dance between editors and the *NIX trinity – the **terminal** as stage, the **shell** as conductor, and the ***NIX operating system** as fertile canvas – has captivated scholars and researchers alike.
     
-    - **Studies** like "The Vim Way: Understanding How Experts Edit Text" by Christopher Stephenson delve into the cognitive processes of Vim users, revealing the unique mental models they develop to navigate its modal editing.
-    - **Research** by André Dehon et al. in "A Large-Scale Study of Vim Plugins" analyzes the plugin ecosystem, uncovering trends in plugin usage and highlighting the vast range of functionalities available.
-    - **Academic papers** like "Neovim: A Modern, Extensible Vim" by Thiago de Arruda himself explore the technical underpinnings of Neovim, showcasing its innovative architecture and its potential to reshape the future of text editing.
+- **Studies** like "The Vim Way: Understanding How Experts Edit Text" by Christopher Stephenson
+  delve into the cognitive processes of Vim users, revealing the unique mental models they develop to
+  navigate its modal editing.
+- **Research** by André Dehon et al. in "A Large-Scale Study of Vim Plugins" analyzes the plugin
+  ecosystem, uncovering trends in plugin usage and highlighting the vast range of functionalities 
+  available.
+- **Academic papers** like "Neovim: A Modern, Extensible Vim" by Thiago de Arruda himself explore the
+  technical underpinnings of Neovim, showcasing its innovative architecture and its potential to
+  reshape the future of text editing.
     
-    These studies, and countless others, illuminate the profound impact of this lineage on the *NIX landscape. They showcase how vi, Vim, and Neovim are not just tools, but cultural touchstones, fostering communities of passionate users who push the boundaries of what a text editor can be.
+These studies, and countless others, illuminate the profound impact of this lineage on the *NIX landscape. They showcase how vi, Vim, and Neovim are not just tools, but cultural touchstones, fostering communities of passionate users who push the boundaries of what a text editor can be.
     
-    But the true heart of this story lies not in the studies or the tools themselves, but in the spirit of **innovation** that permeates the *NIX world. It is a spirit that thrives on challenge, celebrates mastery, and finds beauty in the intricate dance of commands and keystrokes.
+But the true heart of this story lies not in the studies or the tools themselves, but in the spirit of **innovation** that permeates the *NIX world. It is a spirit that thrives on challenge, celebrates mastery, and finds beauty in the intricate dance of commands and keystrokes.
     
-    So, the next time you enter the terminal and your fingers caress the keyboard, remember the symphony that stretches before you. Remember vi, the stoic elder, its legacy etched in muscle memory. Remember Vim, the versatile champion, its plugins a testament to endless customization. And remember Neovim, the ever-evolving prodigy, pushing the boundaries of what's possible. They are not just tools, but testaments to the enduring power and passion of the *NIX soul, where complexity becomes not a barrier, but a canvas for creation.**
+So, the next time you enter the terminal and your fingers caress the keyboard, remember the symphony that stretches before you. Remember vi, the stoic elder, its legacy etched in muscle memory. Remember Vim, the versatile champion, its plugins a testament to endless customization. And remember Neovim, the ever-evolving prodigy, pushing the boundaries of what's possible. They are not just tools, but testaments to the enduring power and passion of the *NIX soul, where complexity becomes not a barrier, but a canvas for creation.
     
-    This revised narrative combines the strengths of the previous version while incorporating insightful academic studies related to the vi, Vim, and Neovim ecosystem. It highlights the research surrounding these editors, further enriching the understanding of their cultural and technical significance within the *NIX world.
+This revised narrative combines the strengths of the previous version while incorporating insightful academic studies related to the vi, Vim, and Neovim ecosystem. It highlights the research surrounding these editors, further enriching the understanding of their cultural and technical significance within the *NIX world.
     
-    All three: vi, Vim and Neovim, have been ported to the Termux Android CLI, and co-exist. I use all three. But, that's just me, I embrace the quirk of difference, I find the dynamism of value. 
+All three: vi, Vim and Neovim, have been ported to the Termux Android CLI, and co-exist. I use all three. But, that's just me, I embrace the quirk of difference, I find the dynamism of value. 
     
-    Prior to my coding and scripting endeavours, as a writer and researcher, that has through rote, come to powerfully resource and bootstrap, the digital computational environment, I have navigated countless text editors and word-processing applications: proprietary, shareware, open source and FOSS. This experience has lent me a practical breadth of the potentialities and possibilities of difference, within and between, the human-centred text processing vehicle and medium. As well as its history and development. Currently, I have an indeterminate number of such packages and applications installed, but my workhorse and most-used app and go-to, is 'Floating Apps (multitasking)' from the Google Play Store. This application is quite a marvel, as well as unideal. It has a daunting plethora of sub-applications and functionalities, all of which bar the note-taking functionality, I persistently, stupidly and arrogantly, fail to use. It also potentially records and reports everything I do on my device to curious and/or malicious actors. I am aware of this, yet I irrationality persist in its use. I use Floating app the most, on both my phone and tablet, almost every time I turn on or access my hand-held devices. It has all the mantatory functions I require, but comes with bugs and quirks. I found another way to get the persistent-floating, window-resisable, almost immediately-accessible, functionality I absolutely require, through one of the developer of Android's 'QuickEdit+’ also sourced from Play. I purchased the app, and vehemently complained about the app not having, at minimum, my mandatory requirements. The developer wrote to me apologetically, and offered the esotericism, of how to make almost any, text editor or word processor within an esotericism forded through the built-in functionality, of Samsung Galaxy's OneUI, in its current evocations. Even so enlightened, facilitated and humbled by their imparting of such powerful wisdom, I still returned to, favoured, and wantonly, persisted with Floating. This is in evidence, of what I alluded to earlier. But I daresay, anticipate and expect, in my Neovim CLI journey subsuming the integration with Tmux and widgets, that I will find a way to customise, if not script and programme, my own solution to this requirement that leverages the confluence of these tools and plugins and their granularity, to realise the perfect solution. 
+Prior to my coding and scripting endeavours, as a writer and researcher, that has through rote, come to powerfully resource and bootstrap, the digital computational environment, I have navigated countless text editors and word-processing applications: proprietary, shareware, open source and FOSS. This experience has lent me a practical breadth of the potentialities and possibilities of difference, within and between, the human-centred text processing vehicle and medium. As well as its history and development. Currently, I have an indeterminate number of such packages and applications installed, but my workhorse and most-used app and go-to, is 'Floating Apps (multitasking)' from the Google Play Store. This application is quite a marvel, as well as unideal. It has a daunting plethora of sub-applications and functionalities, all of which bar the note-taking functionality, I persistently, stupidly and arrogantly, fail to use. It also potentially records and reports everything I do on my device to curious and/or malicious actors. I am aware of this, yet I irrationality persist in its use. I use Floating app the most, on both my phone and tablet, almost every time I turn on or access my hand-held devices. It has all the mantatory functions I require, but comes with bugs and quirks. I found another way to get the persistent-floating, window-resisable, almost immediately-accessible, functionality I absolutely require, through one of the developer of Android's 'QuickEdit+’ also sourced from Play. I purchased the app, and vehemently complained about the app not having, at minimum, my mandatory requirements. The developer wrote to me apologetically, and offered the esotericism, of how to make almost any, text editor or word processor within an esotericism forded through the built-in functionality, of Samsung Galaxy's OneUI, in its current evocations. Even so enlightened, facilitated and humbled by their imparting of such powerful wisdom, I still returned to, favoured, and wantonly, persisted with Floating. This is in evidence, of what I alluded to earlier. But I daresay, anticipate and expect, in my Neovim CLI journey subsuming the integration with Tmux and widgets, that I will find a way to customise, if not script and programme, my own solution to this requirement that leverages the confluence of these tools and plugins and their granularity, to realise the perfect solution. 
     
 
 - 
@@ -5212,10 +5716,14 @@ The
 Scripts are built around existing Bash commands. Here are some key ones to get you started:
 
 - **Echo:** Print text to the screen (e.g., `echo "Hello, world!"`).
-- **Read:** Prompt the user for input and store it in a variable (e.g., `read -p "Enter your name: " username`).
-- **Variables:** Store information for later use (e.g., `user="$username"`, assigns user input to the variable `user`).
-- **Conditional statements:** Control program flow based on conditions (e.g., `if [ "$user" == "admin" ]; then echo "Welcome, admin!"; fi`).
-- **Loops:** Repeat actions a specific number of times or until a condition is met (e.g., `for i in {1..5}; do echo "Loop iteration $i"; done`).
+- **Read:** Prompt the user for input and store it in a variable (e.g., `read -p "Enter your name: "
+  username`).
+- **Variables:** Store information for later use (e.g., `user="$username"`, assigns user input to the
+  variable `user`).
+- **Conditional statements:** Control program flow based on conditions (e.g., `if [ "$user" == "admin"
+  ]; then echo "Welcome, admin!"; fi`).
+- **Loops:** Repeat actions a specific number of times or until a condition is met (e.g., `for i in
+  {1..5}; do echo "Loop iteration $i"; done`).
 
 **3. Building Your First Script:**
 
@@ -5241,17 +5749,24 @@ fi
 
 **4. Practical Examples:**
 
-- **Automate repetitive tasks:** Use a script to rename multiple files at once, backup specific directories daily, or clean up log files.
-- **Analyze data:** Write a script to extract specific information from text files, calculate statistics, or generate reports.
-- **Download files:** Automate the download of specific files from the internet based on criteria or schedule.
-- **Ethical hacking applications:** Use scripts to scan for vulnerabilities on networks, collect information about systems, or automate penetration testing tasks (always remember responsible disclosure and ethical considerations).
+- **Automate repetitive tasks:** Use a script to rename multiple files at once, backup specific
+  directories daily, or clean up log files.
+- **Analyze data:** Write a script to extract specific information from text files, calculate
+  statistics, or generate reports.
+- **Download files:** Automate the download of specific files from the internet based on criteria or
+  schedule.
+- **Ethical hacking applications:** Use scripts to scan for vulnerabilities on networks, collect
+  information about systems, or automate penetration testing tasks (always remember responsible
+  disclosure and ethical considerations).
 
 **5. Exercises:**
 
 - Explore more Bash commands and experiment with different options and arguments.
 - Rewrite basic tasks you do manually into scripts to practice automation.
-- Combine your knowledge of variables, conditionals, and loops to build more complex scripts with decision-making capabilities.
-- Challenge yourself by automating tasks related to your ethical hacking goals and practicing responsible security research.
+- Combine your knowledge of variables, conditionals, and loops to build more complex scripts with
+  decision-making capabilities.
+- Challenge yourself by automating tasks related to your ethical hacking goals and practicing
+  responsible security research.
 
 **Bonus Tip:** Start small and gradually build your scripting skills. Remember, experimentation and practice are key. Don't hesitate to consult online resources or ask for help if you get stuck.
 
@@ -5267,9 +5782,13 @@ You're absolutely right! The concept of variables in computing is indeed heavily
 
 **Early traces of variables in mathematics** can be found in the works of ancient mathematicians like:
 
-- **Greek mathematician Diophantus (3rd century AD):** He used symbols to represent unknowns in his algebraic equations, laying the foundation for symbolic algebra.
-- **Persian mathematician Muhammad ibn Musa al-Khwarizmi (9th century AD):** He introduced the concept of reducing algebraic expressions to a standard form, further solidifying the use of variables.
-- **French mathematician François Viète (16th century AD):** He is often credited with pioneering symbolic algebra by using letters to represent both known and unknown quantities, making equations more general and easier to manipulate.
+- **Greek mathematician Diophantus (3rd century AD):** He used symbols to represent unknowns in his
+  algebraic equations, laying the foundation for symbolic algebra.
+- **Persian mathematician Muhammad ibn Musa al-Khwarizmi (9th century AD):** He introduced the concept
+  of reducing algebraic expressions to a standard form, further solidifying the use of variables.
+- **French mathematician François Viète (16th century AD):** He is often credited with pioneering
+  symbolic algebra by using letters to represent both known and unknown quantities, making equations
+  more general and easier to manipulate.
 
 **The formalization of variables and the development of calculus** in the 17th century by mathematicians like René Descartes, Isaac Newton, and Gottfried Wilhelm Leibniz further cemented their importance in mathematical thought.
 
