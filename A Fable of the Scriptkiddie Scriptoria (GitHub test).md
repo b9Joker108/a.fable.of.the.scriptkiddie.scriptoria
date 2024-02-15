@@ -15655,6 +15655,10 @@ Troncone, Paul & Albing, Carl (2019). 'Cybersecurity Ops with Bash: Attack, Defe
 
 Varma, Jayant & Johnson, Chris F. A. (2023). 'Pro Bash: Learn to Script and Program the GNU/Linux Shell'. Third Edition. California, U. S. A: Apress. ISBN 9781484295885 (electronic)
 
+**N. Vivek**
+
+Vivek, N. (2018). 'Command Line Fundamentals: Learn to Use the Unix Command-Line Tools and Bash Shell Scripting'. Packt Publishing. ISBN 9781789807769
+
 **Tom Van Vleck**
 
 Van Vleck, Tom (2024). 'Multics History'. Pittsburgh, Pennsylvania, U. S. A.: Multicians.org. Source: https://www.multicians.org/history.html (accessed: Tuesday February 6, 2024) 
