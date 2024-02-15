@@ -1675,20 +1675,39 @@ Absolutely! Your experience with the "Bee Cycle" and your journey from trepidati
 
 **The Duality of Fear and Fascination:**
 
-* **Fear of the unknown:** Stepping into new territory, like using a mainframe or terminal emulator, can trigger natural apprehension. The unfamiliar can be intimidating, and potential challenges or complexities can fuel our anxieties.
-* **Fascination with the potential:** However, within this fear often lies a seed of fascination. The unknown holds the promise of discovery, of learning new skills, and of unlocking new possibilities. This intrinsic human curiosity compels us to overcome our initial reservations and delve deeper.
-* **Transformation through exploration:** As we engage with the object of our fear and fascination, our understanding deepens. We overcome initial challenges, discover the beauty and potential within the unknown, and ultimately, transform our fear into fascination and even passion.
+* **Fear of the unknown:** Stepping into new territory, like using a mainframe or terminal emulator,
+  can trigger natural apprehension. The unfamiliar can be intimidating, and potential challenges or
+  complexities can fuel our anxieties.
+* **Fascination with the potential:** However, within this fear often lies a seed of fascination. The
+  unknown holds the promise of discovery, of learning new skills, and of unlocking new possibilities.
+  This intrinsic human curiosity compels us to overcome our initial reservations and delve deeper.
+* **Transformation through exploration:** As we engage with the object of our fear and fascination, our
+  understanding deepens. We overcome initial challenges, discover the beauty and potential within the
+  unknown, and ultimately, transform our fear into fascination and even passion.
 
 **Your Experience and the Human Condition:**
 
-* Your journey with shells perfectly embodies this dynamic. The initial trepidation towards the mainframe evolved into a deep fascination with the capabilities of the terminal emulator. This curiosity led you to explore the world of GNU/Linux and ultimately inspired you to write a book on shells.
-* This exemplifies a fundamental aspect of the human condition: our inherent drive to learn, grow, and conquer our fears. We are drawn to the unknown not just out of recklessness, but also because it holds the potential for personal growth and self-discovery.
-* Your story is not unique. Countless individuals have embarked on similar journeys, facing their fears and embracing the transformative power of curiosity and exploration. This is what makes the human spirit so remarkable: our ability to overcome our limitations and turn fear into a catalyst for growth and achievement.
+* Your journey with shells perfectly embodies this dynamic. The initial trepidation towards the
+  mainframe evolved into a deep fascination with the capabilities of the terminal emulator. This
+  curiosity led you to explore the world of GNU/Linux and ultimately inspired you to write a book on
+  shells.
+* This exemplifies a fundamental aspect of the human condition: our inherent drive to learn, grow, and
+  conquer our fears. We are drawn to the unknown not just out of recklessness, but also because it
+  holds the potential for personal growth and self-discovery.
+* Your story is not unique. Countless individuals have embarked on similar journeys, facing their fears
+  and embracing the transformative power of curiosity and exploration. This is what makes the human
+  spirit so remarkable: our ability to overcome our limitations and turn fear into a catalyst for
+  growth and achievement.
 
 **The Significance of Your Book:**
 
-* Your book on shells has the potential to inspire and empower others who might be hesitant to explore the world of technology. By sharing your own journey and highlighting the beauty and potential of shells, you can encourage others to overcome their fears and embrace the transformative power of learning and exploration.
-* Your work can also contribute to a broader understanding of the human condition. By exploring the relationship between fear and fascination, you can shed light on the motivations that drive our curiosity and shape our experiences.
+* Your book on shells has the potential to inspire and empower others who might be hesitant to explore
+  the world of technology. By sharing your own journey and highlighting the beauty and potential of
+  shells, you can encourage others to overcome their fears and embrace the transformative power of
+  learning and exploration.
+* Your work can also contribute to a broader understanding of the human condition. By exploring the
+  relationship between fear and fascination, you can shed light on the motivations that drive our
+  curiosity and shape our experiences.
 
 In conclusion, your personal story is a powerful testament to the transformative power of facing our fears and embracing the unknown. Your book on shells has the potential to inspire others and contribute to a deeper understanding of the human condition. Keep exploring, keep learning, and keep sharing your passion with the world!
 
@@ -1698,29 +1717,44 @@ Pinpointing the absolute first shell command or transmission ever documented is 
 
 **1. LINC and the "RUN" Command (1960s):**
 
-- **Context:** LINC (Laboratory Instrument Computer) was one of the earliest interactive computers, designed for scientific research in the 1960s. It featured a simple command-line interface where users typed commands to run programs or interact with the system.
-- **Command:** One of the earliest documented commands on LINC was "RUN," used to execute programs stored on paper tape or magnetic tape.
-- **Agents:** LINC was used primarily by scientists and researchers, often working in universities or research laboratories.
+- **Context:** LINC (Laboratory Instrument Computer) was one of the earliest interactive computers,
+  designed for scientific research in the 1960s. It featured a simple command-line interface where
+  users typed commands to run programs or interact with the system.
+- **Command:** One of the earliest documented commands on LINC was "RUN," used to execute programs
+  stored on paper tape or magnetic tape.
+- **Agents:** LINC was used primarily by scientists and researchers, often working in universities or
+  research laboratories.
 
 **2. DEC PDP-1 and "TYPE A" (1960s):**
 
-- **Context:** The DEC PDP-1 (Programmed Data Processor) was another pioneering computer system from the 1960s. It allowed users to interact through a teletype terminal, typing commands and seeing the output directly on the screen.
-- **Command:** "TYPE A" was a documented command on the PDP-1 that instructed the system to read and print the contents of a specific memory location. It essentially offered a way to inspect the computer's internal state.
+- **Context:** The DEC PDP-1 (Programmed Data Processor) was another pioneering computer system from
+  the 1960s. It allowed users to interact through a teletype terminal, typing commands and seeing the
+  output directly on the screen.
+- **Command:** "TYPE A" was a documented command on the PDP-1 that instructed the system to read and
+  print the contents of a specific memory location. It essentially offered a way to inspect the
+  computer's internal state.
 - **Agents:** PDP-1 users were diverse, including scientists, engineers, and early computer programmers.
 
 **3. Multics and File Manipulation Commands (1960s):**
 
-- **Context:** Multics was an influential early operating system from the 1960s, featuring a more advanced command-line interface than previous systems. It allowed users to create, delete, and manage files using commands like "COPY," "DELETE," and "RENAME."
-- **Commands:** These file manipulation commands played a crucial role in establishing the foundation for modern shell functionalities.
-- **Agents:** Multics was primarily used by researchers and developers working on the ARPANET (the precursor to the internet).
+- **Context:** Multics was an influential early operating system from the 1960s, featuring a more
+  advanced command-line interface than previous systems. It allowed users to create, delete, and manage
+  files using commands like "COPY," "DELETE," and "RENAME."
+- **Commands:** These file manipulation commands played a crucial role in establishing the foundation
+  for modern shell functionalities.
+- **Agents:** Multics was primarily used by researchers and developers working on the ARPANET (the
+  precursor to the internet).
 
 **Challenges and Considerations:**
 
 It's important to acknowledge some challenges in definitively claiming the "first" shell command:
 
-- **Early Documentation:** Records from pre-1970s computers might not be readily available or standardized, making precise verification difficult.
-- **Internal vs. External Use:** Some systems might have used internal commands for system operations, not necessarily documented for user interaction.
-- **Evolving Interfaces:** Commands and functionalities constantly evolved over time, making historical comparisons complex.
+- **Early Documentation:** Records from pre-1970s computers might not be readily available or
+  standardized, making precise verification difficult.
+- **Internal vs. External Use:** Some systems might have used internal commands for system operations,
+  not necessarily documented for user interaction.
+- **Evolving Interfaces:** Commands and functionalities constantly evolved over time, making historical
+  comparisons complex.
 
 **Conclusion:**
 
@@ -1742,9 +1776,12 @@ Pinpointing the absolute "first" documented shell command or transmission is a c
 
 **Specifics and Context:** The specifics and context of these early commands varied depending on the system and its era. Some key characteristics include:
 
-- **Limited functionality:** Early commands focused primarily on basic system control, program execution, and file manipulation. They lacked the rich features and flexibility of modern shells.
-- **Text-based interface:** Interaction was entirely through typed commands and text output, lacking graphical interfaces or other input methods.
-- **Limited accessibility:** These systems were primarily used by researchers, engineers, and computer scientists, not the general public.
+- **Limited functionality:** Early commands focused primarily on basic system control, program
+  execution, and file manipulation. They lacked the rich features and flexibility of modern shells.
+- **Text-based interface:** Interaction was entirely through typed commands and text output, lacking
+  graphical interfaces or other input methods.
+- **Limited accessibility:** These systems were primarily used by researchers, engineers, and computer
+  scientists, not the general public.
 
 Therefore, while pinpointing an absolute "first" is difficult, the contenders listed above offer glimpses into the early days of command-line interfaces and shell functionality. Their development and use reflect the evolution of computing and the increasing role of text-based interaction with systems.
 
@@ -1780,31 +1817,52 @@ I hope this explanation clarifies the challenges and offers some intriguing poss
 
 **Pre-UNIX Era (1950s - 1960s):**
 
-- **Batch processing systems:** Early computers lacked interactive interfaces, relying on punch cards or scripts for program execution. Shell scripting in this era involved creating sequences of commands and data for batch processing on mainframes. Examples include JCL (Job Control Language) for IBM systems and CMS (Control and Monitor System) for DEC PDP-10s.
-- **Scripting languages for specific systems:** Several operating systems developed their own scripting languages during this period. Notable examples include CPL (Command Programming Language) for DEC PDP-6 and TSS/360 (Time Sharing System/360) for IBM machines.
+- **Batch processing systems:** Early computers lacked interactive interfaces, relying on punch cards
+  or scripts for program execution. Shell scripting in this era involved creating sequences of commands
+  and data for batch processing on mainframes. Examples include JCL (Job Control Language) for IBM
+  systems and CMS (Control and Monitor System) for DEC PDP-10s.
+- **Scripting languages for specific systems:** Several operating systems developed their own scripting
+  languages during this period. Notable examples include CPL (Command Programming Language) for DEC PDP-
+  6 and TSS/360 (Time Sharing System/360) for IBM machines.
 
 **Birth of UNIX and Bourne Shell (1960s - 1970s):**
 
-- **Ken Thompson and Dennis Ritchie** developed the first iteration of UNIX in the 1960s. Unlike previous systems, UNIX emphasized an interactive shell where users could directly execute commands. As **Kernighan** and **Pike** (’The UNIX Programming Environment’, 1984: p. vii) relate in their exceptional work: '"UNIX is *not* an acronym, but a weak pun on MULTICS, the operating system that Thompson and Ritchie worked on before UNIX." (NB: Italicisation preserved from the original.)
-- **The Bourne Shell (sh)**, created by **Stephen Bourne** in 1971, became the first widely used shell scripting language for UNIX. It provided basic features like variable assignment, looping constructs, and conditional statements, laying the foundation for modern shell scripting.
+- **Ken Thompson and Dennis Ritchie** developed the first iteration of UNIX in the 1960s. Unlike
+  previous systems, UNIX emphasized an interactive shell where users could directly execute commands.
+- As **Kernighan** and **Pike** (’The UNIX Programming Environment’, 1984: p. vii) relate in their
+  exceptional work: '"UNIX is *not* an acronym, but a weak pun on MULTICS, the operating system that
+  Thompson and Ritchie worked on before UNIX." (NB: Italicisation preserved from the original.)
+- **The Bourne Shell (sh)**, created by **Stephen Bourne** in 1971, became the first widely used shell
+  scripting language for UNIX. It provided basic features like variable assignment, looping constructs,
+  and conditional statements, laying the foundation for modern shell scripting.
 
 **Rise of Variants and Refinements (1970s - 1990s):**
 
-- Several variants of the Bourne Shell emerged, offering additional features and improvements. Notable examples include the **Korn Shell (ksh)** with enhanced command editing and history capabilities, and the **C Shell (csh)** with features borrowed from the C programming language.
-- Scripting languages like **awk** and **sed** for text processing gained popularity alongside shell scripting, enhancing the capabilities of automation tasks.
+- Several variants of the Bourne Shell emerged, offering additional features and improvements. Notable
+  examples include the **Korn Shell (ksh)** with enhanced command editing and history capabilities, and
+  the **C Shell (csh)** with features borrowed from the C programming language.
+- Scripting languages like **awk** and **sed** for text processing gained popularity alongside shell
+  scripting, enhancing the capabilities of automation tasks.
 
 **Modern Era and Diversification (1990s - Present):**
 
-- The popularity of UNIX-like operating systems like Linux and BSD led to a further diversification of shell scripting languages.
-- **Bash** (Bourne Again Shell) became the default shell for many Linux distributions, offering advanced features like functions, arrays, and support for command-line editing.
-- Scripting languages like **Perl** and **Python** gained wider adoption for more complex tasks, blurring the lines between traditional shell scripting and higher-level programming languages.
+- The popularity of UNIX-like operating systems like Linux and BSD led to a further diversification of
+  shell scripting languages.
+- **Bash** (Bourne Again Shell) became the default shell for many Linux distributions, offering
+  advanced features like functions, arrays, and support for command-line editing.
+- Scripting languages like **Perl** and **Python** gained wider adoption for more complex tasks,
+  blurring the lines between traditional shell scripting and higher-level programming languages.
 
 I understand. I have searched the web for the true history of UNIX and Unix-like shells, and I have found some discrepancies between your diagram and the sources I have consulted. Here are some of the corrections I suggest:
 
-- The "sh" shell was not the first shell in UNIX, but the second one. The first one was called "Thompson shell" and was written by Ken Thompson in 1969.
-- The "csh" shell was not derived from "sh", but from "Thompson shell". It was created by Bill Joy in 1978 as a part of the Berkeley Software Distribution (BSD).
-- The "fish" shell was not derived from "tcsh", but from "sh". It was created by Axel Liljencrantz in 2005 as an alternative to the traditional shells.
-- The "zsh" shell was not derived from "sh", but from "ksh" and "csh". It was created by Paul Falstad in 1990 as a hybrid of the features of both shells.
+- The "sh" shell was not the first shell in UNIX, but the second one. The first one was called
+  "Thompson shell" and was written by Ken Thompson in 1969.
+- The "csh" shell was not derived from "sh", but from "Thompson shell". It was created by Bill Joy in
+  1978 as a part of the Berkeley Software Distribution (BSD).
+- The "fish" shell was not derived from "tcsh", but from "sh". It was created by Axel Liljencrantz in
+  2005 as an alternative to the traditional shells.
+- The "zsh" shell was not derived from "sh", but from "ksh" and "csh". It was created by Paul Falstad
+  in 1990 as a hybrid of the features of both shells.
 
 Based on these corrections, I have created a more accurate diagram of the historical evolution of UNIX and Unix-like shells. Please see the image below.
 
@@ -1840,16 +1898,22 @@ While Bash and Zsh are primarily written in C, the original "sh" shell, which th
 
 **sh (Bourne Shell):**
 
-* **Original implementation:** Written in **assembly language** for the PDP-7 and PDP-11 minicomputers in the 1970s. Assembly language is a low-level language specific to the architecture of a particular CPU, making it efficient but less portable.
-* **Later versions:** Subsequent implementations of "sh" were written in **C** for better portability and maintainability. The specific versions and languages used may vary depending on the operating system and distribution.
+* **Original implementation:** Written in **assembly language** for the PDP-7 and PDP-11 minicomputers
+  in the 1970s. Assembly language is a low-level language specific to the architecture of a particular
+  CPU, making it efficient but less portable.
+* **Later versions:** Subsequent implementations of "sh" were written in **C** for better portability
+  and maintainability. The specific versions and languages used may vary depending on the operating
+  system and distribution.
 
 **Bash (Bourne-Again Shell):**
 
-* Primarily written in **C**, with some performance-critical sections in **assembly language** for efficiency.
+* Primarily written in **C**, with some performance-critical sections in **assembly language** for
+  efficiency.
 
 **Zsh (Z shell):**
 
-* Primarily written in **C**, with additional use of **lex** and **yacc** for parsing its syntax. These are tools that help define the grammar and structure of the shell's commands.
+* Primarily written in **C**, with additional use of **lex** and **yacc** for parsing its syntax. These
+  are tools that help define the grammar and structure of the shell's commands.
 
 So, while Bash and Zsh are primarily C-based, the original "sh" shell had roots in assembly language before transitioning to C in later versions.
 
@@ -1857,20 +1921,26 @@ You're absolutely right! My apologies for the previous inaccuracy. While both Ba
 
 **sh (Bourne shell):**
 
-* Written in **assembly language** for the PDP-7 minicomputer and later ported to other platforms like **C**.
-* The original Bourne shell wasn't intended as a full-fledged programming language, but rather a command interpreter. However, its syntax and features influenced later shells like Bash and Zsh.
+* Written in **assembly language** for the PDP-7 minicomputer and later ported to other platforms like
+  **C**.
+* The original Bourne shell wasn't intended as a full-fledged programming language, but rather a
+  command interpreter. However, its syntax and features influenced later shells like Bash and Zsh.
 
 **Bash (Bourne-Again shell):**
 
 * Primarily written in **C**, with some performance-critical sections written in **assembly language**.
-* C provides the necessary efficiency and control for handling system interactions and low-level operations.
-* Bash also incorporates a **scripting language** based on C syntax, allowing users to automate tasks and extend shell functionality.
+* C provides the necessary efficiency and control for handling system interactions and low-level
+  operations.
+* Bash also incorporates a **scripting language** based on C syntax, allowing users to automate tasks
+  and extend shell functionality.
 
 **Zsh (Z shell):**
 
 * Primarily written in **C**, but also utilizes **lex** and **yacc** for parsing its syntax.
-* Lex and Yacc are tools specifically designed for generating lexical analyzers and parsers, respectively, which are crucial for interpreting shell commands and syntax.
-* Similar to Bash, Zsh also has a **scripting language** based on C syntax for user-defined extensions and automation.
+* Lex and Yacc are tools specifically designed for generating lexical analyzers and parsers,
+  respectively, which are crucial for interpreting shell commands and syntax.
+* Similar to Bash, Zsh also has a **scripting language** based on C syntax for user-defined extensions
+  and automation.
 
 In essence, while these shells interact with the operating system and interpret user commands, they have their own internal languages built with C and related tools like lex and yacc to handle the specific syntax, parsing, and execution of their functionalities.
 
@@ -1893,14 +1963,14 @@ You're absolutely right, I apologize for the confusion in my previous answer. Wh
 
 So, while these shells don't have scripting languages like Python or Java, they are indeed implemented using C and sometimes assembly language for optimization. Remember, they primarily function as interfaces for interacting with the operating system, hence not being complete "languages" themselves.
 
-I hope this clarifies! Feel free to ask if you have any further questions about sh, Bash, Zsh, or shell functionality in general.
-
 Neither Bash nor Zsh are technically written in a single "computer language" like Python or Java. They are both **shells**, which are special programs that provide an interface for users to interact with the operating system. Shells don't typically get written in languages like Python or Java; they are usually written in **C**.
 
 Here's the breakdown:
 
-* **Bash:** Bash, an acronym for "Bourne-Again SHell," was primarily written in **C** with some minor parts in **assembly language** for performance-critical sections.
-* **Zsh:** Zsh, short for "Z shell," is also mainly written in **C** but additionally utilizes **lex** and **yacc** for parsing its syntax.
+* **Bash:** Bash, an acronym for "Bourne-Again SHell," was primarily written in **C** with some minor
+  parts in **assembly language** for performance-critical sections.
+* **Zsh:** Zsh, short for "Z shell," is also mainly written in **C** but additionally utilizes **lex**
+  and **yacc** for parsing its syntax.
 
 Though not directly considered "languages," both Bash and Zsh have their own **scripting languages** that allow users to automate tasks and extend their functionality. These scripting languages share similarities with C and other low-level languages but have features specifically designed for shell interactions.
 
@@ -1975,11 +2045,12 @@ requirements.
 
 # The Evolution of UNIX and Unix-like Shells
 
-“I believe that software development is the constant search for the right balance between needs and dreams: something to be learned from previous mistakes and to be done better with every new opportunity.
+>	“I believe that software development is the constant search for the right balance between needs >	and dreams: something to be learned from previous mistakes and to be done better with every new >	opportunity.
 
-The greatest sign of love in a software is seen when its developer accepts its own imperfections and uses them to make it unique." 
+>	The greatest sign of love in a software is seen when its developer accepts its own
+>	imperfections and uses them to make it unique." 
 
-~ Sherman Rofeman (he/him, dragon, a.k.a. skippyr@GitHub, 2024)
+		~ Sherman Rofeman (he/him, dragon, a.k.a. skippyr@GitHub, 2024)
 
 The shell is a program that provides an interface between the user and the operating system. It allows the user to execute commands, run scripts, and manipulate files and processes. The history of UNIX and Unix-like shells can be traced back to the late 1960s, when a group of researchers at Bell Labs, led by Ken Thompson and Dennis Ritchie, developed a new operating system called UNIX. UNIX was designed to be portable, multi-user, and multi-tasking, and it introduced many innovations that are still widely used today, such as pipes, regular expressions, and hierarchical file systems.
 
