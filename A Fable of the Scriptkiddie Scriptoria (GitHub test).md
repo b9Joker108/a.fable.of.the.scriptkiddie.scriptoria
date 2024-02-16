@@ -16628,6 +16628,10 @@ Matthews, Washington (1902). 'The Night Chant, a Navaho Ceremony'. Memoirs of th
 
 **X**
 
+**Herbert Xu**
+
+Xu, Herbert (2023). 'DASH'. Source: http://gondor.apana.org.au/~herbert/dash/ (accessed: Friday, February 16, 2024)
+
 **Y**
 
 **Ray Yao**
