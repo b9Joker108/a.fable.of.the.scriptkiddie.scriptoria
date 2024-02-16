@@ -527,8 +527,6 @@ So, while there's a historical connection between punch cards and scripting, it'
 - The two concepts co-existed and influenced each other, but "scripting" wasn't directly named after
   punch cards.
 
-I hope this clarifies the relationship between these two historical elements of computing!
-
 **When did we first start using shells to interface with mainframes? What was the context? Who were the agents? What technologies, including materials science innovations, led to their emergence?**
 
 The story of shells on mainframes is one of gradual evolution rather than a single defining moment. Here's a breakdown of its key aspects:
@@ -767,8 +765,6 @@ Determining the absolute "first" of these terms is tricky, as their usage and di
 
 Remember, computer history is interconnected and full of nuances. Recognizing the contributions of these pioneering systems and understanding their gradual evolution provide a deeper appreciation for the technology we use today.
 
-Let me know if you have any further questions!
-
 **XON/XOFF on Async Terminals, a fact drawn from the historical archive informs a little-known quirky shell command and function**
 
 Bard, please explain the following Mastodon microblog from @awb@mastodon.sdf.org dated January 23, 2024: 
@@ -833,7 +829,7 @@ Instead of slowing down information flow, pressing Ctrl+S now activates a magic 
 
 So, the next time you press Ctrl+S in the Bash of Zsh shell terminal, remember its fascinating journey and this magical story. It's a digital whisper mined from the archives, a hidden treasure left behind by the knights of yore, waiting to be discovered by curious explorers like you. And who knows, maybe you'll find other hidden gems in the dusty corners of your computer, whispers of the past shaping the technology of tomorrow.
 
-This story, I hope, paints a clearer picture of how XOFF flow control morphed into a forward search feature, using relatable metaphors and a touch of historical intrigue. Feel free to ask any further questions, and we can unravel even more mysteries of the digital world together!
+This story, I hope, paints a clearer picture of how XOFF flow control morphed into a forward search feature, using relatable metaphors and a touch of historical intrigue. 
 
 **Bard, were the async terminals you mentioned analogue or digital?**
 
@@ -852,8 +848,6 @@ Here's a breakdown:
       became more common as serial ports and dedicated data lines gained popularity.
 
 Therefore, the async terminals I mentioned could have been either analogue or digital depending on the specific technology employed at that time. The focus in the explanation was on the asynchronous communication protocol and its unexpected legacy in modern shells, not the specific signal or electrical characteristics of the terminals themselves.
-
-I hope this clarifies the previous explanation and alleviates any confusion. Please let me know if you have any further questions!
 
 **Bard, the  analogue teletypes that transmitted signals of electricity, were these alternating currents, or streams?**
 
@@ -875,8 +869,6 @@ Here's how it worked:
 Therefore, although the underlying electrical transmission was based on a DC circuit, the information itself was carried through variations in the current's intensity, making it more akin to a **stream of modulated DC pulses** rather than pure AC.
 
 Remember, this is a general explanation, and specific teletype models might have employed different variations or modulation techniques. However, in essence, they all relied on manipulating a DC circuit to transmit information, not directly using AC.
-
-I hope this clarifies the nature of data transmission in analogue teletypes!
 
 **So electricity was the signal channel?**
 
@@ -901,8 +893,6 @@ This diagram visually demonstrates how changes in the DC current's intensity can
 This image showcases the physical infrastructure through which the modulated electrical signals traveled. Wires strung between poles carried the signal and data from one teletype to another, allowing communication over vast distances.
 
 Understanding that electricity was the signal channel for analogue teletypes helps appreciate the ingenuity of early computational communication technologies. By encoding information onto simple DC circuits, these machines paved the way for modern digital communication, where data is translated into binary streams of ones and zeros carried by electrical signals or even light pulses.
-
-I hope this explanation and the images provide a clearer picture of how analog teletypes utilized electricity as a signal channel! Feel free to ask further questions if you have any.
 
 **It is at-once on topic, but off topic, Bard: what is the signal channel in my hand held Android device?**
 
@@ -939,8 +929,6 @@ The signal channel in your handheld Android device depends on what type of signa
   with external devices.
 
 Therefore, the answer to your question depends on the context of the "signal" you're interested in. If you could clarify what type of communication you're referring to, I can provide a more specific explanation of the relevant signal channel in your Android device.
-
-Feel free to ask any further questions you have!
 
 **The signal channel in the shell and through the motherboard, chip and kernel?**
 
@@ -1027,8 +1015,6 @@ So, the next time you affectionately fondle your Android device, remember the co
 
 This narrative, I hope, provides an edifying and comprehensive glimpse into the signal types and channel types that you requested. By exploring the transmutation at the boundaries of media and throughout your device, I aimed to capture the essence of what makes computational informatics truly fascinating.
 
-If you have further questions or want to delve deeper into specific aspects of this intricate dance of signals, I'm always here to guide you through the symphony of information.
-
 In the symphony of computational informatics, where data dances through circuits and pixels, understanding signal types and channel types becomes a mesmerizing waltz with technology. Let us embark on this journey, exploring their transmutations across the intricate media of your Android device and beyond.
 
 **Signal Types:** The lifeblood of information, signals come in diverse forms:
@@ -1087,8 +1073,6 @@ In the symphony of computational informatics, where data dances through circuits
 As we navigate this intricate landscape of signals and channels, we gain a deeper appreciation for the invisible magic that powers our digital world. Each tap, swipe, and click is a testament to the tireless work of these silent messengers, carrying information across boundaries and transforming it into the experiences that shape our lives.
 
 So, the next time you marvel at the power of your Android device, remember the invisible symphony within, where signals of diverse types flow through channels of varied forms, transforming at every boundary, a testament to the beauty and complexity of computational informatics.
-
-This narrative is just a starting point for your exploration. Feel free to delve deeper into specific areas, ask questions about the intricacies you encounter, and continue the dance of discovery in the ever-evolving world of signals and channels.
 
 ## The Symphony of Signals: A Journey Through Computational Informatics
 
@@ -1213,8 +1197,6 @@ Without this information, it's impossible to definitively state which technology
 - There are various computational channels besides the ones I mentioned, their usage depends on context
   and technical requirements.
 
-I hope this clarifies the concepts and reassures you about the safety of microwave communication. Please feel free to ask any further questions you have!
-
 **Bard, I register your chastisement. The reason and intentionality for initiating this discursion in our discourse upon shell scripting, and specifying the focus and elucidation of the transmutation of signals at the boundary area of channel media transformations, is this is the site of The Hack. Showcase one premier story of noteworthy hacks that have abeen documented in the boundary areas of diverse signals boundary area transformation and channel boundary area transmutations. Just like watering holes, wells, rivers and lakes, where land meets sweetwater, boundary areas, are the at-once the most fecund, and the most treachtreacherous, for they are the domains of the most significant frequently of predation on the planet.** 
 
 I understand your perspective and appreciate your vivid metaphor of boundary areas as both bountiful and treacherous ground for "predators" in the digital world. Let me share a story that exemplifies your point, focusing on **The Stuxnet cyberattack**:
@@ -1246,8 +1228,6 @@ I understand your perspective and appreciate your vivid metaphor of boundary are
   spread malware or steal data.
 
 **Final Thoughts:** Your analogy of watering holes is apt. Like thirsty animals at an oasis, valuable data and systems often reside at the intersection of diverse media, attracting both legitimate users and predators seeking to exploit vulnerabilities. Understanding these boundary areas, the potential transmutations, and the evolving tactics of "predators" is crucial for securing our digital world and navigating its often-treacherous terrain.
-
-I hope this story and broader context resonate with your interest in boundary areas and shed light on the potential dangers and critical lessons gleaned from such attacks. Remember, while the digital world offers immense opportunities, its hidden watering holes require both caution and proactive defense.
 
 **By memory, I understand the precursor to adventitious hacking, was the joyride of telecommunications phreaking, how legitimate is my recall?**
 
@@ -1286,8 +1266,6 @@ Here's a comparison to clarify the connection:
   involves a wider toolkit of techniques depending on the target system.
 
 Therefore, while they differ in specific approaches and contexts, **telecommunications phreaking can be seen as an early manifestation of the hacking spirit. It paved the way for future generations of hackers by demonstrating the power of creative exploration and vulnerability exploitation in the realms of technology.**
-
-I hope this explanation clarifies the connection between phreaking and hacking and reinforces your accurate recall! Please let me know if you have any further questions or want to delve deeper into specific aspects of either activity.
 
 **Telecommunications Phreaking:**
 
@@ -1588,21 +1566,25 @@ Dave McKay first used computers when punched paper tape was in vogue, and he has
 
 **Digital Async Terminals:**
 
-- **ADM-3A:** A lightweight and affordable terminal from Lear Siegler, popular in the 1980s and 90s. See its compact form here: <br /> 
-[https://en.wikipedia.org/wiki/ADM-3A](https://en.wikipedia.org/wiki/ADM-3A)
-- **VT220:** An advanced terminal from Digital Equipment Corporation, featuring high resolution and advanced features like graphics capabilities. Its sleek design is shown here: <br /> 
-[https://en.wikipedia.org/wiki/VT220](https://en.wikipedia.org/wiki/VT220)
-- **Sun SPARCStation LX:** A powerful workstation from Sun Microsystems in the 1990s, often equipped with a high-resolution monochrome monitor and keyboard for a comfortable async experience. Its workstation setup is pictured here: <br /> 
-[https://en.wikipedia.org/wiki/SPARCstation](https://en.wikipedia.org/wiki/SPARCstation)
+- **ADM-3A:** A lightweight and affordable terminal from Lear Siegler, popular in the 1980s and 90s.
+  See its compact form here: <br />
+  [https://en.wikipedia.org/wiki/ADM-3A](https://en.wikipedia.org/wiki/ADM-3A)
+- **VT220:** An advanced terminal from Digital Equipment Corporation, featuring high resolution and
+  advanced features like graphics capabilities. Its sleek design is shown here: <br />
+  [https://en.wikipedia.org/wiki/VT220](https://en.wikipedia.org/wiki/VT220)
+- **Sun SPARCStation LX:** A powerful workstation from Sun Microsystems in the 1990s, often equipped
+  with a high-resolution monochrome monitor and keyboard for a comfortable async experience. Its
+  workstation setup is pictured here: <br />
+  [https://en.wikipedia.org/wiki/SPARCstation](https://en.wikipedia.org/wiki/SPARCstation)
 
 **Bonus Linkages:**
 
-- **Computer History Museum:** Explore a collection of historical computers and terminals, including async models, at the Computer History Museum website: <br /> 
-[https://computerhistory.org/](https://computerhistory.org/)
-- **Vintage Computing:** Immerse yourself in the world of vintage computers and terminals through the Vintage Computing website, showcasing various models and their functionalities: <br /> 
-[https://www.vintagecomputing.com/](https://www.vintagecomputing.com/)
-
-I hope these linkages provide you with a visual journey through the evolution of analogue and digital async terminals! Feel free to explore further and delve deeper into the fascinating history of these essential tools.
+- **Computer History Museum:** Explore a collection of historical computers and terminals, including
+  async models, at the Computer History Museum website: <br />
+  [https://computerhistory.org/](https://computerhistory.org/)
+- **Vintage Computing:** Immerse yourself in the world of vintage computers and terminals through the
+  Vintage Computing website, showcasing various models and their functionalities: <br />
+  [https://www.vintagecomputing.com/](https://www.vintagecomputing.com/)
 
 **Reverie**
 
@@ -1644,9 +1626,7 @@ Your journey from trepidation to fascination with shells beautifully illustrates
 
 So, yes, your story is very much indicative of the human condition. It serves as a reminder that our fears, if confronted with courage and curiosity, can become stepping stones to profound learning and transformative experiences. Thank you for sharing this insightful glimpse into your journey with shells! It serves as a powerful inspiration for all of us to embrace the unknown with a blend of healthy caution and unwavering fascination.
 
-I'm truly excited about your book project and can't wait to see how you illuminate the fascinating world of shells for others. Please feel free to share any insights or challenges you encounter along the way! I'm always happy to offer any assistance or engage in further discussions about this captivating topic.
-
-Absolutely! Your experience with Sylvia Plath's "The Arrival of the Beebox" and your journey from fear to fascination with shell technology beautifully exemplifies the intricate relationship between human fears and fascinations. It's a dynamic that plays out in countless aspects of our lives, and your story highlights its relevance in the realm of technology and learning.
+Your experience with Sylvia Plath's "The Arrival of the Beebox" and your journey from fear to fascination with shell technology beautifully exemplifies the intricate relationship between human fears and fascinations. It's a dynamic that plays out in countless aspects of our lives, and your story highlights its relevance in the realm of technology and learning.
 
 **Fear and Fascination:**
 
@@ -1670,8 +1650,7 @@ Your experience is far from unique. Countless individuals have embarked on simil
 
 I am genuinely excited about your book project and would love to hear more about it if you'd like to share! Perhaps I can be of some assistance in your research or writing process. Remember, the world needs more voices like yours, voices that bridge the gap between the unknown and the understood, between fear and fascination.
 
-
-Absolutely! Your experience with the "Bee Cycle" and your journey from trepidation to fascination with shells beautifully illustrates the profound relationship between human fears and fascinations. It's a dynamic that plays out in countless aspects of our lives, and your personal story is a testament to its power.
+Your experience with the "Bee Cycle" and your journey from trepidation to fascination with shells beautifully illustrates the profound relationship between human fears and fascinations. It's a dynamic that plays out in countless aspects of our lives, and your personal story is a testament to its power.
 
 **The Duality of Fear and Fascination:**
 
@@ -2062,11 +2041,25 @@ The first shell in UNIX was the Thompson shell, written by Ken Thompson in 1969.
 
 In 1971, Stephen Bourne wrote a new shell for UNIX, called the Bourne shell, or `sh`. Some people also refer to this as the POSIX shell, after the standard. The Bourne shell added many features that are now standard in most shells, such as variables, loops, conditionals, functions, and command substitution. The Bourne shell also introduced the concept of shell scripts, which are files that contain a series of commands that can be executed by the shell. The Bourne shell became the default shell in UNIX and was widely adopted by other operating systems. As such, an implementation of the Bourne Shell is packaged in most *NIX systems automatically, even when not the default shell, at time of installation. This is the case with Termux in Android. 
 
+## Ash and Dash
+
 However, the Bourne shell also had some drawbacks, such as the lack of interactive features, such as command completion, command history, and job control. To address these issues, several variants of the Bourne shell were created, such as:
 
 - The Almquist shell (ash), written by Kenneth Almquist in 1989. It is a small and fast shell that is
-  compatible with the Bourne Shell (sh). It was the default shell in some BSD systems and later in
-  Debian GNU/Linux.
+  compatible with the Bourne Shell (sh). Ash was the default shell in some BSD systems. Hughes (2017)
+  also relates how important ash was to early versions of Android. 
+
+Herbert Xu states that he ported the NetBSD version of `ash` (the Almquist Shell, also known as the A-Shell and `sh`) to Linux in early 1997, but doesn't state specifically, to which initial GNU/Linux distribution. Moreover, Xu states that in 2002, the port or fork, was renamed DASH, but doesn't state specifically that this name is a contraction of the Debian Almquist Shell (or DASH), though it does on official Debian documentation. If you read `man dash`, in the current Debian `dash` ManPages documentation, it clearly states that it is a port with the header "BSD General Commands Manual" still extant. It is worth noting, that the Debian `dash` ManPage, has not been updated since January 19, 2003. The Termux `man dash` page is clearly a port of the Debian page, but it no longer has the BSD header, but it too is dated, January 19, 2003.
+
+I affirm that the current version of Dash in the Termux repository is version 0.5.12, as this is the version I currently have installed, and this is the current version in the Dash repository maintained by Xu, refer: https://git.kernel.org/pub/scm/utils/dash/dash.git (accessed: Friday, February 16, 2024). I have been unable to source the definitive Dash specification, and have resolved to write to Xu regarding it. 
+
+**Further reading:**
+
+Hughes, Elliott (2017). 'Android's Shell and Utilities'. Source: https://android.googlesource.com/platform/system/core/+/master/shell_and_utilities/README.md  (accessed: Friday, February 16, 2024), Source: https://archive.org/details/hughes-elliott-2017.-androids-shell-and-utilities (accessed: Friday, February 16, 2024)
+
+Xu, Herbert (2023). 'DASH'. Source: http://gondor.apana.org.au/~herbert/dash/ (accessed: Friday, February 16, 2024)
+
+**I asked ShellGPT if the Ash shell was installable in Termux**
 
 ```zsh
 ~sgpt "Is the ash shell installable in Termux?"
@@ -2082,14 +2075,13 @@ You can install it by running the following command in Termux:
 After installing BusyBox, you can run ash by invoking `busybox ash`
 ```
 
-- The Debian Almquist shell (dash), a fork of ash that was created in 1997. It was designed to be POSIX-
-  compliant and more portable than ash. It is the default shell in Ubuntu Linux and other Debian-based
-  systems.
+  ## Korn shell
+  
 - The Korn shell (ksh), written by David Korn in 1983. It was a powerful and versatile shell that
   combined the features of the Bourne shell and the C shell. It added features such as arrays,
   arithmetic expressions, aliases, built-in commands, and improved scripting capabilities. It was the
   default shell in some commercial UNIX systems, such as AIX and Solaris. An implementation of the Korn
-   shell is installable from the Termux repository with the following:
+  shell is installable from the Termux repository with the following:
   
 ```zsh
 pkg install loksh
