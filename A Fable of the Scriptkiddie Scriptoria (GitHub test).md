@@ -16350,6 +16350,10 @@ Grantman, Alex (2023). 'What came first, the kernel or the shell?'. LinkedIn. So
 
 Hasan, Musaab & Balbahaith, Zayed (2020). 'Mastering Linux Security'. Beau Massin, Mauritius: LAP LAMBERT Academic Publishing. ISBN 9786200566034
 
+**Elliott Hughes**
+
+Hughes, Elliott (2017). 'Android's Shell and Utilities'. Source: https://android.googlesource.com/platform/system/core/+/master/shell_and_utilities/README.md  (accessed: Friday, February 16, 2024), Source: https://archive.org/details/hughes-elliott-2017.-androids-shell-and-utilities (accessed: Friday, February 16, 2024)
+
 **I**
 
 **IEEE Computer Society, *et al.***
