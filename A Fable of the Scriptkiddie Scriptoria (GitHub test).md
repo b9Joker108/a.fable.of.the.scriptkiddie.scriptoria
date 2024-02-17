@@ -2421,7 +2421,21 @@ While Dash is a popular choice for its minimalism and speed, Arch's decision to 
 
 I hope this provides a more comprehensive and balanced understanding of Arch's decision and the broader context surrounding Dash and Bash.
 
-  ## Korn shell
+## Rc shell
+
+I was surprised to find the Rc shell installed on my system, as I don't remember expressly installing it, and it was on both my Android tablet and smartphone. The package is known as the rcshell, whilst the executable is `rc`. It has both `man rc` and `info rc` pages, and they are largely identical, and I proffer without surety, that the InfoPage is derived from the ManPage. The version of `rc` I have installed is
+
+
+
+**Further reading:**
+
+https://github.com/rakitzis/rc (accessed: Sunday, February 18, 2024)
+
+https://en.m.wikipedia.org/wiki/Rc (accessed: Sunday, February 18, 2024)
+
+Duff, Tom (undated). 'Rc - The Plan 9 Shell'. Bell Labs. Sourced from the Parallel & Distributed Systems Group (pdos.csail.mit.edu). Source: https://archive.org/details/duff-tom-undated.-rc-the-plan-9-shell.-bell-labs (accessed: Sunday, February 18, 2024)
+
+## Korn shell
   
 - The Korn shell (ksh), written by David Korn in 1983. It was a powerful and versatile shell that
   combined the features of the Bourne shell and the C shell. It added features such as arrays,
