@@ -2041,6 +2041,42 @@ The first shell in UNIX was the Thompson shell, written by Ken Thompson in 1969.
 
 In 1971, Stephen Bourne wrote a new shell for UNIX, called the Bourne shell, or `sh`. Some people also refer to this as the POSIX shell, after the standard. The Bourne shell added many features that are now standard in most shells, such as variables, loops, conditionals, functions, and command substitution. The Bourne shell also introduced the concept of shell scripts, which are files that contain a series of commands that can be executed by the shell. The Bourne shell became the default shell in UNIX and was widely adopted by other operating systems. As such, an implementation of the Bourne Shell is packaged in most *NIX systems automatically, even when not the default shell, at time of installation. This is the case with Termux in Android. 
 
+
+## POSIX shell
+
+The POSIX shell (sh) is a standard Unix shell that is defined by the Portable Operating System Interface (POSIX) specification. POSIX is a family of standards for maintaining compatibility between operating systems. The POSIX shell is based on the system and user-level application programming interfaces (APIs), along with command-line shells and utility interfaces, for software compatibility with variants of Unix and other operating systems.
+
+The POSIX shell is intended to be used by both application and system developers, and it ensures that shell scripts written for it are portable across different shells and operating systems. POSIX-compliant scripts are supported by all major shell versions such as bash, tcsh, zsh, csh, etc. So if it works in sh, it will also work in other shells.
+
+The POSIX shell is also known as the Bourne shell, since it is derived from the original Unix shell written by Stephen Bourne. The POSIX shell has a simple syntax and a set of built-in commands and utilities. It also supports various features such as variables, functions, loops, conditionals, redirection, pipes, and command substitution. 
+
+In my research, I have found that writers who refer to a POSIX shell, are actually exploiting and perpetuating ambiguity, as a number of different shells are referred to as the POSIX shell. What they all have in common, is of course, POSIX compliance. In my limited experience, it seems that most shells may be restricted or qualified to run scripts or act interactively with POSIX compliance. This is worth noting. 
+
+If you want to learn more about the POSIX shell, you can check out some of these resources:
+
+Source: Conversation with Bing, 17/02/2024
+(1) Shell Command Language - The Open Group. https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html.
+(2) POSIX - Wikipedia. https://en.wikipedia.org/wiki/POSIX.
+(3) Introduction to POSIX shell - Drew DeVault. https://drewdevault.com/2018/02/05/Introduction-to-POSIX-shell.html.
+(4) POSIX Shell: Basic Examples and Common Operations - queirozf.com. https://queirozf.com/entries/posix-shell-basic-examples-and-common-operations.
+(5) What Is POSIX Shell? - nixCraft. https://www.cyberciti.biz/faq/what-is-posix-shell/.
+(6) Shell Command Language - The Open Group. https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html.
+(7) Introduction to POSIX shell - Drew DeVault. https://drewdevault.com/2018/02/05/Introduction-to-POSIX-shell.html.
+(8) POSIX Shell: Basic Examples and Common Operations - queirozf.com. https://queirozf.com/entries/posix-shell-basic-examples-and-common-operations.
+
+**Bing, so, as in most \*NIX systems currently Dash's binaries are located in sh, Dash is understood to be the POSIX shell?**
+
+Yes, that is correct. Dash is a POSIX-compliant implementation of the Bourne shell (sh), and it is the default /bin/sh in Debian-based systems such as Ubuntu and within Termux on Android. Dash is not compatible with Bash, but Bash tries to be mostly compatible with POSIX, and thus Dash. Dash is faster, smaller, and more secure than Bash, and it is suitable for system scripts and minimal environments. As such, due to its speed, ans small demand in disc space, and demonstrable security, Dash is often used as the login shell of choice on *NIX systems. 
+
+Source: Conversation with Bing, 17/02/2024
+(1) Dash - ArchWiki. https://wiki.archlinux.org/title/Dash.
+(2) What is Dash Shell in Linux? - Linux Handbook. https://linuxhandbook.com/dash-shell/.
+(3) dash: Debian Almquist Shell, a modern, POSIX-compliant implementation .... https://www.thegeekdiary.com/dash-debian-almquist-shell-a-modern-posix-compliant-implementation-of-sh/.
+(4) What is Dash (/bin/dash) Shell on Linux?. https://linuxtldr.com/dash-shell/.
+(5) undefined. https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/5XCHETNECFDGMOJ4CXSS535ZMZ4UFYLZ/.
+(6) undefined. https://launchpad.net/ubuntu/+spec/dash-as-bin-sh.
+(7) undefined. https://wiki.ubuntu.com/DashAsBinSh.
+
 ## Ash and Dash
 
 However, the Bourne shell also had some drawbacks, such as the lack of interactive features, such as command completion, command history, and job control. To address these issues, several variants of the Bourne shell were created, such as:
@@ -3928,8 +3964,6 @@ Modularity and composability work together seamlessly. Modular units form the bu
 
 Understanding the Unix design philosophy of modularity sheds light on its enduring influence and contribution to the development of reliable, adaptable, and user-friendly computing systems.
 
-I hope this explanation clarifies the concept further. Feel free to ask if you have any additional questions!
-
 **Composability**
 
 The Unix design philosophy of composability is a core principle that emphasizes building small, focused tools that can be easily combined to achieve complex tasks. This approach stands in contrast to monolithic software applications that try to do everything themselves.
@@ -3964,9 +3998,6 @@ Here are some key aspects of the Unix design philosophy of composability:
 A good analogy for the Unix design philosophy of composability is cooking. Just like you can combine different ingredients to create a variety of dishes, you can combine different Unix tools to create a variety of workflows.
 
 The Unix design philosophy of composability is one of the reasons why Unix systems have been so successful. It has made them flexible, efficient, and interoperable, and it has made it easy for users to create their own tools and workflows.
-
-I hope this explanation helps! Let me know if you have any other questions.
-
 
 **Purpose and Power:**
 
@@ -4627,8 +4658,6 @@ Here are some additional things to consider:
 - The Termux package repository also includes many non-Debian packages built or adapted specifically
   for the Android environment.
 
-I hope this information gives you a better understanding of the current state of Debian CLI package portability to Termux, even though a precise estimate remains elusive. For further exploration, consider using the suggestions above to identify specific Debian packages you're interested in and investigate their portability status within the Termux community.
-
 **The process of porting a standard Debian CLI package to the Android Termux CLI repository ecosystem** 
 
 Porting a standard Debian CLI package to the Android Termux CLI can be a multifaceted process depending on the specifics of the package. It is quite technical and involved. Here's a breakdown of some key steps and considerations:
@@ -4683,8 +4712,6 @@ Porting a standard Debian CLI package to the Android Termux CLI can be a multifa
 **Remember:** Porting a standard Debian CLI package to Termux can be a complex and challenging process, requiring technical expertise and careful consideration. However, with proper planning, adaptation, and testing, it can be a rewarding way to bring valuable software to the Android platform.
 
 If you're new to porting, starting with simpler packages that have similar dependencies and functionality as existing Termux packages can be a good learning experience. Additionally, exploring existing ported packages and discussing porting challenges with the Termux community can provide valuable insights and resources for your endeavor.
-
-I hope this information helps you navigate the world of porting Debian CLI packages to Termux!
 
 **Automating the process of porting a standard Debian CLI package to the Android Termux CLI repository ecosystem** 
 
