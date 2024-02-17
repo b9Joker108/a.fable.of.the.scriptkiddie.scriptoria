@@ -2439,7 +2439,7 @@ https://github.com/rakitzis/rc (accessed: Sunday, February 18, 2024)
 
 https://en.m.wikipedia.org/wiki/Rc (accessed: Sunday, February 18, 2024)
 
-Duff, Tom (undated). 'Rc - The Plan 9 Shell'. Bell Labs. Sourced from the Parallel & Distributed Systems Group (pdos.csail.mit.edu). Source: https://archive.org/details/duff-tom-undated.-rc-the-plan-9-shell.-bell-labs (accessed: Sunday, February 18, 2024)
+Duff, Tom (undated). 'Rc - The Plan 9 Shell'. Bell Labs. Sourced from the Parallel & Distributed Systems Group (pdos.csail.mit.edu). Source: https://pdos.csail.mit.edu/6.828/2007/readings/rc-shell.pdf (accessed: Sunday, February 18, 2024). Source: https://doc.cat-v.org/plan_9/4th_edition/papers/rc  (accessed: Sunday, February 18, 2024). Source: https://archive.org/details/duff-tom-undated.-rc-the-plan-9-shell.-bell-labs (accessed: Sunday, February 18, 2024)
 
 ## Korn shell
   
@@ -17825,7 +17825,7 @@ DeVeau, Joseph (2016). 'BASH Guide'. U. S. A.: JD Bookworks. ISBN 9780996337656
 
 **Tom Duff**
 
-Duff, Tom (undated). 'Rc - The Plan 9 Shell'. Bell Labs. Sourced from the Parallel & Distributed Systems Group (pdos.csail.mit.edu). Source: https://archive.org/details/duff-tom-undated.-rc-the-plan-9-shell.-bell-labs (accessed: Sunday, February 18, 2024)
+Duff, Tom (undated). 'Rc - The Plan 9 Shell'. Bell Labs. Sourced from the Parallel & Distributed Systems Group (pdos.csail.mit.edu). Source: https://pdos.csail.mit.edu/6.828/2007/readings/rc-shell.pdf (accessed: Sunday, February 18, 2024). Source: https://doc.cat-v.org/plan_9/4th_edition/papers/rc  (accessed: Sunday, February 18, 2024). Source: https://archive.org/details/duff-tom-undated.-rc-the-plan-9-shell.-bell-labs (accessed: Sunday, February 18, 2024)
 
 **E**
 
