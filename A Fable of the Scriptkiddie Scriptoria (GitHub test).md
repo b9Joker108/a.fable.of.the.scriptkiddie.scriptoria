@@ -2053,6 +2053,19 @@ Herbert Xu states that he ported the NetBSD version of `ash` (the Almquist Shell
 
 I affirm that the current version of Dash in the Termux repository is version 0.5.12, as this is the version I currently have installed, and this is the current version in the Dash repository maintained by Xu, refer: https://git.kernel.org/pub/scm/utils/dash/dash.git (accessed: Friday, February 16, 2024). I have been unable to source the definitive Dash specification, and have resolved to write to Xu regarding it. 
 
+It is worth noting, that I read in passing, that in some *NIX systems the Shebang `#! /bin/sh` may actually point to a number of different binaries. I asked ShellGPT how to determine this:
+
+```zsh
+sgpt "How do I know if a script with a Shebang to sh is executed by Dash or Bash binaries, for
+example?"         
+To determine if a script with a shebang line pointing to `sh` is executed by `dash` or `bash` or any other shell, you can check the symbolic links and defaults on your system. By default, on many Debian-based systems, `/bin/sh` is a symbolic link to `dash`, while on others, like many Red Hat-based systems, it may be linked to `bash`.                                                                                                                                                                            
+You can use the following command to check what `/bin/sh` points to:                                                                                                                                        ```zsh                                                                                                 ls -l /bin/sh                                                                                         ```                                                                                                                                                                                                         This will show you if `/bin/sh` is a symbolic link and what it points to. If it's a link to `dash`, then scripts with `#!/bin/sh` will be executed by `dash`. If it points to `bash`, they will be executed by `bash`.                                                                                            
+Additionally, you can insert a line in your script that prints the shell currently being used. For example:                                                                                                                                                                                                       ```zsh                                                                                                 echo $0                                                                                               ```
+                                                                                                      This will output the name of the shell that is executing the script.
+```
+
+I tested this on my system, and I have not, to my knowledge, changed any of the default settings. I executed:  `ls -l /bin/sh` in my principal host Termux shell environments, such as Zsh, Bash, Fish, Dash, Ash and Nushell, for example. The execution affirmed that the Shebang to `sh` pointed to the Dash binaries. In my proot-distro alias GNU/Linux installations of Debian, Kali NetHunter Rootless, Arch and Parrot, all bar Arch pointed to Dash, which pointed to Bash. This is worth noting. 
+
 **Further reading:**
 
 Hughes, Elliott (2017). 'Android's Shell and Utilities'. Source: https://android.googlesource.com/platform/system/core/+/master/shell_and_utilities/README.md  (accessed: Friday, February 16, 2024), Source: https://archive.org/details/hughes-elliott-2017.-androids-shell-and-utilities (accessed: Friday, February 16, 2024)
