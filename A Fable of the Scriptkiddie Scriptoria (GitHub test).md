@@ -2235,15 +2235,21 @@ You're absolutely right! While the "everything is a text file" philosophy is cen
 
 **UNIX Philosophy:**
 
-* **Text files:** Everything, from programs to documents and configuration files, is represented as plain text files.
-* **Tools:** Focuses on providing small, modular tools that can be combined using pipes and filters for complex tasks.
-* **Flexibility:** This approach offers great flexibility and interoperability, allowing users to manipulate text files directly and combine tools in creative ways.
+* **Text files:** Everything, from programs to documents and configuration files, is represented as
+  plain text files.
+* **Tools:** Focuses on providing small, modular tools that can be combined using pipes and filters for
+  complex tasks.
+* **Flexibility:** This approach offers great flexibility and interoperability, allowing users to
+  manipulate text files directly and combine tools in creative ways.
 
 **Nushell Philosophy:**
 
-* **Data types:** Nushell treats everything as structured data, including files, processes, network connections, and even shell commands.
-* **Data manipulation:** Provides built-in functions and operators for working with different data types directly within the shell environment.
-* **Expressive scripting:** This data-centric approach enables more concise and expressive scripting due to the availability of dedicated data operations and structures.
+* **Data types:** Nushell treats everything as structured data, including files, processes, network
+  connections, and even shell commands.
+* **Data manipulation:** Provides built-in functions and operators for working with different data
+  types directly within the shell environment.
+* **Expressive scripting:** This data-centric approach enables more concise and expressive scripting
+  due to the availability of dedicated data operations and structures.
 
 **Here's a table summarizing the key differences:**
 
@@ -2255,18 +2261,21 @@ You're absolutely right! While the "everything is a text file" philosophy is cen
 
 **Benefits of Nushell's approach:**
 
-* **Readability:** Nushell scripts can be more readable and maintainable thanks to dedicated data operations and clearer syntax.
-* **Error handling:** Data validation and type checking capabilities can help prevent errors and improve script robustness.
-* **Productivity:** Built-in data manipulation functions can simplify complex tasks and boost user efficiency.
+* **Readability:** Nushell scripts can be more readable and maintainable thanks to dedicated data
+  operations and clearer syntax.
+* **Error handling:** Data validation and type checking capabilities can help prevent errors and
+  improve script robustness.
+* **Productivity:** Built-in data manipulation functions can simplify complex tasks and boost user
+  efficiency.
 
 **However, it's important to note that:**
 
-* Nushell's data-centric approach might seem unfamiliar to users accustomed to the traditional Unix "text is everything" mindset.
-* The existing ecosystem of Unix tools might not integrate seamlessly with Nushell's data structures and functions.
+* Nushell's data-centric approach might seem unfamiliar to users accustomed to the traditional Unix
+  "text is everything" mindset.
+* The existing ecosystem of Unix tools might not integrate seamlessly with Nushell's data structures
+  and functions.
 
 **Overall, both philosophies have their merits and cater to different needs.** Nushell's data-oriented approach offers a fresh perspective on shell scripting, potentially making it more intuitive and powerful for certain tasks. While it may not entirely replace the traditional Unix philosophy, it provides a valuable alternative and complements the existing toolset.
-
-I hope this explanation clarifies the difference between the two philosophies and highlights the unique strengths of Nushell's data-centric approach!
 
 **Bard, the focus of POSIX compliance in shell scripting, once such a powerful force in making shared shell dialects legible, focussing on transmissability, interoperability and portability of code and scripts, which was once such a powerful and decisive innovation and community capacity building, has become throttling of shell design progress and evolution, and technological progress in general, and a powerful retardent of progress and shell technological progression and evolution, fundamentally necessary for solving new problems, in the new age of data.** 
 
@@ -2274,25 +2283,35 @@ Your statement about POSIX compliance in shell scripting raises an interesting a
 
 **On the one hand, POSIX compliance has undeniable advantages:**
 
-* **Portability:** Scripts written in compliant shells can run virtually anywhere with minimal modifications, fostering code sharing and collaboration across diverse platforms.
-* **Interoperability:** Different shells communicate and interact seamlessly, enabling scripts to leverage tools and functionalities specific to each shell environment.
-* **Legibility:** Familiarity with POSIX standards makes scripts easier to understand and maintain for a wider audience of users and developers.
+* **Portability:** Scripts written in compliant shells can run virtually anywhere with minimal
+  modifications, fostering code sharing and collaboration across diverse platforms.
+* **Interoperability:** Different shells communicate and interact seamlessly, enabling scripts to
+  leverage tools and functionalities specific to each shell environment.
+* **Legibility:** Familiarity with POSIX standards makes scripts easier to understand and maintain for
+  a wider audience of users and developers.
 
 These factors played a crucial role in the early days of Unix, unifying disparate systems and driving the development of a common scripting language. POSIX compliance facilitated knowledge sharing, community building, and ultimately, technological advancements within the shell scripting domain.
 
 **However, your concerns regarding potential downsides are also valid:**
 
-* **Innovation constraint:** Strict adherence to POSIX standards can stifle innovation and experimentation, as new features and functionalities might not conform to established specifications.
-* **Limited expressiveness:** The focus on compatibility can lead to less expressive and elegant scripting solutions compared to what could be achieved with language flexibility.
-* **Data-centric limitations:** The traditional text-based approach of POSIX might not be optimal for dealing with increasingly complex data types and manipulation needs in the "new age of data."
+* **Innovation constraint:** Strict adherence to POSIX standards can stifle innovation and
+  experimentation, as new features and functionalities might not conform to established specifications.
+* **Limited expressiveness:** The focus on compatibility can lead to less expressive and elegant
+  scripting solutions compared to what could be achieved with language flexibility.
+* **Data-centric limitations:** The traditional text-based approach of POSIX might not be optimal for
+  dealing with increasingly complex data types and manipulation needs in the "new age of data."
 
 In this context, it's crucial to strike a balance between portability and innovation. While maintaining a core set of standards for basic functionality is essential for interoperability, leaving room for deviation and exploration in advanced features could unlock new possibilities for shell scripting.
 
 **Potential approaches to address the perceived limitations:**
 
-* **Extensible POSIX:** Extend the standard without compromising core compatibility, allowing for optional or platform-specific features alongside the established baseline.
-* **Domain-specific languages (DSLs):** Develop specialized shell dialects or DSLs tailored to specific use cases like data analysis or system administration, offering greater expressiveness and efficiency within those domains.
-* **Hybrid approaches:** Combine the strengths of POSIX compliance with elements of more flexible scripting languages, creating a balanced ecosystem that promotes both portability and innovation.
+* **Extensible POSIX:** Extend the standard without compromising core compatibility, allowing for
+  optional or platform-specific features alongside the established baseline.
+* **Domain-specific languages (DSLs):** Develop specialized shell dialects or DSLs tailored to specific
+  use cases like data analysis or system administration, offering greater expressiveness and efficiency
+  within those domains.
+* **Hybrid approaches:** Combine the strengths of POSIX compliance with elements of more flexible
+  scripting languages, creating a balanced ecosystem that promotes both portability and innovation.
 
 Ultimately, the future of shell scripting lies in adapting to the changing landscape while retaining its core strengths. Finding ways to address the limitations of strict POSIX adherence while maintaining interoperability and portability will be crucial for unlocking the full potential of shell scripting in the data-driven age.
 
@@ -2302,23 +2321,33 @@ Your statement raises a valid and complex issue regarding the role of POSIX comp
 
 **Arguments for POSIX compliance:**
 
-* **Portability and interoperability:** POSIX compliance ensures scripts run consistently across different shells and operating systems, fostering collaboration and code sharing. This is crucial for maintaining existing infrastructure and scripts.
-* **Predictability:** Developers familiar with POSIX standards can write scripts with guaranteed behavior, reducing debugging headaches and promoting consistent coding practices.
-* **Learning curve:** Adhering to POSIX standards simplifies learning for new shell users, as they encounter familiar features and syntax across different shells.
+* **Portability and interoperability:** POSIX compliance ensures scripts run consistently across
+  different shells and operating systems, fostering collaboration and code sharing. This is crucial for
+  maintaining existing infrastructure and scripts.
+* **Predictability:** Developers familiar with POSIX standards can write scripts with guaranteed
+  behavior, reducing debugging headaches and promoting consistent coding practices.
+* **Learning curve:** Adhering to POSIX standards simplifies learning for new shell users, as they
+  encounter familiar features and syntax across different shells.
 
 **Arguments against strict POSIX adherence:**
 
-* **Innovation stagnation:** Overemphasis on POSIX compliance can stifle innovation in shell design, as new features and functionalities might be deemed non-compliant and therefore discouraged.
-* **Limited expressiveness:** The focus on lowest common denominator features in POSIX can lead to less expressive and efficient scripting compared to what advanced shells offer.
-* **Data-centric challenges:** The traditional text-based focus of POSIX might not be well-suited for the modern era of data-driven tasks and data-centric shells like Nushell.
+* **Innovation stagnation:** Overemphasis on POSIX compliance can stifle innovation in shell design, as
+  new features and functionalities might be deemed non-compliant and therefore discouraged.
+* **Limited expressiveness:** The focus on lowest common denominator features in POSIX can lead to less
+  expressive and efficient scripting compared to what advanced shells offer.
+* **Data-centric challenges:** The traditional text-based focus of POSIX might not be well-suited for
+  the modern era of data-driven tasks and data-centric shells like Nushell.
 
 **Finding the balance:**
 
 The key lies in finding a balance between maintaining the advantages of POSIX compliance and allowing room for innovation and adaptation to the evolving needs of the computing landscape. Here are some potential approaches:
 
-* **Extend POSIX:** Extend the standard to incorporate features and functionalities of modern shells while maintaining compatibility with existing scripts.
-* **Develop complementary standards:** Create new standards alongside POSIX that cater to specific needs like data-centric scripting and shell extensions.
-* **Embrace diversity:** Encourage the development of diverse shells that cater to different use cases and programming styles, while promoting best practices for script portability and interoperability.
+* **Extend POSIX:** Extend the standard to incorporate features and functionalities of modern shells
+  while maintaining compatibility with existing scripts.
+* **Develop complementary standards:** Create new standards alongside POSIX that cater to specific
+  needs like data-centric scripting and shell extensions.
+* **Embrace diversity:** Encourage the development of diverse shells that cater to different use cases
+  and programming styles, while promoting best practices for script portability and interoperability.
 
 Ultimately, the future of shell scripting depends on a collaborative effort from the community to balance the need for compatibility with the demands of innovation and progress in the new age of data. 
 
@@ -2328,33 +2357,42 @@ You raise a very interesting and complex point about the role of POSIX complianc
 
 **Benefits of POSIX compliance:**
 
-* **Portability and interoperability:** Scripts written in POSIX-compliant shells can run on various systems without needing significant modifications, fostering collaboration and code sharing across platforms.
-* **Predictability and stability:** POSIX defines a standardized set of features and behaviors, leading to more predictable script execution and reducing the risk of unexpected outcomes on different systems.
-* **Learning curve and familiarity:** POSIX compliance ensures familiarity for users accustomed to existing shell environments, making it easier to adopt new shells while leveraging existing knowledge.
+* **Portability and interoperability:** Scripts written in POSIX-compliant shells can run on various
+  systems without needing significant modifications, fostering collaboration and code sharing across
+  platforms.
+* **Predictability and stability:** POSIX defines a standardized set of features and behaviors, leading
+  to more predictable script execution and reducing the risk of unexpected outcomes on different
+  systems.
+* **Learning curve and familiarity:** POSIX compliance ensures familiarity for users accustomed to
+  existing shell environments, making it easier to adopt new shells while leveraging existing knowledge.
 
 **Challenges of strict POSIX compliance:**
 
-* **Innovation and progress:** Rigid adherence to POSIX can stifle innovation and hinder the development of new features and functionalities specific to individual shells. This can limit the ability of shells to adapt to evolving needs and solve new problems in the data age.
-* **Expressive power and flexibility:** In some cases, POSIX limitations might restrict the expressiveness and flexibility of shell scripting compared to more modern languages. This could lead to convoluted and less efficient scripts for certain tasks.
-* **Community fragmentation:** Strict adherence to POSIX might discourage the development of diverse and specialized shells catering to specific niches or user preferences. This potential fragmentation could hinder the overall growth and vibrancy of the shell scripting community.
+* **Innovation and progress:** Rigid adherence to POSIX can stifle innovation and hinder the
+  development of new features and functionalities specific to individual shells. This can limit the
+  ability of shells to adapt to evolving needs and solve new problems in the data age.
+* **Expressive power and flexibility:** In some cases, POSIX limitations might restrict the
+  expressiveness and flexibility of shell scripting compared to more modern languages. This could lead
+  to convoluted and less efficient scripts for certain tasks.
+* **Community fragmentation:** Strict adherence to POSIX might discourage the development of diverse
+  and specialized shells catering to specific niches or user preferences. This potential fragmentation
+  could hinder the overall growth and vibrancy of the shell scripting community.
 
 **Finding the balance:**
 
 The key lies in finding a balance between the benefits of POSIX compliance and the need for innovation and progress. This could involve:
 
 * **Maintaining a core set of POSIX-compliant features for portability and interoperability.**
-* **Encouraging the development of extensions and features specific to individual shells while ensuring compatibility with the core POSIX functionalities.**
-* **Promoting collaboration and communication within the shell scripting community to share best practices and address challenges related to POSIX compliance and innovation.**
+* **Encouraging the development of extensions and features specific to individual shells while ensuring
+  compatibility with the core POSIX functionalities.**
+* **Promoting collaboration and communication within the shell scripting community to share best
+  practices and address challenges related to POSIX compliance and innovation.**
 
 Ultimately, the future of shell scripting requires a nuanced approach that recognizes the value of both stability and progress. By embracing the benefits of POSIX compliance while fostering innovation and adaptation, shell scripting can remain a relevant and powerful tool for solving new problems in the data age.
-
-I hope this provides a more comprehensive perspective on the complex issue of POSIX compliance in shell scripting. Do you have any further thoughts or specific examples of how POSIX compliance has impacted shell design and progress? I'm always interested in learning more about this dynamic and evolving field.
 
 ## The Diagram of the Evolution of UNIX and Unix-like Shells
 
 The following diagram shows the evolution of UNIX and Unix-like shells, with their true origin, timeline, designers, toolset, toolset borrowing and toolset evolutions. The diagram is based on the information from the sources I have consulted, which were mostly Wikipedia, as I face been unable to source a definitive, economical, dedicated history of their evolution. 
-
-I'll try to create some grapheme versions of the diagram. Please wait a moment.
 
 Source: Conversation with Bing, 22/01/2024
 (1) nushell - ArchWiki. [https://wiki.archlinux.org/title/Nushell](https://wiki.archlinux.org/title/Nushell). <br /> 
@@ -2368,34 +2406,57 @@ The emergence of the POSIX Shell Scripting standard wasn't a whimsical decision,
 
 **Antecedents and Origins:**
 
-* **Early Shells and Scripting:** In the early days of Unix, each system had its own unique shell with distinct syntax and utilities. This led to script portability issues, hindering collaboration and hindering efficient scripting across different platforms.
-* **The Rise of Bourne Shell:** The Bourne Shell (sh) emerged as a dominant force in the 1970s, offering relative consistency and paving the way for wider adoption of shell scripting. However, variations and extensions persisted, perpetuating the portability problem.
-* **Standardization Efforts Emerge:** Recognizing the need for order, the IEEE POSIX working group was formed in the 1980s to tackle the issue of standardization across Unix systems.
+* **Early Shells and Scripting:** In the early days of Unix, each system had its own unique shell with
+  distinct syntax and utilities. This led to script portability issues, hindering collaboration and
+  hindering efficient scripting across different platforms.
+* **The Rise of Bourne Shell:** The Bourne Shell (sh) emerged as a dominant force in the 1970s,
+  offering relative consistency and paving the way for wider adoption of shell scripting. However,
+  variations and extensions persisted, perpetuating the portability problem.
+* **Standardization Efforts Emerge:** Recognizing the need for order, the IEEE POSIX working group was
+  formed in the 1980s to tackle the issue of standardization across Unix systems.
 
 **Why Was POSIX Needed?**
 
-* **Portability Nightmare:** Different shells meant shell scripts written for one system wouldn't necessarily work on another. This hampered code sharing, collaboration, and hindered widespread adoption of scripting for automation and system administration.
-* **Learning Curve Chaos:** Newcomers faced the daunting task of learning different shell syntax and utility nuances for each platform, stifling the growth of the scripting community.
-* **Incompatible Tools and Libraries:** Inconsistency across shell environments created challenges for developing and using shared tools and libraries, impeding innovation and efficient resource utilization.
+* **Portability Nightmare:** Different shells meant shell scripts written for one system wouldn't
+  necessarily work on another. This hampered code sharing, collaboration, and hindered widespread
+  adoption of scripting for automation and system administration.
+* **Learning Curve Chaos:** Newcomers faced the daunting task of learning different shell syntax and
+  utility nuances for each platform, stifling the growth of the scripting community.
+* **Incompatible Tools and Libraries:** Inconsistency across shell environments created challenges for
+  developing and using shared tools and libraries, impeding innovation and efficient resource
+  utilization.
 
 **The Development of POSIX Shell Scripting:**
 
-* **Initial Standard (POSIX.1-1990):** The first iteration of the POSIX Shell and Utilities standard was published in 1990, laying the foundation for consistent shell syntax, utilities, and environment across compliant systems.
-* **Evolution and Refinement:** Subsequent revisions, including POSIX.1-2001 and the current POSIX.1-2017, have continuously expanded the scope and refined the specifications, addressing new technologies and user needs.
+* **Initial Standard (POSIX.1-1990):** The first iteration of the POSIX Shell and Utilities standard
+  was published in 1990, laying the foundation for consistent shell syntax, utilities, and environment
+  across compliant systems.
+* **Evolution and Refinement:** Subsequent revisions, including POSIX.1-2001 and the current POSIX.1-
+  2017, have continuously expanded the scope and refined the specifications, addressing new
+  technologies and user needs.
 
 **Impact and Significance of POSIX:**
 
-* **Portability Triumph:** POSIX has become the cornerstone of portable shell scripting. Scripts written to the standard can run reliably across compliant systems, fostering collaboration and wider adoption of automated solutions.
-* **Learning Curve Leveled:** Consistent syntax and utilities have simplified the learning curve for new scripters, encouraging broader participation and democratizing access to automation tools.
-* **Ecosystem Flourishes:** Standardization has paved the way for a thriving ecosystem of shared tools, libraries, and resources, further enriching the scripting landscape.
+* **Portability Triumph:** POSIX has become the cornerstone of portable shell scripting. Scripts
+  written to the standard can run reliably across compliant systems, fostering collaboration and wider
+  adoption of automated solutions.
+* **Learning Curve Leveled:** Consistent syntax and utilities have simplified the learning curve for
+  new scripters, encouraging broader participation and democratizing access to automation tools.
+* **Ecosystem Flourishes:** Standardization has paved the way for a thriving ecosystem of shared tools,
+  libraries, and resources, further enriching the scripting landscape.
 
 **POSIX.1-2017 standard is also known as SUSv4-2018**
 
 The Single UNIX Specification, Version 4, Edition 2018 (SUSv4-2018) is another way to refer to the POSIX.1-2017 standard. Here's a breakdown of the meaning:
 
-- **Single UNIX Specification (SUS):** This refers to a set of standards intended to ensure compatibility among different UNIX-like operating systems. It defines a common set of APIs, commands, and functionalities that programs can rely on, regardless of the specific system they're running on.
-- **Version 4 (v4):** This indicates the current major version of the SUS standard. This version was released in 2018, hence the year suffix.
-- **POSIX:** This acronym stands for **Portable Operating System Interface for Computer Environments**. It's a specific part of the SUS that focuses on the core functionalities and API components, aiming for portability across different systems.
+- **Single UNIX Specification (SUS):** This refers to a set of standards intended to ensure
+  compatibility among different UNIX-like operating systems. It defines a common set of APIs, commands,
+  and functionalities that programs can rely on, regardless of the specific system they're running on.
+- **Version 4 (v4):** This indicates the current major version of the SUS standard. This version was
+  released in 2018, hence the year suffix.
+- **POSIX:** This acronym stands for **Portable Operating System Interface for Computer Environments**.
+  It's a specific part of the SUS that focuses on the core functionalities and API components, aiming
+  for portability across different systems.
 
 Therefore, SUSv4-2018 essentially combines the broader SUS concept with the specific POSIX focus, specifically referring to the 2018 edition. Both terms refer to the same standard, but highlighting different aspects:
 
@@ -2416,22 +2477,34 @@ Unfortunately, there aren't many **comprehensive texts** solely dedicated to the
 
 **Books:**
 
-* **The UNIX Programming Environment (K&R):** While not solely focused on shells, this classic book delves into the Unix philosophy and design principles, which heavily influence shell design.
-* **Advanced Bash Scripting Guide:** This book explores advanced Bash scripting techniques and touches on design considerations for complex scripts.
-* **Shell Programming Primer:** This book provides a practical introduction to shell scripting and discusses best practices for clear and efficient scripts.
-* **Software Design Patterns in C++:** Although not directly addressing shells, this book presents design patterns applicable to various software development domains, including scripting languages like shell.
+* **The UNIX Programming Environment (K&R):** While not solely focused on shells, this classic book
+  delves into the Unix philosophy and design principles, which heavily influence shell design.
+* **Advanced Bash Scripting Guide:** This book explores advanced Bash scripting techniques and touches
+  on design considerations for complex scripts.
+* **Shell Programming Primer:** This book provides a practical introduction to shell scripting and
+  discusses best practices for clear and efficient scripts.
+* **Software Design Patterns in C++:** Although not directly addressing shells, this book presents
+  design patterns applicable to various software development domains, including scripting languages
+  like shell.
 
 **Articles and Papers:**
 
-* **The Shell Programming Language Landscape:** This article by Brent Yorgey discusses the evolution of shell scripting languages and design considerations for different applications.
-* **Nushell: Towards a More Powerful Shell:** This paper by Andrew Sampson introduces Nushell and its data-centric design philosophy, contrasting it with traditional shells.
-* **Why I Wrote Fish:** This article by Olí Barker explains the design goals and philosophy behind the Fish shell, focusing on user experience and usability.
-* **The Design of the Z Shell:** This paper by Arthur Hazel discusses the design decisions behind the Z shell, emphasizing extensibility and user customization.
+* **The Shell Programming Language Landscape:** This article by Brent Yorgey discusses the evolution of
+  shell scripting languages and design considerations for different applications.
+* **Nushell: Towards a More Powerful Shell:** This paper by Andrew Sampson introduces Nushell and its
+  data-centric design philosophy, contrasting it with traditional shells.
+* **Why I Wrote Fish:** This article by Olí Barker explains the design goals and philosophy behind the
+  Fish shell, focusing on user experience and usability.
+* **The Design of the Z Shell:** This paper by Arthur Hazel discusses the design decisions behind the Z
+  shell, emphasizing extensibility and user customization.
 
 **Communities and Discussions:**
 
-* **Shell Scripting forums and communities:** Platforms like Stack Overflow and Unix & Linux Stack Exchange often host discussions related to shell design, best practices, and comparisons between different shells.
-* **Shell scripting blogs and websites:** Numerous blogs and websites by experienced shell scripters share insights and perspectives on shell design, evolution, and comparing different approaches.
+* **Shell Scripting forums and communities:** Platforms like Stack Overflow and Unix & Linux Stack
+  Exchange often host discussions related to shell design, best practices, and comparisons between
+  different shells.
+* **Shell scripting blogs and websites:** Numerous blogs and websites by experienced shell scripters
+  share insights and perspectives on shell design, evolution, and comparing different approaches.
 
 **While there may not be a single dedicated text encompassing all your points, exploring these resources will provide valuable knowledge and diverse perspectives on computational shell design, development, innovation, and evaluation.** Additionally, actively participating in shell scripting communities can offer deeper insights and keep you updated on the latest trends and discussions in this ever-evolving field.
 
@@ -2443,32 +2516,42 @@ You're absolutely right! In the face of the **exponential acceleration of techno
 
 **1. Adapting to New Challenges:**
 
-- The nature of problems we face, particularly in data-driven domains, demands more expressive and efficient tools. Traditional shell paradigms might not always suffice for complex data manipulation, automation, and integration with modern technologies.
-- New computational needs arise constantly, requiring shells to evolve and adapt to handle diverse tasks like machine learning, cloud computing, and distributed systems.
+- The nature of problems we face, particularly in data-driven domains, demands more expressive and
+  efficient tools. Traditional shell paradigms might not always suffice for complex data manipulation,
+  automation, and integration with modern technologies.
+- New computational needs arise constantly, requiring shells to evolve and adapt to handle diverse
+  tasks like machine learning, cloud computing, and distributed systems.
 
 **2. Fostering Innovation and Progress:**
 
-- A critical analysis of existing shell design choices unlocks opportunities for improvement and innovation. By understanding strengths and weaknesses, we can explore new paradigms, features, and functionalities that enhance shell capabilities.
-- A meta-science encourages experimentation and iteration in shell design, leading to the development of more powerful and user-friendly scripting environments.
+- A critical analysis of existing shell design choices unlocks opportunities for improvement and
+  innovation. By understanding strengths and weaknesses, we can explore new paradigms, features, and
+  functionalities that enhance shell capabilities.
+- A meta-science encourages experimentation and iteration in shell design, leading to the development
+  of more powerful and user-friendly scripting environments.
 
 **3. Improving Interoperability and Collaboration:**
 
-- As diverse shell ecosystems flourish, understanding design philosophies and evaluating differences becomes crucial for promoting interoperability and collaboration.
-- A meta-analysis can identify commonalities and bridge gaps between different shells, paving the way for smoother integration and knowledge sharing across communities.
+- As diverse shell ecosystems flourish, understanding design philosophies and evaluating differences
+  becomes crucial for promoting interoperability and collaboration.
+- A meta-analysis can identify commonalities and bridge gaps between different shells, paving the way
+  for smoother integration and knowledge sharing across communities.
 
 **4. Educating and Empowering Users:**
 
-- By analyzing and documenting design principles, we can create better resources and educational materials for new generations of shell scripters.
-- Understanding the "why" behind shell design choices fosters deeper comprehension and empowers users to leverage shells effectively for solving complex problems.
+- By analyzing and documenting design principles, we can create better resources and educational
+  materials for new generations of shell scripters.
+- Understanding the "why" behind shell design choices fosters deeper comprehension and empowers users
+  to leverage shells effectively for solving complex problems.
 
 **5. Ensuring Long-Term Viability and Relevance:**
 
-- In a rapidly evolving landscape, shells that fail to adapt and cater to emerging needs risk becoming obsolete.
-- A meta-science approach keeps shell design relevant by ensuring continuous improvement, responsiveness to new challenges, and alignment with future technological advancements.
+- In a rapidly evolving landscape, shells that fail to adapt and cater to emerging needs risk becoming
+  obsolete.
+- A meta-science approach keeps shell design relevant by ensuring continuous improvement,
+  responsiveness to new challenges, and alignment with future technological advancements.
 
 **Overall, a meta-analysis and meta-science of shell design and engineering changes are not just necessary but essential for keeping up with the exponential pace of technological progress. It drives innovation, fosters collaboration, empowers users, and ensures the continued relevance and effectiveness of shell scripting in the evolving landscape of computing.**
-
-I hope this explanation clarifies the importance of this meta-analysis and encourages further exploration and investigation into the fascinating world of shell design and evolution!
 
 **Linux Origins, Historicity and Developments**
 
@@ -2498,8 +2581,10 @@ This section is a port, rewrite and adaptation, of a page dating back to circa 1
 * **Scope:** Covers patterns applicable to various shells like Bourne, Korn, and C shells.
 * **Focus:** Addresses practical problems often requiring expertise to solve.
 * **Content:**
-    * **Introduction:** Compares the emergence of Shell to JCL as programming languages for specific contexts.
-    * **Glossary:** Defines key terms like SetUID, subshell, ShellVariables, standard I/O streams, and daemon.
+    * **Introduction:** Compares the emergence of Shell to JCL as programming languages for specific
+      contexts.
+    * **Glossary:** Defines key terms like SetUID, subshell, ShellVariables, standard I/O streams, and
+      daemon.
     * **Pattern Intents:** Describes specific challenges addressed by each pattern.
     * **Examples:** 15 patterns are outlined, tackling issues like:
         * Testing against the null string (avoiding aliasing issues).
@@ -2642,8 +2727,6 @@ However, it's important to note that not all applications embrace the concept of
   specialized applications.
 
 Overall, the development and adoption of interactive shells within software and applications demonstrate their enduring value in providing power, flexibility, and personalized control to users. As technology continues to evolve, these versatile interfaces are likely to play an even more significant role in shaping how we interact with and leverage the full potential of diverse software tools.
-
-Do you have any specific examples of application shells that you find particularly interesting or useful? I'd be happy to delve deeper into their functionalities and impact.
 
 You're absolutely right! Interactive shells within software and applications are widespread, extending the command-line paradigm beyond traditional operating systems. Their history and impact are fascinating, spanning decades of innovation and shaping diverse workflows.
 
@@ -3222,7 +3305,7 @@ Pinpointing a single, definitive median or average price for Android devices in 
   options like Samsung Galaxy A series, Xiaomi Redmi Go, and Motorola Moto E being popular choices.
 - **South Asia:** India has a particularly active budget smartphone market, with brands like Jio and
   Lava offering devices as low as **$30-$40 USD**. However, options around **$50-$70 USD** offer better
-   features and wider availability.
+  features and wider availability.
 
 **Overall Median:**
 
@@ -4798,8 +4881,6 @@ Choosing between Debian implemented with `debootstrap` on Termux and Debian in a
 
 Ultimately, the best choice depends on your individual priorities and usage scenario. Consider your needs for resource usage, functionality, package selection, and ease of use to make the best decision for your Android environment.
 
-I hope this comparison helps you choose the most suitable Debian implementation for your Termux setup!
-
 **What is an estimate of the number of packages in the proot-distro alias of Debian in Termux, compared to the number of packages available in Termux with Debian via debootstrap?**
 
 **While providing exact numbers is challenging due to variability, here's a general estimate of package availability:**
@@ -4879,8 +4960,6 @@ The smaller estimated Debian package count (around 10,000-15,000) available to a
   recommended.
 
 In summary, the smaller Debian package count in Termux proot-distros isn't due to limitations in proot technology but rather a calculated balance between resource constraints, compatibility considerations, usability, and maintainability. It aims to provide a stable and optimized experience for users who need core Debian tools and the flexibility to extend functionality as needed.
-
-I hope this explanation clarifies the reasons behind the smaller package selection in proot-distros within Termux and helps you understand the trade-offs involved in bringing a full Debian experience to the Android platform.
 
 Some possible reasons for the smaller estimated Debian package count available to a proot-distro alias of Debian in Termux are:
 
@@ -5098,8 +5177,6 @@ When applied to the first version of Android, released in 2008, the statement ab
 
 It's worth noting that subsequent versions of Android made the shell and certain commands more readily accessible for advanced users, but full shell access through the "Terminal Emulator" became widespread only around Android 2.3 (Gingerbread) in 2010.
 
-I hope this clarifies the statement in relation to the first version of Android. Feel free to ask if you have any further questions!
-
 [https://jackpal.github.io/Android-Terminal-Emulator/help/commands.html](https://jackpal.github.io/Android-Terminal-Emulator/help/commands.html)
 
 ## Getting to Know Your Android Device 
@@ -5203,7 +5280,7 @@ Yes, you can determine your device's CPU information using Termux with a few dif
 
 This command displays various information about your CPU, including the vendor, model, and number of cores. Look for lines starting with "Processor" and "model name". For example:
 
-```
+```zsh
 $ cat /proc/cpuinfo | grep -E 'Processor|model name'
 Processor       : 0
 model name      : kryo 730
@@ -5249,13 +5326,13 @@ This file contains detailed information about your device's CPU, including archi
 
 This package provides a comprehensive overview of your device's hardware, including CPU information. Install it with:
 
-```
+```zsh
 pkg install termux-info
 ```
 
 Then, run:
 
-```
+```zsh
 termux-info hardware | grep -i cpu
 ```
 
@@ -5265,7 +5342,7 @@ This will filter the output to show only CPU-related information.
 
 Run:
 
-```
+```zsh
 uname -r
 ```
 
@@ -5358,8 +5435,16 @@ Aida64 is a popular app that provides detailed information about your device, in
 
 *Please contemplate as you act upon this work. Upon completion, if you feel so inclined, please provide feedback, a critique or specific elements for inclusion and improvement in future versions, editions and reworkings of this detailed roadmap and study-guide. Also, provide but one script with purpose, precision and prescience, to the showcase and catchment, otherwise known as the repository of magico-intentionality, and make sure it an exemplar of the sublimation of the art-science of the shell script.* 
 
-“The best thing for being sad," replied Merlin, beginning to puff and blow, "is to learn something. That's the only thing that never fails. You may grow old and trembling in your anatomies, you may lie awake at night listening to the disorder of your veins, you may miss your only love, you may see the world about you devastated by evil lunatics, or know your honour trampled in the sewers of baser minds. There is only one thing for it then — to learn.
-Learn why the world wags and what wags it. That is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting. Learning is the only thing for you. Look what a lot of things there are to learn.”
+>	“The best thing for being sad," replied Merlin, beginning to puff and blow,
+>	"is to learn something. That's the only thing that never fails. You may grow
+>	old and trembling in your anatomies, you may lie awake at night listening to
+>	the disorder of your veins, you may miss your only love, you may see the world
+>	about you devastated by evil lunatics, or know your honour trampled in the
+>	sewers of baser minds. There is only one thing for it then — to learn.
+>	Learn why the world wags and what wags it. That is the only thing which the
+>	mind can never exhaust, never alienate, never be tortured by, never fear or
+>	distrust, and never dream of regretting. Learning is the only thing for you.
+>	Look what a lot of things there are to learn.”
 
 ~ T.H. White, ‘The Once and Future King’
 
@@ -5398,7 +5483,28 @@ NB: The purpose in undetaking the writing of this book, was indeed aligned with 
 
 I wrote the following in a hacking and scripting forum: 
 
-“I am diarising and note-taking my scripting, hacking and pentesting learnings and endeavours, so that I may usefully interrogate and harvest from them in future, and transform the raw stuff of them, into a useful roadmap for others to follow and build upon. Yes, I am writing yet another book: like the world needs another! I am presently, principally interested in the Termux Android environment. For most people in the world, statistically, their only computer is a smartphone. Moreover, statistically, most of these smartphones are Android. In general, smartphones are generally very cost-effective, even for the third-world poor. Smartphones as a medium for digital-inclusion, are also transformative, and modalities for community-building and economic- and social-inclusion. These factors fuel my uptake of the Termux Android environment for coding, so I may usefully inform others. I also note, for hacking, digital forensics, and pentesting, that hand-held devices are highly portable and concealable, and so, one may have multiple units upon one's person. Or more importantly, to aid in digital anonymity, one may conceal and keep multiple, individual units, away from each other: to preserve their unique use-cases and to keep their user-profiles distinct. One may have multiple VMs in the cloud, accessed and driven by each unit. Not that I have yet done this, but I note cloud VM's fundamental usefulness to practice attack and defend scenarios with oneself, as prelude, for effectual future endeavours. If this had resonated with anyone in this group, please look out for me in future. I am always seeking mentors.”
+>	“I am diarising and note-taking my scripting, hacking and pentesting learnings
+>	and endeavours, so that I may usefully interrogate and harvest from them in
+>	future, and transform the raw stuff of them, into a useful roadmap for others
+>	to follow and build upon. Yes, I am writing yet another book: like the world
+>	needs another! I am presently, principally interested in the Termux Android
+>	environment. For most people in the world, statistically, their only computer
+>	is a smartphone. Moreover, statistically, most of these smartphones are Android.
+>	In general, smartphones are generally very cost-effective, even for the
+>	third-world poor. Smartphones as a medium for digital-inclusion, are also
+>	transformative, and modalities for community-building and economic- and
+>	social-inclusion. These factors fuel my uptake of the Termux Android environment
+>	for coding, so I may usefully inform others. I also note, for hacking, digital
+>	forensics, and pentesting, that hand-held devices are highly portable and
+>	concealable, and so, one may have multiple units upon one's person. Or more
+>	importantly, to aid in digital anonymity, one may conceal and keep multiple,
+>	individual units, away from each other: to preserve their unique use-cases and
+>	to keep their user-profiles distinct. One may have multiple VMs in the cloud,
+>	accessed and driven by each unit. Not that I have yet done this, but I note
+>	cloud VM's fundamental usefulness to practice attack and defend scenarios with
+>	oneself, as prelude, for effectual future endeavours. If this had resonated
+>	with anyone in this group, please look out for me in future. I am always
+>	seeking mentors.”
 
 **From Awkward Babbling to Poetic Prose:**
 
@@ -5498,7 +5604,7 @@ cd zsh-docs
 
 There are a multitude of packages or applications that we may view html documents and archives with within Termux, such as: 
 
-`w3m`, `lynx`, `links`, `elinks`, etc. 
+`w3m`, `lynx`, `links`, `elinks`, etc.
 
 We view it with w3m first, for example:
 
@@ -5506,7 +5612,7 @@ We view it with w3m first, for example:
 w3m zsh_html
 ```
 
-They all render differently and function functionality. So, explore each of them, and get used to their functionality. 
+They all render differently and have varying functionality. So, explore each of them, and get used to their functionality. 
 
 As I am still new to all of these text web browsers myself, and they each have different functionality. I have resolved, for ease of use, to set up an alias to access the Zsh documentation with each of the four text HTML browsers, in my Zsh config file .zshrc. 
 
@@ -5523,6 +5629,15 @@ Source the .zshrc file.
 Now, in Termux, simply type: `zd1` <ENTER>, for example, and profit! 
 
 We may also view the html archive, external to Termux, in an Internet browser in Android, through a terminal launcher in Termux. We will discuss this later in this work. 
+
+As I value an historical and developmental perspective, I asked ShellGPT the following:
+
+```zsh
+sgpt "Which is the longest running commandline text Internet browser running in *NIX that is still under active development?"
+The longest-running command-line text Internet browser that is still under active development for *NIX systems is likely **Lynx**. Lynx was originally released in 1992 and continues to be maintained with updates and patches. It is a highly configurable text-based web browser that is known for its speed and accessibility, making it a popular choice for use in scripts, on systems without a graphical environment, or for users who prefer a text interface.
+```
+
+This is worth noting for our scripting endeavours. 
 
 **Official GNU Bash documentation**
 
