@@ -2433,6 +2433,22 @@ Start-Date: 2024-01-28  04:38:22
 Commandline: apt install rcshell
 ```
 
+```zsh
+❯ sgpt "grep -B1 'install rc' /data/data/com.termux/files/usr/var/log/apt/history.log
+states when I supposedly installed rcshell, but: history | grep 'rcshell' doesn't list it. Why?"
+The `grep` command you used on the `apt` history log shows that `rcshell` was installed using the `apt` package manager. The `apt` history log records all the package management actions that have been performed using `apt`.
+
+On the other hand, the `history` command in the shell shows the commands that have been entered in the shell by the user. If you don't see `rcshell` listed when you run `history | grep 'rcshell'`, it could be due to several reasons:                                                                          
+1. The installation was done without directly using the shell, for example, through a script or another user.
+2. The history has been cleared or the `.zsh_history` file has been modified or deleted since the installation.
+3. The history size limit (`HISTSIZE` and `SAVEHIST` variables) might have been reached, and older entries, including the installation command, were removed from the history.
+4. The command might have been run in a different shell or user context where the history is stored separately.
+
+Remember that the shell history and `apt` logs are independent and track different types of activities.
+```
+
+This response from ShellGPT just problematised the issue of the installation of the rcshell package on my device further. 
+
 **Further reading:**
 
 https://github.com/rakitzis/rc (accessed: Sunday, February 18, 2024)
