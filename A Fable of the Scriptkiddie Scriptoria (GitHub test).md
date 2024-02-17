@@ -1,4 +1,4 @@
-# A Fable of the Scriptkiddie Scriptoria: A Bash/Zsh roadmap/study-guide, leveraging the GNU/Linux shell & Termux scripting environment w/~ Android: unrooted, PRoot to root!
+U# A Fable of the Scriptkiddie Scriptoria: A Bash/Zsh roadmap/study-guide, leveraging the GNU/Linux shell & Termux scripting environment w/~ Android: unrooted, PRoot to root!
 
 ## by The Google Bard Experiment, Google Gemini, PerplexityAI & Microsoft Bing Copilot, w/~ Beauford A. Stenberg (a.k.a. b9Joker108 at GitHub) 
 
@@ -2222,6 +2222,67 @@ etc., if they are installed.
 I tried these options in my proot-distro installations, and in some of my user accounts, in my host Termux environment. Most shells installed were listed, but not all. 
 
 So, this will work for quite a number of shells potentially installed in Termux, but not `nu`, for example. 
+
+**Bing, can Bash, Zsh, Fish and Nushell, all be run in POSIX compliant mode both interactively and for executing scripts?**
+
+The answer to your question depends on how you define POSIX compliant mode. POSIX is a set of standards for operating systems and shells that specify the expected behavior and features¹. However, not all shells strictly follow the POSIX standards, and some may have extensions or differences that make them incompatible with POSIX scripts or commands.
+
+According to my web search results, here is a summary of the POSIX compliance status of the four shells you mentioned:
+
+- **Bash:** Bash is intended to be a conformant implementation of the POSIX shell specification, and it
+  can run in POSIX mode by invoking it as `sh` or by using the option `-o posix`. However, Bash also
+  has many features that are not part of the POSIX standard, such as arrays, associative arrays, brace
+  expansion, etc. These features are disabled in POSIX mode, but they may still be available in
+  interactive mode. 
+- **Zsh:** Zsh is also a POSIX-compatible shell, and it can run in POSIX mode by invoking it as `sh`
+  or by using the option `-o sh`. However, Zsh also has many extensions and differences from the POSIX
+  standard, such as globbing qualifiers, extended parameter expansion, etc. These features are also
+  disabled in POSIX mode, but they may still be available in interactive mode.
+- **Fish:** Fish is not a POSIX-compliant shell, and it does not have a POSIX mode. Fish has a
+  different syntax and semantics from the POSIX shell, and it does not support many POSIX features,
+  such as `&&`, `||`, `;`, `$(...)`, `${...}`, etc . Fish is designed to be a friendly and modern
+  shell, and it does not aim to be compatible with POSIX or other shells.
+- **Nushell:** Nushell is also not a POSIX-compliant shell, and it does not have a POSIX mode. Nushell
+  has a different approach from the POSIX shell, and it treats everything as structured data, such as
+  tables, lists, strings, etc. Nushell has a different syntax and features from the POSIX shell, and it
+  does not support many POSIX features, such as `&&`, `||`, `;`, `$(...)`, `${...}`, etc. Nushell is
+  designed to be a modern and innovative shell, and it does not aim to be compatible with POSIX or
+  other shells.
+
+So, to answer your question, only Bash and Zsh can be run in POSIX compliant mode, both interactively and for executing scripts, by using the appropriate options or invoking them as `sh`. Fish and Nushell cannot be run in POSIX compliant mode, and they require their own syntax and features to run scripts or commands.
+
+Source: Conversation with Bing, 17/02/2024
+(1) Why & How fish does not support POSIX? - Stack Overflow. https://stackoverflow.com/questions/48732986/why-how-fish-does-not-support-posix.
+(2) What makes a shell "POSIX compliant"? - Stack Overflow. https://stackoverflow.com/questions/67684314/what-makes-a-shell-posix-compliant.
+(3) Making Unix shell scripts POSIX compliant - Stack Overflow. https://stackoverflow.com/questions/40916071/making-unix-shell-scripts-posix-compliant.
+(4) Command-line shell - ArchWiki. https://wiki.archlinux.org/title/Command-line_shell.
+(5) How to Test for POSIX Compliance of Shell Scripts - Baeldung. https://www.baeldung.com/linux/test-posix-compliance-shell-scripts.
+(6) undefined. https://pubs.opengroup.org/onlinepubs/9699919799/.
+
+**Bing, is they a way to automate the translation of Fish and Nushell scripts, or port them, to POSIX compliance?**
+
+There is no easy or universal way to automate the translation of Fish and Nushell scripts to POSIX compliance, since they have different syntax and features from the POSIX shell. However, there are some possible approaches that may work for some cases:
+
+- You can try to use a tool like `bass`, which allows you to run `bash` commands or scripts in `fish`,
+  and see if it can handle your `fish` scripts. However, this tool is not perfect and may not work for
+  all scenarios. 
+- You can try to use a tool like `sed` or `awk` to convert your `fish` or `nu` shell scripts to POSIX
+  syntax, by applying some rules or patterns to replace the incompatible parts. However, this may
+  require some manual intervention and testing, and it may not cover all the differences or edge
+  cases. 
+- You can try to rewrite your `fish` or `nu` shell scripts in POSIX shell by hand, using the
+  documentation and examples of each shell to guide you. This may be the most reliable and accurate
+  way, but it may also be the most time-consuming and tedious.
+
+In general, if you want to write portable and POSIX-compliant scripts, it is better to use a POSIX-compatible shell like `dash`, `bash` or `zsh` from the start, and avoid using features that are specific to `fish` or `nu` shell. Alternatively, you can use a higher-level scripting language like Python or Ruby, which may offer more functionality and compatibility than shell scripts.
+
+Source: Conversation with Bing, 17/02/2024
+(1) shell - Why & How fish does not support POSIX? - Stack Overflow. https://stackoverflow.com/questions/48732986/why-how-fish-does-not-support-posix.
+(2) shell - Why & How fish does not support POSIX? - Stack Overflow. https://stackoverflow.com/questions/48732986/why-how-fish-does-not-support-posix.
+(3) Is there a way to "source" a sh script from the fish shell?. https://superuser.com/questions/826333/is-there-a-way-to-source-a-sh-script-from-the-fish-shell.
+(4) shell - convert bash script to fish - Stack Overflow. https://stackoverflow.com/questions/48152663/convert-bash-script-to-fish.
+(5) Is there a way to "source" a sh script from the fish shell?. https://superuser.com/questions/826333/is-there-a-way-to-source-a-sh-script-from-the-fish-shell.
+(6) shell - convert bash script to fish - Stack Overflow. https://stackoverflow.com/questions/48152663/convert-bash-script-to-fish.
 
 ## The Nu-Shell
 
