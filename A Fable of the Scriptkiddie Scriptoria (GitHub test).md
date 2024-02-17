@@ -2425,7 +2425,13 @@ I hope this provides a more comprehensive and balanced understanding of Arch's d
 
 I was surprised to find the Rc shell installed on my system, as I don't remember expressly installing it, and it was on both my Android tablet and smartphone. The package is known as the rcshell, whilst the executable is `rc`. It has both `man rc` and `info rc` pages, and they are largely identical, and I proffer without surety, that the InfoPage is derived from the ManPage. The version of `rc` I have installed is
 
-
+I was really curious to determine when and how I installed the rcshell, with the help of ShellGPT, I identified the details with the following code snippet:
+ 
+```zsh
+grep -B1 'install rc' /data/data/com.termux/files/usr/var/log/apt/history.log
+Start-Date: 2024-01-28  04:38:22
+Commandline: apt install rcshell
+```
 
 **Further reading:**
 
