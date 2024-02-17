@@ -2039,8 +2039,18 @@ The first shell in UNIX was the Thompson shell, written by Ken Thompson in 1969.
 
 ## The Bourne Shell and its Variants
 
-In 1971, Stephen Bourne wrote a new shell for UNIX, called the Bourne shell, or `sh`. Some people also refer to this as the POSIX shell, after the standard. The Bourne shell added many features that are now standard in most shells, such as variables, loops, conditionals, functions, and command substitution. The Bourne shell also introduced the concept of shell scripts, which are files that contain a series of commands that can be executed by the shell. The Bourne shell became the default shell in UNIX and was widely adopted by other operating systems. As such, an implementation of the Bourne Shell is packaged in most *NIX systems automatically, even when not the default shell, at time of installation. This is the case with Termux in Android. 
+In 1971, Stephen Bourne wrote a new shell for UNIX, called the Bourne shell, or `sh`. Some people also refer to this as the POSIX shell, after the standard. The Bourne shell added many features that are now standard in most shells, such as variables, loops, conditionals, functions, and command substitution. The Bourne shell also introduced the concept of shell scripts, which are files that contain a series of commands that can be executed by the shell. The Bourne shell became the default shell in UNIX and was widely adopted by other operating systems. As such, an implementation of the Bourne Shell is packaged in most *NIX systems automatically (currently generally Dash), even when not the default shell, at time of installation. This is the case with Termux in Android. 
 
+```zsh
+❯ sgpt "Is it possible to install the Bourne shell in Termux?"
+Yes, it is possible to install the Bourne shell (sh) in Termux, an Android terminal emulator and GNU/Linux environment app. However, since Termux uses `bash` as its default shell and `sh` in Termux is linked to `dash` by default, you might not need to install it separately. If you specifically want the traditional Bourne shell, you might need to compile it from source, as it's not commonly packaged for modern GNU/Linux or *NIX distributions, including Termux's environment.
+
+To check if `sh` is already available and to see what it's linked to, you can run `ls -l $(which sh)` in Termux. If you want to install a different shell that is sh-compatible, you can search for available shells using Termux's package manager `pkg` with `pkg search shell`.
+❯ sgpt "So the Bourne shell is not in any GNU/Lunux repositories?"
+The Bourne shell (sh) is actually a direct ancestor of many modern shells, including bash (Bourne Again SHell), which is commonly found in GNU/Linux distributions. The original Bourne shell is not typically found in modern repositories because it has been superseded by more advanced and feature-rich shells like dash, bash, zsh, and others. However, the `sh` command is usually present on GNU/Linux systems as a symlink or alias to a compatible POSIX shell that provides a superset of the original Bourne shell's functionality, often dash, but sometimes bash. This ensures scripts written for `sh` will still run correctly.
+```
+
+In addition, I noticed that Kali NetHunter Rootless, which has Zsh as the distribution default shell, still uses Dash as the default, to execute scripts with a `sh`-specific shebang. 
 
 ## POSIX shell
 
