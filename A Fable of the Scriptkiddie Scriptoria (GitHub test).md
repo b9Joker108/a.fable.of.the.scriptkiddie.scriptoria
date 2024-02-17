@@ -17803,6 +17803,10 @@ Dovhan, Denys, *et al.* (2017). 'bash-handbook'. (v2.9.7). Source: https://githu
 
 DeVeau, Joseph (2016). 'BASH Guide'. U. S. A.: JD Bookworks. ISBN 9780996337656
 
+**Tom Duff**
+
+Duff, Tom (undated). 'Rc - The Plan 9 Shell'. Bell Labs. Sourced from the Parallel & Distributed Systems Group (pdos.csail.mit.edu). Source: https://archive.org/details/duff-tom-undated.-rc-the-plan-9-shell.-bell-labs (accessed: Sunday, February 18, 2024)
+
 **E**
 
 **Mokhtar Ebrahim, *et al.***
