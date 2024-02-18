@@ -18239,6 +18239,9 @@ Salus, Peter H. (1994). 'A Quarter Century of UNIX'. Reading, Massachusetts, U. 
 
 Though Salus' work doesn't have a bibliography, it does contain a humble 'Further Reading' section with brief annotations. So, another work in the genre, that provides a precedence for annotated bibliographies. 
 
+**Neal Stephenson**
+
+Stephenson, Neal (1999). 'In the Beginning was the Command Line'. Source: https://archive.org/details/stephenson-neal-1999.-in-the-beginning-was-the-command-line_202402 (accessed: Sunday, February 18, 2024) 
 
 **T**
 
