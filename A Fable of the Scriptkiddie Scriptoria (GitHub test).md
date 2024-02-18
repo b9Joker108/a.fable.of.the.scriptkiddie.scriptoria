@@ -18035,6 +18035,10 @@ Orton, John W. (2009). 'Semiconductors and the Information Revolution: Magic Cry
 
 Parker, Steve (2011). 'Shell Scripting: Expert Recipes for Linux(R), Bash, and More'. Indianapolis, Indiana, U. S. A.: John Wiley & Sons, Inc. ISBN 9781118166338 (ebk) 
 
+**Jerry Peek, *et al.***
+
+Peek, Jerry; Todino, Grace & Strange, John (2002). 'Learning the Unix Operating System'. Fifth Edition. Sepastopol, California, U. S. A.: O'Reilly & Associates, Inc. ISBN 0596002610
+
 **Ron Peters**
 
 Peters, Ron (2009). 'Expert Shell Scripting'. Berkeley, California, U. S. A.: Apress. ISBN 9781430218425
