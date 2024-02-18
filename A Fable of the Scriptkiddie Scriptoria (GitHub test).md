@@ -10056,7 +10056,32 @@ Welcome, script architects! Your journey through the Bash and Zsh scripting land
 
 **Remember, the power of scripting lies not just in technical proficiency, but in your ability to apply it creatively and strategically. Embrace the opportunities that lie ahead, leverage your current skillset as a springboard, and embark on future projects with passion and a spirit of constant learning. The open seas of scripting await, so set your sails and let your code be your compass!**
 
-## Rooting and Flashing Android Best Practice 
+## Android
+
+When the Android information in the addenda is systematised, synthesized and integrated, I intend to port it here. 
+
+## Privacy cum Anonymity
+
+I hold that device Privacy is an important stepping-stone, to device Anonymity proper. Extrapolate on this. 
+
+## Privacy
+
+## Device and Data Privacy in the Case of Android
+
+## Anonymity
+
+## Device Anonymity in the Case of Android
+
+## Hardening
+
+A general introduction to device hardening, that then leads to 
+
+## GMU/Linux and Android Hardening
+
+As this book subsequently champions the novel model, of a synergistic integration of Android and GNU/Linux, whilst simultaneously upholding the spirit and the letter of traditional Android device hardening infrastructure and telemetry, we propose the section on device hardening should usefully integrate Android and GNU/Linux hardening processes and protocols. 
+
+
+## Rooting and Flashing Android Best Practice, an Introduction 
 
 The practical and pragmatic experience of putting this book into practice with shell scripting in a non-rooted Termux environment in Android, informs why rooting and flashing is necessary for the best practice use-case, of a hacker, developer and programmer wishing to realise the full power, granular control and customisability of their Android system, with the powerful integration of Android and GNU/Linux as charted and championed by Kuisma (2016).
 
@@ -10064,7 +10089,13 @@ The practical and pragmatic experience of putting this book into practice with s
 
 Kuisma, Mikael (2016). 'How to run Debian or Ubuntu GNU/Linux on your Android: Integrating GNU/Linux with Android The Matrix Way'. Source: http://whiteboard.ping.se/Android/Debian (accessed: Sunday, February 18, 2024). Source: https://archive.org/details/kuisma-mikael-2016.-how-to-run-debian-or-ubuntu-gnu-linux-on-your-android-integr (accessed: Sunday, February 18, 2024)
 
+## Rooting Amdroid: Best Practice
+
+## Flashing Android: Best Practice
+
 # Addenda
+
+I have included various addenda as follows. Some of the topics surveyed in the addenda, may be better served, if usefully integrated into the body of the work proper, rather than as annexures in closure of the work. Particularly, upon reflection and due to knowledge from engaging the topics in a more detailed way, I hold that in closure of the body of the work, prior to the addenda, Android should be discussed in detail and in length; then privacy cum anonymity; then hardening; followed by rooting; then flashing. 
 
 ## A. Demystifying Google Bard: An AI Playground for Coders
 
