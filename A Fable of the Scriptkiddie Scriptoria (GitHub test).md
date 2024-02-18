@@ -10056,6 +10056,14 @@ Welcome, script architects! Your journey through the Bash and Zsh scripting land
 
 **Remember, the power of scripting lies not just in technical proficiency, but in your ability to apply it creatively and strategically. Embrace the opportunities that lie ahead, leverage your current skillset as a springboard, and embark on future projects with passion and a spirit of constant learning. The open seas of scripting await, so set your sails and let your code be your compass!**
 
+## Rooting and Flashing Android Best Practice 
+
+The practical and pragmatic experience of putting this book into practice with shell scripting in a non-rooted Termux environment in Android, informs why rooting and flashing is necessary for the best practice use-case, of a hacker, developer and programmer wishing to realise the full power, granular control and customisability of their Android system, with the powerful integration of Android and GNU/Linux as charted and championed by Kuisma (2016).
+
+**Readings**
+
+Kuisma, Mikael (2016). 'How to run Debian or Ubuntu GNU/Linux on your Android: Integrating GNU/Linux with Android The Matrix Way'. Source: http://whiteboard.ping.se/Android/Debian (accessed: Sunday, February 18, 2024). Source: https://archive.org/details/kuisma-mikael-2016.-how-to-run-debian-or-ubuntu-gnu-linux-on-your-android-integr (accessed: Sunday, February 18, 2024)
+
 # Addenda
 
 ## A. Demystifying Google Bard: An AI Playground for Coders
