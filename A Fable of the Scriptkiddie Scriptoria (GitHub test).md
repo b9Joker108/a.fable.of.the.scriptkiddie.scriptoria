@@ -18268,6 +18268,10 @@ Melody (1995). 'Love Is in the Earth: A Kaleidoscope of Crystals: The Reference 
 
 Michael, Randall K. (2008). 'Mastering UNIX®Shell Scripting: Bash, Bourne, and Korn Shell Scripting for Programmers, System Administrators, and UNIX Gurus'. Second Edition. Indianapolis, Indiana, U. S. A.: Wiley Publishing, Inc. ISBN 9780470183014
 
+**Abhinav Mishra**
+
+Mishra, Abhinav (2022). 'Mobile App Reverse Engineering'. Birmingham, U. K.: Packt Publishing Ltd. ISBN 9781801073394
+
 **N**
 
 **Cameron Newham, *et al.***
