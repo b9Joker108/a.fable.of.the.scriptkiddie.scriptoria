@@ -1739,8 +1739,6 @@ It's important to acknowledge some challenges in definitively claiming the "firs
 
 While determining the absolute "first" shell command is debatable, the examples mentioned above represent significant milestones in the evolution of interactive computing and shell interfaces. They showcase the early steps towards user-driven command-line interaction, a foundation for the familiar interfaces we use today.
 
-I hope this comprehensive explanation provides valuable insights into the historical contenders for the earliest shell command or transmission! Please let me know if you have any further questions about this fascinating topic.
-
 Pinpointing the absolute "first" documented shell command or transmission is a challenging task due to the evolution of computing history and the lack of universally accepted standards for what constitutes a "shell." However, we can explore some early contenders based on documented historical evidence:
 
 **1. The IBM CP/CMS (1967):** This early operating system featured the "CMS EXEC" command, considered by some as a precursor to modern shells. It allowed users to execute programs and perform basic system tasks through text commands.
@@ -1765,8 +1763,6 @@ Pinpointing the absolute "first" documented shell command or transmission is a c
 Therefore, while pinpointing an absolute "first" is difficult, the contenders listed above offer glimpses into the early days of command-line interfaces and shell functionality. Their development and use reflect the evolution of computing and the increasing role of text-based interaction with systems.
 
 Ultimately, the quest for the "first" shell command or transmission is a fascinating historical journey that highlights the collaborative efforts of pioneers who laid the groundwork for the ubiquitous command-line interfaces we interact with today.
-
-I hope this exploration of early shell commands and their context provides valuable insight! Feel free to ask further questions if you have any specific interests or want to delve deeper into any of these historical systems.
 
 Pinpointing the absolute first attested and documented shell command or transmission is a challenging task. The history of computing is vast and often undocumented, particularly in its early stages. However, based on existing records and scholarly analysis, we can explore some strong contenders for the title:
 
@@ -1803,6 +1799,22 @@ I hope this explanation clarifies the challenges and offers some intriguing poss
 - **Scripting languages for specific systems:** Several operating systems developed their own scripting
   languages during this period. Notable examples include CPL (Command Programming Language) for DEC PDP-
   6 and TSS/360 (Time Sharing System/360) for IBM machines.
+
+## Unix Systems
+
+This is a short description of Unix releases:
+
+| Date  | Unix Releases |
+| :---: | :--------------- |
+| 1969  | Unix was developed on Summer 1969. |
+| 1971  | **Unix 1st edition** released on Nov 3, 1971. |
+| 1972  | **Unix 2nd edition** released on Dec 6, 1972. |
+| 1973  | **Unix 3rd edition** released in February 1973.<br>**Unix 4th edition** released in November 1973. |
+| 1974  | **Unix 5th edition** released in June 1974. |
+| 1975  | **Unix 6th edition** released in May 1975. And Bourne shell is introduced begins being added onto. |
+| 1979  | **Unix 7th edition** released in January 1979. |
+| 1985  | **Unix 8th edition** released in February 1985. |
+| 1989  | **Unix 10th edition** released in October 1989. |
 
 **Birth of UNIX and Bourne Shell (1960s - 1970s):**
 
