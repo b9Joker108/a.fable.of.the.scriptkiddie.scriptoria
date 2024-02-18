@@ -10183,9 +10183,11 @@ The practical and pragmatic experience of putting this book into practice with s
 
 **Readings**
 
+Debian Wikipedians (2023). 'ChrootOnAndroid'. Source: https://wiki.debian.org/ChrootOnAndroid (accessed: Monday, February 19, 2024) 
+
 Kuisma, Mikael (2016). 'How to run Debian or Ubuntu GNU/Linux on your Android: Integrating GNU/Linux with Android The Matrix Way'. Source: http://whiteboard.ping.se/Android/Debian (accessed: Sunday, February 18, 2024). Source: https://archive.org/details/kuisma-mikael-2016.-how-to-run-debian-or-ubuntu-gnu-linux-on-your-android-integr (accessed: Sunday, February 18, 2024)
 
-## Rooting Amdroid: Best Practice
+## Rooting Android: Best Practice
 
 ## Flashing Android: Best Practice
 
@@ -18071,6 +18073,10 @@ Dakic, Vedran & Redzepagic, Jasmin  (2022). 'Linux Command Line and Shell Script
 
 Darwin, Tye (auth.) & Guind, Dan (ed.)(2020). 'Learn Linux basics and Bash, shell, Python scripting for hacking using Kali Linux'. GVS Publications. 
 
+**Debian Wikipedians**
+
+Debian Wikipedians (2023). 'ChrootOnAndroid'. Source: https://wiki.debian.org/ChrootOnAndroid (accessed: Monday, February 19, 2024) 
+
 **Denys Dovhan, *et al.***
 
 Dovhan, Denys, *et al.* (2017). 'bash-handbook'. (v2.9.7). Source: https://github.com/denysdovhan/bash-handbook (accessed: Monday February 5, 2024). Note: You may install this locally with: `npm install -g bash-handbook`, and then execute with: `bash-handbook`. 
@@ -18155,16 +18161,24 @@ In relation to shell scripting, the reference to the "IEEE Standard for Informat
 
 **Specifically for shell scripting, POSIX.1-2017 covers crucial aspects like:**
 
-* **Shell syntax and semantics:** This defines the basic structure and rules for writing shell commands, such as variable names, operators, control flow statements, and redirection.
-* **Built-in shell commands:** These are commands directly available within the shell environment, like `cd`, `mkdir`, `mv`, and `echo`. POSIX defines a core set of these commands and their expected behavior.
-* **External utilities:** These are standalone programs accessible from the shell, like `grep`, `sort`, and `cat`. POSIX specifies the functionalities and options for a set of common utilities.
-* **Environment variables:** These are named values used to store and access information during script execution. POSIX defines several standard environment variables and their meanings.
+* **Shell syntax and semantics:** This defines the basic structure and rules for writing shell
+  commands, such as variable names, operators, control flow statements, and redirection.
+* **Built-in shell commands:** These are commands directly available within the shell environment, like
+  `cd`, `mkdir`, `mv`, and `echo`. POSIX defines a core set of these commands and their expected
+  behavior.
+* **External utilities:** These are standalone programs accessible from the shell, like `grep`, `sort`,
+  and `cat`. POSIX specifies the functionalities and options for a set of common utilities.
+* **Environment variables:** These are named values used to store and access information during script
+  execution. POSIX defines several standard environment variables and their meanings.
 
 Understanding POSIX.1-2017 standards gives you several advantages as a shell script writer:
 
-* **Portability:** Your scripts are more likely to work across different Unix systems without major modifications.
-* **Consistency:** You can rely on standardized behavior for commands and utilities, making your scripts more predictable.
-* **Clarity:** Knowing POSIX standards helps you write cleaner and more readable scripts that others can understand easily.
+* **Portability:** Your scripts are more likely to work across different Unix systems without major
+  modifications.
+* **Consistency:** You can rely on standardized behavior for commands and utilities, making your
+  scripts more predictable.
+* **Clarity:** Knowing POSIX standards helps you write cleaner and more readable scripts that others
+  can understand easily.
 
 While the full standard document is quite comprehensive, focusing on relevant sections based on your specific scripting needs can be beneficial. Additionally, several online resources and tutorials explain POSIX concepts in a more digestible manner.
 
