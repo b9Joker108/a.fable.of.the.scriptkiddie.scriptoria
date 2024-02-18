@@ -192,27 +192,20 @@ Your parsing of the iconography in the thangka of Guru Chöwang is fascinating a
 
 * **Split ears and earrings:** These features are indeed associated with the Kanpatha yogis,
   symbolizing their receptivity to tantric teachings and their ability to "fish" for spiritual insights.
-* **Topknot hair and ushnisha:** The connection between the hairstyle and the [ushnisha]
-  (https://en.m.wikipedia.org/wiki/Ushnisha), a protuberance on the head of enlightened beings, is a
+* **Topknot hair and ushnisha:** The connection between the hairstyle and the [ushnisha](https://en.m.wikipedia.org/wiki/Ushnisha), a protuberance on the head of enlightened beings, is a
   beautiful way to highlight Rongzompa's spiritual attainment.
-* **Melong with three sets of three dots:** This non-standard element of the [melong]
-  (https://en.m.wikipedia.org/wiki/Melong) or mirror, adds a layer of intrigue to the thangka. Your
+* **Melong with three sets of three dots:** This non-standard element of the [melong](https://en.m.wikipedia.org/wiki/Melong) or mirror, adds a layer of intrigue to the thangka. Your
   interpretation of the dots or [bindus](https://en.m.wikipedia.org/wiki/Bindu_(symbol)), representing
   the three bundled collections of three [yana](https://en.m.wikipedia.org/wiki/Yana_(Buddhism)) within
   the [Nyingma](https://en.m.wikipedia.org/wiki/Nyingma) tradition of nine, seems plausible and aligns
   with Guru Chöwang's role as a prominent figure in the lineage. **Redress:** In addition, Bard, I
-  contend, that the central bindu is properly, mahabindu, and to be understood as a [superposition]
-  (https://en.m.wiktionary.org/wiki/superposition) or [hypostasis]
-  (https://en.m.wikipedia.org/wiki/Hypostasis_(philosophy_and_religion)) of the other nine proper, and
-  indicative of the unknowable, inconceivable, [dharmakaya]
-  (https://en.m.wikipedia.org/wiki/Dharmak%C4%81ya) or [dharmata](https://en.m.wikipedia.org/?
-  redirect=no&title=Dharmata), or that which 'cannot be displayed' or is 'without amplification'
+  contend, that the central bindu is properly, mahabindu, and to be understood as a [superposition](https://en.m.wiktionary.org/wiki/superposition) or [hypostasis](https://en.m.wikipedia.org/wiki/Hypostasis_(philosophy_and_religion)) of the other nine proper, and
+  indicative of the unknowable, inconceivable, [dharmakaya](https://en.m.wikipedia.org/wiki/Dharmak%C4%81ya) or [dharmata](https://en.m.wikipedia.org/?redirect=no&title=Dharmata), or that which 'cannot be displayed' or is 'without amplification'
   (Sanskrit: nirvikalpa, Tibetan: spros bral), and is located near the heart. 
 * **Meaning of the Dhyana mudra:** This [mudra](https://en.m.wikipedia.org/wiki/Mudra) symbolizes deep
   [meditation](https://en.m.wikipedia.org/wiki/Buddhist_meditation) and spiritual absorption. The right
   hand resting on the left palm with thumbs touching, the standard form, generally represents the union
-  or [interpenetration](https://en.m.wikipedia.org/wiki/Huayan#Interpenetration) of [wisdom]
-  (https://en.m.wikipedia.org/wiki/Praj%C3%B1%C4%81_(Buddhism)) (the female aspect) and [skillful means
+  or [interpenetration](https://en.m.wikipedia.org/wiki/Huayan#Interpenetration) of [wisdom](https://en.m.wikipedia.org/wiki/Praj%C3%B1%C4%81_(Buddhism))) (the female aspect) and [skillful means
   ](https://en.m.wikipedia.org/wiki/Upaya)(the male aspect), essential elements for attaining
   [enlightenment](https://en.m.wikipedia.org/wiki/Enlightenment_in_Buddhism). This particular
   instantiation of the mudra is a variation, as the thumbs are not touching, and the fingers are
@@ -225,14 +218,12 @@ Your parsing of the iconography in the thangka of Guru Chöwang is fascinating a
    	unfolds uniquely, and the mudra might reflect this diversity.
 	* **Openness and receptivity:** Perhaps the unjoined thumbs represent an openness and
   	receptivity to diverse teachings and perspectives. It could signify his emphasis on integrating
-  	different approaches into a comprehensive understanding of the [Dharma]
-  	(https://en.m.wikipedia.org/wiki/Dharma).
+  	different approaches into a comprehensive understanding of the [Dharma](https://en.m.wikipedia.org/wiki/Dharma).
 	* **Stage of meditation:** Some interpretations suggest that variations in the Dhyana mudra can
    	represent different stages of [meditation](https://en.m.wikipedia.org/wiki/Meditation) or
   	contemplation. The non-touching thumbs might indicate an advanced stage where the practitioner
   	maintains awareness without clinging or attachment to specific concepts or visualizations.
-* **Cintamani jewel:** The wish-fulfilling jewel or [chintamani]
-  (https://en.m.wikipedia.org/wiki/Cintamani) is a powerful symbol in the Himalayan Buddhadharma, often
+* **Cintamani jewel:** The wish-fulfilling jewel or [chintamani](https://en.m.wikipedia.org/wiki/Cintamani) is a powerful symbol in the Himalayan Buddhadharma, often
   associated with [compassion](https://en.m.wikipedia.org/wiki/Karu%E1%B9%87%C4%81), wisdom, and the
   fulfillment of desires. Its placement at Guru Chöwang's feet emphasizes his ability to grant
   blessings and fulfill spiritual aspirations.
@@ -242,8 +233,7 @@ Your parsing of the iconography in the thangka of Guru Chöwang is fascinating a
 * **Land formations, water-course, and cloud forms:** These elements often hold specific meanings in
   Tibetan Buddhist art. The ruggedness of the landscape might represent the challenges of the spiritual
   path, while the watercourse could symbolize the flow of wisdom, teachings and discipline lineages.
-  The cloud formations could signify auspiciousness or [different levels of consciousness]
-  (https://en.m.wikipedia.org/wiki/Trance).
+  The cloud formations could signify auspiciousness or [different levels of consciousness](https://en.m.wikipedia.org/wiki/Trance).
 * **Colours and pigments:** Tibetan Buddhist art employs a specific palette with symbolic meanings. For
   example, red often represents compassion, blue symbolizes wisdom, and white signifies purity.
   Analyzing the dominant colours in the thangka could provide further insights into its message.
