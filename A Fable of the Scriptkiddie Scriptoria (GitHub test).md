@@ -17867,6 +17867,10 @@ Baranowski, Alex (2020). 'Bash Bushido: Become the Command Line Master'. Version
 
 Barnett, Bruce (2023). 'Sh - the POSIX Shell'. Source: https://www.grymoire.com/Unix/Sh.html (accessed: Tuesday February 6, 2024) 
 
+**Mark Bates**
+
+Bates, Mark. (2014). 'Conquering the Command Line: Unix and Linux Commands for Developers'. Source: https://conqueringthecommandline.com/book (accessed: Sunday, February 18, 2024)
+
 **Gregory Bateson**
 
 Bateson, Gregory (2000) [First published 1972]. 'Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology'. University of Chicago Press. ISBN 9780226039053
