@@ -10073,6 +10073,27 @@ The information on the Internet is currently in the addenda, I feel the work may
 ## Internet Searching and Researching Methodology: Towards a Best Practice
 
 
+**Privacy cum Anonymity versus Hardening, to Ascertain an Order of Precedence**
+
+This is a difficult question, as privacy and hardening are both important aspects of security, and they are not mutually exclusive. However, if I have to choose one over the other, I would say that **privacy** is more important than hardening for an Android device.
+
+Privacy refers to the protection of your personal information and data from unauthorized access or misuse. Privacy is essential for maintaining your identity, autonomy, and dignity. Privacy also enables you to exercise your rights and freedoms, such as freedom of expression, association, and communication. Without privacy, you may be subject to surveillance, tracking, profiling, discrimination, or censorship by various actors, such as governments, corporations, hackers, or criminals.
+
+Hardening refers to the enhancement of your device's security features and defenses against potential threats or attacks. Hardening is important for preventing or mitigating the damage caused by malicious actors, such as malware, phishing, spoofing, or hacking. Hardening also improves the performance and stability of your device, as it reduces the vulnerabilities and errors that may compromise its functionality.
+
+However, hardening alone is not enough to ensure your security, as it does not address the root causes of the threats or attacks. Hardening may also have some drawbacks, such as reducing the usability, compatibility, or availability of your device. For example, hardening may limit the apps or services you can use, or make your device more difficult to update or repair. Hardening may also introduce new risks or vulnerabilities, such as bugs, backdoors, or conflicts.
+
+Therefore, I think that privacy is more important than hardening for an Android device, as it addresses the underlying issues and values of security, rather than just the technical aspects. Privacy also gives you more control and choice over your device and data, rather than relying on external factors or parties. Privacy is also more aligned with the philosophy and spirit of Android, which is an open and user-centric platform.
+
+Of course, this is just my opinion, and you may have a different perspective or preference. Ultimately, the best security strategy for your Android device is to balance both privacy and hardening, and to use them in combination with each other. You should also be aware of the trade-offs and risks involved in each method, and adjust your settings and behaviors accordingly. You should also keep yourself informed and educated about the latest security trends and developments, and seek professional or expert advice if needed.
+
+Source: Conversation with Bing, 19/02/2024
+(1) I/O 2022: Android 13 security and privacy (and more!). https://security.googleblog.com/2022/05/io-2022-android-13-security-and-privacy.html.
+(2) 15 Android settings that'll strengthen your security. https://www.computerworld.com/article/3268079/android-settings-security.html.
+(3) Want better mobile security or privacy? Try these Android and iOS .... https://www.csoonline.com/article/569519/want-better-security-or-privacy-than-android-or-ios-try-these-alternative-oses.html.
+(4) Privacy vs. Security: Exploring the Differences & Relationship. https://www.okta.com/identity-101/privacy-vs-security/.
+(5) Android Recommendations: GrapheneOS and DivestOS - Privacy Guides. https://www.privacyguides.org/en/android/.
+
 
 ## Privacy cum Anonymity
 
@@ -10084,7 +10105,65 @@ I hold that device Privacy is an important stepping-stone, to device Anonymity p
 
 ## Anonymity
 
+...
+
 ## Device Anonymity in the Case of Android
+
+**Bing, can you have telephony on an Android portable hand-held device with VoIP, and foregoe a traditional SIM in order to anonymitise, and thereby harden your userland and use-case?**
+
+Yes, you can have telephony on an Android device with VoIP, and forego a traditional SIM card. VoIP stands for Voice over Internet Protocol, which means you can make and receive calls using the internet, instead of a cellular network. To use VoIP on your Android device, you need to have a stable internet connection, either through Wi-Fi or mobile data. You also need to install a VoIP app of your choice from the Google Play Store, create an account, and verify your phone number or email address. Once you have set up your VoIP app, you can start making calls³.
+
+Using VoIP on your Android device can have some advantages over using a traditional SIM card. For example, you can:
+
+- Save money on international calls, as VoIP rates are usually cheaper than cellular rates.
+- Have multiple phone numbers for different purposes, such as personal, business, or travel.
+- Use advanced features, such as call recording, voicemail, conference calls, and more.
+- Anonymize your identity, as VoIP numbers are not bound to physical addresses or cellular networks.
+
+However, using VoIP on your Android device also has some limitations and risks. For example, you may:
+
+- Experience poor call quality, delays, or interruptions, if your internet connection is unstable or
+  slow.
+- Not be able to make emergency calls, as VoIP numbers are not registered with emergency services.
+- Be vulnerable to hacking, phishing, or spoofing, if your VoIP app or account is not secure or
+  trustworthy.
+
+Therefore, if you decide to use VoIP on your Android device, you should:
+
+- Choose a reliable and reputable VoIP app or service provider, and read their terms and conditions
+  carefully.
+- Use a strong password and enable two-factor authentication for your VoIP account, and avoid clicking
+  on suspicious links or attachments.
+- Use a VPN or a proxy server to encrypt your internet traffic and hide your IP address, and avoid
+  using public or unsecured Wi-Fi networks.
+- Have a backup plan, such as a physical SIM card or a landline phone, in case your VoIP service fails
+  or is unavailable.
+
+Source: Conversation with Bing, 19/02/2024
+(1) How To Use A Phone Without Sim Card | CellularNews. https://cellularnews.com/mobile-phone/how-to-use-a-phone-without-sim-card/.
+(2) Voice calling from a smartphone that doesn't have a SIM card. Is it .... https://support.google.com/voice/thread/4571432/voice-calling-from-a-smartphone-that-doesn-t-have-a-sim-card-is-it-possible?hl=en.
+(3) How to Get Phone Number Without SIM Card Online? - KrispCall. https://krispcall.com/blog/how-to-get-a-phone-number-without-a-sim-card/.
+(4) How to make VoIP and Wi-Fi calls through your Android phone. https://www.androidauthority.com/how-to-voip-wi-fi-calls-android-phone-42553/.
+(5) Top 10 Best Android Apps for Free VoIP Calls in 2024. https://www.voipreview.org/blog/best-android-apps-free-voip-calls.
+
+**Bing, is there a way of having an emergency digital beacon on your Android hand-held device that may usefully fulfil the emergency pseudo-telephony functionality imperative of a device, if VoIP is implemented for anonymity and hardening, instead of the telemetry of a traditional SIM?**
+
+There is no definitive answer to this question, as different Android devices may have different capabilities and limitations when it comes to emergency communication. However, based on the web search results, here are some possible ways of having an emergency digital beacon on your Android device without a SIM card:
+
+- Use the Personal Safety app, which is available on some Android devices. This app can save and 
+share your emergency info, contact emergency services automatically in some countries and regions, and send your location to your emergency contacts. However, you need to have a stable internet connection, either through Wi-Fi or mobile data, to use this app. You also need to sign in with your Google Account, which may compromise your anonymity.
+- Use a third-party app that can send emergency signals or messages via Wi-Fi, Bluetooth, or satellite.
+For example, there are apps that can turn your device into a walkie-talkie, a distress beacon, or a SOS transmitter. However, you need to make sure that the app is reliable, secure, and compatible with your device. You also need to have access to a compatible network or device that can receive your signal or message.
+- Use a physical device that can attach to your Android device and provide emergency communication. For example, there are devices that can connect to your device via USB or Bluetooth and enable satellite phone, radio, or GPS functionality. However, you need to purchase and carry such a device, which may be costly, bulky, or unavailable. You also need to have a clear view of the sky or a nearby repeater station to use satellite or radio signals.
+
+As you can see, there are pros and cons to each of these methods, and none of them can guarantee a reliable and anonymous emergency communication without a SIM card. Therefore, you should always have a backup plan, such as a physical SIM card or a landline phone, in case your VoIP service or your emergency digital beacon fails or is unavailable. You should also be aware of the legal and ethical implications of using VoIP or other methods for emergency communication, as they may not comply with the local regulations or standards.
+
+Source: Conversation with Bing, 19/02/2024
+(1) Get help during an emergency with your Android phone. https://support.google.com/android/answer/9319337?hl=en.
+(2) How Can a Smartphone Always Make Emergency Calls? - MUO. https://www.makeuseof.com/how-smartphone-always-make-emergency-calls/.
+(3) FAQ Emergency Beacons - GME. https://www.gme.net.au/au/faq-emergency-beacons/.
+
+
 
 ## Hardening
 
