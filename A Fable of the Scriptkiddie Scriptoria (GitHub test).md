@@ -10060,6 +10060,18 @@ Welcome, script architects! Your journey through the Bash and Zsh scripting land
 
 When the Android information in the addenda is systematised, synthesized and integrated, I intend to port it here. 
 
+## Internet
+
+The information on the Internet is currently in the addenda, I feel the work may be better served, if it is integrated into the body of the work proper, prior to Privacy cum Anonymity and hardening, as it is a mandatory prerequisite to realise these aims. 
+
+## Internet Browsers
+
+## Internet Search Engines 
+
+## Internet Searching Methodology: Towards a Best Practice
+
+
+
 ## Privacy cum Anonymity
 
 I hold that device Privacy is an important stepping-stone, to device Anonymity proper. Extrapolate on this. 
