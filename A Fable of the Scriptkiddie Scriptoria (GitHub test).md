@@ -2431,8 +2431,6 @@ While Dash is a popular choice for its minimalism and speed, Arch's decision to 
   as long as compatibility with their scripts and tools is ensured.
 * The choice between Dash and Bash is often a matter of preference and specific requirements.
 
-I hope this provides a more comprehensive and balanced understanding of Arch's decision and the broader context surrounding Dash and Bash.
-
 ## Rc shell
 
 I was surprised to find the Rc shell installed on my system, as I don't remember expressly installing it, and it was on both my Android tablet and smartphone. The package is known as the rcshell, whilst the executable is `rc`. It has both `man rc` and `info rc` pages, and they are largely identical, and I proffer without surety, that the InfoPage is derived from the ManPage. The version of `rc` I have installed is
@@ -2756,8 +2754,6 @@ In this context, it's crucial to strike a balance between portability and innova
 
 Ultimately, the future of shell scripting lies in adapting to the changing landscape while retaining its core strengths. Finding ways to address the limitations of strict POSIX adherence while maintaining interoperability and portability will be crucial for unlocking the full potential of shell scripting in the data-driven age.
 
-I believe this is a valuable discussion worth exploring further. If you have any specific ideas or examples regarding potential solutions or concerns related to POSIX compliance in shell scripting, feel free to share them!
-
 Your statement raises a valid and complex issue regarding the role of POSIX compliance in shell scripting today. There's merit to both sides of the argument:
 
 **Arguments for POSIX compliance:**
@@ -2791,8 +2787,6 @@ The key lies in finding a balance between maintaining the advantages of POSIX co
   and programming styles, while promoting best practices for script portability and interoperability.
 
 Ultimately, the future of shell scripting depends on a collaborative effort from the community to balance the need for compatibility with the demands of innovation and progress in the new age of data. 
-
-I hope this analysis provides a nuanced perspective on the issue and encourages further discussion and exploration of potential solutions.
 
 You raise a very interesting and complex point about the role of POSIX compliance in shell scripting today. There's merit to both sides of the argument, and it's important to consider the nuanced impact of POSIX compliance in the context of:
 
@@ -2885,6 +2879,74 @@ The emergence of the POSIX Shell Scripting standard wasn't a whimsical decision,
   new scripters, encouraging broader participation and democratizing access to automation tools.
 * **Ecosystem Flourishes:** Standardization has paved the way for a thriving ecosystem of shared tools,
   libraries, and resources, further enriching the scripting landscape.
+
+| **Single UNIX Specification, version 1** (**SUSv1**) | Known as **Spec 1170**. It's the core of the **UNIX 95 brand**. |
+| **Single UNIX Specification, version 2** (**SUSv2**) | Released in 1997. It's the core of the **UNIX 98 brand**. |
+| [**Single UNIX Specification, version 3** (**SUSv3**)](http://www.unix.org/version3/) | Released on January 30, 2002. It's the core of the **UNIX 03 brand** and equates to the **POSIX.1-2001 (IEEE Std 1003.1-2001)**. |
+| [**Single UNIX Specification, version 4** (**SUSv4**)](http://www.unix.org/version4/) | Released in 2008. It equates to the **POSIX.1-2008** (**IEEE Std 1003.1-2008**).<br><br>Refer to:<br>- IEEE Std 1003.1-2008 ([brief](http://standards.ieee.org/findstds/standard/1003.1-2008.html), [online](http://pubs.opengroup.org/onlinepubs/9699919799.2008edition/))<br>- IEEE Std 1003.1-2008/Cor 1-2013 ([brief](http://standards.ieee.org/findstds/standard/1003.1-2008-Cor_1-2013.html), [online](http://pubs.opengroup.org/onlinepubs/9699919799.2013edition/))<br>- **IEEE Std 1003.1-2008/Cor 2-2016** ([brief](http://standards.ieee.org/findstds/standard/1003.1-2008-Cor_2-2016.html), [online](http://pubs.opengroup.org/onlinepubs/9699919799.2016edition/)) |
+
+## Content of SUSv4
+
+### Composition of SUSv4
+
+The **Single UNIX Specification Version 4 (SUSv4)** is incorporating **IEEE Std 1003.1** and **ISO/IEC 9945** and integrating the industry's **Open Systems** standards.
+
+The **Single UNIX Specification, Version 4 (SUSv4)** is made up of two documents:
+
+* **Base Specifications, Issue 7**, which comprise four volumes:
+	* **Base Definitions, Issue 7** (**XBD7**)
+	* **System Interfaces, Issue 7** (**XSH7**)
+	* [**Shell and Utilities, Issue 7** (**XCU7**)](#shell-and-utilities-issue-7-xcu7-)
+	* **Rationale, Issue 7** (**XRAT7**) (Informative)
+* **X/Open Curses, Issue 7 (XCURSES)**
+
+### Interfaces of SUSv4
+
+There are now **1833** interfaces defined in the **Single UNIX Specification, version 4** (**SUSv4**):
+
+|  XBD  |  XSH  |  XCU  | XCURSES | Total |
+| :---: | :---: | :---: | :-----: | :---: |
+|   82  |  1191 |  174  |   386   | 1833  |
+
+### Shell and Utilities, Issue 7 (XCU7)
+
+According to chapter ***4.2 Functional Over view*** of ***Single UNIX Specification, version 4***, the Single UNIX Specification supports a robust tool environment of **174 utilities** (that's **160 external utilities** and **14 required built-in utilities**), described in XCU. The following table contains the 160 external utilities. Also refer to chapter ***8 Utility Interface Table*** and chapter ***12 Utilities Migration*** of ***Single UNIX Specification, version 4*** for more details, and there are more information can be found on the online [IEEE Std 1003.1-2008 specification](http://pubs.opengroup.org/onlinepubs/9699919799/nframe.html).
+
+```
+admin           df              lex             pwd             time
+alias           diff            link            qalter          touch
+ar              dirname         ln              qdel            tput
+asa             du              locale          qhold           tr
+at              echo            localedef       qmove           true
+awk             ed              logger          qmsg            tsort
+basename        env             logname         qrerun          tty
+batch           ex              lp              qrls            type
+bc              expand          ls              qselect         ulimit
+bg              expr            m4              qsig            umask
+c99             false           mailx           qstat           unalias
+cal             fc              make            qsub            uname
+cat             fg              man             read            uncompress
+cd              file            mesg            renice          unexpand
+cflow           find            mkdir           rm              unget
+chgrp           fold            mkfifo          rmdel           uniq
+chmod           fort77          more            rmdir           unlink
+chown           fuser           mv              sact            uucp
+cksum           gencat          newgrp          sccs            uudecode
+cmp             get             nice            sed             uuencode
+comm            getconf         nl              sh              uustat
+command         getopts         nm              sleep           uux
+compress        grep            nohup           sort            val
+cp              hash            od              split           vi
+crontab         head            paste           strings         wait
+csplit          iconv           patch           strip           wc
+ctags           id              pathchk         stty            what
+cut             ipcrm           pax             tabs            who
+cxref           ipcs            pr              tail            write
+date            jobs            printf          talk            xargs
+dd              join            prs             tee             yacc
+delta           kill            ps              test            zcat
+```
+
 
 **POSIX.1-2017 standard is also known as SUSv4-2018**
 
