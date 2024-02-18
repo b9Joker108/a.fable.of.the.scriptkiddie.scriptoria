@@ -18079,6 +18079,14 @@ Kirkbride, Philip (2020). 'Basic Linux Terminal Tips and Tricks: Learn to Work 
 
 Khemchandani, Vineeta; Anand, Darpan; Mishra, K.K. &  Harit, Sandeep (2022). 'UNIX Programming: UNIX Processes, Memory Management, Process Communication, Networking, and Shell Scripting'. London, U. K.: BPB Online. ISBN 9789355510402
 
+**Mikael Kuisma**
+
+Kuisma, Mikael (2016). 'How to run Debian or Ubuntu GNU/Linux on your Android: Integrating GNU/Linux with Android The Matrix Way'. Source: http://whiteboard.ping.se/Android/Debian (accessed: Sunday, February 18, 2024). Source: https://archive.org/details/kuisma-mikael-2016.-how-to-run-debian-or-ubuntu-gnu-linux-on-your-android-integr (accessed: Sunday, February 18, 2024)
+
+**Purport**
+
+Though this work by Kuisma (2016) is circa eight (8) years old, it is of significant importance and value, and provides much of import and salience, to inform a best-practice rooting and flashing install and powerful integration of Android and GNU/Linux. I have written to Kuisma, hopefully his email is still valid, regarding his process and algorithm and of my intention of integrating it into the closure of my work, and asked him if he would update or amend his article in any way. I await a reply. Regardless, the article informs our best-practice rooting Android-GNU/Linux integration, and I favour Debian. Hopefully, through reading this work and engaging with it practically and pragmatically, you will appreciate why I value and hold Debian GNU/Linux in esteem, and regard this article of Kuisma's to be of inestimable value to realise a best-practice rooting and flashing Android process, for our hacking, programming and development use-case. 
+
 **L**
 
 **Sarath Lakshman** 
