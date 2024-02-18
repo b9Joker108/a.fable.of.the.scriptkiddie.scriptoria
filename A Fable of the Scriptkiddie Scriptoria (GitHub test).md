@@ -10060,6 +10060,8 @@ Welcome, script architects! Your journey through the Bash and Zsh scripting land
 
 When the Android information in the addenda is systematised, synthesized and integrated, I intend to port it here. 
 
+## Android Hardware
+
 ## Internet
 
 The information on the Internet is currently in the addenda, I feel the work may be better served, if it is integrated into the body of the work proper, prior to Privacy cum Anonymity and hardening, as it is a mandatory prerequisite to realise these aims. 
@@ -10068,7 +10070,7 @@ The information on the Internet is currently in the addenda, I feel the work may
 
 ## Internet Search Engines 
 
-## Internet Searching Methodology: Towards a Best Practice
+## Internet Searching and Researching Methodology: Towards a Best Practice
 
 
 
@@ -10092,6 +10094,9 @@ A general introduction to device hardening, that then leads to
 
 As this book subsequently champions the novel model, of a synergistic integration of Android and GNU/Linux, whilst simultaneously upholding the spirit and the letter of traditional Android device hardening infrastructure and telemetry, we propose the section on device hardening should usefully integrate Android and GNU/Linux hardening processes and protocols. 
 
+## OneX
+
+I feel that a detailed introduction and discussion of OneX and its toolset is by be necessity, best discussed after discussing Scripting, Android, Android hardware, the Internet, Browsers, Search engines, Internet searching and researching methodologies and practices, privacy cum anonymity, GNU/Linux and Android hardening. Only after the practical and pragmatic scripting roadmap of this work has been traversed and the skills, knowledges and technologies acquired and practically implemented, is the introduction of OneX and its toolset, fortuitously positioned. This ensures that the Scriptkiddie has the stuff, to deeply engage the tools and their workings, and to facilitate getting under-the-hood of their mechanisation and coding. Leavening all the prior information to knowledge, is mandatory for the hacker and developer. Then the Scriptkiddie has the stuff to investigate the inner workings and coding of the OneX toolset, and thereby reverse-engineer them, learn from them, adapt them, design, engineer and implement their own tools. The initiator of the OneX project has archived their repository, I have forked it, and intend to maintain it, and it is my fervent hope, that the community that rallies around this roadmap, in future, will similarly rally around OneX and continue its maintenance and development. Having a knowledgeable, diverse and decentralized community, acting as one, is an imperative to realise that aim. I tender, such a community, may usefully and thoroughly, self-regulate, self-govern and self-police, because the toolset is at once a boon and a bane, as are are all tools, knowledges and technologies, and cannot be usefully, any other way in a world in-which, cooperation and competition is implemented as standard, in a mutually iterating and informing dynamism, is evident throughout all domains, as a matter of design and intentionality. 
 
 ## Rooting and Flashing Android Best Practice, an Introduction 
 
