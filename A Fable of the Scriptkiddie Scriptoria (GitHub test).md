@@ -18233,6 +18233,7 @@ Seebach, Peter (2008). 'Beginning Portable Shell Scripting: From Novice to Profe
 
 Seitz,Justin & Arnold, Tim (2021). 'Black Hat Python: Python Programming for Hackers and Pentesters'. San Francisco, California, U. S. A.: No Starch Press, Inc. ISBN 9781718501133 (ebook)
 
+
 **W. Richard Stevens, *et al.***
 
 Stevens, W. Richard & Rago, Stephen A. (2013). 'Advanced Programming in the UNIX(R) Environment'. Third Edition. ISBN 9780321637734 (pbk. alk. paper)
@@ -18249,7 +18250,11 @@ Salus, Peter H. (1994). 'A Quarter Century of UNIX'. Reading, Massachusetts, U. 
 
 Though Salus' work doesn't have a bibliography, it does contain a humble 'Further Reading' section with brief annotations. So, another work in the genre, that provides a precedence for annotated bibliographies. 
 
-**Neal Stephenson**
+**William E. Shotts, Jr.**
+
+Shotts Jr., William E. (2019). 'The Linux Command Line'. Fifth Internet Edition (Corrected TOC) (Version 19.01A, January 28, 2019). Self published. 
+
+**Neal Stephenson** 
 
 Stephenson, Neal (1999). 'In the Beginning was the Command Line'. Source: https://archive.org/details/stephenson-neal-1999.-in-the-beginning-was-the-command-line_202402 (accessed: Sunday, February 18, 2024) 
 
