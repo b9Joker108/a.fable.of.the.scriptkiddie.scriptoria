@@ -18216,6 +18216,17 @@ Kuisma, Mikael (2016). 'How to run Debian or Ubuntu GNU/Linux on your Android: I
 
 Though this work by Kuisma (2016) is circa eight (8) years old, it is of significant importance and value, and provides much of import and salience, to inform a best-practice rooting and flashing install and powerful integration of Android and GNU/Linux. I have written to Kuisma, hopefully his email is still valid, regarding his process and algorithm and of my intention of integrating it into the closure of my work, and asked him if he would update or amend his article in any way. I await a reply. Regardless, the article informs our best-practice rooting Android-GNU/Linux integration, and I favour Debian. Hopefully, through reading this work and engaging with it practically and pragmatically, you will appreciate why I value and hold Debian GNU/Linux in esteem, and regard this article of Kuisma's to be of inestimable value to realise a best-practice rooting and flashing Android process, for our hacking, programming and development use-case. 
 
+>	Hello,
+
+>	Yes, this article is old and quite obsolete. I believe new Android version
+>	run SElinux etc, and since I've not implemented this in 10 years or so, I
+>	really can't tell what else may be needed to make this work.
+
+>	Best regards,
+>	Mikael
+
+So, I am thankful for the terse response of Kuisma; but, we are going to have to progress this alone. The Android, GNU/Linux and device, technology, hardware, software and environment may have changed and iterated, but I tender an adaption of Kuisma's model and algorithm, will still be implementable. 
+
 **L**
 
 **Sarath Lakshman** 
