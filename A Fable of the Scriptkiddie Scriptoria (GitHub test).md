@@ -2447,7 +2447,7 @@ On the other hand, the `history` command in the shell shows the commands that ha
 Remember that the shell history and `apt` logs are independent and track different types of activities.
 ```
 
-This response from ShellGPT just problematised the issue of the installation of the rcshell package on my device further. 
+This response from ShellGPT just problematised the issue of the installation of the rcshell package on my device further. The installation may have been done by a script I used and sourced from the Internet. It is very naughty and inadvisable, but I often don't fully understand other people's scripts when I execute them. But, I am becoming increasingly better at this all the time. The Zsh history file hasn't been cleared, it contains the first command I executed in the Zsh shell in my host installation of Termux. The command to install rcshell, may have indeed been executed in another shell. 
 
 **Further reading:**
 
