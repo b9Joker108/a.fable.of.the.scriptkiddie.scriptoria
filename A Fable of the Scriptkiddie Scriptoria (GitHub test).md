@@ -6146,6 +6146,15 @@ The longest-running command-line text Internet browser that is still under activ
 
 This is worth noting for our scripting endeavours. 
 
+As an afterthought, I added this additional alias code snippet to my Zsh config file. It opens or launches, the official Zsh documentation in the default Internet browser:
+
+```zsh
+# Open the Zsh documentation in the default browser
+alias zd5='termux-open-url https://zsh.sourceforge.io/Doc/Release/'
+```
+
+This is website Zsh documentation is useful, as it makes linking specific document entries to our personal Intranet or personal knowledge management system much easier. There are of course other ways to implement this, but they may be usefully explored further within this roadmap, particularly in setting up `nginx` for various use-cases. 
+
 **Official GNU Bash documentation**
 
 The official GNU Bash documentation is also available in multiple formats, I resolved to install it locally with Termux in html with one page per node. So, I downloaded: 
