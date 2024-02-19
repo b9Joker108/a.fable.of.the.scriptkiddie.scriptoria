@@ -18204,6 +18204,8 @@ While the full standard document is quite comprehensive, focusing on relevant se
 
 Iliev, Bobby (2021). 'Introduction to Bash Scripting: For Developers'. Self-published. 
 
+Iliev, Bobby (2023). 'Introduction to Bash Scripting: For Developers'. Self-published. 
+
 **J**
 
 **Chris F. A. Johnson**
