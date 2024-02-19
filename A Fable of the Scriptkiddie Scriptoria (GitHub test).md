@@ -3837,9 +3837,7 @@ Considering the variations across regions, a **global median price for basic And
 
 Calculating a precise average price is even more challenging due to the skewed distribution, with many budget options concentrated around the lower end and fewer high-end models in these markets. An estimate for the **global average price of Android devices in third world countries** in 2023 could fall somewhere between **$70-$80 USD**, but again, this is just a ballpark figure.
 
-**What are the most recent, as well most innovative and promising, along with foundational academic studies and works, that inform realising maximum return for minimum spend, to impact and maximise the quality and durability of, the upgrading of the hardware of, and downsizing of the Triple Bottom Line costs related and resulting from, the median to average price for Android hand-held devices (and Internet connectivity) in third world countries?**
-
-Hello, this is Bing. I can help you find some academic studies and works that relate to your query. 😊
+**Bing, what are the most recent, as well most innovative and promising, along with foundational academic studies and works, that inform realising maximum return for minimum spend, to impact and maximise the quality and durability of, the upgrading of the hardware of, and downsizing of the Triple Bottom Line costs related and resulting from, the median to average price for Android hand-held devices (and Internet connectivity) in third world countries?**
 
 Your query is very broad and complex, and it involves multiple aspects, such as innovation, quality management, internationalization, organizational performance, and social inclusion. I have searched the web for some relevant information that might help you narrow down your focus and explore the topic further. Here are some of the results I found:
 
@@ -3877,7 +3875,7 @@ Source: Conversation with Bing, 1/25/2024
 
 Note, none of Bing's responses were specific to the principal domain of the query.
 
-PerplexityAI, what are the most recent, as well most innovative and promising, along with foundational academic studies and works, that inform realising maximum return for minimum spend, to impact and maximise the quality and durability of, the upgrading of the hardware of, and downsizing of the Triple Bottom Line costs related and resulting from, the median to average price for Android hand-held devices (and Internet connectivity) in third world countries?
+**PerplexityAI, what are the most recent, as well most innovative and promising, along with foundational academic studies and works, that inform realising maximum return for minimum spend, to impact and maximise the quality and durability of, the upgrading of the hardware of, and downsizing of the Triple Bottom Line costs related and resulting from, the median to average price for Android hand-held devices (and Internet connectivity) in third world countries?**
 
 The search results provided do not directly address the most recent, innovative, and foundational academic studies and works that inform maximizing return for minimum spend specifically in the context of upgrading hardware and reducing Triple Bottom Line costs for Android handheld devices and internet connectivity in third-world countries. However, some insights can be drawn from the available information:
 
@@ -6192,8 +6190,13 @@ alias bd4='elinks ~/bash-docs/index.html'
 
 Source the .zshrc file. 
 
+Chet Ramey is the current maintainer of GNU Bash and he says expressly that: "The man page is the definitive description of the [Bash] shell's features." Source: https://tiswww.case.edu/php/chet/bash/bashtop.html (accessed: Thursday, February 15, 2024). So, even though we have gone through all this fuss and bluster in locally installing and making accessible, the GNU Bash documentation, it should be clearly understood, the `man bash` is the first and final point of reference for all things Bash. This roadmap and all other books and tutorials and instruction guides to Bash, should be understood as secondary to the `man` pages, even the `info` pages, and the official GNU Bash documentation. At the time of writing, I am having issues reading my GNU Manual Pages (`man`) in my host Termux shells, even though I have version 1.14.6-1 installed. I note that `man` is working in the shells of my proot-distro alias installations. For just such eventuations, Ramey (2022) also provides an online version of the GNU Bash `man` pages: https://tiswww.case.edu/php/chet/bash/bash.html (accessed: Thursday, February 15, 2024). I repaired the problem by setting the local address to the environment variable of `${MANPATH} with `set`. Somehow, they had become disassociated. I know not how.
 
-Chet Ramey is the current maintainer of GNU Bash and he says expressly that: "The man page is the definitive description of the [Bash] shell's features." Source: https://tiswww.case.edu/php/chet/bash/bashtop.html (accessed: Thursday, February 15, 2024). So, even though we have gone through all this fuss and bluster in locally installing and making accessible, the GNU Bash documentation, it should be clearly understood, the `man bash` is the first and final point of reference for all things Bash. This roadmap and all other books and tutorials and instruction guides to Bash, should be understood as secondary to the `man` pages, even the `info` pages, and the official GNU Bash documentation. At the time of writing, I am having issues reading my GNU Manual Pages (`man`) in my host Termux shells, even though I have version 1.14.6-1 installed. I note that `man` is working in the shells of my proot-distro alias installations. For just such eventuations, Ramey (2022) also provides an online version of the GNU Bash `man` pages: https://tiswww.case.edu/php/chet/bash/bash.html (accessed: Thursday, February 15, 2024). I repaired the problem by setting the local address to the environment variable of `${MANPATH} with `set`. Somehow, they had become disassociated. I know not how. 
+I happened upon another manual website:
+
+https://www.mankier.com/explore (accessed: Monday, February 19, 2024) 
+
+This Linux Manual website is very interesting, as if you choose to access it by this explore functionality, a successful search will list the selected item at the central node of a dynamic interconnected mind-map that connects commands that are related. It is very useful. It may be usefully assigned to an alias in your shell configuration, that launches the websites explore functionality, in your default Internet browser, external to Termux. 
 
 ***Thus begins your mythical journey into the heart of Bash and Zsh shell scripting. Are you ready? Yes, you are!*** 
 
