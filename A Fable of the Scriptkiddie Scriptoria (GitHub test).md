@@ -18067,6 +18067,10 @@ Cannon, Jason (2014). 'Linux Succinctly'. Morrisville, North Carolina, U. S. A.:
 
 Cannon, Jason (undated). 'Command Line Kung Fu'. Self-published. 
 
+**Oswald Campesato**
+
+Campesato, Oswald (2023). 'Bash for Data Scientists'. Dulles, Virginia, U. S. A.: Mercury Learning and Information. ISBN 9781683929734
+
 **Mendel Cooper**
 
 Cooper, Mendel (2006). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Revision 4.2.01. Independently published. Source: https://linux.die.net/abs-guide/ (accessed: Friday February 2, 2024) 
