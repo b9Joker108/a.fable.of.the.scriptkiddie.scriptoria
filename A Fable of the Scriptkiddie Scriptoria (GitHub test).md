@@ -17974,6 +17974,8 @@ I can't say with certainty, that I quite know exactly what all this means. But, 
 
 Albing, Carl & Vossen, J. P. (2018). 'Bash Cookbook: Solutions and Examples for Bash Users'. Second Edition. Sebastopol, California, U. S. A.: O'Reilly Media, Inc. ISBN 9781491975336
 
+Albing, Carl & Vossen, J. P. (2022). 'Bash Idioms: Write Powerful, Flexible, Readable Shell Scripts'. Sebastopol, California, U. S. A.: O’Reilly Media, Inc. ISBN 9781492094753
+
 **Brendon Alfred**
 
 Alfred, Brendon (undated). 'Ethical Hacking: A Beginner's Guide to Learn About Ethical Hacking from Scratch and Reconnaissance, Scanning, Gaining Access, Maintaining Access, Tracks Clearing, Reporting'. Self-published. 
