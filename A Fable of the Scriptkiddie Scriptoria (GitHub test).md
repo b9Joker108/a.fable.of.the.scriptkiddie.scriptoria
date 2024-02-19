@@ -18572,6 +18572,8 @@ https://youtu.be/c39QPDTDdXU?si=scyEffgZ_XbAWLbr
 
 https://community.unix.com/
 
+https://flokoe.github.io/bash-hackers-wiki/
+
 ## Invocation 
 
 <div style="width: 5cm; height: 5cm; border: 1px solid black;">
