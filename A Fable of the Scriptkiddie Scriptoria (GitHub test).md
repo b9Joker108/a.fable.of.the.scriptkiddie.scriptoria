@@ -7329,30 +7329,30 @@ In Bash syntax, there are five forms of 'If Statements', and the functionality a
 
 You are correct, these five if-then Bash shell statements are all valid syntax. However, they do differ in functionality and usage. Here is a brief explanation of each one:
 
-- `if [ ... ]; then ...; fi` This is the most common form of the if statement in Bash. It uses the `[`
-  command, also known as the `test` command, to evaluate a conditional expression. The expression can
-  be a string comparison, a numeric comparison, a file test, or a logical operation. For example, `if [
-  -f file.txt ]; then echo "file exists"; fi` will check if `file.txt` is a regular file and print a
-  message if it is.
-- `if [[ ... ]]; then ...; fi` This is an enhanced version of the if statement that uses the `[[`
+- **`if [ ... ]; then ...; fi`**: This is the most common form of the if statement in Bash. It uses the
+  `[` command, also known as the `test` command, to evaluate a conditional expression. The expression
+  can  be a string comparison, a numeric comparison, a file test, or a logical operation. For example,
+  `if [ -f file.txt ]; then echo "file exists"; fi` will check if `file.txt` is a regular file and
+  print a message if it is.
+- **`if [[ ... ]]; then ...; fi`**: This is an enhanced version of the if statement that uses the `[[`
   keyword instead of the `[` command. It has some advantages over the `[` command, such as allowing
   pattern matching with `==` and `!=` operators, preventing word splitting and pathname expansion, and
   supporting more operators such as `=~` for regular expressions. For example, `if [[ $name == a* ]];
   then echo "name starts with a"; fi` will check if the variable `name` starts with the letter `a`
   using a pattern. 
-- `if ( ... ); then ...; fi` This form of the if statement uses the `(` command, which is equivalent to
-  the `bash` command with the `-c` option. It executes the commands inside the parentheses in a
-  subshell, which means that any changes to the variables or the environment are not visible to the
-  current shell. This can be useful if you want to isolate some commands from the rest of the script.
-  For example, `if (cd /tmp; ls file.txt); then echo "file found in /tmp"; fi` will change the
-  directory to `/tmp` and look for `file.txt` there, but the current directory of the script will not
-  be affected.
-- `if (( ... )); then ...; fi` This form of the if statement uses the `((` keyword, which is used for
-  arithmetic evaluation. It treats the expression inside the double parentheses as an arithmetic
+- **`if ( ... ); then ...; fi`**: This form of the if statement uses the `(` command, which is
+  equivalent to the `bash` command with the `-c` option. It executes the commands inside the
+  parentheses in a subshell, which means that any changes to the variables or the environment are not
+  visible to the current shell. This can be useful if you want to isolate some commands from the rest
+  of the script. For example, `if (cd /tmp; ls file.txt); then echo "file found in /tmp"; fi` will
+  change the directory to `/tmp` and look for `file.txt` there, but the current directory of the script
+  will not be affected.
+- **`if (( ... )); then ...; fi`**: This form of the if statement uses the `((` keyword, which is used
+  for arithmetic evaluation. It treats the expression inside the double parentheses as an arithmetic
   expression and returns true if the result is non-zero. It also allows the use of C-style operators
   and assignments. For example, `if (( x > 0 && y < 0 )); then echo "x is positive and y is negative";
   fi` will check the values of the variables `x` and `y` using arithmetic and logical operators.
-- `if { ... }; then ...; fi` This form of the if statement uses the `{` keyword, which is used for
+- **`if { ... }; then ...; fi`**: This form of the if statement uses the `{` keyword, which is used for
   grouping commands. It executes the commands inside the braces in the current shell, which means that
   any changes to the variables or the environment are visible to the rest of the script. This can be
   useful if you want to group some commands together without creating a subshell. For example, `if {
