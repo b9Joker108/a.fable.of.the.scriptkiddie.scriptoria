@@ -18257,6 +18257,10 @@ Burtch, Ken O. (2004). 'Linux Shell Scripting with Bash'. Indianapolis, Indiana,
 
 **C**
 
+**Gerard Capes, *et al.***
+
+Capes, Gerard; bkmgit; Deppen, Jacob; Devenyi, Gabriel A.; Ball, Alexander James; Fowler-Wright, Piper; Visconti, Alessia; Dusenberry, Jeff; Vera, Jessica; Harrison, Randal Sean; Bilke, Andreas; Welch, Jessica Nicole; Thorpe, Kelly; Hernandez, Alfredo; Mirzaee, Ashkan; Winjum, Benjamin; Daley, Chris; Wright, Clay; colinmorris; *et al.* (2023). 'swcarpentry/shell-novice: Software Carpentry: the UNIX shell'. May, 2023 (Version: 2023. 05). Zenodo. Source: [https://doi.org/10.5281/zenodo.7886938](https://doi.org/10.5281/zenodo.7886938) (accessed: Tuesday, February 20, 2024)
+
 **Jason Cannon**
 
 Cannon, Jason (2015). 'Shell Scripting'. Self-published. 
