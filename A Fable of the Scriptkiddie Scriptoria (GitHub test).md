@@ -4998,7 +4998,6 @@ Citations:
 [24] Pocket Linux Guide https://tldp.org/en/Pocket-Linux-Guide/
 [25] Ubuntu Manpage: PRoot https://manpages.ubuntu.com/manpages/trusty/man1/proot.1.html
 
-
 The relationship between GNU and the UNIX trademark is a bit complex, but I can shed some light on it:
 
 **GNU's "Not UNIX" Origins:**
@@ -6596,7 +6595,8 @@ Welcome to the fulcrum of automation, digital exploration, technological integra
 In the 'Explore' section of the GitHub website, in the subsection called 'Collections', that are “… curated lists and insight[s] into burgeoning industries, topics and communities…”, there is a particular curation, showcasing many of the text editor applications housed within GitHub repositories, an editor made the pith assertion: "The text editor is a **sacred** tool for developers." (NB: my emphasis in bold.) I agree, and you find that scriptors, coders, programmers, developers, hackers and software developers and engineers, albeit all those who script and write code, have a passionate, devotional and loyal following and fervour, for their beloved and favoured text editor and/or IDE. Mine effectively is Neovim in the Termux CLI, which through its exceptional community led development, of both the CLI package and the GUI application in their manifold evocations, but also their vast extensibility through the community infrastructure, resources and frameworks, that envelopes them in an ecosystem of an ever-growing number of plugins, many of which are in the Lua programming language. Now, I am being honest and forthright when I say, Neovim, Lua and the Plugins, are not only potentially, but are actually, a serious, perplexing and persistent mindfuck, well they have been in my experience, but they have rewarded grappling with this adversity, in their exponential rewards and returns. So, take this under advisement, as as Fleetwood Mac immortalised: “Go Your Own Way”, as have I! 
 
 Chris Grieser (https://x.com/pseudo_meta) provided a very useful code snippet for resolving an issue I had with Zsh with Lua Plugins for Neovim. You may see it annotated in my dotfiles/config files. He has a very interesting and useful weblog on Neovim:
-https://nanotipsforvim.prose.sh/neovim-as-ide
+
+https://nanotipsforvim.prose.sh/Neovim-as-IDE (accessed: Tuesday, February 20, 2024) 
 
 **Shell default text editor** 
 
@@ -6749,7 +6749,7 @@ So, the next time you enter the terminal and your fingers caress the keyboard, r
     
 This revised narrative combines the strengths of the previous version while incorporating insightful academic studies related to the vi, Vim, and Neovim ecosystem. It highlights the research surrounding these editors, further enriching the understanding of their cultural and technical significance within the *NIX world.
     
-All three: vi, Vim and Neovim, have been ported to the Termux Android CLI, and co-exist. I use all three. But, that's just me, I embrace the quirk of difference, I find the dynamism of value. 
+All three: vi, Vim and Neovim, have been ported to the Termux Android CLI, and co-exist. I use all three. But, that's just me, I embrace the quirk of difference, I find the dynamism of value. Interestingly, as I am constantly iterating and developing my Neovim configurations and Lua Plugins, there are often errors with my Neovim configuration, that I need to research to resolve and often depend upon the extended Neovim community to help resolve. So, in practice, whilst I am pursuing the perfect bespoke, personalised, IDE for my workflow and use-case, I often end up using Vim, without plugins. This is less than ideal, but I contend the Neovim iteration, will be profoundly beneficial and incredibly useful, in the near future. There is probably a simple way to have a stable Neovim and Lua plugin configuration; and an unstable, progressive Neovim and Lua configuration, so I could continue using Neovim, whilst I iterate and extend its functionality. But, at present, I have not yet progressed this solution, and in practice oft-fall-back and rest upon the mainstay of Vim. 
     
 Prior to my coding and scripting endeavours, as a writer and researcher, that has through rote, come to powerfully resource and bootstrap, the digital computational environment, I have navigated countless text editors and word-processing applications: proprietary, shareware, open source and FOSS. This experience has lent me a practical breadth of the potentialities and possibilities of difference, within and between, the human-centred text processing vehicle and medium. As well as its history and development. Currently, I have an indeterminate number of such packages and applications installed, but my workhorse and most-used app and go-to, is 'Floating Apps (multitasking)' from the Google Play Store. This application is quite a marvel, as well as unideal. It has a daunting plethora of sub-applications and functionalities, all of which bar the note-taking functionality, I persistently, stupidly and arrogantly, fail to use. It also potentially records and reports everything I do on my device to curious and/or malicious actors. I am aware of this, yet I irrationality persist in its use. I use Floating app the most, on both my phone and tablet, almost every time I turn on or access my hand-held devices. It has all the mantatory functions I require, but comes with bugs and quirks. I found another way to get the persistent-floating, window-resisable, almost immediately-accessible, functionality I absolutely require, through one of the developer of Android's 'QuickEdit+’ also sourced from Play. I purchased the app, and vehemently complained about the app not having, at minimum, my mandatory requirements. The developer wrote to me apologetically, and offered the esotericism, of how to make almost any, text editor or word processor within an esotericism forded through the built-in functionality, of Samsung Galaxy's OneUI, in its current evocations. Even so enlightened, facilitated and humbled by their imparting of such powerful wisdom, I still returned to, favoured, and wantonly, persisted with Floating. This is in evidence, of what I alluded to earlier. But I daresay, anticipate and expect, in my Neovim CLI journey subsuming the integration with Tmux and widgets, that I will find a way to customise, if not script and programme, my own solution to this requirement that leverages the confluence of these tools and plugins and their granularity, to realise the perfect solution. 
     
@@ -7318,6 +7318,58 @@ Imagine forks in the road for your script's execution. Conditionals (`if`, `elif
 
 - **Basic syntax:** `if [ "$password" == "secret" ]; then echo "Welcome!"; else echo "Access denied!";
   fi` checks if a password matches and displays different messages accordingly.
+
+In Bash syntax, there are five forms of 'If Statements', and the functionality and use-cases of each form is distinct:
+
+1. if [ ... ]; then ...; fi
+2. if [[ ... ]]; then ...; fi
+3. if ( ... ); then ...; fi
+4. if (( ... )); then ...; fi
+5. if { ... }; then ...; fi
+
+You are correct, these five if-then Bash shell statements are all valid syntax. However, they do differ in functionality and usage. Here is a brief explanation of each one:
+
+- `if [ ... ]; then ...; fi` This is the most common form of the if statement in Bash. It uses the `[`
+  command, also known as the `test` command, to evaluate a conditional expression. The expression can
+  be a string comparison, a numeric comparison, a file test, or a logical operation. For example, `if [
+  -f file.txt ]; then echo "file exists"; fi` will check if `file.txt` is a regular file and print a
+  message if it is.
+- `if [[ ... ]]; then ...; fi` This is an enhanced version of the if statement that uses the `[[`
+  keyword instead of the `[` command. It has some advantages over the `[` command, such as allowing
+  pattern matching with `==` and `!=` operators, preventing word splitting and pathname expansion, and
+  supporting more operators such as `=~` for regular expressions. For example, `if [[ $name == a* ]];
+  then echo "name starts with a"; fi` will check if the variable `name` starts with the letter `a`
+  using a pattern. 
+- `if ( ... ); then ...; fi` This form of the if statement uses the `(` command, which is equivalent to
+  the `bash` command with the `-c` option. It executes the commands inside the parentheses in a
+  subshell, which means that any changes to the variables or the environment are not visible to the
+  current shell. This can be useful if you want to isolate some commands from the rest of the script.
+  For example, `if (cd /tmp; ls file.txt); then echo "file found in /tmp"; fi` will change the
+  directory to `/tmp` and look for `file.txt` there, but the current directory of the script will not
+  be affected.
+- `if (( ... )); then ...; fi` This form of the if statement uses the `((` keyword, which is used for
+  arithmetic evaluation. It treats the expression inside the double parentheses as an arithmetic
+  expression and returns true if the result is non-zero. It also allows the use of C-style operators
+  and assignments. For example, `if (( x > 0 && y < 0 )); then echo "x is positive and y is negative";
+  fi` will check the values of the variables `x` and `y` using arithmetic and logical operators.
+- `if { ... }; then ...; fi` This form of the if statement uses the `{` keyword, which is used for
+  grouping commands. It executes the commands inside the braces in the current shell, which means that
+  any changes to the variables or the environment are visible to the rest of the script. This can be
+  useful if you want to group some commands together without creating a subshell. For example, `if {
+  x=10; y=20; (( x + y == 30 )); }; then echo "x + y = 30"; fi` will assign values to the variables `x`
+  and `y` and check if their sum is equal to 30 using arithmetic evaluation.
+
+As for which form is preferred, it depends on the situation and the preference of the script writer. Generally, the `[[` form is more versatile and robust than the `[` form, and the `((` form is more convenient and readable for arithmetic expressions than the `[` or `[[` forms. The `(` and `{` forms are less common and have more specific use cases. You can choose the form that suits your needs and style best..
+
+Source: Conversation with Bing, 20/02/2024
+(1) How to Use Bash If Statements (With 4 Examples) - How-To Geek. https://www.howtogeek.com/884039/how-to-use-bash-if-statements-with-examples/.
+(2) Using If Else in Bash Scripts [Examples] - Linux Handbook. https://linuxhandbook.com/if-else-bash/.
+(3) Bash if Statements: if, elif, else, then, fi - LinuxConfig.org. https://linuxconfig.org/bash-if-statements-if-elif-else-then-fi.
+
+
+
+
+  
 - **Chained decisions:** `elif` statements offer additional branches for more complex scenarios. `else`
   provides a default path if none of the conditions are met.
 
