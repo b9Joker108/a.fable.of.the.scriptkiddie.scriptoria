@@ -7366,8 +7366,39 @@ Source: Conversation with Bing, 20/02/2024
 (2) Using If Else in Bash Scripts [Examples] - Linux Handbook. https://linuxhandbook.com/if-else-bash/.
 (3) Bash if Statements: if, elif, else, then, fi - LinuxConfig.org. https://linuxconfig.org/bash-if-statements-if-elif-else-then-fi.
 
+**If Statements in Zsh**
 
+The Zsh syntax and use-cases for these five forms of if statements are similar but not exactly the same as the Bash ones. Here are some differences:
 
+- **`if [ ... ]; then ...; fi`**: This form uses the `[` command, which is an alias for the `test`
+  command. Zsh has some extensions to the `test` command, such as `-o` for option testing, `-L` for
+  symbolic link testing, and `-N` for file modification testing. 
+- **`if [[ ... ]]; then ...; fi`**: This form uses the `[[` keyword, which is a Zsh-specific syntax
+  for conditional expressions. It has some advantages over the `[` command, such as allowing arithmetic
+  expressions, pattern matching, regular expressions, and glob qualifiers. 
+- **`if ( ... ); then ...; fi`**: This form uses the `(` command, which is equivalent to the `zsh`
+  command with the `-c` option. It executes the commands inside the parentheses in a subshell, which
+  means that any changes to the variables or the environment are not visible to the current shell. This
+  is the same as in Bash, except that Zsh allows the parentheses to be omitted if the command is a
+  simple command. For example, `if zsh -c 'true'; then echo "true"; fi` is equivalent to `if (true);
+  then echo "true"; fi` in Zsh, but not in Bash.
+- **`if (( ... )); then ...; fi`**: This form uses the `((` keyword, which is used for arithmetic
+  evaluation. It treats the expression inside the double parentheses as an arithmetic expression and
+  returns true if the result is non-zero. This is similar to Bash, except that Zsh supports more
+  operators and features, such as floating point arithmetic, complex numbers, and bitwise operations. 
+- **`if { ... }; then ...; fi`**: This form uses the `{` keyword, which is used for grouping commands.
+  It executes the commands inside the braces in the current shell, which means that any changes to the
+  variables or the environment are visible to the rest of the script. This is similar to Bash, except
+  that Zsh allows the braces to be omitted if the command is a simple command. For example, `if zsh -c
+  'false'; then echo "false"; fi` is equivalent to `if {false}; then echo "false"; fi` in Zsh, but not
+  in Bash.
+
+As for which form is preferred, it depends on the situation and the preference of the script writer. Generally, the `[[` form is more versatile and robust than the `[` form, and the `((` form is more convenient and readable for arithmetic expressions than the `[` or `[[` forms. The `(` and `{` forms are less common and have more specific use cases. You can choose the form that suits your needs and style best.
+
+Source: Conversation with Bing, 20/02/2024
+(1) zsh: 12 Conditional Expressions - SourceForge. https://zsh.sourceforge.io/Doc/Release/Conditional-Expressions.html.
+(2) zsh conditional OR fails - Stack Overflow. https://stackoverflow.com/questions/44791872/zsh-conditional-or-fails.
+(3) conditional statements - Comparing two strings in zsh - Super User. https://superuser.com/questions/1543695/comparing-two-strings-in-zsh.
 
   
 - **Chained decisions:** `elif` statements offer additional branches for more complex scenarios. `else`
