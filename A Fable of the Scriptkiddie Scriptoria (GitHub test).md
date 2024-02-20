@@ -18425,6 +18425,10 @@ Iliev, Bobby (2023). 'Introduction to Bash Scripting: For Developers'. Self-publ
 
 **J**
 
+**Sarika Jain, *et al***
+
+Jain, Sarika & Jain, Shivani (2009). '100 Shell Programs in Unix'. Daryaganj, New Delhi, India: Firewall Media (An Imprint of Laxmi Publications Pvt. Ltd.) 
+
 **Chris F. A. Johnson**
 
 Johnson, Chris F. A. (2009). 'Pro Bash Programming: Scripting the GNU/Linux Shell'. New York, New York: U. S. A: Apress. ISBN 9781430219989  (electronic)
