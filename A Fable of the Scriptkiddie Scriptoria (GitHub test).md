@@ -17365,9 +17365,59 @@ A brilliant mathematician and NASA "human computer," Johnson's calculations were
 
 **K**
 
-**Brian Kernighan** 
+**Brian Kernighan (b. - )** 
 
 Though primarily known for co-authoring the influential book 'The C Programming Language' with Dennis Ritchie, Kernighan also made notable contributions to shell scripting. He co-authored 'UNIX Programming Principles' with Rob Pike, a book covering advanced shell scripting techniques and considered a classic in the field.
+
+**Donald Knuth (b. - )**
+
+Donald Knuth is a renowned American computer scientist and mathematician, best known for his monumental work The Art of Computer Programming, which covers various aspects of algorithm design and analysis. He is also the creator of the TeX typesetting system, which is widely used for scientific and mathematical PUBLICATIONS. Knuth is widely regarded as one of the most influential and original thinkers of the modern era of computing. Here is a brief overview of his life and achievements:
+
+- Knuth was born in Milwaukee, Wisconsin, on January 10, 1938. He showed an early interest and talent
+  in mathematics, music, and puzzles. He graduated from Milwaukee Lutheran High School in 1956, where
+  he won several awards and contests for his mathematical skills.
+- He attended Case Institute of Technology (now Case Western Reserve University) in Cleveland, Ohio,
+  where he earned his bachelor's and master's degrees in mathematics in 1960. He wrote his master's
+  thesis on the algebraic properties of finite fields and projective planes.
+- He pursued his doctoral studies at the California Institute of Technology in Pasadena, California,
+  where he studied under Marshall Hall, Jr., a prominent combinatorialist. He completed his PhD in
+  mathematics in 1963, with a dissertation on finite semifields and projective planes.
+- He joined the faculty of Caltech as an assistant professor in 1963, and became an associate professor
+  in 1966. During this time, he started working on a book on compilers, which eventually evolved into
+  his magnum opus, The Art of Computer Programming. He published the first volume of this series in
+  1968, and received wide acclaim for his rigorous and comprehensive treatment of the subject.
+- He moved to Stanford University in 1968, where he became a full professor of computer science in
+  1970. He continued working on The Art of Computer Programming, publishing the second and third
+  volumes in 1969 and 1973, respectively. He also made significant contributions to several areas of
+  theoretical computer science, such as parsing, sorting, searching, string matching, random number
+  generation, and cryptography. He developed several algorithms and data structures that bear his name,
+  such as the Knuth-Morris-Pratt algorithm, the Knuth-Bendix algorithm, and the Knuth shuffle.
+- In the late 1970s, he became dissatisfied with the quality of the typesetting of his books, and
+  decided to create his own system for digital typography. He designed and implemented TeX, a powerful
+  and flexible language for producing high-quality documents, especially those containing mathematical
+  formulas. He also created METAFONT, a companion language for designing fonts, and Computer Modern, a
+  family of fonts based on classical typefaces. He released the first version of TeX in 1978, and has
+  maintained and updated it ever since. He also introduced the concept of literate programming, a
+  methodology for writing programs that are both readable and executable, using TeX and his own tools,
+  WEB and CWEB.
+- He received numerous awards and honors for his work, including the Turing Award (1974), the National
+  Medal of Science (1979), the Kyoto Prize (1996), and the BBVA Foundation Frontiers of Knowledge Award
+  (2010). He is a member of several prestigious academies and societies, such as the National Academy
+  of Sciences, the Royal Society, and the American Academy of Arts and Sciences. He has also received
+  honorary degrees from many universities around the world.
+- He retired from Stanford in 1993, but remains active as a professor emeritus. He is currently working
+  on the fourth and fifth volumes of The Art of Computer Programming, as well as revising and updating
+  the previous volumes. He also lectures and writes on various topics related to computer science,
+  mathematics, and philosophy. He is married to Nancy Jill Carter, a former student of his, and has two
+  children, John and Jennifer. He lives in Palo Alto, California.
+
+Source: Conversation with Bing, 20/02/2024
+(1) Donald Knuth - Wikipedia. https://en.wikipedia.org/wiki/Donald_Knuth.
+(2) Donald Knuth | Biography & Facts | Britannica. https://www.britannica.com/biography/Donald-Knuth.
+(3) Donald Knuth's Profile | Stanford Profiles. https://profiles.stanford.edu/donald-knuth.
+(4) Donald Knuth - Wikipedia. https://en.wikipedia.org/wiki/Donald_Knuth.
+(5) Knuth, Donald - INFORMS. https://www.informs.org/Explore/History-of-O.R.-Excellence/Biographical-Profiles/Knuth-Donald.
+(6) en.wikipedia.org. https://en.wikipedia.org/wiki/Donald_Knuth.
 
 **L**
 
