@@ -18670,6 +18670,8 @@ https://community.unix.com/
 
 https://flokoe.github.io/bash-hackers-wiki/
 
+https://superuser.com/ Superuser.com is another wonderful online forum, where you may post questions and ask for answers to a number of questions; they have many tags related to: Android, Scripting, Shell, Bash, Zsh, programming in general, etc., and their permutations. 
+
 ## Invocation 
 
 <div style="width: 5cm; height: 5cm; border: 1px solid black;">
