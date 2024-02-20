@@ -171,7 +171,7 @@ Overall, your ambitious project holds immense potential to reshape the discourse
 
 > "Thy fingers make early flowers of <br /> 
 > all things." <br /> 
-	~ [e e Cummings](https://en.m.wikipedia.org/wiki/E._E._Cummings) (1894 - 1962)
+ ~[e e Cummings](https://en.m.wikipedia.org/wiki/E._E._Cummings) (1894 - 1962)
 
 This may eventually become the title of future editions of this work. I may leave it to the blossoming hands of others to determine. 
 
@@ -261,7 +261,7 @@ Biography: https://treasuryoflives.org/bo/biographies/view/Rongzom-Chokyi-Zangpo
 > and its colour are an embellishment of life, not a condition of it. It is only goodness which gives
 > extras, and so I say again that we have much to hope from the flowers".
 
--- spoken by [Sherlock Holmes](https://en.m.wikipedia.org/wiki/Sherlock_Holmes), extracted from: [Doyle, Sir Arthur Conan](https://en.m.wikipedia.org/wiki/Arthur_Conan_Doyle) (1894), ['The Memoirs of Sherlock Holmes'](https://en.m.wikipedia.org/wiki/The_Memoirs_of_Sherlock_Holmes), [\'\[The Adventure of\] The Naval Treaty'](https://en.m.wikipedia.org/wiki/The_Adventure_of_the_Naval_Treaty), London. 
+~ spoken by [Sherlock Holmes](https://en.m.wikipedia.org/wiki/Sherlock_Holmes), extracted from: [Doyle, Sir Arthur Conan](https://en.m.wikipedia.org/wiki/Arthur_Conan_Doyle) (1894), ['The Memoirs of Sherlock Holmes'](https://en.m.wikipedia.org/wiki/The_Memoirs_of_Sherlock_Holmes), [\'\[The Adventure of\] The Naval Treaty'](https://en.m.wikipedia.org/wiki/The_Adventure_of_the_Naval_Treaty), London. 
 
 Truth resides in the flowers. 
 
@@ -282,12 +282,9 @@ I dedicate this work, and all that it yields, to those that embrace the ephemera
 >	with higher level languages. This is unfortunate because the shell can be
 >	one of the most important parts of a developer’s toolkit."
 >
->	(Note: hyperlink preserved from the original.)
+>	(Note: hyperlink in direct quotation preserved from the original.)
 
-		\~ Brisbin, Pat (2019). 'The Unix Shell's Humble If'. 
- 		Source: 
-   [https://thoughtbot.com/blog/the-unix-shells-humble-if](https://thoughtbot.com/blog/the-unix-shells-humble-if) 
-  		(accessed: Tuesday, February 20, 2024) 
+		~ Brisbin, Pat (2019). 'The Unix Shell's Humble If'. 
 
 If you are reading this roadmap and have committed to working through it, the above quotation is probably, 'preaching to the converted'. That said, I feel it is best to explicitly affirm, and I hold to it emphatically, even though I am an avowed, neophyte developer, even from the purview of a generous or permissive assessment. As such, my affirmation by necessity, holds a bare minimum of weight. Hence, the rationale, for why I have strengthened it by the direct written statement of a real developer. 
 
@@ -18138,6 +18135,10 @@ Booth, Travis (2019). 'The Linux Command Line: Getting Started with Bash and She
 
 Brash, Ron & Naik, Ganesh (2018). 'Bash Cookbook: Leveraging Bash Scripting to Automate Daily Tasks and Improve Productivity'. Birmingham, U. K.: Packt Publishing Ltd. ISBN 9781788629362
 
+**Pat Brisbin**
+
+Brisbin, Pat (2019). 'The Unix Shell's Humble If'. Source: [https://thoughtbot.com/blog/the-unix-shells-humble-if](https://thoughtbot.com/blog/the-unix-shells-humble-if) (accessed: Tuesday, February 20, 2024) 
+
 **Peter Brown, *et al.*** 
 
 Brown, Peter C.; Roediger III, Henry L. &  McDaniel, Mark A. (2014). 'Make It Stick: The Science of Successful Learning'. Cambridge, Massachusetts, U. S. A.: The Belknap Press *of* Harvard University Press. ISBN 9780674729018
@@ -18153,7 +18154,6 @@ This work accessibly presents the latest research on how people learn effectivel
 **Ken O. Burtch** 
 
 Burtch, Ken O. (2004). 'Linux Shell Scripting with Bash'. Indianapolis, Indiana, U. S. A.: Sams Publishing. ISBN 0672326426
-
 
 **C**
 
