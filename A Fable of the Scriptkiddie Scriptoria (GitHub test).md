@@ -284,8 +284,9 @@ I dedicate this work, and all that it yields, to those that embrace the ephemera
 >
 >	(Note: hyperlink preserved from the original.)
 
-		~ Brisbin, Pat (2019). 'The Unix Shell's Humble If'. 
- 		Source: [https://thoughtbot.com/blog/the-unix-shells-humble-if](https://thoughtbot.com/blog/the-unix-shells-humble-if) 
+		\~ Brisbin, Pat (2019). 'The Unix Shell's Humble If'. 
+ 		Source: 
+   [https://thoughtbot.com/blog/the-unix-shells-humble-if](https://thoughtbot.com/blog/the-unix-shells-humble-if) 
   		(accessed: Tuesday, February 20, 2024) 
 
 If you are reading this roadmap and have committed to working through it, the above quotation is probably, 'preaching to the converted'. That said, I feel it is best to explicitly affirm, and I hold to it emphatically, even though I am an avowed, neophyte developer, even from the purview of a generous or permissive assessment. As such, my affirmation by necessity, holds a bare minimum of weight. Hence, the rationale, for why I have strengthened it by the direct written statement of a real developer. 
