@@ -7329,6 +7329,46 @@ Imagine forks in the road for your script's execution. Conditionals (`if`, `elif
 - **Basic syntax:** `if [ "$password" == "secret" ]; then echo "Welcome!"; else echo "Access denied!";
   fi` checks if a password matches and displays different messages accordingly.
 
+**POSIX Shell 'If Statements'**
+
+**Bing, please describe all specifics and permutations of the 'If Statements' in the POSIX shells?**
+
+The POSIX shells support the following forms of 'If Statements':
+
+- **`if [ ... ]; then ...; fi`**: This form uses the `[` command, which is an alias for the `test`
+  command. It evaluates a conditional expression that can be a string comparison, a numeric comparison,
+  a file test, or a logical operation. You need to escape the parentheses and the logical operators
+  with backslashes if you want to use them. For example, `if [ \( "$a" -eq 1 -a "$b" -eq 2 \) -o \(
+  "$a" -eq 2 -a "$b" -eq 1 \) ]; then echo "a and b are either 1 and 2 or 2 and 1"; fi` will check if
+  the variables `a` and `b` have the values 1 and 2 in either order. 
+- **`if test ...; then ...; fi`**: This form is equivalent to the previous one, except that it uses the
+  `test` command explicitly instead of the `[` alias. The syntax and the options are the same. For
+  example, `if test \( "$a" -eq 1 -a "$b" -eq 2 \) -o \( "$a" -eq 2 -a "$b" -eq 1 \); then echo "a and
+  b are either 1 and 2 or 2 and 1"; fi` will do the same thing as the previous example. 
+- **`if command; then ...; fi`**: This form uses any command as a condition and checks its exit status.
+  If the command exits with zero, the condition is true; otherwise, it is false. You can use any
+  command that returns an exit status, such as `grep`, `find`, `awk`, etc. For example, `if grep -q
+  "pattern" file.txt; then echo "pattern found in file.txt"; fi` will check if the file `file.txt`
+  contains the string `pattern` and print a message if it does. 
+
+You may also use the `elif` and `else` keywords to add more branches to the if statement. For example, `if [ "$a" -eq 1 ]; then echo "a is 1"; elif [ "$a" -eq 2 ]; then echo "a is 2"; else echo "a is neither 1 nor 2"; fi` will print different messages depending on the value of `a`.
+
+You may also use the `&&` and `||` operators to combine multiple commands and conditions. For example, `if [ "$a" -eq 1 ] && [ "$b" -eq 2 ]; then echo "a is 1 and b is 2"; fi` will check if both `a` and `b` have the specified values and print a message if they do. 
+
+Source: Conversation with Bing, 20/02/2024
+1. POSIX Shell Tests and Conditionals: Examples and Reference - queirozf.com.
+   [https://queirozf.com/entries/posix-shell-tests-and-conditionals-examples-and-reference](https://queirozf.com/entries/posix-shell-tests-and-conditionals-examples-and-reference) (accessed: Tuesday, February 20, 2024) 
+2. How to represent multiple conditions in a shell if statement?.
+   [https://stackoverflow.com/questions/3826425/how-to-represent-multiple-conditions-in-a-shell-if-statement](https://stackoverflow.com/questions/3826425/how-to-represent-multiple-conditions-in-a-shell-if-statement) (accessed: Tuesday, February 20, 2024) 
+3. shell - How to write an if statement with multiple conditions - Unix ....
+   [https://unix.stackexchange.com/questions/426568/how-to-write-an-if-statement-with-multiple-conditions](https://unix.stackexchange.com/questions/426568/how-to-write-an-if-statement-with-multiple-conditions) (accessed: Tuesday, February 20, 2024) 
+
+**Further readings**
+
+Brisbin, Pat (2019). 'The Unix Shell's Humble If'. Source: [https://thoughtbot.com/blog/the-unix-shells-humble-if](https://thoughtbot.com/blog/the-unix-shells-humble-if) (accessed: Tuesday, February 20, 2024). Source: [https://archive.org/details/brisbin-pat-2019.-the-unix-shells-humble-if](https://archive.org/details/brisbin-pat-2019.-the-unix-shells-humble-if) (accessed: Tuesday, February 20, 2024).
+
+**Bash 'If Statements'**
+
 In Bash syntax, there are five forms of 'If Statements', and the functionality and use-cases of each form is distinct:
 
 1. if [ ... ]; then ...; fi
@@ -7369,7 +7409,7 @@ You are correct, these five if-then Bash shell statements are all valid syntax. 
   x=10; y=20; (( x + y == 30 )); }; then echo "x + y = 30"; fi` will assign values to the variables `x`
   and `y` and check if their sum is equal to 30 using arithmetic evaluation.
 
-As for which form is preferred, it depends on the situation and the preference of the script writer. Generally, the `[[` form is more versatile and robust than the `[` form, and the `((` form is more convenient and readable for arithmetic expressions than the `[` or `[[` forms. The `(` and `{` forms are less common and have more specific use cases. You can choose the form that suits your needs and style best..
+As for which form is preferred, it depends on the situation and the preference of the script writer. Generally, the `[[` form is more versatile and robust than the `[` form, and the `((` form is more convenient and readable for arithmetic expressions than the `[` or `[[` forms. The `(` and `{` forms are less common and have more specific use cases. You may choose the form that suits your needs, use-case and style best.
 
 Source: Conversation with Bing, 20/02/2024
 (1) How to Use Bash If Statements (With 4 Examples) - How-To Geek. https://www.howtogeek.com/884039/how-to-use-bash-if-statements-with-examples/.
