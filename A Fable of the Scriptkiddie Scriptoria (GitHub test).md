@@ -18353,6 +18353,14 @@ Googlers (undated). '[Google] Shell Style Guide'. Revision 2.02. (NB: Authored, 
 
 Grantman, Alex (2023). 'What came first, the kernel or the shell?'. LinkedIn. Source: https://www.linkedin.com/pulse/what-came-first-kernel-shell-alex-gantman (accessed: Friday February 9, 2024) Archived: https://archive.org/details/grantman-alex-2023.-what-came-first-the-kernel-or-the-shell (accessed: Friday February 9, 2024)
 
+**Michael Greenberg, *et al.***
+
+Greenberg, Michael; Kallas, Konstantinos & Vasilakis, Nikos (2021). 'Unix Shell Programming: The Next 50 Years' in *Workshop on Hot Topics in Operating Systems (HotOS ’21), May 31 - June 2, 2021, Ann Arbor, MI, USA.* New York, New York, U. S. A.: ACM (Association for Computing Machinery). Source: [https://dl.acm.org/doi/10.1145/3458336.3465294](https://dl.acm.org/doi/10.1145/3458336.3465294) (accessed: Tuesday, February 20, 2024)
+
+**Purport**
+
+I am yet to fully engage with this work. Until, I sufficiently invest the theory articulated within this roadmap with my own personal practice, I feel that would be inopportune. In time, I envision, this article will be important in framing the closure of the body of this work that pertains to scripting, proper. 
+
 **H**
 
 **Musaab Hasan, *et al.***
