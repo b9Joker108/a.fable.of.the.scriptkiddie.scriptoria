@@ -18655,6 +18655,10 @@ Though Salus' work doesn't have a bibliography, it does contain a humble 'Furthe
 
 Shotts Jr., William E. (2019). 'The Linux Command Line'. Fifth Internet Edition (Corrected TOC) (Version 19.01A, January 28, 2019). Self published. 
 
+**Mark Sobell**
+
+Sobell, Mark (2010). 'A Practical Guide to Linux Commands, Editors, and Shell Programming'. Second Edition. Boston, Massachusetts, U. S. A.: Pearson Education, Inc. ISBN 9780131367364
+
 **Neal Stephenson** 
 
 Stephenson, Neal (1999). 'In the Beginning was the Command Line'. Source: https://archive.org/details/stephenson-neal-1999.-in-the-beginning-was-the-command-line_202402 (accessed: Sunday, February 18, 2024) 
