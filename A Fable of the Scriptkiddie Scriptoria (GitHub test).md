@@ -7357,10 +7357,11 @@ You may also use the `&&` and `||` operators to combine multiple commands and co
 
 Source: Conversation with Bing, 20/02/2024
 1. POSIX Shell Tests and Conditionals: Examples and Reference - queirozf.com.
-   [https://queirozf.com/entries/posix-shell-tests-and-conditionals-examples-and-reference](https://queirozf.com/entries/posix-shell-tests-and-conditionals-examples-and-reference) (accessed: Tuesday, February 20, 2024) 
-2. How to represent multiple conditions in a shell if statement?.
+   [https://queirozf.com/entries/posix-shell-tests-and-conditionals-examples-and-reference](https://queirozf.com/entries/posix-shell-tests-and-conditionals-examples-and-reference) (accessed:
+   Tuesday, February 20, 2024) 
+3. How to represent multiple conditions in a shell if statement?.
    [https://stackoverflow.com/questions/3826425/how-to-represent-multiple-conditions-in-a-shell-if-statement](https://stackoverflow.com/questions/3826425/how-to-represent-multiple-conditions-in-a-shell-if-statement) (accessed: Tuesday, February 20, 2024) 
-3. shell - How to write an if statement with multiple conditions - Unix ....
+4. shell - How to write an if statement with multiple conditions - Unix ....
    [https://unix.stackexchange.com/questions/426568/how-to-write-an-if-statement-with-multiple-conditions](https://unix.stackexchange.com/questions/426568/how-to-write-an-if-statement-with-multiple-conditions) (accessed: Tuesday, February 20, 2024) 
 
 **Further readings**
@@ -7412,9 +7413,18 @@ You are correct, these five if-then Bash shell statements are all valid syntax. 
 As for which form is preferred, it depends on the situation and the preference of the script writer. Generally, the `[[` form is more versatile and robust than the `[` form, and the `((` form is more convenient and readable for arithmetic expressions than the `[` or `[[` forms. The `(` and `{` forms are less common and have more specific use cases. You may choose the form that suits your needs, use-case and style best.
 
 Source: Conversation with Bing, 20/02/2024
-(1) How to Use Bash If Statements (With 4 Examples) - How-To Geek. https://www.howtogeek.com/884039/how-to-use-bash-if-statements-with-examples/.
-(2) Using If Else in Bash Scripts [Examples] - Linux Handbook. https://linuxhandbook.com/if-else-bash/.
-(3) Bash if Statements: if, elif, else, then, fi - LinuxConfig.org. https://linuxconfig.org/bash-if-statements-if-elif-else-then-fi.
+1. How to Use Bash If Statements (With 4 Examples) - How-To Geek.
+   [https://www.howtogeek.com/884039/how-to-use-bash-if-statements-with-examples/](https://www.howtogeek.com/884039/how-to-use-bash-if-statements-with-examples/)
+   (accessed: Tuesday, February 20, 2024)
+3. Using If Else in Bash Scripts [Examples] - Linux Handbook.
+   [https://linuxhandbook.com/if-else-bash/](https://linuxhandbook.com/if-else-bash/) (accessed:
+   Tuesday, February 20, 2024)
+5. Bash if Statements: if, elif, else, then, fi - LinuxConfig.org.
+   [https://linuxconfig.org/bash-if-statements-if-elif-else-then-fi](https://linuxconfig.org/bash-if-statements-if-elif-else-then-fi)  (accessed: Tuesday, February 20, 2024)
+
+**Further readings**
+
+Lhunath & GreyCat, *et al.* (2022). 'Bash Guide: BashFAQ/031: What is the difference between test, [ and [[ ?'. Source: [http://mywiki.wooledge.org/BashFAQ/031](http://mywiki.wooledge.org/BashFAQ/031) (accessed: Tuesday, February 20, 2024)
 
 **If Statements in Zsh**
 
@@ -18406,6 +18416,10 @@ Lakshman, Sarath (2011). 'Linux Shell Scripting Cookbook: Solve real-world shell
 **James Lehmer** 
 
 Lehmer, James (2016). 'Ten Steps to Linux Survival: Essentials for Navigating the Bash Jungle'. First Edition. Sebastopol, California, U. S. A.: O’Reilly Media, Inc. ISBN 9781491959183
+
+**Lhunath, *et al.***
+
+Lhunath & GreyCat, *et al.* (2022). 'Bash Guide: BashFAQ/031: What is the difference between test, [ and [[ ?'. Source: http://mywiki.wooledge.org/BashFAQ/031 (accessed: Tuesday, February 20, 2024)
 
 **Jennifer S. Light** 
 
