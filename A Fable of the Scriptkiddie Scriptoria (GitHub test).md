@@ -18137,7 +18137,7 @@ Brash, Ron & Naik, Ganesh (2018). 'Bash Cookbook: Leveraging Bash Scripting to A
 
 **Pat Brisbin**
 
-Brisbin, Pat (2019). 'The Unix Shell's Humble If'. Source: [https://thoughtbot.com/blog/the-unix-shells-humble-if](https://thoughtbot.com/blog/the-unix-shells-humble-if) (accessed: Tuesday, February 20, 2024) 
+Brisbin, Pat (2019). 'The Unix Shell's Humble If'. Source: [https://thoughtbot.com/blog/the-unix-shells-humble-if](https://thoughtbot.com/blog/the-unix-shells-humble-if) (accessed: Tuesday, February 20, 2024). Source: [https://archive.org/details/brisbin-pat-2019.-the-unix-shells-humble-if](https://archive.org/details/brisbin-pat-2019.-the-unix-shells-humble-if)  (accessed: Tuesday, February 20, 2024)
 
 **Peter Brown, *et al.*** 
 
