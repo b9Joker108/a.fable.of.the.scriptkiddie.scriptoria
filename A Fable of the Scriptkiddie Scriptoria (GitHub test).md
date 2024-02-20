@@ -18299,6 +18299,11 @@ Dovhan, Denys, *et al.* (2017). 'bash-handbook'. (v2.9.7). Source: https://githu
 
 DeVeau, Joseph (2016). 'BASH Guide'. U. S. A.: JD Bookworks. ISBN 9780996337656
 
+**Gabriel A. Devenyi, *et al.***
+
+Devenyi, Gabriel A. (ed.); Capes, Gerard (ed.); Morris, Colin (ed.); Pitchers, Will (ed.);
+Wilson, Greg; Capes, Gerard; Devenyi, Gabriel A.; Koch, Christina; Silva, Raniere; Srinath, Ashwin & Chhatre, Vikram; *et al.* (2019). 'swcarpentry/shell-novice: Software Carpentry: the UNIX shell'. June, 2019 (Version: v2019.06.1). Zenodo. Source: [http://doi.org/10.5281/zenodo.3266823](http://doi.org/10.5281/zenodo.3266823) (accessed: Tuesday, February 20, 2024)
+
 **Tom Duff**
 
 Duff, Tom (undated). 'Rc - The Plan 9 Shell'. Bell Labs. Sourced from the Parallel & Distributed Systems Group (pdos.csail.mit.edu). Source: https://pdos.csail.mit.edu/6.828/2007/readings/rc-shell.pdf (accessed: Sunday, February 18, 2024). Source: https://doc.cat-v.org/plan_9/4th_edition/papers/rc  (accessed: Sunday, February 18, 2024). Source: https://archive.org/details/duff-tom-undated.-rc-the-plan-9-shell.-bell-labs (accessed: Sunday, February 18, 2024)
@@ -18463,7 +18468,7 @@ Though this work by Kuisma (2016) is circa eight (8) years old, it is of signifi
 >	Best regards,
 >	Mikael
 
-So, I am thankful for the terse response of Kuisma; but, we are going to have to progress this alone. The Android, GNU/Linux and device, technology, hardware, software and environment may have changed and iterated, but I tender an adaption of Kuisma's model and algorithm, will still be implementable. 
+So, it is rather naughty for me to publish a personal communication without express permission, but I have chosen to, rather capriciously and irresponsibly. I am thankful for the terse response of Kuisma; but, we are going to have to progress this alone. The Android, GNU/Linux and device, technology, hardware, software and environment may have changed and iterated, but I tender an adaption of Kuisma's model and algorithm, will still be implementable. 
 
 **L**
 
