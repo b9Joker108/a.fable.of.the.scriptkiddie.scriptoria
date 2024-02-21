@@ -2461,6 +2461,8 @@ I am still rather a noob, but I venture that the first package I port to the Ter
 
 [https://www.freshports.org/shells/bosh/](https://www.freshports.org/shells/bosh/) (accessed: Wednesday, February 21, 2024) 
 
+[https://sourceforge.net/projects/schilytools/](https://sourceforge.net/projects/schilytools/) (accessed: Wednesday, February 21, 2024) 
+
 ## Rc shell
 
 I was surprised to find the Rc shell installed on my system, as I don't remember expressly installing it, and it was on both my Android tablet and smartphone. The package is known as the rcshell, whilst the executable is `rc`. It has both `man rc` and `info rc` pages, and they are largely identical, and I proffer without surety, that the InfoPage is derived from the ManPage. The version of `rc` I have installed is
@@ -2660,7 +2662,7 @@ Source: Conversation with Bing, 17/02/2024
 
 A recent addition to the family of shells is the Nu-shell, or Nushell (`nu`), written by Jonathan Turner and others in 2019. It is a new type of shell that has native support for structured and typed data, such as arrays, tables, records, numeric/boolean types, etc. It offers syntax and built-ins that make it easy to query, filter, sort, transform, convert, and otherwise manipulate various data types in a shell-like workflow. It also supports taking input and producing output in many builtin or user-defined formats, such as JSON, YAML, TOML, HTML, XML, SQL, CSV, Markdown tables, and others. It is a modern and innovative shell that aims to bring the Unix philosophy of shells to the current style of development.
 
- **That's correct! Nushell incorporates several functional programming concepts that distinguish it from traditional shells, shaping a unique and expressive way to interact with data:**
+**That's correct! Nushell incorporates several functional programming concepts that distinguish it from traditional shells, shaping a unique and expressive way to interact with data:**
 
 **Key Functional Programming Features in Nushell:**
 
