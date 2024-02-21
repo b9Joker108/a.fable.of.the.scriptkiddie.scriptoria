@@ -18711,29 +18711,33 @@ Tammer, Sebastiaan (2018). 'Learn Linux Shell Scripting - Fundamentals of Bash 4
 
 **Austin Traver**
 
-Traver, Austin (2024). 'Git'. Source: https://helpful.wiki/git/ (accessed: Friday, February 16, 2024)
+Traver, Austin (2024). 'Git'. Source: [https://helpful.wiki/git/](https://helpful.wiki/git/) (accessed: Friday, February 16, 2024)
 
-Traver, Austin (2024). 'less'. Source: https://helpful.wiki/less/ (accessed: Friday, February 16, 2024)
+Traver, Austin (2024). 'less'. Source: [https://helpful.wiki/less/](https://helpful.wiki/less/) (accessed: Friday, February 16, 2024)
 
-Traver, Austin (2024). 'man: Getting Started'. Source: https://helpful.wiki/man/ (accessed: Friday, February 16, 2024)
+Traver, Austin (2024). 'man: Getting Started'. Source: [https://helpful.wiki/man/](https://helpful.wiki/man/) (accessed: Friday, February 16, 2024)
 
-Traver, Austin (2024). 'printf'. Source: https://helpful.wiki/printf/ (accessed: Friday, February 16, 2024)
+Traver, Austin (2024). 'printf'. Source: [https://helpful.wiki/printf/](https://helpful.wiki/printf/) (accessed: Friday, February 16, 2024)
 
-Traver, Austin (2024). 'Regular Expressions'. Source: https://helpful.wiki/regex/ (accessed: Friday, February 16, 2024)
+Traver, Austin (2024). 'Regular Expressions'. Source: [https://helpful.wiki/regex/](https://helpful.wiki/regex/) (accessed: Friday, February 16, 2024)
 
-Traver, Austin (2024). 'sed'. Source: https://helpful.wiki/sed/ (accessed: Friday, February 16, 2024)
+Traver, Austin (2024). 'sed'. Source: [https://helpful.wiki/sed/](https://helpful.wiki/sed/) (accessed: Friday, February 16, 2024)
 
-Traver, Austin (2024). 'SSH'. Source: https://helpful.wiki/ssh/ (accessed: Friday, February 16, 2024)
+Traver, Austin (2024). 'SSH'. Source: [https://helpful.wiki/ssh/](https://helpful.wiki/ssh/) (accessed: Friday, February 16, 2024)
 
-Traver, Austin (2024). 'Unix'. Source: https://helpful.wiki/unix/ (accessed: Friday, February 16, 2024)
+Traver, Austin (2024). 'Unix'. Source: [https://helpful.wiki/unix/](https://helpful.wiki/unix/) (accessed: Friday, February 16, 2024)
 
-Traver, Austin (2024). 'Vi'. Source: https://helpful.wiki/vi/ (accessed: Friday, February 16, 2024)
+Traver, Austin (2024). 'Vi'. Source: [https://helpful.wiki/vi/](https://helpful.wiki/vi/) (accessed: Friday, February 16, 2024)
 
-Traver, Austin (2024). 'Zsh: Shell Scripting Primer'. Source: https://helpful.wiki/zsh/ (accessed: Friday, February 16, 2024) 
+Traver, Austin (2024). 'Zsh: Shell Scripting Primer'. Source: [https://helpful.wiki/zsh/](https://helpful.wiki/zsh/) (accessed: Friday, February 16, 2024) 
 
 **Paul Troncone, *et al.***
 
 Troncone, Paul & Albing, Carl (2019). 'Cybersecurity Ops with Bash: Attack, Defend, and Analyze from the Command Line'. First Edition, Second Release: April, 24, 2020. Sebastapol, California, U. S. A.: O’Reilly Media, Inc. ISBN 9781492041313
+
+**Dave Taylor, *et al.***
+
+Taylor, Dave & Perry, Brandon (2017). 'Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems'. Second Edition. San Francisco, California, U. S. A.: No Starch Press, Inc. ISBN 9781593276027
 
 **U**
 
