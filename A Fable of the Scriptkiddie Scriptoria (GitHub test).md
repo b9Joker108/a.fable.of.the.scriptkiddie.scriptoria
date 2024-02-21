@@ -18695,6 +18695,10 @@ Shotts Jr., William E. (2019). 'The Linux Command Line'. Fifth Internet Edition 
 
 Sobell, Mark (2010). 'A Practical Guide to Linux Commands, Editors, and Shell Programming'. Second Edition. Boston, Massachusetts, U. S. A.: Pearson Education, Inc. ISBN 9780131367364
 
+**Mark Sobell, *et al.***
+
+Sobell, Mark G. & Helmke, Matthew (2018). 'A Practical Guide to Linux Commands, Editors, and Shell Programming'. Fourth Edition. Boston, Massachusetts, U. S. A.: Addison-Wesley Professional (an imprint of Pearson PLC). ISBN 9780134774602
+
 **Neal Stephenson** 
 
 Stephenson, Neal (1999). 'In the Beginning was the Command Line'. Source: https://archive.org/details/stephenson-neal-1999.-in-the-beginning-was-the-command-line_202402 (accessed: Sunday, February 18, 2024) 
