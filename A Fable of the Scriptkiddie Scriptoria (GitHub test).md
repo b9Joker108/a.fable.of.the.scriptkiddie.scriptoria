@@ -18509,6 +18509,10 @@ Kiddle, Oliver; Peek, Jerry & Stephenson, Peter (2005). 'From Bash to Z Shell: C
 
 Kirkbride, Philip (2020). 'Basic Linux Terminal Tips and Tricks: Learn to Work Quickly on the Command Line'. First Edition. Berkeley, California, U. S. A.: Apress. ISBN 9781484260340
 
+**Stephen G. Kochan, *et al.***
+
+Kochan, Stephen G. & Wood, Patrick (2003). 'Unix Shell Programming'. Third Edition. Sams Publishing. ISBN 0672324903
+
 **Vineeta Khemchandani, *et al.*** 
 
 Khemchandani, Vineeta; Anand, Darpan; Mishra, K.K. &  Harit, Sandeep (2022). 'UNIX Programming: UNIX Processes, Memory Management, Process Communication, Networking, and Shell Scripting'. London, U. K.: BPB Online. ISBN 9789355510402
