@@ -2453,7 +2453,11 @@ This version implements the minimal set of POSIX features and this version is al
 
 This version has been verified to work as the system shell on Gentoo Linux and OpenSolaris (SchilliX).  The enhanced Schily Bourne Shell (bosh) implements many features that are missing in the OpenSolaris Bourne Shell listed above.
 
-I am still rather a noob, but I venture that the first package I port to Termux, will be the POSIX compliant extended variant of the Schily Bourne Shell (bosh), which is currently maintained and actively developed. 
+I am still rather a noob, but I venture that the first package I port to the Termux repository, will be the POSIX compliant extended variant of the Schily Bourne Shell (bosh), which is currently maintained and actively developed. Moreover, it appears that there is already a version of the package for the aarch64 architecture. 
+
+**Further readings**
+
+[https://www.freshports.org/shells/bosh/](https://www.freshports.org/shells/bosh/) (accessed: Wednesday, February 21, 2024) 
 
 ## Rc shell
 
