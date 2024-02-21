@@ -18247,6 +18247,10 @@ Bates, Mark. (2014). 'Conquering the Command Line: Unix and Linux Commands for D
 
 Bateson, Gregory (2000) [First published 1972]. 'Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology'. University of Chicago Press. ISBN 9780226039053
 
+**Nelson H. F. Beebe, *et al.***
+
+Beebe, Nelson H. F. & Robbins, Arnold (2005). 'Classic Shell Scripting'. O'Reilly. ISBN 0596005954
+
 **Robert Beer**
 
 **Bing, please introduce, summarise and critique, along with a stub biography: Beer, Robert (1999). 'The Encyclopedia of Tibetan Symbols and Motifs'. Boston, Massachusetts, U. S. A.: Shambala Publications, Inc. ISBN 9781570624162 (cloth)**
