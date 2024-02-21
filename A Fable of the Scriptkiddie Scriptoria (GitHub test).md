@@ -18747,6 +18747,10 @@ Taylor, Dave & Perry, Brandon (2017). 'Wicked Cool Shell Scripts: 101 Scripts fo
 
 Varma, Jayant & Johnson, Chris F. A. (2023). 'Pro Bash: Learn to Script and Program the GNU/Linux Shell'. Third Edition. California, U. S. A: Apress. ISBN 9781484295885 (electronic)
 
+**M. G. Venkateshmurthy**
+
+Venkateshmurthy, M. G. (2009). 'Introduction to Unix and Shell Programming'. New Delhi, India: Pearson Education in South Asia. ISBN 9788131785829 (ePub) 
+
 **N. Vivek**
 
 Vivek, N. (2018). 'Command Line Fundamentals: Learn to Use the Unix Command-Line Tools and Bash Shell Scripting'. Packt Publishing. ISBN 9781789807769
