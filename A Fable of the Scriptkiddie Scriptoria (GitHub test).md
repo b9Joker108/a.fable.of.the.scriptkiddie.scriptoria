@@ -18307,6 +18307,8 @@ Cannon, Jason (undated). 'Command Line Kung Fu'. Self-published.
 
 **Oswald Campesato**
 
+Campesato, Oswald (2020). 'Bash Command Line and Shell Scripts: Pocket Primer'. Dulles, Virginia, U. S. A.: Mercury Learning and Information LLC. ISBN 9781683925040
+
 Campesato, Oswald (2023). 'Bash for Data Scientists'. Dulles, Virginia, U. S. A.: Mercury Learning and Information. ISBN 9781683929734
 
 **Anoop Chaturvedi, *et al.***
