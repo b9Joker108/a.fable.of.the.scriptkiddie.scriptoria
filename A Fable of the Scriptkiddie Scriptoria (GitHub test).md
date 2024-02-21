@@ -2549,7 +2549,7 @@ Some reasons why you might use `ksh` to script with in Termux are:
 
 However, `ksh` is not as popular as Bash, which is the default shell in most Linux systems. You might find it harder to get learning resources or support for `ksh`. Also, `ksh` does not support tab completion, which can be useful for interactive use cases.
 
-If you want to make `ksh` your default shell, you can type `chsh -s ksh`.
+The `ksh` shell executable in the Termux repository is the package `loksh`, which is a Linux port of OpenBSD's ksh, and is a version of the public domain ksh or pdksh. If you want to make this `ksh` your default shell, you can type `chsh -s ksh`. In the Termux repository, there is also the MirBSD Korn Shell (`mksh`), which is an enhanced version of the public domain ksh, the pdksh. 
 
 Source: Conversation with Bing, 22/02/2024
 1. What is Korn Shell (KSH) in UNIX/Linux System - Linux TLDR. [https://linuxtldr.com/korn-shell/](https://linuxtldr.com/korn-shell/)
