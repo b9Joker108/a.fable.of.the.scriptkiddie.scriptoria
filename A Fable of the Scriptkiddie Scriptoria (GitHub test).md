@@ -18542,6 +18542,10 @@ Makan, Keith (2014). 'Penetration Testing with the Bash shell: Make the most of 
 
 Mallett, Andrew (2015). 'Mastering Linux Shell Scripting: Master the Complexities of Bash Shell Scripting and Unlock the Power of Shell for Your Enterprise'.  Birmingham, U. K.: Packt Publishing Ltd. ISBN 9781784396978 
 
+**Sven Mascheck**
+
+Mascheck, Sven (2019). 'The Traditional Bourne Shell Family: History and Development'. Source: [https://www.in-ulm.de/~mascheck/bourne/](https://www.in-ulm.de/~mascheck/bourne/) (accessed: Wednesday, February 21, 2024). Source: [https://archive.org/details/mascheck-sven-2019.-the-traditional-bourne-shell-family-history-and-development](https://archive.org/details/mascheck-sven-2019.-the-traditional-bourne-shell-family-history-and-development) (accessed: Wednesday, February 21, 2024) 
+
 **Dave McKay** 
 
 McKay, Dave (2019). 'What is a TTY on Linux? (and How to Use the tty Command)'. Source: https://www.howtogeek.com/428174/what-is-a-tty-on-linux-and-how-to-use-the-tty-command/ (accessed: Thursday February 8, 2024) 
