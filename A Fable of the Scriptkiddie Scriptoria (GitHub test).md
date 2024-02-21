@@ -2439,7 +2439,9 @@ While Dash is a popular choice for its minimalism and speed, Arch's decision to 
 
 Sources say that the Bourne Shell is evident in GNU/Linux distributions, but I have been unable to determine the veracity of these assertions, with its express inclusion in any repository of an active GNU/Linux or *NIX distribution currently being maintained and actively developed. The closest thing I can find to the historic Bourne Shell, that is useful and usable in a contemporary computing context, is the suite of Schily Bourne Shells. 
 
-The Schily Bourne Shells are derived from the Bourne Shell sources from OpenSolaris. The Schily Bourne Shells are actively maintained and enhanced on a regular basis. The source code may be compiled into three variants:
+The Schily Bourne Shells are derived from the Bourne Shell sources from OpenSolaris, and are named after their initial porter, maintainer and developer, the German engineer, Jörg/Joerg Schilling (1955-2021. 
+
+The Schily Bourne Shells are actively maintained and enhanced on a regular basis. The source code may be compiled into three variants:
 
 **Non-POSIX SVr4/OpenSolaris variant (obosh)**
 
@@ -2451,9 +2453,9 @@ This version implements the minimal set of POSIX features and this version is al
 
 **The POSIX compliant extended variant (bosh)**
 
-This version has been verified to work as the system shell on Gentoo Linux and OpenSolaris (SchilliX).  The enhanced Schily Bourne Shell (bosh) implements many features that are missing in the OpenSolaris Bourne Shell listed above.
+This version has been verified to work as the system shell on Gentoo GNU/Linux and OpenSolaris (SchilliX).  The enhanced Schily Bourne Shell (bosh) implements many features that are missing in the OpenSolaris Bourne Shell listed above.
 
-I am still rather a noob, but I venture that the first package I port to the Termux repository, will be the POSIX compliant extended variant of the Schily Bourne Shell (bosh), which is currently maintained and actively developed. Moreover, it appears that there is already a version of the package for the aarch64 architecture. 
+I am still rather a noob, but I venture that the first package I port to the Termux repository, will be the POSIX compliant extended variant of the Schily Bourne Shell (bosh), as homage to the historic Bourne Shell proper, as it is currently maintained and actively developed. Moreover, it appears that there is already a version of the package for the aarch64 architecture, which should make the process quite straightforward. Well, here's hoping: \*fingers crossed\*!
 
 **Further readings**
 
