@@ -2435,6 +2435,26 @@ While Dash is a popular choice for its minimalism and speed, Arch's decision to 
   as long as compatibility with their scripts and tools is ensured.
 * The choice between Dash and Bash is often a matter of preference and specific requirements.
 
+## Schily Bourne Shells 
+
+Sources say that the Bourne Shell is evident in GNU/Linux distributions, but I have been unable to determine the veracity of these assertions, with its express inclusion in any repository of an active GNU/Linux or *NIX distribution currently being maintained and actively developed. The closest thing I can find to the historic Bourne Shell, that is useful and usable in a contemporary computing context, is the suite of Schily Bourne Shells. 
+
+The Schily Bourne Shells are derived from the Bourne Shell sources from OpenSolaris. The Schily Bourne Shells are actively maintained and enhanced on a regular basis. The source code may be compiled into three variants:
+
+**Non-POSIX SVr4/OpenSolaris variant (obosh)**
+
+The portable but not extended variant obosh allows script portability testing.  Most scripts that run in the old Schily Bourne Shell will run with any Unix shell that is still in use since 1990.
+
+**Minimal POSIX compliant variant (pbosh)**
+
+This version implements the minimal set of POSIX features and this version is always in strict POSIX mode. The features are similar to the features in dash, but since pbosh supports multi byte characters, it is really POSIX compliant. The pbosh variant allows script portability testing aginst the POSIX feature set.
+
+**The POSIX compliant extended variant (bosh)**
+
+This version has been verified to work as the system shell on Gentoo Linux and OpenSolaris (SchilliX).  The enhanced Schily Bourne Shell (bosh) implements many features that are missing in the OpenSolaris Bourne Shell listed above.
+
+I am still rather a noob, but I venture that the first package I port to Termux, will be the POSIX compliant extended variant of the Schily Bourne Shell (bosh), which is currently maintained and actively developed. 
+
 ## Rc shell
 
 I was surprised to find the Rc shell installed on my system, as I don't remember expressly installing it, and it was on both my Android tablet and smartphone. The package is known as the rcshell, whilst the executable is `rc`. It has both `man rc` and `info rc` pages, and they are largely identical, and I proffer without surety, that the InfoPage is derived from the ManPage. The version of `rc` I have installed is
