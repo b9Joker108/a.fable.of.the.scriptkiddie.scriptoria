@@ -1967,6 +1967,15 @@ Though not directly considered "languages," both Bash and Zsh have their own **s
 
 # Bash
 
+- The Bourne-Again shell (bash), written by Brian Fox in 1989. It is a free and open source shell that
+  is compatible with the Bourne shell and POSIX. It added features such as command completion, command
+  history, job control, and improved scripting capabilities. At one time, it was the default shell in
+  most Linux distributions and macOS.
+- The Restricted Bourne-Again shell (rbash), a restricted version of bash that was created in 1994. It
+  is a shell that limited the user's actions, such as changing directories, setting environment
+  variables, and executing commands. It is used for security purposes, such as creating restricted
+  accounts and chroot environments.
+
 This section is a wholesale transposition of McKay's excellent article listed below. It needs to be rewritten and edited. Well, the whole history *NIX shells and their evolution needs to be rewritten. But, I feel I will structure it around shell 'generations', which I am get to introduce into this work. So, until the 'generations' theory of modelling *NIX shell evolution is integrated, this section may continue to persist as a plagiarism. 
 
 McKay, Dave (2021). 'What Is the Bash Shell, and Why Is It So Important to Linux?'. Source: https://www.howtogeek.com/726559/what-is-the-bash-shell-and-why-is-it-so-important-to-linux/ (accessed: Friday February 9, 2024) 
@@ -2524,14 +2533,30 @@ pkg install loksh
   of the Korn shell and the C shell. It added features such as extended globbing, spelling correction,
   command completion, command history, and customizable prompts. It was a popular shell among advanced
   users and developers.
-- The Bourne-Again shell (bash), written by Brian Fox in 1989. It was a free and open source shell that
-  was compatible with the Bourne shell and POSIX. It added features such as command completion, command
-  history, job control, and improved scripting capabilities. It was the default shell in most Linux
-  distributions and macOS.
-- The Restricted Bourne-Again shell (rbash), a restricted version of bash that was created in 1994. It
-  was a shell that limited the user's actions, such as changing directories, setting environment
-  variables, and executing commands. It was used for security purposes, such as creating restricted
-  accounts and chroot environments.
+
+**Bing, why would I use a Korn Shell (ksh) to script with in Termux?**
+
+Korn Shell (ksh) is a Unix shell that was developed by David Korn at Bell Labs in the early 1980s. It is backward-compatible with the Bourne shell and includes many features of the C shell, such as command aliasing, job control, and command history.
+
+Some reasons why you might use `ksh` to script with in Termux are:
+
+- It supports associative arrays and built-in floating-point arithmetic operations.
+- It has a choice of three command line editing styles based on vi, Emacs, and Gosling Emacs.
+- It handles the loop syntax and exit codes better than Bash.
+- It uses the print command to print messages on the terminal screen, which is considered better than
+  echo.
+- It has dynamic extensibility of built-in commands and object-oriented programming features.
+
+However, `ksh` is not as popular as Bash, which is the default shell in most Linux systems. You might find it harder to get learning resources or support for `ksh`. Also, `ksh` does not support tab completion, which can be useful for interactive use cases.
+
+If you want to make `ksh` your default shell, you can type `chsh -s ksh`.
+
+Source: Conversation with Bing, 22/02/2024
+1. What is Korn Shell (KSH) in UNIX/Linux System - Linux TLDR. [https://linuxtldr.com/korn-shell/](https://linuxtldr.com/korn-shell/)
+2. KornShell - Wikipedia. [https://en.wikipedia.org/wiki/KornShell](https://en.wikipedia.org/wiki/KornShell)
+3. Understanding The Different Shell In Linux : Korn Shell - Make Tech Easier. [https://www.maketecheasier.com/understanding-korn-shell/](https://www.maketecheasier.com/understanding-korn-shell/)
+4. ksh - QNX. [https://www.qnx.com/developers/docs/6.5.0SP1.update/com.qnx.doc.neutrino_utilities/k/ksh.html](https://www.qnx.com/developers/docs/6.5.0SP1.update/com.qnx.doc.neutrino_utilities/k/ksh.html)
+5. shell - KornShell (ksh) wraparound - Stack Overflow. [https://stackoverflow.com/questions/141780/kornshell-ksh-wraparound](https://stackoverflow.com/questions/141780/kornshell-ksh-wraparound)
 
 ## The C Shell and its Variants
 
