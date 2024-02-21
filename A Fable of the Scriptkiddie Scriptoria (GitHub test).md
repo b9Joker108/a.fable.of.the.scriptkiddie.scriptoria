@@ -18368,6 +18368,10 @@ Farhi, Dolev & Aleks, Nick (2023). 'Black Hat Bash: Bash Scripting for Hackers a
 
 Fedewa, Joe (2024).' When Was the First Smartphone Invented?'. Source: https://www.howtogeek.com/when-was-the-first-smartphone-invented/ (accessed: Friday February 9, 2024) 
 
+**Gastón Festari**
+
+Festari, Gastón (2014) 'Learning Shell Scripting with Zsh'. Birmingham, U. K.: Packt Publishing. ISBN 9781783282937
+
 **Eric Foster-Johnson, *et al.***
 
 Foster-Johnson, Eric; Welch, John C. & Anderson, Micah (2005). 'Beginning Shell Scripting'. Indianapolis, Indiana, U. S. A.: Wiley Publishing, Inc. ISBN 9780764583209
