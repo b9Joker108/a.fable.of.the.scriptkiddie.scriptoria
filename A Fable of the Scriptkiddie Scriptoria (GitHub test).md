@@ -18370,7 +18370,7 @@ Fedewa, Joe (2024).' When Was the First Smartphone Invented?'. Source: https://w
 
 **Gastón Festari**
 
-Festari, Gastón (2014) 'Learning Shell Scripting with Zsh'. Birmingham, U. K.: Packt Publishing. ISBN 9781783282937
+Festari, Gastón (2014) 'Learning Shell Scripting with Zsh: Your One-Stop Guide to Reading, Writing, and Debugging Simple and Complex Z Shell Scripts'. Birmingham, U. K.: Packt Publishing. ISBN 9781783282937
 
 **Eric Foster-Johnson, *et al.***
 
