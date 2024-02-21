@@ -2169,6 +2169,10 @@ The Bourne shell (sh) is actually a direct ancestor of many modern shells, inclu
 
 In addition, I noticed that Kali NetHunter Rootless, which has Zsh as the distribution default shell, still uses Dash as the default, to execute scripts with a `sh`-specific shebang. 
 
+**Further readings**
+
+Mascheck, Sven (2019). 'The Traditional Bourne Shell Family: History and Development'. Source: [https://www.in-ulm.de/~mascheck/bourne/](https://www.in-ulm.de/~mascheck/bourne/) (accessed: Wednesday, February 21, 2024). Source: [https://archive.org/details/mascheck-sven-2019.-the-traditional-bourne-shell-family-history-and-development](https://archive.org/details/mascheck-sven-2019.-the-traditional-bourne-shell-family-history-and-development) (accessed: Wednesday, February 21, 2024) 
+
 ## POSIX shell
 
 The POSIX shell (sh) is a standard Unix shell that is defined by the Portable Operating System Interface (POSIX) specification. POSIX is a family of standards for maintaining compatibility between operating systems. The POSIX shell is based on the system and user-level application programming interfaces (APIs), along with command-line shells and utility interfaces, for software compatibility with variants of Unix and other operating systems.
