@@ -18263,6 +18263,10 @@ Beer emphasizes the interconnectivity of symbols, highlighting how they often wo
 
 **Weaknesses:** Some critics have noted occasional inconsistencies in transliteration and the lack of in-depth analysis of specific iconographic themes. Additionally, the focus on line drawings might limit the understanding of nuanced details in actual thangka paintings. The monograph only runs to just over 390 pages. 
 
+**BenTels, *et al.***
+
+BenTels & Kernigh, *et al.* (2024). 'Bourne Shell Scripting'. English Wikibooks. Source: [https://en.wikibooks.org/wiki/Bourne_Shell_Scripting/Print_Version](https://en.wikibooks.org/wiki/Bourne_Shell_Scripting/Print_Version) (accessed: Thursday, February 22, 2024) 
+
 **Travis Booth**
 
 Booth, Travis (2019). 'The Linux Command Line: Getting Started with Bash and Shell Scripting'. Self-published. 
