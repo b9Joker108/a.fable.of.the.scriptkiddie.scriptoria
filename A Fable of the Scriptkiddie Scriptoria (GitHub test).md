@@ -18711,6 +18711,10 @@ Pouzin, Louis (2000). 'The Origin of the Shell'. Note:  "Posted to feb_wwide 25 
 
 Rochkind, Marc J. (2004). 'Advanced UNIX Programming'. Second Edition. Sixth Printing, 2008. Boston, Massachusetts, U. S. A.: Addison-Wesley, an imprint of Pearson PLC. ISBN 0131411543
 
+**Bill Rosenblatt**
+
+Rosenblatt, Bill (1993). 'Learning the Korn Shell'. First Edition. O′Reilly. ISBN 9781565920545
+
 **Bill Rosenblatt, *et al.***
 
 Rosenblatt, Bill & Robbins, Arnold (2003). 'Learning the Korn Shell'. Second Edition. Sebastopol, California, U. S. A.: O'Reilly & Associates, Inc. ISBN 0596001959 
