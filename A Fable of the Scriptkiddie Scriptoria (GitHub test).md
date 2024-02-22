@@ -18620,6 +18620,10 @@ Mishra, Abhinav (2022). 'Mobile App Reverse Engineering'. Birmingham, U. K.: Pac
 
 **N**
 
+**Ganesh Naik**
+
+Naik, Ganesh (2018). 'Learning Linux Shell Scripting: Leverage the Power of Shell Scripts to Solve Real-World Problems'. Second Edition. Birmingham, U. K.: Packt Publishing. ISBN 9781788993197
+
 **Cameron Newham, *et al.***
 
 Newham, Cameron & Rosenblatt (2009). 'Learning the Bash Shell'. (NB: Covers Bash 3.0). Third Edition. Sebastopol, California, U. S. A.: O'Reilly Media, Inc. ISBN 0596009658
