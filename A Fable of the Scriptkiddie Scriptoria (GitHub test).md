@@ -18607,7 +18607,6 @@ McKay, Dave (2019). 'What is a TTY on Linux? (and How to Use the tty Command)'. 
 
 McKay, Dave (2021). 'What Is the Bash Shell, and Why Is It So Important to Linux?'. Source: https://www.howtogeek.com/726559/what-is-the-bash-shell-and-why-is-it-so-important-to-linux/ (accessed: Friday February 9, 2024) 
 
-
 **Melody**
 
 This author, researcher and Earth-bound-psychonaut, only has one name like Madonna, or The Madonna, Mary. This work defined the discourse. As a consummate researcher, honed in archives, before the domination of the digital; I can see and perceive a true-researcher, through the obscured stuff, of malformed execution. This work is neither malformed, nor obscured. It truly illumines, the subject. The lover of anthropology and ethnography in me, has read an indeterminate number of items, it dusty and dusky, sparsely frequented repositories of old-skool print media. It is amazing how much still hasn't been digitized. I search, with all my knowing on the Internet, for the existence of items that have transfixed me, to no avail. Many of them were anthropological and ethnographic case-studies, documenting fieldwork of little-known communities, throughout the world and through different times, climes, and locales, that mentioned esoteric crystal use, by-the-way. This, is how I know this work is of merit, even though it isn't traditionally cited. But then, that would be non-standard, in a post-New Age work. 
@@ -18627,6 +18626,10 @@ Mishra, Abhinav (2022). 'Mobile App Reverse Engineering'. Birmingham, U. K.: Pac
 **Ganesh Naik**
 
 Naik, Ganesh (2018). 'Learning Linux Shell Scripting: Leverage the Power of Shell Scripts to Solve Real-World Problems'. Second Edition. Birmingham, U. K.: Packt Publishing. ISBN 9781788993197
+
+**Neal Krawetz**
+
+Krawetz, Neal (2010). 'Ubuntu: Powerful Hacks and Customizations'. Indianapolis, Indiana, U. S. A.: Wiley Publishing, Inc. ISBN 9780470589885
 
 **Cameron Newham, *et al.***
 
