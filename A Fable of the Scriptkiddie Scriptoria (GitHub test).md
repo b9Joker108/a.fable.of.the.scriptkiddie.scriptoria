@@ -18774,6 +18774,10 @@ Sobell, Mark (2010). 'A Practical Guide to Linux Commands, Editors, and Shell Pr
 
 Sobell, Mark G. & Helmke, Matthew (2018). 'A Practical Guide to Linux Commands, Editors, and Shell Programming'. Fourth Edition. Boston, Massachusetts, U. S. A.: Addison-Wesley Professional (an imprint of Pearson PLC). ISBN 9780134774602
 
+**Neil Smyth**
+
+Smyth, Neil (2023). 'Ubuntu 23.04 Essentials: A Guide to Ubuntu 23.04 Desktop and Server Editions'. Rev: 1.0. Payload Media, Inc. ISBN 9781088242988
+
 **Neal Stephenson** 
 
 Stephenson, Neal (1999). 'In the Beginning was the Command Line'. Source: https://archive.org/details/stephenson-neal-1999.-in-the-beginning-was-the-command-line_202402 (accessed: Sunday, February 18, 2024) 
