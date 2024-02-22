@@ -18461,6 +18461,10 @@ Hughes, Elliott (2017). 'Android's Shell and Utilities'. Source: https://android
 
 **I**
 
+**IBM Corp.**
+
+IBM Corp. (2007). 'Korn and Bash Shell Programming (Course code AL32): Student Notebook (ERC 1.0)'. IBM (International Business Machines Corporation). Source: [https://archive.org/details/ibm-corp.-2007.-korn-and-bash-shell-programming-course-code-al-32-student-notebook-erc-1.0.-ibm](https://archive.org/details/ibm-corp.-2007.-korn-and-bash-shell-programming-course-code-al-32-student-notebook-erc-1.0.-ibm) (accessed: Thursday, February 22, 2024) 
+
 **IEEE Computer Society, *et al.***
 
 IEEE Computer Society & The Open Group (2018). 'IEEE Standard for Information Technology Portable Operating System Interface (POSIX®) Base Specifications, Issue 7.  IEEE Std 1003.1-2017 (POSIX.1-2017)'. (Revision of IEEE Std 1003.1-2008).  IEEE 3 Park Avenue  New York, New York, U. S. A.:  IEEE Standards Association.
