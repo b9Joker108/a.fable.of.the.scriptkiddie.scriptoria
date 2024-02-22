@@ -18855,6 +18855,10 @@ Vaswani, Ashish; Shazeer, Noam & Parmar, Niki, *et al.* (2017 [v.1], revised 202
 
 **W**
 
+**Brian Ward**
+
+Ward, Brian (2021). 'How Linux Works: What Every Superuser Should Know'. Third Edition. San Francisco, California, U. S. A.: No Starch Press, Inc. ISBN 9781718500419 (ebook)
+
 **Washington Matthews**
 
 Matthews, Washington (1902). 'The Night Chant, a Navaho Ceremony'. Memoirs of the American Museum of Natural History, Volume VI. The Hyde Southwestern Expedition.
