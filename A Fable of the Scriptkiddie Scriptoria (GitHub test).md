@@ -18814,6 +18814,10 @@ Varma, Jayant & Johnson, Chris F. A. (2023). 'Pro Bash: Learn to Script and Prog
 
 Venkateshmurthy, M. G. (2009). 'Introduction to Unix and Shell Programming'. New Delhi, India: Pearson Education in South Asia. ISBN 9788131785829 (ePub) 
 
+**Sriranga Veeraraghaven**
+
+Veeraraghaven, Sriranga (1999). 'Sams Teach Yourself Shell Programming in 24 Hours'. U. S. A.: Sams Publishing. ISBN 9780672314810 
+
 **N. Vivek**
 
 Vivek, N. (2018). 'Command Line Fundamentals: Learn to Use the Unix Command-Line Tools and Bash Shell Scripting'. Packt Publishing. ISBN 9781789807769
