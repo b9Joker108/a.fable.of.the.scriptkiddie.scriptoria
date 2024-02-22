@@ -18348,6 +18348,10 @@ Campesato, Oswald (2023). 'Bash for Data Scientists'. Dulles, Virginia, U. S. A.
 
 Chaturvedi, Anoop & Rai, B. L. (2011). 'Unix and Shell Programming'. First Edition. Daryaganj, New Delhi, India: University Science Press (an imprint of Laxmi Publications Pvt. Ltd.) ISBN 9789381159057
 
+**David Clinton, *et al.***
+
+Clinton, David & Negus, Christopher (2021). 'Ubuntu Linux Bible'. Indianapolis, Indiana, U. S. A.: John Wiley & Sons, Inc. ISBN 9781119722342 (ebk)
+
 **Mendel Cooper**
 
 Cooper, Mendel (2006). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Revision 4.2.01. Independently published. Source: https://linux.die.net/abs-guide/ (accessed: Friday February 2, 2024) 
