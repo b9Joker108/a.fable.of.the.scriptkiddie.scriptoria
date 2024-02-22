@@ -18634,6 +18634,10 @@ This book, now in its second edition, is the theoretical component for the freel
 
 O'Brien, Dennis & Pitts, David (2001). 'Korn Shell Programming by Example'. Indianapolis, Indiana, U. S. A.: Que. ISBN  0789724650
 
+**Anatole Olczak**
+
+Olczak, Anatole (2000). 'The Korn Shell User and Programming Manual'. Third Edition. Reading, Massachusetts, U. S. A.: Addison-Wesley Publishers Ltd. ISBN 020156548X
+
 **John Orton**
 
 Orton, John W. (2009). 'Semiconductors and the Information Revolution: Magic Crystals that made IT Happen'. Amsterdam, The Netherlands: Academic Press (an imprint of Elsevier). ISBN 9780444532404
