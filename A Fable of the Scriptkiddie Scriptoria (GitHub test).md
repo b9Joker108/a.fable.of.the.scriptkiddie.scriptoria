@@ -18826,6 +18826,10 @@ Venkateshmurthy, M. G. (2009). 'Introduction to Unix and Shell Programming'. New
 
 Veeraraghaven, Sriranga (1999). 'Sams Teach Yourself Shell Programming in 24 Hours'. U. S. A.: Sams Publishing. ISBN 9780672314810 
 
+**Andy Vickler**
+
+Vickler, Andy (2021). '3 Books in 1: Linux for Beginners; Linux Command Lines and Shell Scripting; & Linux Security and Administration'. Self-published (Kindle Edition). 
+
 **N. Vivek**
 
 Vivek, N. (2018). 'Command Line Fundamentals: Learn to Use the Unix Command-Line Tools and Bash Shell Scripting'. Packt Publishing. ISBN 9781789807769
