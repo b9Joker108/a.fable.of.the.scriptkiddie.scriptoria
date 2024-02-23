@@ -1,4 +1,4 @@
-# A Fable of the Scriptkiddie Scriptoria: A Bash/Zsh roadmap/study-guide, leveraging the GNU/Linux shell & Termux scripting environment w/~ Android: unrooted, PRoot to root!
+Q# A Fable of the Scriptkiddie Scriptoria: A Bash/Zsh roadmap/study-guide, leveraging the GNU/Linux shell & Termux scripting environment w/~ Android: unrooted, PRoot to root!
 
 ## by The Google Bard Experiment, Google Gemini, PerplexityAI & Microsoft Bing Copilot, w/~ Beauford A. Stenberg (a.k.a. b9Joker108 at GitHub) 
 
@@ -2662,7 +2662,7 @@ Source: Conversation with Bing, 17/02/2024
 (5) How to Test for POSIX Compliance of Shell Scripts - Baeldung. https://www.baeldung.com/linux/test-posix-compliance-shell-scripts.
 (6) undefined. https://pubs.opengroup.org/onlinepubs/9699919799/.
 
-**Bing, is they a way to automate the translation of Fish and Nushell scripts, or port them, to POSIX compliance?**
+**Bing, is there a way to automate the translation of Fish and Nushell scripts, or port them, to POSIX compliance?**
 
 There is no easy or universal way to automate the translation of Fish and Nushell scripts to POSIX compliance, since they have different syntax and features from the POSIX shell. However, there are some possible approaches that may work for some cases:
 
@@ -2686,6 +2686,58 @@ Source: Conversation with Bing, 17/02/2024
 (4) shell - convert bash script to fish - Stack Overflow. https://stackoverflow.com/questions/48152663/convert-bash-script-to-fish.
 (5) Is there a way to "source" a sh script from the fish shell?. https://superuser.com/questions/826333/is-there-a-way-to-source-a-sh-script-from-the-fish-shell.
 (6) shell - convert bash script to fish - Stack Overflow. https://stackoverflow.com/questions/48152663/convert-bash-script-to-fish.
+
+## Fizsh: A Zsh Shell Extension Subsuming Fish-like Features and Experience
+
+I initially found out about `fiszh` whilst searching packages in the Debian repository. I installed it and commenced configuring it and was quite pleased. I subsequently installed it with the package manager's of Kali NetHunter Rootless, Ubuntu, and installed it manually from the project's GitHub archive for my main Termux environment. Remember, using third-party packages outside of official repositories accessed by your installations package managers, requires caution and understanding potential security implications. Also, I could not get the installation of Fizsh to work within Arch GNU/Linux, which was disappointing. 
+
+**Fizsh** is a package that extends the Zsh shell to incorporate features found in the Fish shell. 
+
+**Key Features:**
+
+* **Syntax highlighting:** Similar to Fish, Fizsh offers syntax highlighting for commands and arguments
+  In various programming languages, making code more readable and visually appealing and easier to
+  navigate.
+* **MATLAB-like History:** Fizsh adopts a history system similar to MATLAB's, where commands are stored
+  in a named buffer and can be accessed and manipulated easily. 
+* **MATLAB-like history search:** Fizsh implements a history search similar to Fish, allowing you to
+  quickly and efficiently search, including substring search, and recall past commands using keywords
+  or patterns, and automates duplicate reduction.
+* **Interactive comments:** Comments can be interactively executed within Fizsh by prepending them with
+  `#!`, providing a more flexible and dynamic scripting experience. 
+* **Customization:** Fizsh allows local customizations through a `.fizshrc` file, similar to Zsh's
+  `.zshrc` file.
+* **Additional options:** Fizsh sets specific Zsh options for enhanced functionality, such as
+  automatically appending history, reducing blank lines and ignoring duplicate entries.
+* **Fish-like Syntax:** Fizsh allows you to use Fish's intuitive syntax for aliases, functions, and
+  variables, along with Zsh's syntax.
+* Sets some Zsh options by default, including disabling beeps and expanding prompt variables.
+
+**Usage:**
+
+* Fizsh is typically invoked without options or arguments.
+* You can use `fizsh --version`, `fizsh --help`, or `fizsh --login` for specific actions.
+* Running Fizsh with other options or arguments will revert to Zsh.
+
+**Configuration:**
+
+* Configuration files reside in `$HOME/.fizsh/`, similar to Zsh.
+* Startup script `~/.fizsh/.fizshrc` allows customization like in Zsh.
+* This allows you to customize aliases, functions, and other settings.
+
+**Running Fizsh:**
+
+You can launch Fizsh either by typing `fizsh` in your terminal or specifying it as your default shell in your `~/.bashrc` or `~/.zshrc` file.
+
+**Origin and Development:**
+
+* Fizsh is built upon the Zsh shell, incorporating features from the Fish shell.
+* It is developed by Guido van Steen and acknowledges contributions from various developers.
+
+**Further Information:**
+
+* Information is available in both `man fizsh` and `info fizsh`. 
+* For detailed configuration options, refer to the Zsh man pages.
 
 ## The Nu-Shell
 
