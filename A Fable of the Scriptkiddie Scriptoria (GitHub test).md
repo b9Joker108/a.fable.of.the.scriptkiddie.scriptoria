@@ -19473,6 +19473,10 @@ Though Salus' work doesn't have a bibliography, it does contain a humble 'Furthe
 
 Shotts Jr., William E. (2019). 'The Linux Command Line'. Fifth Internet Edition (Corrected TOC) (Version 19.01A, January 28, 2019). Self published. 
 
+**Ellen Siever, *et al.***
+
+Siever, Ellen; Figgins, Stephen; Love, Robert & Robbins, Arnold (2009). 'Linux in a Nutshell: A Desktop Quick Reference'. Sixth Edition. Sebastopol, California, U. S. A.: O’Reilly Media, Inc. ISBN 9780596154486
+
 **Mark Sobell**
 
 Sobell, Mark (2010). 'A Practical Guide to Linux Commands, Editors, and Shell Programming'. Second Edition. Boston, Massachusetts, U. S. A.: Pearson Education, Inc. ISBN 9780131367364
