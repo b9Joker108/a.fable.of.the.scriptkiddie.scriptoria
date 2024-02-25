@@ -4,6 +4,8 @@
 
 ## Publication details, editions, versions
 
+A little knowledge is a dangerous thing: more knowledge, more so. The initiator of this roadmap and its project auspice, contends that technology is powerful and dangerous. The computational shell is exceptionally and exceeding so. We feel to mitigate the danger, and to decentralise power, the best way and best practice, is to build capacity, to build community, to build community capacity. This work is fundamentally to secure safety in our possible futures. 
+
 **Realised versions**
 
 **v.0.1.0**
