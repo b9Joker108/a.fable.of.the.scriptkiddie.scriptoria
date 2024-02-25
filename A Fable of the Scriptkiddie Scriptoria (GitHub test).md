@@ -26,6 +26,13 @@ This second edition, as all future editions, are envisioned as complete restruct
 
 By this third version, it is at once hoped and contended, that we may have collectively achieved something of note and worth. Being the second total rewrite and complete restructuring of the work, taking into consideration the practical scripting experience of readers that have become active comminity members and co-collaborators, and showcasing their code-snippets and scripts and the Future of individual stuff of their experiential learnings as practical examples and for edification. Moreover, this edition is to be edited and cultivated with ruthless precision and formatted with decided aesthetic and artistic sensibility and sensitivity, for a visually discerning audience and readership. By this edition, a number of code-snippets, pictures, graphs, graphemes, images, logos, etc., will have been amassed and secured and inset as jewells within the filigree of the text proper, and the whole will have been publishing in a cultivated layout and design, with specificity and suited to the topic and its purview, whilst being innovative, to showcase the work as defining and transformative in the genre.
 
+**v.4.0.0**
+
+By the fourth version, we should be in place to substantively included other shells, particularly for edge-cases, shells in the Internet of Things, and particularly and most importantly, extending the work with new generation shells, such as Fish and Nushell, and emergent shells and technologies, implicit and tangential. 
+
+**v.5.0.0**
+
+By the fifth edition, particularly with the rapid development, iteration and evolution of Generative Artificial Intelligence and its intersections and encorporations into the computational shell, this work will be the product of, and reflect, a whole 'Brave New World', and a whole new world of new technologies and technological advancements, all related to the shell, along with their challenges and threats. 
 
 **Versioning construct**
 
