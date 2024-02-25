@@ -18,6 +18,15 @@ A rudimentary, but thorough and exhaustive draft with citations and references a
 
 The first official public release. This first official release version partakes of the errors and oversights that are the stuff of all first editions. Given the Internet truism, that the best way to get the correct information, is to post the wrong information, this version is released with the intentionality of prospecting and currying a reading and active audience, and cultivating a community and ecosystem around the work, shell scripting and in shell scripting in Termux in Android specifically, and its wider project auspice in general, in lieu of a rarefied and greatly cultivated and refined text. It is hoped that such a community and ecosystem will collectively take ownership of the work and its project purview, and cultivate and iterate it in suite, 
 
+**v.2.0.0**
+
+This second edition, as all future editions, are envisioned as complete restructurings and rewrites of the suite of earlier editions, subsuming forks. It is hoped that in all the subversions and version iterations subsequent to the first edition release, that the community and ecosystem around the work and its project, will have rallied and significantly leavened the work and project in a number of iterations, and that such is evident in this second edition, and that such a process is evinced and realised in all future principal edition releases. 
+
+**v.3.0.0**
+
+By this third version, it is at once hoped and contended, that we may have collectively achieved something of note and worth. Being the second total rewrite and complete restructuring of the work, taking into consideration the practical scripting experience of readers that have become active comminity members and co-collaborators, and showcasing their code-snippets and scripts and the Future of individual stuff of their experiential learnings as practical examples and for edification. Moreover, this edition is to be edited and cultivated with ruthless precision and formatted with decided aesthetic and artistic sensibility and sensitivity, for a visually discerning audience and readership. By this edition, a number of code-snippets, pictures, graphs, graphemes, images, logos, etc., will have been amassed and secured and inset as jewells within the filigree of the text proper, and the whole will have been publishing in a cultivated layout and design, with specificity and suited to the topic and its purview, whilst being innovative, to showcase the work as defining and transformative in the genre.
+
+
 **Versioning construct**
 
 This work conforms with Semantic Versioning 2.0.0. Though, this standard is designed for software, it may be usefully applied to written documentation. 
