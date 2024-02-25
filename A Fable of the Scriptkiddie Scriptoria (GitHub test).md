@@ -10897,6 +10897,22 @@ Welcome, script architects! Your journey through the Bash and Zsh scripting land
 
 **Remember, the power of scripting lies not just in technical proficiency, but in your ability to apply it creatively and strategically. Embrace the opportunities that lie ahead, leverage your current skillset as a springboard, and embark on future projects with passion and a spirit of constant learning. The open seas of scripting await, so set your sails and let your code be your compass!**
 
+## The Computational Shell and its Possible Futures 
+
+I started this work, with the following Preamble, and I hereby quote it, in total, verbatum, as we have come full circle, and there is an art of storygtelling, an art of the ages, in repetition and recursion:
+
+"As they say: 'A little knowledge is a dangerous thing.' A lot of knowledge, more so. The initiator of this roadmap and its project auspice, contends that technology is by its very nature at-once powerful, beneficial and dangerous. As All things, as All tools, as all technologies, may be employed appropriately and/or inappropriately. As they say regarding the proverbial 'double-edged sword': 'Live by the sword. Die by the sword'. From one common worldview in general parlance, the world is at-once dualistic and duplicitous, even as it is a Mysterium Magnum, and at-once, both beautiful and terrible. The world is dualistic and dangerous, that is without question, and I contend that expecting the best, and planning for the worst, is salience and wisdom, in action. I contend that knowing the computational shell and acquiring its Art/Science, is a discipline, neé a martial art. Hacking is a disciplined martial art, or maybe it is more like juggling and poi, and thereby, "An Impartial Art" (Finnigan, 1993: p. 22). I do not jest, nor do I take refuge in analogy or metaphor. The computational shell is the superset of tools and technologies that augments all tools and technologies, and as such, is exceptionally and exceeding powerful, beneficial and dangerous. I rarely, if ever, indulge in absolutes and embrace the term all without caveat of English language qualifications forded by modals, such as: 'most all of', 'nearly all of', etc., which provide for, as they say: 'the exception that proves the rule'. I have researched and read widely and deeply, cultivated my thoughts and contemplated at length, and the contemporary computational shell, has an implicit, explicit and implied stake in, and touches or potentially intersects, all tools and all technologies. Thus, no tool nor technology, is as dangerous nor as potentially dangerous, as the contemporary computational shell and its possible futures. Thus, to mitigate the danger, and to decentralise power, and maximise global benefit, the best way and best practice, is to build capacity, to build community, to build community capacity. This work is fundamentally, to secure safety in our possible futures. This preamble is sage warning, not hyberbole."
+
+Beauford A. Stenberg
+Fitzroy, Victoria, Australia 
+Sunday, February 25, 2024 
+
+**Further reading**
+
+Finnigan, Dave (1993). 'The Zen of Juggling'. Edmonds, Washington, U. S. A.: JuggleBug. ISBN 0961552158 (paper trade)
+
+
+
 ## Android
 
 When the Android information in the addenda is systematised, synthesized and integrated, I intend to port it here. 
@@ -18784,26 +18800,45 @@ Here is a summary of the Lex Fridman Podcast article:
 
 The people mentioned in the article are:
 
-- **Neil Gershenfeld**: The guest of the podcast, a professor at MIT and the director of the Center for Bits and Atoms.
+- **Neil Gershenfeld**: The guest of the podcast, a professor at MIT and the director of the Center for
+  Bits and Atoms.
 - **Lex Fridman**: The host of the podcast, an AI researcher at MIT and a popular interviewer.
 - **Richard Feynman**: A Nobel Prize-winning physicist and a pioneer of quantum computing.
 - **Marvin Minsky**: A legendary AI researcher and a co-founder of the MIT Media Lab.
-- **John von Neumann**: A mathematician and a computer scientist who proposed the concept of self-replicating machines.
-- **Alan Turing**: A mathematician and a computer scientist who invented the Turing machine and the Turing test.
-- **Isaac Asimov**: A science fiction writer and a professor of biochemistry. He coined the term "robotics" and created the Three Laws of Robotics.
-- **Stephen Wolfram**: A physicist and a computer scientist who created Mathematica and Wolfram Alpha. He is the author of A New Kind of Science.
-- **Elon Musk**: A billionaire entrepreneur and a visionary. He is the founder of SpaceX, Tesla, Neuralink, and The Boring Company.
-- **Nick Bostrom**: A philosopher and a futurist. He is the author of Superintelligence and the co-founder of the Future of Humanity Institute.
-- **Albert Einstein**: A Nobel Prize-winning physicist and a genius. He developed the theory of relativity and the famous equation E=mc2.
-- **Max Planck**: A Nobel Prize-winning physicist and a founder of quantum theory. He introduced the concept of Planck's constant and Planck's units.
-- **Erwin Schrödinger**: A Nobel Prize-winning physicist and a pioneer of quantum mechanics. He formulated the Schrödinger equation and the Schrödinger's cat thought experiment.
-- **Niels Bohr**: A Nobel Prize-winning physicist and a leader of the Copenhagen interpretation of quantum mechanics. He proposed the Bohr model of the atom and the principle of complementarity.
-- **Hugh Everett**: A physicist and a creator of the many-worlds interpretation of quantum mechanics. He suggested that every quantum measurement results in a branching of the multiverse.
-- **David Deutsch**: A physicist and a founder of the field of quantum computation. He is the author of The Fabric of Reality and The Beginning of Infinity.
-- **Leonard Susskind**: A physicist and a co-discoverer of string theory. He is the author of The Black Hole War and The Cosmic Landscape.
-- **Brian Greene**: A physicist and a popularizer of science. He is the author of The Elegant Universe and The Fabric of the Cosmos.
-- **Stephen Hawking**: A physicist and a cosmologist. He is the author of A Brief History of Time and The Theory of Everything. He made groundbreaking contributions to black hole physics and quantum gravity.
-- **Roger Penrose**: A mathematician and a physicist. He is the author of The Emperor's New Mind and The Road to Reality. He won the Nobel Prize for his work on black hole formation and singularity theorems.
+- **John von Neumann**: A mathematician and a computer scientist who proposed the concept of self-
+  replicating machines.
+- **Alan Turing**: A mathematician and a computer scientist who invented the Turing machine and the
+  Turing test.
+- **Isaac Asimov**: A science fiction writer and a professor of biochemistry. He coined the term
+  "robotics" and created the Three Laws of Robotics.
+- **Stephen Wolfram**: A physicist and a computer scientist who created Mathematica and Wolfram Alpha.
+  He is the author of A New Kind of Science.
+- **Elon Musk**: A billionaire entrepreneur and a visionary. He is the founder of SpaceX, Tesla,
+  Neuralink, and The Boring Company.
+- **Nick Bostrom**: A philosopher and a futurist. He is the author of Superintelligence and the co-
+  founder of the Future of Humanity Institute.
+- **Albert Einstein**: A Nobel Prize-winning physicist and a genius. He developed the theory of
+  relativity and the famous equation E=mc2.
+- **Max Planck**: A Nobel Prize-winning physicist and a founder of quantum theory. He introduced the
+  concept of Planck's constant and Planck's units.
+- **Erwin Schrödinger**: A Nobel Prize-winning physicist and a pioneer of quantum mechanics. He
+  formulated the Schrödinger equation and the Schrödinger's cat thought experiment.
+- **Niels Bohr**: A Nobel Prize-winning physicist and a leader of the Copenhagen interpretation of
+  quantum mechanics. He proposed the Bohr model of the atom and the principle of complementarity.
+- **Hugh Everett**: A physicist and a creator of the many-worlds interpretation of quantum mechanics.
+  He suggested that every quantum measurement results in a branching of the multiverse.
+- **David Deutsch**: A physicist and a founder of the field of quantum computation. He is the author of
+  The Fabric of Reality and The Beginning of Infinity.
+- **Leonard Susskind**: A physicist and a co-discoverer of string theory. He is the author of The Black
+  Hole War and The Cosmic Landscape.
+- **Brian Greene**: A physicist and a popularizer of science. He is the author of The Elegant Universe
+  and The Fabric of the Cosmos.
+- **Stephen Hawking**: A physicist and a cosmologist. He is the author of A Brief History of Time and
+  The Theory of Everything. He made groundbreaking contributions to black hole physics and quantum
+  gravity.
+- **Roger Penrose**: A mathematician and a physicist. He is the author of The Emperor's New Mind and
+  The Road to Reality. He won the Nobel Prize for his work on black hole formation and singularity
+  theorems.
 
 Source: Conversation with Bing, 11/02/2024
 (1) Lex Fridman Podcast - Lex Fridman. https://lexfridman.com/podcast/.
@@ -18813,9 +18848,17 @@ Source: Conversation with Bing, 11/02/2024
 
 Here is a summary of the video:
 
-- **Neil Gershenfeld**: He is the director of MIT's Center for Bits and Atoms, a professor of electrical engineering and computer science, and a pioneer in the field of digital fabrication. He is the author of several books, including *FAB: The Coming Revolution on Your Desktop*, *When Things Start to Think*, and *Designing Reality*.
-- **Self-replicating robots**: He discusses his vision of creating machines that can make more of themselves, and how this could revolutionize manufacturing, science, and society. He also talks about his current project, the *RoboBees*, which are tiny flying robots that can swarm and cooperate.
-- **Future of fabrication**: He explains how digital fabrication is transforming the way we make things, from personal fabrication labs to global networks of makers. He also shares his insights on the challenges and opportunities of scaling up fabrication, such as the need for new materials, architectures, and standards.
+- **Neil Gershenfeld**: He is the director of MIT's Center for Bits and Atoms, a professor of
+  electrical engineering and computer science, and a pioneer in the field of digital fabrication. He is
+  the author of several books, including *FAB: The Coming Revolution on Your Desktop*, *When Things
+  Start to Think*, and *Designing Reality*.
+- **Self-replicating robots**: He discusses his vision of creating machines that can make more of
+  themselves, and how this could revolutionize manufacturing, science, and society. He also talks about
+  his current project, the *RoboBees*, which are tiny flying robots that can swarm and cooperate.
+- **Future of fabrication**: He explains how digital fabrication is transforming the way we make
+  things, from personal fabrication labs to global networks of makers. He also shares his insights on
+  the challenges and opportunities of scaling up fabrication, such as the need for new materials,
+  architectures, and standards.
 - **References**: The video mentions several references, such as:
     - *The Selfish Gene* by Richard Dawkins
     - *The Origin of Species* by Charles Darwin
@@ -19154,6 +19197,14 @@ Fedewa, Joe (2024).' When Was the First Smartphone Invented?'. Source: https://w
 **Gastón Festari**
 
 Festari, Gastón (2014) 'Learning Shell Scripting with Zsh: Your One-Stop Guide to Reading, Writing, and Debugging Simple and Complex Z Shell Scripts'. Birmingham, U. K.: Packt Publishing. ISBN 9781783282937
+
+**Dave Finnigan**
+
+Finnigan, Dave (1993). 'The Zen of Juggling'. Edmonds, Washington, U. S. A.: JuggleBug. ISBN 0961552158 (paper trade) 
+
+**Purport**
+
+I first came across the discipline and art, the "impartial art" of 'new' poi, an adaptation and evolute of traditional New Zealand Maori poi, at an Earthcore rave culture electronic music, dance and lifestyle event and festival, in country Victoria, Australia. I was mesmerised and transfixed, well it may have been the ecstacy. But, as soon as I was home from the event, I found my way to a store called, JuggleArt, by memory. There, I purchased my first poi, fire poi, and a soft-copy of this book. Both made an indelible imprint upon me. The book, particularly for its spiritual, philosophical and mystical presentation of juggling; and the poi, because they were '**fire** poi' for **performance**, not '**practice**' poi, for learning. The shopkeep made no inquiries as to my skill level, nor conveyed any reversations, nor salient wisdom, at my purchase. At home, in the grip of the stuff of hard daily practice as cultural regimen, the fire poi left their visceral and sometimes bloody mark upon me, an equilateral cross from the head of the screws that affixed the fire-wick in place on the wire that lead to the handle-grip, that circumscribed the index and middle fingers of each hand for safety and control. The school of life. The skool of hard knox. With this book, and my daily practice of poi for in excess of three years, as an act of prayer and reverence, a spiritual discipline, I came to cultivate the propensity to make the seemingly, impossible possible, but also realised that the art of such a discipline is eternal and timeless, and that one may always progress and become better, the nature of the adept, as eternal student, the Zen of "beginner's mind", (I tentatively, without investigation, attribute that to the author David Suzuki, by memory). I have much gratitude and respect for Finnigan, and as Lennon sang "...the luck of the Irish...", and in hindsight, am even thankful for the shopkeep's lack of due care and diligence at point-of-sale, as I not only cultivated the art of poi, but also that of the artful dodger. As they say, 'necessity is the mother of invention'. 
 
 **Eric Foster-Johnson, *et al.***
 
