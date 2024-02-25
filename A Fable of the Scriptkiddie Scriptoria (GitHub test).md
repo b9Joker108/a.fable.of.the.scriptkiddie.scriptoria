@@ -28,7 +28,7 @@ By this third version, it is at once hoped and contended, that we may have colle
 
 **v.4.0.0**
 
-By the fourth version, we should be in place to substantively included other shells, particularly for edge-cases, shells in the Internet of Things, and particularly and most importantly, extending the work with new generation shells, such as Fish and Nushell, and emergent shells and technologies, implicit and tangential. 
+By the fourth version, we should be in place to substantively include other shells apart from POSIX, Bash and Zsh, particularly for edge-cases, shells in the Internet of Things, and particularly and most importantly, extending the work with new generation shells, such as Fish and Nushell, and emergent shells and technologies, implicit and tangential. Importantly, I envision and anticipate a surge of Android derived, and therefore, Termux augmentable portable devices, other than contemporary generalist portable hand-held devices. This work anticipates their rise and intends to ride the crest of their wave. 
 
 **v.5.0.0**
 
