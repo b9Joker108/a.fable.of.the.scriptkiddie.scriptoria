@@ -4,9 +4,21 @@
 
 ## Publication details, editions, versions
 
+**Realised versions**
+
 **v.0.1.0**
 
 Pre-first draft, of work commenced early December 2023.
+
+A rudimentary, but thorough and exhaustive draft with citations and references and annotated resources, that endeavours to capture the entire purview of the topic, in all its richness, diversity, specificity, generality, idealism, pragmatism, traditions, history, contemporeity, emergent factors and technologies in the shell process and shell-as-process, and in possible futures of which the shell, as coalface and fulcrum, has a stake.
+
+**Prospective vsrsions**
+
+**v.1.0.0**
+
+The first official public release. This first official release version partakes of the errors and oversights that are the stuff of all first editions. Given the Internet truism, that the best way to get the correct information, is to post the wrong information, this version is released with the intentionality of prospecting and currying a reading and active audience, and cultivating a community and ecosystem around the work, shell scripting and in shell scripting in Termux in Android specifically, and its wider project auspice in general, in lieu of a rarefied and greatly cultivated and refined text. It is hoped that such a community and ecosystem will collectively take ownership of the work and its project purview, and cultivate and iterate it in suite, 
+
+**Versioning construct**
 
 This work conforms with Semantic Versioning 2.0.0. Though, this standard is designed for software, it may be usefully applied to written documentation. 
 Please refer:  
