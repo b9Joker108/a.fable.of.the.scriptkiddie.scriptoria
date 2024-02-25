@@ -4,7 +4,7 @@
 
 ## Publication details, editions, versions
 
-A little knowledge is a dangerous thing: more knowledge, more so. The initiator of this roadmap and its project auspice, contends that technology is powerful and dangerous. The computational shell is exceptionally and exceeding so. We feel to mitigate the danger, and to decentralise power, the best way and best practice, is to build capacity, to build community, to build community capacity. This work is fundamentally to secure safety in our possible futures. 
+A little knowledge is a dangerous thing: A lot of knowledge, more so. The initiator of this roadmap and its project auspice, contends that technology is by its nature powerful, beneficial and dangerous. **All** tools, as **all** technologies, may be employed appropriately and/or inappropriately. The computational shell is a superset of tools and technologies that augments **all** tools and technologies, and as such, is exceptionally and exceeding so. I rarely, if ever, indulge in absolutes and embrace the term **all** without caveat of English language qualifications forded by modals, such as: 'most all of', 'nearly all of', etc., which provide for, as they say: 'the exception that proves the rule'. I have cultivated my thoughts and contemplated at length, and the contemporary computational shell, has an implicit and implied stake in **all** technologies. Thus, no tool or technology, is as dangerous or as potentially dangerous, as the contemporary and shell and its possible futures. Thus, to mitigate the danger, and to decentralise power, the best way and best practice, is to build capacity, to build community, to build community capacity. This work is fundamentally to secure safety in our possible futures. 
 
 **Realised versions**
 
