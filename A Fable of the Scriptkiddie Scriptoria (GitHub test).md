@@ -12,7 +12,7 @@ Pre-first draft, of work commenced early December 2023.
 
 A rudimentary, but thorough and exhaustive draft with citations and references and annotated resources, that endeavours to capture the entire purview of the topic, in all its richness, diversity, specificity, generality, idealism, pragmatism, traditions, history, contemporeity, emergent factors and technologies in the shell process and shell-as-process, and in possible futures of which the shell, as coalface and fulcrum, has a stake.
 
-**Prospective vsrsions**
+**Prospective versions**
 
 **v.1.0.0**
 
@@ -369,10 +369,12 @@ One of the greatest challenges you will find in acquiring knowledge, information
 
 **Further reading**
 
+Adler, Mortimer J. & van Doren, Charles (1972). 'How to Read a Book: The Classic Guide to Intelligent Reading'. Revised and updated edition. New York, New York, U. S. A.: A Touchstone Book (an imprint of Simon & Shuster, Inc.). ISBN 067121280X
+
 Brown, Peter C.; Roediger III, Henry L. &  McDaniel, Mark A. (2014). 'Make It Stick: The Science of Successful Learning'. Cambridge, Massachusetts, U. S. A.: The Belknap Press *of* Harvard University Press. ISBN 9780674729018
  
 
- **Yes, Termux does technically provide a GNU/Linux userland that operates within the Android environment, but it doesn't directly rest on top of the host Android operating system file architecture.** Here's a breakdown of how it works:
+**Yes, Termux does technically provide a GNU/Linux userland that operates within the Android environment, but it doesn't directly rest on top of the host Android operating system file architecture.** Here's a breakdown of how it works:
 
 **Key Points:**
 
@@ -18955,6 +18957,10 @@ I can't say with certainty, that I quite know exactly what all this means. But, 
 ## Annotated Bibliography: Physical Print and Electronic Print Resources and Media 
 
 **A**
+
+**Mortimer J. Adler, *et al.***
+
+Adler, Mortimer J. & van Doren, Charles (1972). 'How to Read a Book: The Classic Guide to Intelligent Reading'. Revised and updated edition. New York, New York, U. S. A.: A Touchstone Book (an imprint of Simon & Shuster, Inc.). ISBN 067121280X
 
 **Carl Albing, *et al.***
 
