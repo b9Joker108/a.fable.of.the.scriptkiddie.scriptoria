@@ -19854,6 +19854,14 @@ Rosenblatt, Bill & Robbins, Arnold (2003). 'Learning the Korn Shell'. Second Edi
 
 **S**
 
+**Wendy Sarkissian, *et al.***
+
+Sarkissian, Wendy; Stenberg, Beauford and Hirst, Angela with Walton, Steph (2003). 'Community Participation in Practice: New Directions'. Perth, Australia: Murdoch University, Institute for Sustainability and Technology Policy.
+
+**Purport**
+
+I edited this work whilst in the employ of Sarkissian, it honed my craft. I never net Hirst. It is a remarkable work and contains much experiential and practical wisdom in community consultation and public participation methods, processes and methodologies. The publisher is defunct, and 'it cannot be bought for neither love nor money'. It pains me that it is poorly referenced and cited in the literature, and that it is hardly discoverable and barely rates a mention on the Internet. It has barely made a ripple. I wrote Sarkissian, entreating her for an electronic copy, that we may release it onto the Internet and thereby breathe some life into the work, and thereby open discourse in general. I await a response. This work (2003) would be an invaluable resource to inform community consultation, public participation and community capacity building around digital inclusion and building capacity with this roadmap on the acquisition of the skillset required to work adeptly with the *NIX compatible shells in the Termux environment within the Android operating system, in the digitally excluded, that have been, or are to be, newly digitally included. This work provides much experiential wisdom to inform the transition. 
+
 **Jason Savitt**
 
 Savitt, Jason (2019). 'Power User Guide: Linux Tricks, Hacks and Secrets'. Ultimate Edition, Vol. 1 & 2. Jason Savitt Press.
