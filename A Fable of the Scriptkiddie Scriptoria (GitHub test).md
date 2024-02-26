@@ -3958,7 +3958,7 @@ Here are some of the recent or foundational academic articles that I found based
   expert consultation: material, relational, political, digital, and structural. The article also
   examines the distribution of social exclusion across different groups and regions, and its
   association with health outcomes.
-- Who excludes? Young People’s Experience of Social Exclusion⁴: This article draws on data from a
+- Who excludes? Young People’s Experience of Social Exclusion: This article draws on data from a
   survey of Australian 13-14 year olds to examine the pathways and consequences of social exclusion
   among young people. The article adapts the Bristol Social Exclusion Matrix to measure social
   exclusion across four domains: resources, participation, quality of life, and service exclusion. The
@@ -6136,7 +6136,7 @@ The official Termux project on GitHub, as of late February, 2024, has fifty-four
     - **Zsh configuration and plugins:** Enhancing your scripting experience.
     - **Aliases and functions:** Customizing commands for increased productivity.
     - **Completion and history manipulation:** Working efficiently with the command line.
-    - **Scripting best practices:** Writing clean, maintainable, and secure scripts.
+    - **Scripting best practices:** Writing clean, portable, maintainable, and secure scripts.
     - **Scripting safety and security**: Secure and robust scripting.
 - (J) **Week 10: Advanced Termux Techniques:**
     - **Networking tools and frameworks:** Extending Termux's capabilities.
@@ -10134,6 +10134,35 @@ Welcome aboard, Zsh script navigators, to a voyage of adventure, shipshape and s
   effectively.
 - **Craft a Modular Zsh Project:** Design a script that utilizes functions, error handling, and Zsh-
   specific features to showcase your style mastery.
+- **Redesign the script to be portable:** Redesign the script to be portable and therefore POSIX
+  compliant (or as near-POSIX compliant as possibly), and endeavour for the script to be self-contained
+  (if possible).
+
+**Bing, what are the principles of a portable self-contained, shell script?**
+
+A portable self-contained shell script, is a script that can run on different platforms and environments without requiring any external dependencies or installations. Some of the principles of a portable self-contained shell script are:
+
+- Use a **shebang** line at the beginning of the script to specify the interpreter to use, such as
+  `#!/bin/sh` or `#!/usr/bin/env bash`.
+- Use **standard** and **POSIX-compliant** commands and syntax as much as possible, and avoid using
+  platform-specific features or extensions.
+- Use **relative paths** and **environment variables** to access files and directories, and avoid hard-
+  coding absolute paths or assumptions about the file system layout.
+- Use **portable tools** and **libraries** that are widely available and compatible with different
+  platforms, such as `curl`, `awk`, `sed`, `grep`, etc. Avoid using tools that are specific to a
+  certain platform or distribution, such as `apt`, `yum`, `brew`, etc.
+- Use **error handling** and **logging** mechanisms to handle unexpected situations and provide
+  feedback to the user. Use `set -e` to exit the script if any command fails, and use `trap` to catch
+  signals and perform cleanup actions. Use `echo` or `printf` to print messages to the standard output
+  or error, and use `read` or `readline` to get user input.
+- Use **comments** and **documentation** to explain the purpose and functionality of the script, and
+  provide usage instructions and examples. Use `#` to start a comment line, and use `<<EOF ... EOF` to
+  create a multi-line comment or a here-document. Use `--help` or `-h` flags to display a help message.
+
+Source: Conversation with Bing, 27/02/2024
+(1) How manage dependencies of a self-contained/portable PowerShell script?. https://stackoverflow.com/questions/76354205/how-manage-dependencies-of-a-self-contained-portable-powershell-script.
+(2) any known way to create a device-to-device portable self-contained .... https://stackoverflow.com/questions/62945660/any-known-way-to-create-a-device-to-device-portable-self-contained-python-runtim.
+(3) How can I make a Python script standalone executable to run without any .... https://stackoverflow.com/questions/5458048/how-can-i-make-a-python-script-standalone-executable-to-run-without-any-dependen.
 
 **Bonus Tip:**
 
