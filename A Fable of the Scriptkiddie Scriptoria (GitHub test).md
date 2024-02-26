@@ -11631,7 +11631,98 @@ Citations:
 [7] What is Docker? | AWS https://aws.amazon.com/docker/
 [8] Why use docker? What good is it? https://www.reddit.com/r/docker/comments/mxe0w7/why_use_docker_what_good_is_it/
 
-At this point, I have not practically utilised these code snippets to attest to their veracity. That said, I am well-pleased, and will for the time being, cease this exploration, and continue it later. It conveyed another use for containers, because they can be both created and destroyed, and therefore may be ephemeral. Such a medium, is excellent to containerise an ephemeral script that is not to permanently alter the system executing it, essentially creating a container as it executes, and destroys it as it completes. I am sure this is rather simplistic, but simple may be useful and functional, as a beginning. 
+**PerplexityAI, so if Docker needs to be present in the system to run, how do we craft an entire portable POSIX compliant script, that doesn't require anything to be installed, but carries everything within it that it needs, and doesn't make any permanent or persistent changes to the host system?**
+
+Creating a portable POSIX-compliant shell script that encapsulates all necessary tools without requiring installation and without making permanent changes to the host system is a challenging task. This is because tools like Docker, curl, and Lynx are typically installed on the host system and not bundled within a script.
+
+However, theoretically, one could create a script that downloads a static binary of each tool into a temporary directory, uses them, and then cleans up after itself. This approach has several limitations and potential security risks, as it relies on downloading executables from the internet at runtime. It's also worth noting that this method would still require the host system to have some basic tools installed, such as `sh`, `wget` or `curl` for downloading the binaries, and permissions to execute them.
+
+Here's a conceptual example of how such a script might look:
+
+```sh
+#!/bin/sh
+
+# Define temporary directory for binaries
+TMP_DIR=$(mktemp -d)
+BIN_CURL="$TMP_DIR/curl"
+BIN_LYNX="$TMP_DIR/lynx"
+
+# Function to download a static binary of curl
+download_curl() {
+  # Example URL, this would need to be a valid URL to a static curl binary
+  CURL_URL="http://example.com/curl-static-binary"
+  wget -O "$BIN_CURL" "$CURL_URL" && chmod +x "$BIN_CURL"
+}
+
+# Function to download a static binary of Lynx
+download_lynx() {
+  # Example URL, this would need to be a valid URL to a static Lynx binary
+  LYNX_URL="http://example.com/lynx-static-binary"
+  wget -O "$BIN_LYNX" "$LYNX_URL" && chmod +x "$BIN_LYNX"
+}
+
+# Function to clean up downloaded binaries
+cleanup() {
+  rm -rf "$TMP_DIR"
+}
+
+# Function to perform a search using Whoogle and display results with Lynx
+search_whoogle() {
+  search_query="$1"
+  # Example Whoogle URL, this would need to be a valid Whoogle instance
+  whoogle_url="http://whoogle-instance/search?q=$search_query"
+
+  # Use the downloaded curl binary to perform the search
+  result="$($BIN_CURL -s "$whoogle_url")"
+
+  # Use the downloaded Lynx binary to display the results
+  echo "$result" | $BIN_LYNX -stdin
+}
+
+# Main script execution
+download_curl
+download_lynx
+printf "Enter your search query: "
+read -r user_query
+search_whoogle "$user_query"
+cleanup
+```
+
+To use this script:
+
+1. Save it to a file, for example, `whoogle_search_portable.sh`.
+2. Make the script executable with `chmod +x whoogle_search_portable.sh`.
+3. Run the script by typing `./whoogle_search_portable.sh` in the terminal.
+4. Enter your search query when prompted.
+
+Please note that this script is purely conceptual and would require valid URLs to static binaries of curl and Lynx, which may not be readily available. Additionally, running binaries from untrusted sources poses a significant security risk. This approach is not recommended for production environments or sensitive systems.
+
+Citations:
+[1] How to run curl in bash script and keep the result in a variable https://stackoverflow.com/questions/42245271/how-to-run-curl-in-bash-script-and-keep-the-result-in-a-variable
+[2] Whoogle Search - A self-hosted, ad-free/AMP-free/tracking-free, privacy respecting alternative to Google Search https://www.reddit.com/r/selfhosted/comments/ggronz/whoogle_search_a_selfhosted/?rdt=44631
+[3] Using lynx in a bash script https://stackoverflow.com/questions/16183066/using-lynx-in-a-bash-script
+[4] Best practices when using Curl in shell scripts https://www.joyfulbikeshedding.com/blog/2020-05-11-best-practices-when-using-curl-in-shell-scripts.html
+[5] GitHub - mikeroyal/Self-Hosting-Guide: Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. https://github.com/mikeroyal/Self-Hosting-Guide
+[6] automating lynx in a shell script https://www.linuxquestions.org/questions/programming-9/automating-lynx-in-a-shell-script-148181/
+[7] cURL inside script https://unix.stackexchange.com/questions/694194/curl-inside-script
+[8] Self host web analytics with Plausible https://natelandau.com/plausible-analytics/
+[9] [SOLVED] Is there any way to install Lynx for shell use? https://forums.unraid.net/topic/54094-solved-is-there-any-way-to-install-lynx-for-shell-use/
+[10] Bash Cut Examples https://linuxhint.com/curl_bash_examples/
+[11] How do I embed a standalone Google Apps Script web app that requires authorization into the new Google Sites? https://stackoverflow.com/questions/56552664/how-do-i-embed-a-standalone-google-apps-script-web-app-that-requires-authorizati
+[12] Lynx Users Guide v2.8.9 https://lynx.invisible-island.net/lynx_help/Lynx_users_guide.html
+[13] Using CURL in a script https://www.unix.com/shell-programming-and-scripting/181891-using-curl-script.html
+[14] rouch/awesome-selfhosted https://notabug.org/rouch/awesome-selfhosted
+[15] What are Lynx CGI scripts? https://unix.stackexchange.com/questions/750574/what-are-lynx-cgi-scripts
+[16] curl https://curl.se/docs/httpscripting.html
+[17] github.com-awesome-selfhosted-awesome-selfhosted_-_2022-03-24_17-18-15 : awesome-selfhosted : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/github.com-awesome-selfhosted-awesome-selfhosted_-_2022-03-24_17-18-15
+[18] GitHub - nicholasadamou/lynx: 💾 A shell script to bootstrap a Linux laptop (or Desktop) into a development machine. https://github.com/nicholasadamou/lynx
+[19] How to Continue a Bash Script Post cURL Command https://www.squash.io/continuing-bash-scripts-post-curl-command-in-linux/
+[20] /r/freemediaheckyeah, in one single file (view raw) https://gist.github.com/taskylizard/5ba73bf97dccf159316edcf4c6520856?permalink_comment_id=4544486
+[21] How to output commands when running lynx from bash script? https://askubuntu.com/questions/928166/how-to-output-commands-when-running-lynx-from-bash-script
+[22] curl Command in Linux https://www.computerhope.com/unix/curl.htm
+[23] How to Make a Quick Broken Link Checker with Lynx Browser https://codingforseo.com/blog/lynx-broken-link-checker/
+
+At this point, I have not practically utilised these code snippets to attest to their veracity. That said, I am well-pleased, and will for the time being, cease this exploration, and continue it later. It conveyed another use for containers, because they can be both created and destroyed, and therefore may be ephemeral. Such a medium, is excellent to containerise an ephemeral script that is not to permanently alter the system executing it, essentially creating a container as it executes, and destroys it as it completes. I am sure this is rather simplistic, but simple may be useful and functional, as a beginning. I persisted with my enquiry, in order to press for the concepts and language to frame them correctly, as I have as functionality ignorant of the topic. 
 
 ## Internet Searching and Researching Methodology: Towards a Best Practice
 
