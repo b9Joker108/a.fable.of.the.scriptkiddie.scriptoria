@@ -18054,7 +18054,7 @@ If you'd like to delve deeper into this fascinating topic, I can provide you wit
 
 **John Vincent Atanasoff (1903-1995)**
 
-## John Vincent Atanasoff: A Pioneer in Computing
+**John Vincent Atanasoff: A Pioneer in Computing**
 
 John Vincent Atanasoff, often referred to as the "father of the modern computer," was a brilliant physicist and inventor whose work laid the foundation for the digital revolution. Here's a detailed biography of his life and achievements:
 
@@ -18068,26 +18068,36 @@ John Vincent Atanasoff, often referred to as the "father of the modern computer,
 
 **The Atanasoff-Berry Computer (ABC) (1936-1942):**
 
-* While at Iowa State, Atanasoff became frustrated by the limitations of mechanical calculators for solving complex physics equations.
+* While at Iowa State, Atanasoff became frustrated by the limitations of mechanical calculators for
+  solving complex physics equations.
 * In 1936, he began developing the Atanasoff-Berry Computer (ABC) with graduate student Clifford Berry.
-* The ABC was a revolutionary machine, utilizing binary arithmetic, vacuum tubes for processing, and punch cards for data storage.
-* Although limited in functionality, the ABC is considered the first **electronic digital computer** due to these key features.
+* The ABC was a revolutionary machine, utilizing binary arithmetic, vacuum tubes for processing, and
+  punch cards for data storage.
+* Although limited in functionality, the ABC is considered the first **electronic digital computer**
+  due to these key features.
 * Funding limitations and the outbreak of World War II prevented the ABC from being fully developed.
 
 **Later Career and Legacy (1942-1995):**
 
-* Atanasoff joined the Naval Ordnance Laboratory during the war and contributed to various projects, including the atomic bomb tests.
-* He later founded the Ordnance Engineering Corporation, focusing on research and development for the military.
-* In the 1960s, a legal battle arose between Atanasoff and the inventors of the ENIAC computer over who deserved credit for inventing the first electronic digital computer.
-* The court ultimately recognized Atanasoff as the inventor of the basic concepts, while acknowledging the ENIAC's contributions and advancements.
-* Atanasoff received numerous awards, including the National Medal of Technology and Innovation, for his pioneering work.
-* He died on June 15, 1995, at the age of 91, leaving behind a legacy as one of the most important figures in the history of computing.
+* Atanasoff joined the Naval Ordnance Laboratory during the war and contributed to various projects,
+  including the atomic bomb tests.
+* He later founded the Ordnance Engineering Corporation, focusing on research and development for the
+  military.
+* In the 1960s, a legal battle arose between Atanasoff and the inventors of the ENIAC computer over who
+  deserved credit for inventing the first electronic digital computer.
+* The court ultimately recognized Atanasoff as the inventor of the basic concepts, while acknowledging
+  the ENIAC's contributions and advancements.
+* Atanasoff received numerous awards, including the National Medal of Technology and Innovation, for
+  his pioneering work.
+* He died on June 15, 1995, at the age of 91, leaving behind a legacy as one of the most important
+  figures in the history of computing.
 
 **Additional Points of Interest:**
 
 * Atanasoff was known for his strong work ethic, independent spirit, and dedication to innovation.
 * Despite his achievements, he remained humble and largely avoided the spotlight.
-* His story highlights the importance of recognizing the contributions of early pioneers, even when their work may not directly lead to the final product.
+* His story highlights the importance of recognizing the contributions of early pioneers, even when
+  their work may not directly lead to the final product.
 
 **Further Resources:**
 
@@ -18120,9 +18130,12 @@ After the war, Atanasoff worked on various projects for the Navy and later found
 **Additional details to explore:**
 
 * **The technical aspects of the ABC:** Its design, operation, and limitations.
-* **Atanasoff's personality and motivations:** His drive to solve problems and his commitment to innovation.
-* **The impact of the ABC on the development of computers:** Its role as a stepping stone for future advancements.
-* **The legal battle and its implications:** The importance of intellectual property rights and historical recognition.
+* **Atanasoff's personality and motivations:** His drive to solve problems and his commitment to
+  innovation.
+* **The impact of the ABC on the development of computers:** Its role as a stepping stone for future
+  advancements.
+* **The legal battle and its implications:** The importance of intellectual property rights and
+  historical recognition.
 
 I hope this detailed biography provides a good starting point for learning more about John Atanasoff and his significant contribution to the world of computing.
 
@@ -18140,24 +18153,35 @@ John Vincent Atanasoff, often referred to as "the father of the modern computer,
 
 **The Atanasoff-Berry Computer (ABC):**
 
-* In the 1930s, while working at Iowa State College, Atanasoff embarked on a project to build a machine capable of solving complex mathematical equations for agricultural research.
-* He collaborated with Clifford Berry, a graduate student in electrical engineering, to develop the **Atanasoff-Berry Computer (ABC)**, considered the first electronic digital computer.
-* The ABC used vacuum tubes for calculations, binary arithmetic, and a regenerative memory system, marking significant advancements in computing technology.
-* However, due to limited funding and the outbreak of World War II, the ABC project was abandoned before completion.
+* In the 1930s, while working at Iowa State College, Atanasoff embarked on a project to build a machine
+  capable of solving complex mathematical equations for agricultural research.
+* He collaborated with Clifford Berry, a graduate student in electrical engineering, to develop the
+  **Atanasoff-Berry Computer (ABC)**, considered the first electronic digital computer.
+* The ABC used vacuum tubes for calculations, binary arithmetic, and a regenerative memory system,
+  marking significant advancements in computing technology.
+* However, due to limited funding and the outbreak of World War II, the ABC project was abandoned
+  before completion.
 
 **Later Career and Legacy:**
 
-* Atanasoff continued his research and development in various fields, including sonar and explosives, during the war.
-* He established the Ordnance Engineering Corporation in 1952, focusing on research and engineering projects.
-* In the 1960s, a legal dispute arose regarding the invention of the modern computer, with Atanasoff challenging the patent claims of the ENIAC creators.
-* The court ultimately ruled in 1973 that Atanasoff and Berry were the inventors of the first electronic digital computer, recognizing their groundbreaking work.
-* Atanasoff received numerous accolades for his contributions, including the National Medal of Technology and Innovation in 1990.
+* Atanasoff continued his research and development in various fields, including sonar and explosives,
+  during the war.
+* He established the Ordnance Engineering Corporation in 1952, focusing on research and engineering
+  projects.
+* In the 1960s, a legal dispute arose regarding the invention of the modern computer, with Atanasoff
+  challenging the patent claims of the ENIAC creators.
+* The court ultimately ruled in 1973 that Atanasoff and Berry were the inventors of the first
+  electronic digital computer, recognizing their groundbreaking work.
+* Atanasoff received numerous accolades for his contributions, including the National Medal of
+  Technology and Innovation in 1990.
 
 **Key Points:**
 
 * Atanasoff's invention of the ABC laid the foundation for the development of modern computers.
-* He was a pioneer in electronic digital computing, introducing key concepts like binary arithmetic and regenerative memory.
-* His work, though not immediately recognized, paved the way for the technological revolution we experience today.
+* He was a pioneer in electronic digital computing, introducing key concepts like binary arithmetic
+  and regenerative memory.
+* His work, though not immediately recognized, paved the way for the technological revolution we
+  experience today.
 
 **Further Exploration:**
 
@@ -19860,7 +19884,11 @@ Sarkissian, Wendy; Stenberg, Beauford and Hirst, Angela with Walton, Steph (2003
 
 **Purport**
 
-I edited this work whilst in the employ of Sarkissian, it honed my craft. I never net Hirst. It is a remarkable work and contains much experiential and practical wisdom in community consultation and public participation methods, processes and methodologies. The publisher is defunct, and 'it cannot be bought for neither love nor money'. It pains me that it is poorly referenced and cited in the literature, and that it is hardly discoverable and barely rates a mention on the Internet. It has barely made a ripple. I wrote Sarkissian, entreating her for an electronic copy, that we may release it onto the Internet and thereby breathe some life into the work, and thereby open discourse in general. I await a response. This work (2003) would be an invaluable resource to inform community consultation, public participation and community capacity building around digital inclusion and building capacity with this roadmap on the acquisition of the skillset required to work adeptly with the *NIX compatible shells in the Termux environment within the Android operating system, in the digitally excluded, that have been, or are to be, newly digitally included. This work provides much experiential wisdom to inform the transition. 
+I edited this work whilst in the employ of Sarkissian, it honed my craft. I never net Hirst. It is a remarkable work and contains much experiential and practical wisdom in community consultation and public participation methods, processes and methodologies. The publisher is defunct, and 'it cannot be bought for neither love nor money'. It pains me that it is poorly referenced and cited in the literature, and that it is hardly discoverable and barely rates a mention on the Internet. It has barely made a ripple. I wrote Sarkissian, entreating her for an electronic copy, that we may release it onto the Internet and thereby breathe some life into the work, and thereby open discourse in general. I await a response. This work (2003) would be an invaluable resource to inform community consultation, public participation and community capacity building around digital inclusion and building capacity with this roadmap on the acquisition of the skillset required to work adeptly with the *NIX compatible shells in the Termux environment within the Android operating system, in the digitally excluded, that have been, or are to be, newly digitally included. This work provides much experiential wisdom to inform the transition. We won a Planning Institute Australia (P. I. A.), Queensland, Australia, award for excellence in scholarship for this work, the year prior to its publication. It should be noted, that Steph Walton, also now more commonly goes by Steph **Vajda**, refer:
+
+>	2002 Award for Excellence: planning scholarship, PIA Queensland for Wendy Sarkissian,
+>	Beauford Stenberg and Angela Hirst with Steph Walton (2002) 'Community Participation in
+>	Practice: New Directions'.  
 
 **Jason Savitt**
 
