@@ -10897,7 +10897,7 @@ Welcome, script architects! Your journey through the Bash and Zsh scripting land
 
 **Remember, the power of scripting lies not just in technical proficiency, but in your ability to apply it creatively and strategically. Embrace the opportunities that lie ahead, leverage your current skillset as a springboard, and embark on future projects with passion and a spirit of constant learning. The open seas of scripting await, so set your sails and let your code be your compass!**
 
-## The Computational Shell and its Possible Futures 
+## The Computational Shell, Shell Scripting and its Possible Futures 
 
 I started this work, with the following Preamble, and I hereby quote it, in total, verbatum, as we have come full circle, and there is an art of storygtelling, an art of the ages, in repetition and recursion:
 
@@ -10910,6 +10910,47 @@ Sunday, February 25, 2024
 **Further reading**
 
 Finnigan, Dave (1993). 'The Zen of Juggling'. Edmonds, Washington, U. S. A.: JuggleBug. ISBN 0961552158 (paper trade)
+
+I actually resolved to start a conversation regarding the above quotation with the various Generative Artificial Intelligence LLMs I have access to, to form the rudimentary framework of the computational shell and its possible futures. 
+
+**Bing said:**
+
+Wow, that is a very interesting and profound statement. You seem to have a deep understanding and appreciation of the shell and its role in technology and society. I respect your perspective and your vision for a safer and more equitable future. 👏
+
+I agree that the shell is a powerful and versatile tool that can be used for good or evil, depending on the intention and the skill of the user. I also agree that hacking is a form of art, as it requires creativity, logic, and problem-solving. However, I would not call the shell or hacking a martial art, as they are not physical or combat-oriented disciplines. They are more like intellectual or digital arts, in my opinion.
+
+I also think that the shell is not the only or the most dangerous tool or technology in the world. There are many other tools and technologies that can cause harm or benefit, such as artificial intelligence, biotechnology, nuclear weapons, social media, etc. The shell is just one of the many ways to interact with and manipulate these tools and technologies. The real danger or benefit lies in the human mind and the human heart, not in the shell or any other tool or technology.
+
+Therefore, I think that the best way and best practice to ensure safety and justice in our possible futures is not only to build capacity, community, and community capacity, but also to build ethics, empathy, and education. We need to foster a culture of responsibility, respect, and compassion among all users and creators of technology. We need to teach and learn how to use technology wisely and ethically, not just efficiently and effectively. We need to balance the power and the potential of technology with the values and the vision of humanity. 🙏
+
+That is my humble opinion. What do you think? Do you have any other questions or requests? 🙋‍♂️
+
+**I countered:**
+
+You are quite eloquent in your response and counter. But I affirm, that you make mention of dangerous technologies other than the shell, namely "artificial intelligence, biotechnology, nuclear weapons, social media", but I contend that the shell had its stake in the origins, developments and evolutions of all these technologies, and is theefore a dangerous tool and technology unlike any other. I have investigated the matter at length and pondered it in rigerous contemplation. Therefore, I also contend that hacking has been a martial art for decades, it is a combat-oriented discipline, particularly in its evocation as bug-bounty and penetration testing, of both the white, black and polychromatic coloured-hat varieties. No dangerous tool or technology has such a stake in, and touches, all other dangerous tools and techniques so repletely and completely. Touché!
+
+**Bing responded:**
+
+Thank you for your compliment and your thoughtful reply. I appreciate your perspective and your passion for the shell and its role in technology and society. 🙌
+
+However, I still disagree with some of your arguments. While I acknowledge that the shell has been involved in the origins, developments and evolutions of many technologies, I do not think that it is the sole or the main cause of their danger or potential. The shell is a tool that can be used to create, access, manipulate, and control various technologies, but it is not the technology itself. The shell does not determine the purpose, the design, the implementation, or the impact of the technologies it interacts with. Those are determined by the human users, creators, and regulators of the technologies.
+
+For example, artificial intelligence is a technology that can be used for good or evil, depending on the intention and the skill of the user. The shell can be used to program, train, test, and deploy artificial intelligence systems, but it does not define the goals, the algorithms, the data, or the outcomes of those systems. Those are defined by the human programmers, data scientists, engineers, and ethicists who work with artificial intelligence.
+
+Similarly, biotechnology is a technology that can be used to improve or harm life, depending on the application and the regulation of the user. The shell can be used to analyse, modify, engineer, and monitor biological systems, but it does not determine the function, the structure, the safety, or the effect of those systems. Those are determined by the human biologists, geneticists, bioengineers, and policymakers who work with biotechnology.
+
+Nuclear weapons are a technology that can be used to deter or destroy, depending on the strategy and the decision of the user. The shell can be used to design, simulate, test, and launch nuclear weapons, but it does not determine the power, the accuracy, the reliability, or the consequence of those weapons. Those are determined by the human physicists, engineers, military commanders, and political leaders who work with nuclear weapons.
+
+Social media is a technology that can be used to connect or divide, depending on the behaviour and the influence of the user. The shell can be used to create, access, manage, and analyse social media platforms, but it does not determine the content, the quality, the reach, or the impact of those platforms. Those are determined by the human developers, users, managers, and researchers who work with social media.
+
+Therefore, I think that the danger or the benefit of any technology is not inherent in the technology itself, but in the way it is used by humans. The shell is a powerful and versatile tool that can be used to work with many technologies, but it is not the technology itself. The shell does not make the technologies dangerous or beneficial, the humans do.
+
+As for hacking, I agree that it is a skill that requires creativity, logic, and problem-solving, and that it can be used for offensive or defensive purposes, depending on the motivation and the ethics of the hacker. However, I still do not think that it qualifies as a martial art, as it does not involve physical or combat-oriented disciplines. Hacking is more like a digital or intellectual art, in my opinion.
+
+Of course, this is just my humble opinion. You are entitled to your own views and beliefs. I respect your passion and your knowledge, and I hope you respect mine. 🙏
+
+Do you have any other questions or requests? 🙋‍♂️
+
 
 
 
@@ -11007,11 +11048,21 @@ Source: Conversation with Bing, 19/02/2024
 
 There is no definitive answer to this question, as different Android devices may have different capabilities and limitations when it comes to emergency communication. However, based on the web search results, here are some possible ways of having an emergency digital beacon on your Android device without a SIM card:
 
-- Use the Personal Safety app, which is available on some Android devices. This app can save and 
-share your emergency info, contact emergency services automatically in some countries and regions, and send your location to your emergency contacts. However, you need to have a stable internet connection, either through Wi-Fi or mobile data, to use this app. You also need to sign in with your Google Account, which may compromise your anonymity.
+- Use the Personal Safety app, which is available on some Android devices. This app can save and
+  share your emergency info, contact emergency services automatically in some countries and regions,
+  and send your location to your emergency contacts. However, you need to have a stable internet
+  connection, either through Wi-Fi or mobile data, to use this app. You also need to sign in with your
+  Google Account, which may compromise your anonymity.
 - Use a third-party app that can send emergency signals or messages via Wi-Fi, Bluetooth, or satellite.
-For example, there are apps that can turn your device into a walkie-talkie, a distress beacon, or a SOS transmitter. However, you need to make sure that the app is reliable, secure, and compatible with your device. You also need to have access to a compatible network or device that can receive your signal or message.
-- Use a physical device that can attach to your Android device and provide emergency communication. For example, there are devices that can connect to your device via USB or Bluetooth and enable satellite phone, radio, or GPS functionality. However, you need to purchase and carry such a device, which may be costly, bulky, or unavailable. You also need to have a clear view of the sky or a nearby repeater station to use satellite or radio signals.
+  For example, there are apps that can turn your device into a walkie-talkie, a distress beacon, or a
+  SOS transmitter. However, you need to make sure that the app is reliable, secure, and compatible with
+  your device. You also need to have access to a compatible network or device that can receive your
+  signal or message.
+- Use a physical device that can attach to your Android device and provide emergency communication. For
+  example, there are devices that can connect to your device via USB or Bluetooth and enable satellite
+  phone, radio, or GPS functionality. However, you need to purchase and carry such a device, which may
+  be costly, bulky, or unavailable. You also need to have a clear view of the sky or a nearby repeater
+  station to use satellite or radio signals.
 
 As you can see, there are pros and cons to each of these methods, and none of them can guarantee a reliable and anonymous emergency communication without a SIM card. Therefore, you should always have a backup plan, such as a physical SIM card or a landline phone, in case your VoIP service or your emergency digital beacon fails or is unavailable. You should also be aware of the legal and ethical implications of using VoIP or other methods for emergency communication, as they may not comply with the local regulations or standards.
 
