@@ -11447,7 +11447,85 @@ Source: Conversation with Bing, 26/02/2024
 (9) POSIX compliant shell scripting - HLRS Platforms. https://kb.hlrs.de/platforms/index.php/POSIX_compliant_shell_scripting.
 (10) undefined. https://github.com/benbusby/whoogle-search.git.
 
-At this point, I have not practically utilised this code snippet to attest to its veracity. That said, I am well-pleased, and will for the time being, cease this exploration, and continue it later. It conveyed another use for containers, because they can be both created and destroyed, and therefore may be ephemeral. Such a medium, is excellent to containerise an ephemeral script that is not to permanently alter the system executing it,essentially creating a container as it execute s, and destroys it as it completes. I am sure this is rather simplistic, but simple may be useful and functional, as a beginning. 
+
+
+
+**PerplexityAI, please convey an example of a POSIX conforming shell script, for example, coded in Dash shell, using the GitHub Whoogle project, and the terminal text based Internet browser lynx. In this portable script, which is to be run on an indeterminate number of individual machines, but is not to make any permanent, persistent or lasting changes, to their system. The shell script is to be very useful, and to be run repeatedly, at need. Please take your time and do a good job!**
+
+**Example POSIX Shell Script**
+
+Below is an example of a POSIX-compliant shell script that uses the Whoogle project to perform a search query and then uses Lynx to display the results. The script is designed to be portable and non-invasive, meaning it won't make any permanent changes to the system it's run on.
+
+```sh
+#!/bin/sh
+
+# POSIX-compliant shell script to search using Whoogle and display results with Lynx
+
+# Function to perform a search using Whoogle
+search_whoogle() {
+  search_query="$1"
+  whoogle_url="http://localhost:5000/search?q=$search_query"
+
+  # Use curl to perform the search and pipe the result to Lynx
+  curl -s "$whoogle_url" | lynx -stdin
+}
+
+# Check if required commands are available
+if ! command -v curl >/dev/null 2>&1; then
+  echo "Error: curl is not installed." >&2
+  exit 1
+fi
+
+if ! command -v lynx >/dev/null 2>&1; then
+  echo "Error: lynx is not installed." >&2
+  exit 1
+fi
+
+# Prompt the user for a search query
+printf "Enter your search query: "
+read -r user_query
+
+# Perform the search and display the results
+search_whoogle "$user_query"
+```
+
+To use this script:
+
+1. Save it to a file, for example, `whoogle_search.sh`.
+2. Make the script executable with `chmod +x whoogle_search.sh`.
+3. Run the script by typing `./whoogle_search.sh` in the terminal.
+4. Enter your search query when prompted.
+
+Please note that this script assumes that the Whoogle instance is running locally on port 5000. If your Whoogle instance is hosted elsewhere, you'll need to modify the `whoogle_url` variable accordingly. Additionally, both `curl` and `lynx` need to be installed on the system for the script to work.
+
+Citations:
+[1] Introduction to POSIX shell February 5, 2018 on Drew DeVault's blog https://drewdevault.com/2018/02/05/Introduction-to-POSIX-shell.html
+[2] What is Dash Shell in Linux? https://linuxhandbook.com/dash-shell/
+[3] GitHub - benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine https://github.com/benbusby/whoogle-search
+[4] LYNX – The Text Web-Browser https://lynx.invisible-island.net
+[5] Making Unix shell scripts POSIX compliant https://stackoverflow.com/questions/40916071/making-unix-shell-scripts-posix-compliant
+[6] Dash https://wiki.archlinux.org/title/Dash
+[7] Projects · whoogle-search - GitHub https://github.com/benbusby/whoogle-search/projects
+[8] How can I test for POSIX compliance of shell scripts? https://unix.stackexchange.com/questions/48786/how-can-i-test-for-posix-compliance-of-shell-scripts
+[9] What are syntax differences between bash and dash? https://askubuntu.com/questions/1277922/what-are-syntax-differences-between-bash-and-dash
+[10] Build software better, together https://github.com/topics/whoogle
+[11] 24 Bashism to Avoid for POSIX-Compliant Shell Scripts https://betterprogramming.pub/24-bashism-to-avoid-for-posix-compliant-shell-scripts-8e7c09e0f49a?gi=a12ecb1c0414
+[12] Is scripting different between Bash and Dash? https://www.reddit.com/r/debian/comments/xz4hpu/is_scripting_different_between_bash_and_dash/
+[13] benbusby whoogle-search · Discussions - GitHub https://github.com/benbusby/whoogle-search/discussions
+[14] Pure POSIX shell scripting... https://www.unix.com/shell-programming-and-scripting/268026-pure-posix-shell-scripting.html
+[15] dash(1) — Linux manual page https://man7.org/linux/man-pages/man1/dash.1.html
+[16] Releases · benbusby/whoogle-search https://github.com/benbusby/whoogle-search/releases
+[17] Shell Command Language https://pubs.opengroup.org/onlinepubs/9699919799/xrat/V4_xcu_chap02.html
+[18] What is Dash (/bin/dash) Shell on Linux? https://linuxtldr.com/dash-shell/
+[19] whoogle - Overview https://github.com/whoogle
+[20] How to Test for POSIX Compliance of Shell Scripts | Baeldung on Linux https://www.baeldung.com/linux/test-posix-compliance-shell-scripts
+[21] Book about dash shell https://forums.debian.net/viewtopic.php?t=152545
+[22] Whoogle: A self-hosted, ad-free, privacy-respecting metasearch engine that returns Google search results, but without any ads, javascript, AMP links, cookies, or IP address tracking. https://www.reddit.com/r/selfhosted/comments/v35fi2/whoogle_a_selfhosted_adfree_privacyrespecting/
+[23] Bash POSIX Mode (Bash Reference Manual) https://www.gnu.org/software/bash/manual/html_node/Bash-POSIX-Mode.html
+[24] Index http://eriklievaart.com/cheat/linux/shell/dash/dash.html
+[25] Issues · benbusby/whoogle-search https://github.com/benbusby/whoogle-search/issues
+
+At this point, I have not practically utilised these code snippets to attest to their veracity. That said, I am well-pleased, and will for the time being, cease this exploration, and continue it later. It conveyed another use for containers, because they can be both created and destroyed, and therefore may be ephemeral. Such a medium, is excellent to containerise an ephemeral script that is not to permanently alter the system executing it, essentially creating a container as it executes, and destroys it as it completes. I am sure this is rather simplistic, but simple may be useful and functional, as a beginning. 
 
 ## Internet Searching and Researching Methodology: Towards a Best Practice
 
