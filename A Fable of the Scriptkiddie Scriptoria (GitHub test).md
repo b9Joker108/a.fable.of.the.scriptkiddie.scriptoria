@@ -19856,7 +19856,7 @@ Rosenblatt, Bill & Robbins, Arnold (2003). 'Learning the Korn Shell'. Second Edi
 
 **Wendy Sarkissian, *et al.***
 
-Sarkissian, Wendy; Stenberg, Beauford and Hirst, Angela with Walton, Steph (2003). 'Community Participation in Practice: New Directions'. Perth, Australia: Murdoch University, Institute for Sustainability and Technology Policy.
+Sarkissian, Wendy; Stenberg, Beauford and Hirst, Angela with Walton, Steph (2003). 'Community Participation in Practice: New Directions'. Perth, Australia: Murdoch University, Institute for Sustainability and Technology Policy. ISBN 0869058568
 
 **Purport**
 
