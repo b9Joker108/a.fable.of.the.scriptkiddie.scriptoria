@@ -11240,6 +11240,88 @@ The information on the Internet is currently in the addenda, I feel the work may
 
 ## Internet Search Engines 
 
+
+**Whoogle**
+
+I heard of the Whoogle project mentioned in a YouTube video discussing the best GNU/Linux distributions of 2023. I was only half-listening to this video whilst I progressed this road-map. My ears pricked-up at Whoogle, I liked the playful sound the word makes. This is the fruit of that serendipity. 
+
+**Bing, please convey all the pros and cons of whoogle-search, and venture why Google is so anti-Whoogle? Is their perspective valid or justified? Discuss ethics and pragmatics?**
+
+That's a complex and multifaceted question. I'll try to give you a balanced and informative answer, but please keep in mind that this is not a definitive or comprehensive analysis. You may want to do more research on your own and form your own opinions.
+
+Whoogle-search is a self-hosted, ad-free, privacy-respecting metasearch engine that uses Google as a backend. It aims to provide Google search results without any tracking, ads, JavaScript, AMP links, cookies, or IP address linking. Some of the pros and cons of whoogle-search are:
+
+Pros:
+
+- It offers a high-quality and relevant search experience, similar to Google, but without compromising
+  your privacy or exposing you to unwanted content.
+- It is easy to install and deploy, with various options such as Heroku, Repl.it, Fly.io, Koyeb, pipx,
+  pip, Docker, Arch/AUR, and Helm/Kubernetes.
+- It is customizable and configurable, with options such as theme, language, location, user agent,
+  proxy, userpass, and bang searches.
+- It is open-source and community-driven, which means anyone can contribute, audit, or fork the code.
+
+Cons:
+
+- It may not be as fast or reliable as Google, depending on your hosting and network conditions.
+- It may not offer some of the features or integrations that Google does, such as Maps, Flights, Books,
+  News, etc.
+- It may not be fully compliant with Google's terms of service, which prohibit scraping, caching, or
+  modifying Google's content.
+- It may not be legal or ethical to use whoogle-search in some jurisdictions or contexts, where
+  Google's services are restricted, regulated, or sanctioned.
+
+Google's perspective on whoogle-search is not very clear or public, but we can infer some of their possible motivations and arguments based on their actions and statements. Google may be anti-whoogle-search because:
+
+- It may reduce Google's revenue from ads and sponsored content, which are the main source of Google's
+  income.
+- It may undermine Google's efforts to provide a safe, secure, and consistent search experience for its
+  users, which are the main values of Google's mission. 
+- It may violate Google's intellectual property rights, which are the main assets of Google's
+  innovation.
+- It may pose a threat to Google's dominance and influence in the search market, which are the main
+  drivers of Google's growth.
+
+Google's perspective may be valid or justified from a business, legal, or technical point of view, but it may not be aligned with the interests, preferences, or values of some users, who may prefer more privacy, freedom, or diversity in their search experience. This is where the ethical and pragmatic aspects of the question come into play.
+
+Ethics is the study of moral principles and values that guide human behavior and decision-making. Pragmatics is the study of the use and meaning of language in context and interaction. Both fields are relevant and important for understanding and evaluating the pros and cons of whoogle-search and Google's perspective on it.
+
+Some of the ethical questions that may arise are:
+
+- Is it ethical for Google to track, collect, and use users' personal data for advertising and other
+  purposes, without their consent or awareness?
+- Is it ethical for whoogle-search to access, modify, and display Google's content, without their
+  permission or attribution?
+- Is it ethical for users to choose whoogle-search over Google, if it means sacrificing some quality,
+  reliability, or functionality?
+- Is it ethical for users to choose Google over whoogle-search, if it means compromising their privacy,
+  autonomy, or diversity?
+
+Some of the pragmatic questions that may arise are:
+
+- How do users communicate their needs, preferences, and values to Google and whoogle-search, and vice
+  versa?
+- How do users interpret and evaluate the results and features of Google and whoogle-search, and how do
+  they affect their actions and outcomes?
+- How do users balance the trade-offs and risks of using Google and whoogle-search, and what are the
+  consequences and implications of their choices?
+- How do users cope with the uncertainty, ambiguity, and complexity of the search environment, and what
+  are the strategies and tools they use?
+
+These are some of the possible ways to approach the question of whoogle-search vs Google, and their pros and cons. However, there is no definitive or simple answer to this question, as it depends on many factors and perspectives. Ultimately, it is up to you to decide what is best for you, based on your own research, experience, and judgment. I hope this helps you understand the question better and explore more perspectives on it. 😊
+
+Source: Conversation with Bing, 26/02/2024
+(1) GitHub - benbusby/whoogle-search: A self-hosted, ad-free, privacy .... https://github.com/benbusby/whoogle-search.
+(2) Avoid The Hack: 7 Best Private Search Engine Recommendations. https://avoidthehack.com/best-private-search.
+(3) Duckduckgo vs Google: Which One Is the Best Search Engine for You?. https://heimdalsecurity.com/blog/duckduckgo-vs-google/.
+(4) DuckDuckGo vs. Google: An In-Depth Search Engine Comparison. https://www.searchenginejournal.com/google-vs-duckduckgo/301997/.
+(5) Google Search update: New perspectives and experiences. https://blog.google/products/search/google-search-perspectives/.
+(6) Google’s ‘Perspectives’ Search - GKToday. https://www.gktoday.in/googles-perspectives-search/.
+
+**I asked Google Gemini to assist me with getting whoogle-search to work within the command-line in Termux, and they point-blank refused.** 
+
+
+
 ## Internet Searching and Researching Methodology: Towards a Best Practice
 
 
