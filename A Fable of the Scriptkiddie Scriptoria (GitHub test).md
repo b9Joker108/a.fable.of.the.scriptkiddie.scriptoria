@@ -10164,6 +10164,79 @@ Source: Conversation with Bing, 27/02/2024
 (2) any known way to create a device-to-device portable self-contained .... https://stackoverflow.com/questions/62945660/any-known-way-to-create-a-device-to-device-portable-self-contained-python-runtim.
 (3) How can I make a Python script standalone executable to run without any .... https://stackoverflow.com/questions/5458048/how-can-i-make-a-python-script-standalone-executable-to-run-without-any-dependen.
 
+**Bing, what are the general mistakes and assumptions that coders' make when endeavouring to design portable, POSIX compliant, shell scripts? I have noticed that many shell scriptors assume all users have root privileges, and also in their scripts endeavour to use specific areas in the file system that are restricted to non-rooted users. I come across this a lot as a Termux user on Android.**
+
+Some of the general mistakes and assumptions that coders make when designing portable, POSIX compliant, shell scripts are:
+
+- Not using a **shebang** line to specify the interpreter, or using a non-standard one.
+- Using **non-POSIX** commands or syntax that may not work on different platforms or shells.
+- Using **absolute paths** or **hard-coded** values that may not exist or be accessible on different
+  systems.
+- Using **non-portable** tools or libraries that may not be available or compatible on different
+  platforms or distributions.
+- Not using **error handling** or **logging** mechanisms to handle unexpected situations or provide
+  feedback to the user.
+- Not using **comments** or **documentation** to explain the purpose and functionality of the script,
+  or provide usage instructions and examples.
+- Not using **quotes** or **braces** properly to handle variables, strings, or arrays that may contain
+  spaces or special characters.
+- Not using **arithmetic expressions** or **double parentheses** to perform calculations, or using
+  incorrect operators for string or integer comparisons.
+- Not using **chmod** or **sudo** to set the appropriate permissions or privileges for the script or
+  the commands it executes.
+- Not using **local** variables to limit the scope of variables within functions, or using global
+  variables that may conflict with other scripts or programs.
+
+These are some of the common sources of errors or bugs in shell scripting, and they can be avoided by following the best practices and guidelines for writing portable and POSIX-compliant shell scripts. You can also use tools like [ShellCheck](^1^) to check your scripts for potential problems and improve your code quality.
+
+Source: Conversation with Bing, 27/02/2024
+(1) 13 resources for learning to write better Bash code. https://www.redhat.com/sysadmin/learn-bash-scripting.
+(2) How to avoid 10 common mistakes in shell scripting. https://thenucleargeeks.com/2020/07/04/how-to-avoid-10-common-mistakes-in-shell-scripting/.
+(3) The Troubleshooting Guide for Linux Shell Scripting: Best 10 Ways to .... https://www.bollyinside.com/news/technology/guides/the-troubleshooting-guide-for-linux-shell-scripting-best-10-ways-to-fix-common-errors-and-boost-your-scripting-skills/.
+(4) Shell Mistakes - Clemson University. https://people.computing.clemson.edu/~jmarty/courses/commonCourseContent/AdvancedModule-BashScripting/commonShellMistakes.pdf.
+
+**Bing, regenerate your response, re-read my prompt, and respond specifically to it.**
+
+I apologize for not responding specifically to your prompt. I was trying to provide some general information about portable and POSIX-compliant shell scripts. To answer your question more directly, some of the assumptions that coders make that may not work for Termux users on Android are:
+
+- Assuming that the user has **root privileges** or can use **sudo** to execute commands that require
+  elevated permissions. Termux does not grant root access by default, and some commands may not work
+  or cause errors without it.
+- Assuming that the user has access to specific areas in the **file system** that are restricted to
+  non-rooted users, such as `/usr`, `/bin`, `/etc`, etc. Termux uses a different file system layout,
+  and some paths may not exist or be writable.
+- Assuming that the user has the same **tools** or **libraries** installed as on a typical Linux
+  system, such as `apt`, `yum`, `brew`, etc. Termux has its own package manager, and some tools may not
+  be available or compatible.
+
+These are some of the common mistakes and assumptions that coders make when designing portable, POSIX-compliant, shell scripts for Termux users on Android. They can be avoided by checking the availability and compatibility of the commands, tools, and paths before using them, or by using alternative methods that work on Termux. You can also use [Termux Wiki] to learn more about Termux and its features. I hope this helps. 😊
+
+**Regenerate your response, and list all the file systems in Android that are potentially problematic for a non-rooted Termux user, as different to a general rooted Linux device.**
+
+I'm sorry, I cannot regenerate my response on demand. I can only respond to your questions or requests as best as I can. To answer your question, some of the file systems in Android that are potentially problematic for a non-rooted Termux user are:
+
+- The **root file system** (`/`), which is usually a ramdisk or a mounted system partition. It is read-
+  only and may be restricted by SELinux.
+- The **shared storage** (`/storage/emulated/0`), which is the general purpose file storage available
+  for all applications. It does not support special files like symbolic links, sockets, or Unix file
+  attributes. It also does not support executables. (Note, I do not think all of these assertions are
+  correct, they need to be investigated.)
+- The **external storage** (`/storage/XXXX-XXXX`), which is the external SD card or USB drive. It is
+  typically read-only, except for the Termux private directory (`/storage/XXXX-
+  XXXX/Android/data/com.termux`). It also does not support special files, executables, or file access
+  modes. (Note, I do not think all of these assertions are correct, they need to be investigated.)
+
+These file systems are different from the native Linux file systems such as EXT4 or F2FS, which Termux requires for supporting special files and features. Termux uses its own file system layout, which is located at `/data/data/com.termux/files`. This is where all packages and user data should be stored². You can learn more about Termux file system layout from [Termux Wiki](^2^). I hope this helps. 😊.
+
+Source: Conversation with Bing, 27/02/2024
+(1) Termux file system layout · termux/termux-packages Wiki - GitHub. [https://github.com/termux/termux-packages/wiki/Termux-file-system-layout](https://github.com/termux/termux-packages/wiki/Termux-file-system-layout).
+(2) Internal and external storage - Termux Wiki. [https://wiki.termux.com/wiki/Internal_and_external_storage](https://wiki.termux.com/wiki/Internal_and_external_storage).
+(3) FAQ - Termux Wiki. [https://wiki.termux.com/wiki/FAQ](https://wiki.termux.com/wiki/FAQ).
+
+**Purport**
+
+You will find that most POSIX conforming scripts that you endeavour to install as a non-root Termux user on Android, is that the script writer uses sudo when it is not needed, and specify file locations that are unwritable or forbidden to the non-rooted Termux user. You will soon find these scripts easy to tweak, as I have. 
+
 **Bonus Tip:**
 
 - **Experiment with Zsh's unique features:** Explore its powerful globbing patterns, extended
