@@ -11447,9 +11447,6 @@ Source: Conversation with Bing, 26/02/2024
 (9) POSIX compliant shell scripting - HLRS Platforms. https://kb.hlrs.de/platforms/index.php/POSIX_compliant_shell_scripting.
 (10) undefined. https://github.com/benbusby/whoogle-search.git.
 
-
-
-
 **PerplexityAI, please convey an example of a POSIX conforming shell script, for example, coded in Dash shell, using the GitHub Whoogle project, and the terminal text based Internet browser lynx. In this portable script, which is to be run on an indeterminate number of individual machines, but is not to make any permanent, persistent or lasting changes, to their system. The shell script is to be very useful, and to be run repeatedly, at need. Please take your time and do a good job!**
 
 **Example POSIX Shell Script**
@@ -11524,6 +11521,115 @@ Citations:
 [23] Bash POSIX Mode (Bash Reference Manual) https://www.gnu.org/software/bash/manual/html_node/Bash-POSIX-Mode.html
 [24] Index http://eriklievaart.com/cheat/linux/shell/dash/dash.html
 [25] Issues · benbusby/whoogle-search https://github.com/benbusby/whoogle-search/issues
+
+**PerplexityAI, please iterate the script and regenerate. I would like the script to be self-contained, so, how do we, make curl, the whoogle-search instance run, and utilise lynx, without them being pre-installed on the system, so the script needs to make use of them somehow without permanently installing them, or affecting, any permanent or persistent changes to the executing system?**
+
+Given the requirement to make the script self-contained and use Docker to run `curl`, the Whoogle search instance, and Lynx without pre-installing them or making permanent changes to the system, the script can be modified to pull and run Docker containers for each required tool. This approach ensures that the tools are used in an isolated environment, and once the Docker containers are stopped and removed, no trace is left on the host system.
+
+Below is an example script that achieves this. It uses Docker to run Whoogle, performs a search using `curl` within a Docker container, and then uses Lynx (also within a Docker container) to display the results. This script assumes Docker is installed on the system.
+
+```sh
+#!/bin/sh
+
+# POSIX-compliant shell script to search using Whoogle and display results with Lynx, all within Docker containers
+
+# Function to perform a search using Whoogle and display results with Lynx
+search_whoogle_with_docker() {
+  search_query="$1"
+  # Start Whoogle container
+  docker run --rm -d --name whoogle-search -p 5000:5000 benbusby/whoogle-search:latest
+  echo "Whoogle search running on http://localhost:5000"
+
+  # Wait a bit for Whoogle to start
+  sleep 5
+
+  # Use curl within Docker to perform the search and pipe the result to Lynx within Docker
+  docker run --rm byrnedo/alpine-curl -s "http://host.docker.internal:5000/search?q=$search_query" | docker run -i --rm jzombie/docker-lynx -stdin
+
+  # Stop and remove the Whoogle container
+  docker stop whoogle-search
+}
+
+# Check if Docker is available
+if ! command -v docker >/dev/null 2>&1; then
+  echo "Error: Docker is not installed." >&2
+  exit 1
+fi
+
+# Prompt the user for a search query
+printf "Enter your search query: "
+read -r user_query
+
+# Perform the search and display the results
+search_whoogle_with_docker "$user_query"
+```
+
+To use this script:
+
+1. Save it to a file, for example, `whoogle_search_docker.sh`.
+2. Make the script executable with `chmod +x whoogle_search_docker.sh`.
+3. Run the script by typing `./whoogle_search_docker.sh` in the terminal.
+4. Enter your search query when prompted.
+
+This script dynamically starts a Whoogle search instance using Docker, performs the search with `curl` also within a Docker container, and finally uses Lynx within Docker to display the results. After the search is completed, the Whoogle container is stopped and removed, ensuring no permanent changes are made to the system.
+
+Citations:
+[1] Can't run Curl command inside my Docker Container https://stackoverflow.com/questions/34571711/cant-run-curl-command-inside-my-docker-container
+[2] How To Setup Whoogle Search With Docker - Tech Addressed https://www.techaddressed.com/tutorials/setup-whoogle-search-docker/
+[3] GitHub - jzombie/docker-lynx: A Docker container for Lynx, a highly configurable text-based web browser. https://github.com/jzombie/docker-lynx
+[4] Docker image as Curl command https://code-maven.com/slides/docker/docker-curl-command
+[5] Issues · benbusby/whoogle-search https://github.com/benbusby/whoogle-search/issues
+[6] GitHub - nbrownuk/docker-lynx https://github.com/nbrownuk/docker-lynx
+[7] Docker course #20 -  install curl https://youtube.com/watch?v=FncEsWydGqw
+[8] Whoogle Installed on Docker - Your Own Private Google Search https://youtube.com/watch?v=1OGuVuFf0tA
+[9] How to Install Lynx on Your Synology NAS https://mariushosting.com/how-to-install-lynx-on-your-synology-nas/
+[10] How to curl running container https://discuss.circleci.com/t/how-to-curl-running-container/23316
+[11] Whoogle Installed on Docker - Your Own Private Google Search - DB Tech Reviews https://dbtechreviews.com/2020/09/09/whoogle-installed-on-docker-your-own-private-google-search/
+[12] Legacy container links https://docs.docker.com/network/links/
+[13] How to use docker curl instead of docker exec? https://forums.docker.com/t/how-to-use-docker-curl-instead-of-docker-exec/129490
+[14] Access Denied https://www.linode.com/content/whoogle-it-get-search-results-without-ads-with-this-self-hosted-search-engine/
+[15] How does one use the NordLynx docker? There's no IP's? https://www.reddit.com/r/unRAID/comments/xdiihh/how_does_one_use_the_nordlynx_docker_theres_no_ips/
+[16] Container https://everything.curl.dev/install/container
+[17] How to use the self-hosted Whoogle search engine remotely https://meshnet.nordvpn.com/how-to/security/whoogle-search-engine-remotely
+[18] Linux post-installation steps for Docker Engine https://docs.docker.com/engine/install/linux-postinstall/
+[19] curl-docker/alpine/latest/Dockerfile at master · curl/curl-docker https://github.com/curl/curl-docker/blob/master/alpine/latest/Dockerfile
+[20] whoogle configuration lost - Docker Container? https://www.reddit.com/r/selfhosted/comments/12i4vp9/whoogle_configuration_lost_docker_container/
+[21] Run Linux containers on Windows | Ubuntu https://ubuntu.com/tutorials/windows-ubuntu-hyperv-containers
+[22] How to host your own Whoogle instance https://bitlaunch.io/blog/how-to-host-your-own-whoogle-instance/
+[23] lynx:Unable to connect to remote host - Issue with Docker-compose? https://stackoverflow.com/questions/56608462/lynxunable-to-connect-to-remote-host-issue-with-docker-compose
+
+**PerplexityAI, if the Dash script may be modified to pull and run Docker containers for each required tool, can Docker itself, be one of those tools, that Docker uses to pull and run?**
+
+Docker itself cannot be run inside a Docker container in the traditional sense of "Docker-in-Docker" (DinD) because Docker requires access to the host system's kernel features to run containers. However, it is possible to run Docker commands inside a Docker container by mounting the Docker socket from the host into the container. This approach allows the container to communicate with the Docker daemon running on the host system, effectively allowing Docker commands to be executed from within the container. This method does not involve running a separate Docker daemon inside the container but rather leverages the host's Docker daemon.
+
+Here's an example of how you can run Docker commands inside a Docker container by mounting the Docker socket:
+
+```sh
+docker run -it --rm -v /var/run/docker.sock:/var/run/docker.sock docker:latest sh
+```
+
+In this command:
+
+- `-it` allows you to interact with the container.
+- `--rm` automatically removes the container when it exits.
+- `-v /var/run/docker.sock:/var/run/docker.sock` mounts the Docker socket from the host into the
+  container, allowing the container to communicate with the host's Docker daemon.
+- `docker:latest` is the Docker image that contains the Docker CLI tools.
+- `sh` is the command executed inside the container to start a shell session.
+
+This setup is useful for CI/CD pipelines, where you might want to build or manage Docker images and containers from within a build container. However, it's important to be aware of the security implications of exposing the Docker socket to containers, as it effectively grants the container control over the Docker daemon, and thereby, the host system.
+
+The concept of Docker-in-Docker (DinD) is technically different and involves running a full Docker daemon inside a container. This is generally not recommended for most use cases due to complexity and security concerns.
+
+Citations:
+[1] Containerize an application https://docs.docker.com/get-started/02_our_app/
+[2] What is a Container? https://www.docker.com/resources/what-container/
+[3] Docker Desktop https://www.docker.com/products/docker-desktop/
+[4] A Docker Tutorial for Beginners https://docker-curriculum.com
+[5] Integrated Terminal for Running Containers, Extended Integration with Containerd, and More in Docker Desktop 4.12 https://www.docker.com/blog/integrated-terminal-for-running-containers-extended-integration-with-containerd-and-more-in-docker-desktop-4-12/
+[6] How To Use docker exec to Run Commands in a Docker Container | DigitalOcean https://www.digitalocean.com/community/tutorials/how-to-use-docker-exec-to-run-commands-in-a-docker-container
+[7] What is Docker? | AWS https://aws.amazon.com/docker/
+[8] Why use docker? What good is it? https://www.reddit.com/r/docker/comments/mxe0w7/why_use_docker_what_good_is_it/
 
 At this point, I have not practically utilised these code snippets to attest to their veracity. That said, I am well-pleased, and will for the time being, cease this exploration, and continue it later. It conveyed another use for containers, because they can be both created and destroyed, and therefore may be ephemeral. Such a medium, is excellent to containerise an ephemeral script that is not to permanently alter the system executing it, essentially creating a container as it executes, and destroys it as it completes. I am sure this is rather simplistic, but simple may be useful and functional, as a beginning. 
 
