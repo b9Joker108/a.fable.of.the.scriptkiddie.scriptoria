@@ -7131,6 +7131,31 @@ The GNU `man` package and the GNU `info` package are two different systems for p
 - The `info` package supports features such as hyperlinks, full-text search, index, and linear
   browsing, which the `man` package does not.
 - apropos...
+- The `tldr` GitHub project is an excellent resource, and I recommend installing and utilising it.
+  Unlike, traditional GNU ManPages and the newer GNU InfoPages which are generally pith and terse, and
+  rather esoteric, even incomprehensible as-standard for the novice; the `tldr` project, seeks to
+  unpack them, documenting practical use-cases of command switches and arguments, fleshing-them-out
+  with examples. This is profoundly useful for nascent command-line users and novice scriptors. There
+  are a number of ways to install `tldr`, and I have not mentioned all of them. I initially
+  had issues with the Python `pip` installation within Termux, as it rendered illegibly. I found out
+  that the `node` installation is favoured over `pip`, as it is more frequently maintained. So, I
+  uninstalled the `pip` `tldr` install. I then endeavoured to install it with `node`, and there were
+  package dependency issues, as the Termux repositories were not up-to-date. I then endeavoured to
+  build, compile and install the bleeding-edge from binaries, but no cigar. I am still a novice at
+  this. I parked the matter. Circa three (3) weeks later, `node` was updated, and the installation
+  proceeded flawlessly. Sometimes, on *NIX, things just take time and require patience. I document this
+  personal experience, as a case-study, as I feel it is of relevance. Moreover, I am not finding fault
+  with the selfless Termux repository package maintainers, but outlining that this work is a roadmap to
+  upskill both my own ability to usefully assist with repository package maintenance on-way to package
+  porting into official repositories, but Al's to leave a '[Hansel and
+  Gretel](https://en.m.wikipedia.org/wiki/Hansel_and_Gretel)', "bread-crumb" path, for others to
+  usefully traverse. 
+- Another magnificent resource, is: https://manned.org/ (accessed: Wednesday, February 28, 2024).
+  Though, this online project archive, does not yet contain Termux ManPages and InfoPages, I anticipate
+  it will in future. Regardless, not only does this project make a vast number of ManPages and
+  InfoPages of various GNU/Linux distributions easily available and discoverable online, but it also
+  includes a vast wealth of specific versions of historical pages of various distribution releases. So,
+  historical developments may be discerned. 
 
 You can access the man pages by typing `man` followed by the name of the program or command, and the `info` pages by typing `info` followed by the name of the program or command. You can also use the `--help` option to get a brief summary of the usage and options of many packages, programs or commands.
 
