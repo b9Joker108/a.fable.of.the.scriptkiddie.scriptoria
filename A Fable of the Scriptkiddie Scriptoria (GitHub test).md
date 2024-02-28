@@ -7702,7 +7702,75 @@ In Termux, if `echo $EDITOR` doesn't return anything, it means that no default t
 - Termux provides packages for various editors. Use `pkg install <editor_name>` to install the one you
   prefer.
 - Note, you may need to research and tweak these instructions for your particular system
-  implementation. 
+  implementation.
+
+**Gemini, I just learnt that early scripts on punchcards established the convention of lines of source code only being a maximum of eighty (80) characters in length. So, to make shell scripts conform with this and to make code thoroughly backwards compatible, does the current POSIX standard have a stance on this?**
+
+While the historical origin of the 80-character limit in code stemmed from the constraints of punchcards, the POSIX standard doesn't explicitly mandate an 80-character limit for shell scripts.  Here's a breakdown of why:
+
+**1. Focus on Functionality and Portability:**  POSIX standards focus primarily on defining the behavior and essential interfaces of operating systems to enhance portability of software across different Unix-like systems. This includes shell syntax and commands, but not rigid formatting guidelines.
+
+**2.  Evolving Technology:** Modern terminals and editors comfortably handle lines far longer than 80 characters. Restricting code to such a short line length can hinder readability and maintainability of complex code. 
+
+**3. Soft Recommendations and Style Guides:**
+
+   * Some style guides and linters might recommend limiting line lengths for readability, often with more flexible limits than the strict 80-character rule (e.g., 100 or 120 characters). However, these recommendations are not universal and are not enshrined in the POSIX standard itself. They serve as guidelines for writing cleaner looking code.
+
+**Practical Considerations:**
+
+* Although not a strict POSIX requirement, keeping shell scripts with reasonable line lengths remains good practice for readability, especially in terminal environments.
+* In extremely rare cases where you might need to ensure a script works with a very limited, ancient terminal, the 80-character limit could be relevant. 
+
+**In Conclusion:**
+
+The POSIX standard does not enforce an 80-character limit in shell scripts. While the historical influence is important to acknowledge, modern practice prioritizes readability over rigid restrictions.
+
+While the historical origin of the 80-character limit in code stemmed from the constraints of punchcards, the POSIX standard doesn't explicitly mandate an 80-character limit for shell scripts.  Here's a breakdown of why:
+
+**1. Evolution of Technology:** Punchcards were physical media with limitations that are largely irrelevant in modern computing. Screens, terminals, and text editors are no longer bound by those physical constraints.
+
+**2. Focus on Functionality and Portability:**  POSIX primarily focuses on providing a standardized interface and core utilities, guaranteeing compatibility and portability of shell scripts across different Unix-like systems. It doesn't enforce stylistic limitations like line length.
+
+**3. Recommendations, Not Rules:**  POSIX might provide guidelines or recommendations about source code layout, but these are not hard requirements.
+
+**4. Flexibility for Readability:**  Different projects or coding styles might prefer longer or shorter line lengths to improve code readability and maintainability. The choice is often left to the developer or organization.  
+
+**Considerations:**
+
+* **Legacy Systems:**  If you are working with legacy systems or terminals that have hard limits on line length, you might need to consider the 80-character convention. 
+* **Readability:** While not strictly mandated by POSIX, limiting line lengths can improve readability and ease of editing shell scripts, especially in terminal environments.
+* **Tools:** Modern linters or code analysis tools might offer warnings or suggestions about overly long lines, encouraging better formatting practices.
+
+**In Summary:**  The POSIX standard doesn't enforce an 80-character limit on shell scripts.  It provides developers with the flexibility to choose their own line-length conventions, prioritizing readability and maintainability over historical limitations. 
+
+While the historical origin of the 80-character limit in code stemmed from the constraints of punchcards, the POSIX standard doesn't explicitly mandate an 80-character limit for shell scripts.  Here's a breakdown of why:
+
+**1. Evolution of Technology:** Punchcards were physical media with limitations that are largely irrelevant in modern computing. Screens, terminals, and text editors are no longer bound by those physical constraints.
+
+**2. Flexibility:** POSIX aims to provide a standard for operating systems and shells while allowing flexibility in implementation and usage. Strict enforcement of an 80-character limit could create unnecessary constraints for readability and hinder the use of longer variable names or complex commands that might be beneficial.  
+
+**3. Best Practices and Recommendations:** Instead of a hard 80-character limit, common coding standards and style guides often encourage the following:
+
+    * **Sensible Line Lengths:** Most guides recommend line lengths that improve readability on modern displays. This may vary slightly (e.g., 100 or 120 characters), but the focus is on avoiding overly long lines that require awkward scrolling.
+    * **Line Wrapping:** When longer lines are necessary, proper wrapping techniques are encouraged to maintain code readability. Modern text editors often assist with automatic line wrapping.
+
+**Why Consider Line Lengths (Even without POSIX Mandate):**
+
+* **Readability:**  Excessively long lines can make code difficult to visually scan and understand.
+* **Compatibility (Legacy):**  While not a strict POSIX mandate, very old systems or terminals *might* still have display issues with extremely long lines.
+* **Collaboration:**  If your code is shared, adhering to common line length practices enhances readability for others.
+
+**In Summary**
+
+The POSIX standard doesn't enforce an 80-character limit. However, it's good practice to be mindful of line lengths while prioritizing clarity and readability in your shell scripts. 
+
+**Purport**
+
+Personally, you will find using Android portable hand-held devices to read source code, and given the constraint of their screen size, that much source code in specified code blocks or even that rendered in various files, scripts and documents throuout the Internet, is inefficient and inconvenient for the portable hand-held device user and developer to read, having to manually scroll to effectively read every line that is hidden and obscured. Therefore, as coding and development increases globally upon portable hand-held devices, we as a class of user should champion and mandate all developers to conform their source code to eighty (80) characters in length, as standard. Moreover, establishing this convention of an eighty (80) character maximum length, for how a virtual terminal or terminal emulator renders, assists readability and functionality for portable hand-held device users. 
+
+Moreover, whichever commandline or graphical *NIX text editors you favour, you should be able to avail yourself of the functionality to configure them to a a mandatory line character length of eighty (80) characters. 
+
+In addition, with the GNU `coreutils`, there is a `fold` command, and this may be usefully employed in manifold ways to fold long lines of source code at appropriate breakpoints such as a line-space, for example, where appropriate at the penultimate point before the line reaches eighty (80) characters in length. Just refer appropriate ManPage, InfoPage, etc, for how to use the various switches and arguments for the command. For portable hand-held device users, this is a particularly useful functionality. 
 
 **1. Script Basics:**
 
