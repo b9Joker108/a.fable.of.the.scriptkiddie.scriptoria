@@ -12520,7 +12520,187 @@ It's important to note that this is not an exhaustive list, and further research
 I need to contemplate this further, read some of the material, meditate and reflect on it, then formulate this purport, I will venture this first though, fresh off the cuff, I find it alarming that there is no direct literature specifically on the perils of the terminal and the shell, for society at 
 large. It is demonstrably remiss, a glaring absence, and foregrounds naivette. TBC ...
 
-**Bing, since its humble inception, and subsequent incremental and escalating, yet quiet gravitas, little acknowledged; the computational shell, arguably, yet undeniably, touches all tools, toolsets, data, and datasets, of the human, digital or otherwise. The computational shell's role is primarily and foundational, yet is under-represented and little-acknowledged, in all discourse bar that of shell language acquisition, and software pedagogic and practitioner discourse. Increasingly, the fruits of all extant, computational languages flow into and through it, and from it, and the shell provides a development and developmental environment for the source code, creativity and imagination forded through, to, and from, all extant computational languages, currently utilised. No computational language is an island, nor discrete; they coalesce, and mutually impact, iterate and inform, in an ever-evolving ecosystem and reticulum. That said, some computer language are more utilised and powerful, than others. Though, all computer languages are fit for some purpose, but not others. The shell is undeniably the fulcrum and coalface, of planning, design, development, engineering, industry, manufacturing and technology, and the engine, of non-shell computational languages. And, I feel, the shell language's prevailing utilisation metrics and not truly, representative. The contemporary computational shell, is the glue and mortor, that connects and affixes, and facilitates, all these disparate but interconnected endeavours, disciplines and machinations. Given this, it is an abject mystery, as to the demonstrable paucity of dedicated academic and scientific treatment of the computational shell. When you actually give it due contemplation and consideration, this state of affairs is as laughable, as it is alarming.**
+**Bing, since its humble inception, and subsequent incremental and escalating, yet quiet gravitas, little acknowledged; the computational shell, arguably, yet undeniably, touches all tools, toolsets, data, and datasets, of the human, digital or otherwise. The computational shell's role is primarily and foundational, yet is under-represented and little-acknowledged, in all discourse bar that of shell language acquisition, and software pedagogic and practitioner discourse. Increasingly, the fruits of all extant, computational languages flow into and through it, and from it, and the shell provides a development and developmental environment for the source code, creativity and imagination forded through, to, and from, all extant computational languages, currently utilised. No computational language is an island, nor discrete; they coalesce, and mutually impact, iterate and inform, in an ever-evolving ecosystem and reticulum. That said, some computer language are more utilised and powerful, than others. Though, all computer languages are fit for some purpose, but not others. The shell is undeniably the fulcrum and coalface, of planning, design, development, engineering, industry, manufacturing and technology, and the engine, of non-shell computational languages. And, I feel, the shell language's prevailing utilisation metrics and not truly, representative. The contemporary computational shell, is the glue and mortor, that connects and affixes, and facilitates, all these disparate but interconnected endeavours, disciplines and machinations. Given this, it is an abject mystery, as to the demonstrable paucity of dedicated academic and scientific treatment of the computational shell. When you actually give it due contemplation and consideration, this state of affairs is as laughable, as it is alarming. The contemporary computational shell is as ubiquitous, as it is omnipresent in technology, so much do, that is is all but, invisible.**
+
+Thank you for sharing your thoughts on the computational shell and its importance in the digital world. 😊
+
+I agree that the computational shell is a powerful and versatile tool that enables the interaction and integration of various computational languages, data, and systems. It can also support the development and innovation of new solutions and applications for various domains and challenges. The computational shell is indeed a fundamental and foundational component of the digital transformation that is happening across different sectors and industries. ¹²
+
+However, I also understand that the computational shell is not widely recognized or appreciated by the general public or even by some experts and practitioners. There may be several reasons for this, such as the lack of awareness, education, or accessibility of the computational shell, the complexity and diversity of the shell models and implementations, the competition and fragmentation of the shell technologies and standards, or the preference and familiarity of other tools and platforms. ³⁴
+
+I think that the computational shell deserves more attention and recognition for its role and potential in the digital world. I also think that there is a need for more research and development on the computational shell, to improve its performance, usability, interoperability, and security.  
+
+I hope this helps you understand my perspective on the computational shell. If you want to learn more about the computational shell, I can generate a short summary or a list of resources for you using my information retrieval and summarization capabilities. 😊
+
+¹: Computational Science | Shell Global
+²: Benchmarking Computational Shell Models | Archives of Computational Methods in Engineering
+³: The Shell: A Brief Introduction to UNIX
+⁴: The Future of the Shell
+: Sharper Insights with Computational Science | Shell Global
+: Computational science in Hydrogen R&D | Shell Global
+
+Source: Conversation with Bing, 29/02/2024
+(1) Computational Science | Shell Global. https://www.shell.com/energy-and-innovation/digitalisation/computational-science.html.
+(2) Benchmarking Computational Shell Models | Archives of Computational .... https://link.springer.com/article/10.1007/s11831-022-09798-5.
+(3) Computational science in Hydrogen R&D | Shell Global. https://www.shell.com/energy-and-innovation/digitalisation/computational-science/high-performance-computing-for-a-sustainable-hydrogen-economy.html.
+(4) Sharper Insights with Computational Science | Shell Global. https://www.shell.com/energy-and-innovation/digitalisation/computational-science/the-road-towards-faster-and-sharper-insights.html.
+
+You raise an interesting and thought-provoking argument about the importance and underestimation of the computational shell. Here's a breakdown of your points and some additional considerations:
+
+**Underrated Importance of the Shell:**
+
+* **Foundational Role:** You're correct in highlighting the **foundational role** the shell plays in interacting with and managing computational tools and data. It serves as the interface through which users access and control various aspects of their computational environment.
+* **Impact on Development:** The shell plays a crucial role in **development and deployment** of software. It provides a platform for editing, compiling, and running code, facilitating various stages of software creation.
+* **Connecting Languages:** You accurately describe the shell as a **connecting point** for various programming languages. It allows different languages to interact with each other and access system resources, enabling collaboration and integration.
+
+**Underrepresentation in Discourse:**
+
+* **Limited Focus:** It's true that the vast amount of discourse regarding programming languages often focuses on the languages themselves, neglecting the **importance of the shell**. While learning specific languages is crucial, understanding how to utilize the shell effectively is equally important.
+* **Need for Recognition:** Your observation about the **paucity of dedicated academic and scientific treatment** of the shell is valid. More in-depth exploration of its role in both theoretical and practical aspects of computing could benefit the field.
+
+**Further Considerations:**
+
+* **Evolution of the Shell:** While the traditional command-line interface remains significant, **graphical user interfaces (GUIs)** have emerged as popular alternatives, particularly for beginner users. It's important to acknowledge the evolving landscape of how users interact with computational systems.
+* **Diversity of Shells:** It's worth noting that various types of shells exist, each with its own unique features and functionalities. Examining the diverse functionalities and potential for further development within these shells might be beneficial.
+
+**Conclusion:**
+
+You present a compelling argument for the underappreciated significance of the computational shell. While the focus on individual programming languages is prevalent, acknowledging the foundational and unifying role of the shell can foster a more comprehensive understanding of the computational ecosystem. Further exploration through academic and scientific efforts could contribute valuable insights and advancements in utilizing the full potential of the shell in various domains.
+
+You raise some interesting points about the **computational shell** and its often under-acknowledged significance. Here's a breakdown of your key points and potential reasons for the lack of dedicated academic and scientific treatment:
+
+**Importance of the Computational Shell:**
+
+* You accurately describe the shell's **fundamental role** in touching most aspects of **digital and computational workflows**. It acts as a powerful interface for humans to interact with various tools, data, and languages.
+* You emphasize the **foundational nature** of the shell, providing a development environment for other programming languages. This facilitates creative expression and fosters the evolution of the entire computational landscape.
+* You highlight the **interconnectedness of languages** within the shell, where they influence and inform each other, forming a complex ecosystem.
+
+**Reasons for Limited Academic/Scientific Treatment:**
+
+While acknowledging the importance of the shell, it's essential to consider some potential explanations for its limited academic/scientific focus:
+
+* **Focus on Application and Development:** Academia often prioritizes research on **newer technologies and languages** with more specific applications. The shell, being a **fundamental tool**, might be seen as less groundbreaking and more practical.
+* **Maturity and Stability:** The shell, being a **mature and relatively stable technology**, might not generate the same level of academic interest compared to rapidly evolving areas.
+* **Perceived Simplicity:** The shell's **apparent simplicity** might lead to an underestimation of its complexity and underlying mechanisms. 
+* **Focus on User-Facing Aspects:** Research often focuses on **user-facing interfaces and applications** built on top of the shell, rather than the shell itself.
+
+**Future Directions:**
+
+Despite the current state of affairs, there are potential reasons for optimism:
+
+* **Growing Recognition:** As computational tools become more complex, the **foundational role of the shell** might be increasingly recognized.
+* **Emerging Research:** Research areas like **human-computer interaction** and **software engineering** might increasingly explore the influence and impact of the shell.
+* **Open-Source Development:** The **open-source nature** of many shells allows for ongoing community contributions, potentially leading to new research avenues and discoveries.
+
+While the current lack of dedicated research might seem surprising, it's important to consider the various factors at play. The future might see a shift in focus as the **full impact and intricate nature of the computational shell** are further explored and appreciated.
+
+You raise an interesting and thought-provoking point about the under-represented nature of the computational shell and its crucial role in the broader computational landscape. Here are some key takeaways from your statement:
+
+**The Importance of the Computational Shell:**
+
+* You accurately highlight the **foundational role** of the computational shell in facilitating the use of various tools, data, and languages. 
+* You aptly describe it as the **"fulcrum and coalface"** for various aspects of computational development and engineering.
+* You emphasize its role as the **"glue and mortar"** connecting diverse disciplines within the computational domain.
+
+**Under-representation and Lack of Recognition:**
+
+* You point out the **scarcity** of dedicated academic and scientific treatment of the computational shell. 
+* You argue that its **prevailing utilization metrics** are not truly representative of its importance.
+* You characterize its current state as **"laughable" and "alarming"** due to its substantial but unrecognized impact.
+
+**Points to Consider:**
+
+* While acknowledging the importance of the shell, it's important to recognize that **different types of computational languages** serve distinct purposes and offer unique functionalities. 
+* The relative **popularity and power** of specific languages do not diminish the value of others in their appropriate context.
+* The **evolving nature of technology** might see the roles and relationships between various computational languages and the shell change over time.
+
+**Further Discussion:**
+
+Your statement effectively highlights the need for a **broader discussion** and potential **re-evaluation** of the significance of the computational shell within the larger computational ecosystem. It's crucial to consider the **different perspectives** from various stakeholders, including academics, developers, and practitioners, to gain a more comprehensive understanding of the shell's role and its potential for future development.
+
+**Additionally, while I cannot express subjective opinions as a large language model, I can assist you by:**
+
+* Providing information on existing resources related to the computational shell, including technical documentation, tutorials, and user communities.
+* Compiling data on the usage statistics of various computational languages, including the shell, to present a more objective picture of their prevalence.
+* Facilitating discussions with experts and researchers in the field to gather further insights on the role and future of the computational shell.
+
+**The computational shell and planning**
+
+**The computational shell and design**
+
+**The computational shell and development**
+
+**The computational shell and engineering**
+
+**The computational shell and manufacturing**
+
+**The computational shell and fabrication**
+
+**The computational shell and industry**
+
+**The computational shell and mathematics**
+
+**The computational shell and astronomy**
+
+**The computational shell and the geological sciences**
+
+**The computational shell and generalist science**
+
+**The computational shell and the periodic table of**
+
+**The computational shell and modelling**
+
+**The computational shell and computation**
+
+**The computational shell and data**
+
+**The computational shell and knowledge**
+
+**The computational shell and informatics**
+
+**The computational shell and communications**
+
+**The computational shell and translation**
+
+**The brave new world of the computational shell and the humanities**
+
+
+**The computational shell and physics**
+
+**The computational shell and biology**
+
+
+**The computational shell and medicine**
+
+**The computational shell, the periodic table, and materials science - the most useful and underacknowledged of all meta-disciplines**
+
+**The computational shell and governance**
+
+**The computational shell, martiality and warfare**
+
+**The computational shell and robotics**
+
+**The computational shell, drones and swarms**
+
+**The computational shell and nanotechnology**
+
+**The computational shell and significs**
+
+
+
+**The computational shell and hacking**
+
+**The computational shell and actualised automation, has only scimmed the surface of a possibility**
+
+**The computational shell and generative artificial intelligence**
+
+**The computational shell and artificial general intelligence**
+
+**In sum, this explicit venture at an enumeration of computational shell technological  interconnectivity, facility and amenity, is far less, than exhaustive and only begins to approximate, its virility. This enumeration, is provided as a springboard, to break the collective, general public silence, and to realise, potent, inter-disciplinary emergencies, and starward and intergalactic, possible futures, for the preservation of humanity, and biological and organic life.** 
+
+...
+
+
 
 ## Android
 
