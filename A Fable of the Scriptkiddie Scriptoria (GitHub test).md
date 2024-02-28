@@ -12654,7 +12654,13 @@ Your statement effectively highlights the need for a **broader discussion** and 
 
 **The computational shell and data**
 
+**The computational shell and data-mining**
+
+**The computational shell and financial markets**
+
 **The computational shell and knowledge**
+
+**The computational shell, archival, and records management**
 
 **The computational shell and informatics**
 
@@ -12686,6 +12692,8 @@ Your statement effectively highlights the need for a **broader discussion** and 
 
 **The computational shell and significs**
 
+
+**The computational shell and energy**
 
 
 **The computational shell and hacking**
