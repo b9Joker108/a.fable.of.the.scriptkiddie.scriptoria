@@ -7772,6 +7772,78 @@ Moreover, whichever commandline or graphical *NIX text editors you favour, you s
 
 In addition, with the GNU `coreutils`, there is a `fold` command, and this may be usefully employed in manifold ways to fold long lines of source code at appropriate breakpoints such as a line-space, for example, where appropriate at the penultimate point before the line reaches eighty (80) characters in length. Just refer appropriate ManPage, InfoPage, etc, for how to use the various switches and arguments for the command. For portable hand-held device users, this is a particularly useful functionality. 
 
+While the historical 80-character limit was relevant for punchcards, enforcing it strictly on modern virtual terminals and Termux specifically might not be the most practical approach. Here's why:
+
+1. **Modern Displays:** Most modern displays and terminal emulators allow for displaying significantly more than 80 characters per line, making the 80-character limit less crucial for readability on handheld devices.
+
+2. **Flexibility and User Preference:** Users often have individual preferences for the number of characters displayed on a single line. Enforcing a rigid limit could restrict their ability to adjust the display to their liking.
+
+3. **Termux Configuration:** Termux provides options for users to customize the terminal configuration, including the number of columns displayed. Users can already adjust this setting (without enforcing an 80-character limit) to improve readability on smaller screens.
+
+4. **Potential Issues:** Implementing a strict 80-character limit in Termux could introduce complexities and unintended consequences:
+    - **Wrapping:** Enforced wrapping might break formatting or introduce visual inconsistencies, potentially hindering readability.
+    - **Compatibility:** It might not be compatible with all tools or scripts that rely on longer lines.
+
+**Alternative Approaches for Readability:**
+
+1. **Encourage Best Practices:** Instead of enforcing a specific limit, Termux could encourage users to follow best practices for code formatting and line length. This could involve:
+    - **Recommending a reasonable line length for readability:** This could be a suggestion in the documentation or during the initial setup process.
+    - **Providing guidance on line wrapping techniques:** Highlighting best practices for wrapping long lines when necessary.
+
+2. **User-Configurable Options:** Termux could offer more granular control over the terminal display through configuration options. This could include:
+    - **Allowing users to adjust the number of displayed columns:** This would empower users to choose their preferred line length.
+    - **Providing options for automatic line wrapping:** Users could enable or disable line wrapping based on their preference.
+
+By focusing on user education and empowering customization, Termux can promote code readability and cater to the diverse preferences and needs of its users on various devices.
+
+While the 80-character limit was relevant for early computer systems with limited display capabilities, enforcing it strictly on modern virtual terminals and emulators, like Termux, might not be the most practical approach for several reasons:
+
+1. **Modern Displays:** Most handheld devices and terminals today have much wider screens compared to historical displays with 80 characters. Enforcing an 80-character limit could lead to unnecessary and inefficient use of screen space.
+2. **Flexibility:** Users might prefer wider lines for improved readability, especially when working with complex commands or longer variable names.
+3. **Termux Functionality:** Termux already provides various features for customizing the terminal experience, including text wrapping and font size adjustment, which can effectively address readability concerns without a strict character limit.
+
+**Alternative Approaches for Readability in Termux:**
+
+* **Leverage Text Wrapping:** Termux supports text wrapping by default. Lines exceeding the terminal width are automatically wrapped to the next line, ensuring readability regardless of length.
+* **Adjust Font Size:** Users can adjust the font size in the Termux settings to better suit their preferences and improve readability.
+* **Adopt Sensible Line Lengths:** While not an enforced rule, adhering to a reasonable line length (around 100-120 characters) can be a good practice for enhancing code readability without sacrificing flexibility.
+* **Utilize Line Breaks:** When necessary, consider using explicit line breaks (`\n`) to improve readability for longer commands or complex logic.
+
+It's important to strike a balance between historical context, modern capabilities, and user preferences. While the 80-character limit served a purpose in its time, focusing on user experience and offering customization options like text wrapping and font size adjustments are more practical and user-friendly approaches for promoting readability in a modern context like Termux.
+
+While enforcing an 80-character limit on the **CLI** (Command Line Interface) itself is not possible in Termux, there are strategies to **encourage and facilitate** writing code that adheres to this convention for improved readability and portability, especially for handheld devices:
+
+**1. Shell Checkers and Linters:**
+
+- Utilize tools like `shellcheck` or `shfmt` that can be integrated into your workflow. These tools can identify potential issues in your scripts, including excessively long lines, and suggest improvements.
+
+**2. Code Editors and Plugins:**
+
+- Many code editors offer features to assist with line length:
+    - **Visual guides:** Enable a horizontal line at the 80-character mark to act as a visual reference.
+    - **Line wrapping:** Set options to automatically wrap lines that exceed a specified length (e.g., 80 characters).
+    - **Code formatters:** Utilize plugins or built-in functionality to automatically reformat code according to your chosen style guide, which may include a line length limit.
+
+**3. Custom Scripts:**
+
+- You could potentially write a script that analyzes the line lengths in your shell scripts and reports any lines exceeding the 80-character limit. This could serve as a manual check before running your scripts.
+
+**4. Community Standards and Best Practices:**
+
+- Encourage collaboration and code review within the Termux community, where developers can collectively emphasize the importance of adhering to reasonable line length limitations for better code readability and maintainability.
+
+**Remember:**
+
+- **Flexibility is key:** While there's no hard enforcement, aiming for an 80-character limit while maintaining code clarity is generally recommended.
+- **Consider context:** If a specific line requires exceeding 80 characters for readability (e.g., complex command with multiple arguments), use your judgment and prioritize overall code understandability.
+- **Focus on readability:** Ultimately, the goal is to write clear and concise code that can be easily understood by yourself and others, regardless of the specific line length limit.
+
+By implementing these suggestions and fostering a community-driven culture of code readability, you can encourage script development in Termux that is suitable for various screen sizes and promotes better code maintainability.
+
+**Purport**
+
+The fundamental issue, is to foreground this matter, in order to empower portable hand-held device coders, developers, shell scriptors, and command-line interface users to customize on a virtual or emulated terminal according to their own specifications and requirements, as well as to foreground the matter and its rationale to change the assumptions of other non-portable hand-held device users, that take large screens for granted and as a given, as standard, and project that capacity and functionality, upon the class of all computational device users. 
+
 **1. Script Basics:**
 
 A shell script is a special kind of textfile containing source code that consists of a series of commands, most of which are generally executed in sequence. Think of it as a recipe for your hand-held (or other) device, telling it what to do incrementally or step-by-step.
