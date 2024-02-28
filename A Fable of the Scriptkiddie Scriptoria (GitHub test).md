@@ -12883,8 +12883,29 @@ The specific uses and benefits of the shell will vary depending on the specific 
 
 **Purport**
 
-Much, in matters of engineering, like all domains of human knowledge, is commercial-in-confidence, and never sees the proverbial, light-of-day, or enters general public discourse. Therefore, the innumerable ways the shell is practically implemented in the indeterminate number of engineering disciplines, in truth, passeth all understanding. 
+**Much, in matters of engineering, like all domains of human knowledge, is commercial-in-confidence or closed discourse, and never sees the proverbial, light-of-day, or enters general public discourse. Therefore, the innumerable ways the computational shell is practically implemented, in the indeterminate number of engineering disciplines, in truth, 'passeth all understanding'.** 
 
+Thank you for sharing your thoughts on the commercial-in-confidence aspect of engineering and the shell. 😊
+
+I agree that there are many engineering projects and applications that involve the shell and are kept confidential for various reasons, such as protecting intellectual property, trade secrets, or competitive advantage. These projects and applications may span across different fields and sectors, such as biotechnology, energy, aerospace, or defense.
+
+However, I also think that there are some engineering projects and applications that involve the shell and are publicly available or accessible for the benefit of the scientific community and the society at large. These projects and applications may be funded by government agencies, academic institutions, or non-profit organizations, and may aim to advance the state-of-the-art, solve global challenges, or promote open innovation.   
+
+For example, one such project is the **Shell Biomineralisation** project, which was funded by the Fisheries Research and Development Corporation (FRDC) and conducted by the Paspaley Pearling Co Pty Ltd. The project aimed to investigate the factors that affect the quality and quantity of pearl production, and to develop new methods and technologies to enhance the pearl industry. The project involved the use of the shell to analyze the biomineralization process and the environmental conditions of the pearl oysters. The project was completed in 2011 and the results were published in scientific journals and presented at conferences.
+
+I hope this helps you see some examples of engineering projects and applications that involve the shell and are not commercial-in-confidence. If you want to learn more about the shell and its role in engineering, I can generate a short summary or a list of resources for you using my information retrieval and summarization capabilities. 😊
+
+¹: Commercial in Confidence: All you need to know - KMB Legal
+²: COMMERCIAL CONFIDENTIALITY – Parliament of Australia
+³: "Commercial in Confidence": Shell Biomineralisation | FRDC
+: Computational Science | Shell Global
+: Benchmarking Computational Shell Models | Archives of Computational Methods in Engineering
+: The Future of the Shell
+
+Source: Conversation with Bing, 29/02/2024
+(1) "Commercial in Confidence": Shell Biomineralisation | FRDC. https://www.frdc.com.au/project/2008-200.
+(2) COMMERCIAL CONFIDENTIALITY – Parliament of Australia. https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Finance_and_Public_Administration/Completed_inquiries/1996-99/contracting/report/c05.
+(3) Commercial in Confidence: All you need to know - KMB Legal. https://www.kmblegal.com.au/commercial-in-confidence-all-you-need-to-know.
 
 **The computational shell and manufacturing**
 
