@@ -16,7 +16,7 @@ Finnigan, Dave (1993). 'The Zen of Juggling'. Edmonds, Washington, U. S. A.: Jug
 
 Pre-first draft, of work commenced early December 2023.
 
-A rudimentary, but thorough and exhaustive draft with citations and references and annotated resources, that endeavours to capture the entire purview of the topic, in all its richness, diversity, specificity, generality, idealism, pragmatism, traditions, history, contemporeity, emergent factors and technologies in the shell process and shell-as-process, and in possible futures of which the shell, as coalface and fulcrum, has a stake.
+A rudimentary, but thorough and exhaustive draft with citations and references and annotated resources, that endeavours to capture the entire purview of the topic, in all its richness, diversity, specificity, generality, idealism, pragmatism, traditions, history, contemporeity, emergent factors and technologies in the shell process-glows and shell-as-process, and in possible futures of which the shell, as coalface and fulcrum, has a stake.
 
 **Prospective versions**
 
