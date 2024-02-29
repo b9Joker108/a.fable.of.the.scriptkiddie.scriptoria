@@ -12914,6 +12914,51 @@ However, it's important to remember that:
 
 In conclusion, while not directly managing the human aspects of social planning, computational shells may act as powerful tools to support, automate, and streamline the workflows surrounding data collection, analysis, and communication, ultimately contributing to more efficient and effective social planning processes and project planning, execution, management and governance.
 
+**PerplexityAI, how might the computational shell process the workflows of the discipline of Social Planning, with reference to community planning processes, community consultation processes, public participation processes, community capacity building, etc.?**
+
+Computational tools and models, provided by the computational shell, may significantly enhance the workflows in the discipline of Social Planning, which includes community planning processes, community consultation processes, public participation processes, and community capacity building. Here's how they might be applied:
+
+### Community Planning Processes
+Computational models may simulate urban growth and help in preparing cities for the future. They may be used to analyze geographical information and estimate urban energy and resource consumption for low-carbon development, as well as automate design processes through parametric modeling and simulation of urban spaces. 
+
+### Community Consultation Processes
+Tools like Objective Keyplan offer reporting capabilities that enable planners to monitor the status of consultations, analyze community sentiment, track representations and team workload, and provide timely responses to comments. This streamlines the consultation process, making it more efficient and reflective of the community's needs. 
+
+### Public Participation Processes
+Computer-assisted processes, such as keypad polling or networked computers, facilitate interaction and documentation in large group forums. They encourage participation by providing anonymity and real-time input, allowing for the collection of quantitative data quickly streaming from an audience. However, they may emphasize quantitative over qualitative data and require careful planning and technical support. 
+
+### Community Capacity Building
+Computational modeling may be used to understand, design, manage, and predict the workings of complex systems and processes. Agent-based models, for instance, may represent individuals or groups within a community and explore emergent properties or predict tipping points, which is useful for capacity building. 
+
+In summary, computational tools, within the fulcrum and coalface of the computational shell, may enhance social planning by providing data-driven insights, facilitating efficient communication and engagement, and enabling the exploration of complex systems and scenarios, and support, program, drive, manipulate and report, scenario based planning processes. However, it is important to balance the use of technology with the need for qualitative understanding and to ensure that the technology serves the objectives of the public involvement process rather than driving it. 
+
+Citations:
+[1] Benchmarking Computational Shell Models - Archives of Computational Methods in Engineering https://link.springer.com/article/10.1007/s11831-022-09798-5
+[2] Opportunities and limitations of integrating computational and collaborative approaches to scenario planning - ScienceDirect https://www.sciencedirect.com/science/article/pii/S2226585623000468
+[3] Enhancing Consultation Processes with Objective Keyplan's Reporting Capability https://www.objective.com.au/resources/blog-enhancing-consultation-processes-with-objective-keyplan
+[4] Public Participation Guide: Computer-Assisted Processes | US EPA https://www.epa.gov/international-cooperation/public-participation-guide-computer-assisted-processes
+[5] Computational Modelling: https://assets.publishing.service.gov.uk/media/5a8c1a6fe5274a1277ce76c4/computational-modelling-blackett-review.pdf
+[6] Advances in Computational Analytics for Urban Planning and Design: Methods, Technologies and Practices https://www.mdpi.com/journal/buildings/special_issues/QPN87GZDJ6
+[7] How do you incorporate community consultation into your project management cycle? https://www.linkedin.com/advice/3/how-do-you-incorporate-community-consultation
+[8] Computational Science | Shell Global https://www.shell.com/energy-and-innovation/digitalisation/computational-science.html
+[9] methods print page - community planning http://www.communityplanning.net/methods/handle_print.php?con=all
+[10] Community Consultation and Engagement Course https://www.uts.edu.au/research/institute-public-policy-and-governance/professional-learning-and-development/community-consultation-and-engagement-course
+[11] Computational Methods for Shell-Model Calculations https://link.springer.com/chapter/10.1007/978-1-4615-8234-2_2
+[12] (PDF) Visualization Tools and Methods in Community Planning: From Freehand Sketches to Virtual Reality - ResearchGate https://www.researchgate.net/publication/238185605_Visualization_Tools_and_Methods_in_Community_Planning_From_Freehand_Sketches_to_Virtual_Reality
+[13] [PDF] easy consultation toolkit - Iriss https://lx.iriss.org.uk/sites/default/files/resources/sbf-easy-consultation-toolkit.pdf
+[14] A computational strategy to establish algebraic parameters for the ... https://www.sciencedirect.com/science/article/pii/S0965997816307190
+[15] Spaces, places and possibilities: A participatory approach for developing and using integrated models for community planning - ScienceDirect https://www.sciencedirect.com/science/article/pii/S2590252020300210
+[16] 5 Critical Features For Your Community Engagement Tool https://simplystakeholders.com/community-engagement-tool/
+[17] A Critical Review and Practical Guide to Harnessing Social Norms for ... https://journals.sagepub.com/doi/10.1177/15291006221105279
+[18] A Computational Geospatial Approach to Assessing Land-Use Compatibility in Urban Planning https://www.mdpi.com/2073-445X/12/11/2083
+[19] What you told us about community engagement https://yoursay.bayside.vic.gov.au/community-engagement-policy-review/what-you-told-us-about-community-engagement
+[20] Munich Personal RePEc Archive https://mpra.ub.uni-muenchen.de/27910/1/MPRA_paper_27910.pdf
+[21] Visualization Tools and Methods in Community Planning: From Freehand Sketches to Virtual Reality - Kheir Al-Kodmany, 2002 - Sage Journals https://journals.sagepub.com/doi/10.1177/088541202762475946
+[22] Community Engagement Platform https://www.district.au/community-engagement
+[23] Computational design exploration of a segmented concrete shell building ... https://www.researchgate.net/publication/369648768_Computational_design_exploration_of_a_segmented_concrete_shell_building_floor_system
+[24] Community https://dilgpprd.blob.core.windows.net/general/community-engagement-toolkit.pdf
+[25] LGACOM502B - Devise and conduct community consultations https://training.gov.au/Training/Details/LGACOM502B
+
 As Generative Artificial Intelligence and Large Language Models are discussed with import in a suite of tutorials, refer: Kambhampati (2024), captured and uploaded onto YouTube, and given that multiple Generative Artificial Intelligence (GenAI) and Large Language Model (LLM) command-line interface (CLI) implementtations have emerged, intersected and integrated with the computational shell, this suite of tutorials, by implications and extension, hold import and salience, for the emergent coalescing of manifold planning disciplines and the computational shell. 
 
 **Further resources**
