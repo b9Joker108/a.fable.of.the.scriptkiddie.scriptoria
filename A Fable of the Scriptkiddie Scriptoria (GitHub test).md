@@ -12776,6 +12776,12 @@ It's important to remember that this is just one example, and the **computationa
 
 **The computational shell and planning**
 
+As Generative Artificial Intelligence and Large Language Models are discussed with import in a suite of tutorials, refer: Kambhampati (2024), captured and uploaded onto YouTube, and given that multiple Generative Artificial Intelligence (GenAI) and Large Language Model (LLM) command-line interface (CLI) implementtations have emerged, intersected and integrated with the computational shell, this suite of tutorials, by implications and extension, hold import and salience, for the emergent coalescing of manifold planning disciplines and the computational shell. 
+
+**Further resources**
+
+Kambhampati, Subbaro (2024). subbarao2z2@YouTube channel. 'On the Role of Large Language Models in  Planning (AAAI 2024 Tutorial Part 1)'. Uploaded: February, 22, 2024. Source: https://youtu.be/KTagKkWT2n4?si=RKS6u3YUWOiL7r7t (accessed: Thursday, February 29, 2024). 'On the role of Large Language Models in Planning, AAAI 2024 Slides: https://bit.ly/3OQtEqT  'Tutorial home page [GitHub]'. Source: https://yochan-lab.github.io/tutorial/LLMs-Planning/index.html (accessed: Thursday, February 29, 2024) 
+
 **The computational shell and design**
 
 **The computational shell and development**
@@ -21800,6 +21806,14 @@ This video needs to be transcribed and meticulously edited. I need to watch it a
 **J**
 
 **K**
+
+**Subbaro Kambhampati**
+
+Kambhampati, Subbaro (2024). subbarao2z2@YouTube channel. 'On the Role of Large Language Models in  Planning (AAAI 2024 Tutorial Part 1)'. Uploaded: February, 22, 2024. Source: [https://youtu.be/KTagKkWT2n4?si=RKS6u3YUWOiL7r7t](https://youtu.be/KTagKkWT2n4?si=RKS6u3YUWOiL7r7t) (accessed: Thursday, February 29, 2024). 'On the role of Large Language Models in Planning, AAAI 2024 Slides: [https://bit.ly/3OQtEqT](https://bit.ly/3OQtEqT)  'Tutorial home page [GitHub]'. Source: [https://yochan-lab.github.io/tutorial/LLMs-Planning/index.html](https://yochan-lab.github.io/tutorial/LLMs-Planning/index.html) (accessed: Thursday, February 29, 2024)
+
+**Purport**
+
+As Generative Artificial Intelligence (GenAI) and Large Language Models (LLMs) are discussed with import in a suite of tutorials, refer: Kambhampati (2024), captured and uploaded onto YouTube, and given that multiple Generative Artificial Intelligence (GenAI) and Large Language Model (LLM) command-line interface (CLI) implementtations have emerged, intersected and integrated with the computational shell, this suite of tutorials, by implications and extension, hold import and salience, for the emergent coalescing of manifold planning disciplines and the computational shell. 
 
 **L**
 
