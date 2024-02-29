@@ -7980,6 +7980,51 @@ So, the next time you enter the terminal and your fingers caress the keyboard, r
 This revised narrative combines the strengths of the previous version while incorporating insightful academic studies related to the vi, Vim, and Neovim ecosystem. It highlights the research surrounding these editors, further enriching the understanding of their cultural and technical significance within the *NIX world.
     
 All three: vi, Vim and Neovim, have been ported to the Termux Android CLI, and co-exist. I use all three. But, that's just me, I embrace the quirk of difference, I find the dynamism of value. Interestingly, as I am constantly iterating and developing my Neovim configurations and Lua Plugins, there are often errors with my Neovim configuration, that I need to research to resolve and often depend upon the extended Neovim community to help resolve. So, in practice, whilst I am pursuing the perfect bespoke, personalised, IDE for my workflow and use-case, I often end up using Vim, without plugins. This is less than ideal, but I contend the Neovim iteration, will be profoundly beneficial and incredibly useful, in the near future. There is probably a simple way to have a stable Neovim and Lua plugin configuration; and an unstable, progressive Neovim and Lua configuration, so I could continue using Neovim, whilst I iterate and extend its functionality. But, at present, I have not yet progressed this solution, and in practice oft-fall-back and rest upon the mainstay of Vim. 
+
+**Gemini, is the Neovim CLI text editor due to its plugin ecosystem and extensibility, as a bespoke and custom personalised IDE, property an API?**
+
+No, Neovim itself is not an API, but it **exposes a powerful API** that allows plugins and other applications to interact with it. 
+
+Here's a breakdown:
+
+* **Neovim is a text editor:** Its primary function is to provide a platform for editing text files.
+* **Plugin ecosystem and extensibility:** Neovim allows users to install and use plugins to extend its
+  functionality. This customization is what enables users to personalize their editing experience.
+* **API:** Neovim provides an interface (API) for these plugins and other applications to communicate
+  with the editor. This API allows them to access and manipulate various aspects of Neovim, such as the
+  buffer contents, the user interface, and the editing commands.
+
+Therefore, Neovim is a tool that provides an API for customization, not an API itself. The API is a separate functionality that facilitates interaction with the editor.
+
+No, Neovim itself is not an API, although it provides a powerful **API** for plugins and external applications to interact with its features and functionalities.
+
+Here's a breakdown:
+
+* **Neovim:** A text editor known for its customization and extensibility through plugins.
+* **API (Application Programming Interface):** A set of rules and specifications that allows other
+  programs to interact with a specific software application.
+
+While Neovim offers an API for **plugin development** and **external integration**, the editor itself is not simply an API. It's a standalone application with its own core functionality and user interface.
+
+The API enables developers to:
+
+* **Extend Neovim's functionality:** Create plugins that add new features and behaviors.
+* **Integrate with other tools:** Connect Neovim with external applications for enhanced workflows.
+* **Customize the editor experience:** Tailor Neovim to individual preferences.
+
+Therefore, Neovim's **extensibility through its API** allows for a **bespoke and personalized IDE experience**, but it doesn't make Neovim itself an API.
+
+No, Neovim itself is not an API, but it **does expose a powerful API** that allows plugins and other programs to interact with it. 
+
+Here's a breakdown of the key points:
+
+* **Neovim is a text editor:** Its primary function is to provide an environment for editing text files.
+* **Extensible with plugins:** Neovim can be extended with plugins to add additional features and
+  functionality.
+* **API for customization:** This API allows plugins and other programs to interact with Neovim in
+  various ways, enabling customization and the creation of personalized IDE-like experiences.
+
+Therefore, while Neovim is not an API itself, it provides an API that facilitates its use as a customizable and extensible text editor.
     
 Prior to my coding and scripting endeavours, as a writer and researcher, that has through rote, come to powerfully resource and bootstrap, the digital computational environment, I have navigated countless text editors and word-processing applications: proprietary, shareware, open source and FOSS. This experience has lent me a practical breadth of the potentialities and possibilities of difference, within and between, the human-centred text processing vehicle and medium. As well as its history and development. Currently, I have an indeterminate number of such packages and applications installed, but my workhorse and most-used app and go-to, is 'Floating Apps (multitasking)' from the Google Play Store. This application is quite a marvel, as well as unideal. It has a daunting plethora of sub-applications and functionalities, all of which bar the note-taking functionality, I persistently, stupidly and arrogantly, fail to use. It also potentially records and reports everything I do on my device to curious and/or malicious actors. I am aware of this, yet I irrationality persist in its use. I use Floating app the most, on both my phone and tablet, almost every time I turn on or access my hand-held devices. It has all the mantatory functions I require, but comes with bugs and quirks. I found another way to get the persistent-floating, window-resisable, almost immediately-accessible, functionality I absolutely require, through one of the developer of Android's 'QuickEdit+’ also sourced from Play. I purchased the app, and vehemently complained about the app not having, at minimum, my mandatory requirements. The developer wrote to me apologetically, and offered the esotericism, of how to make almost any, text editor or word processor within an esotericism forded through the built-in functionality, of Samsung Galaxy's OneUI, in its current evocations. Even so enlightened, facilitated and humbled by their imparting of such powerful wisdom, I still returned to, favoured, and wantonly, persisted with Floating. This is in evidence, of what I alluded to earlier. But I daresay, anticipate and expect, in my Neovim CLI journey subsuming the integration with Tmux and widgets, that I will find a way to customise, if not script and programme, my own solution to this requirement that leverages the confluence of these tools and plugins and their granularity, to realise the perfect solution. 
     
