@@ -22141,6 +22141,14 @@ Garfinkel, Simson; Weise, Daniel & Strassmann, Steven (eds.) (1994). 'The UNIX H
 
 Gebremichael, Yonas (2023). 'Master Termux - Hacking with Android: Beginner to Advance Complete Guide'. Second edition. Self-published, with no declared ISBN. ASIN ‏B0CGNXTSVG
 
+**Geoffrey James**
+
+James, Geoffrey (1987). 'The Tao of Programming.' Design and illustrations: Gloria Garland. Santa Monica, California, U. S. A.: Info Books. ISBN 0931137071
+
+**Purport**
+
+I am a devotee of this work, as to the [Tao](https://en.m.wikipedia.org/wiki/Tao) (Chinese: [道](https://en.m.wiktionary.org/wiki/%E9%81%93#cn), 'to explain', 'to talk about, 'way', 'road', 'The Way'). I commend both without reservation. 
+
 **Matthew Gimson**
 
 Gimson, Matthew (2015). 'Linux Command Line: Fast and Easy! - Linux Commands, Bash Scripting Tricks, Linux Shell Programming Tips and Bash One-Liners'. Self-published. 
