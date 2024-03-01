@@ -10,6 +10,8 @@ Finnigan, Dave (1993). 'The Zen of Juggling'. Edmonds, Washington, U. S. A.: Jug
 
 ## Publication details, editions, versions
 
+### English editions
+
 **Realised versions**
 
 **v.0.1.0**
@@ -39,6 +41,17 @@ By the fourth version, we should be in place to substantively include other shel
 **v.5.0.0**
 
 By the fifth edition, particularly with the rapid development, iteration and evolution of Generative Artificial Intelligence and its intersections and encorporations into the computational shell, this work will be the product of, and reflect, a whole 'Brave New World', and a whole new world of new technologies and technological advancements, all related to the shell, along with their challenges and threats. 
+
+### Translations into languages other-than English
+
+It is the fervest desire and wish of the founder of this roadmap and its project auspice, that versions of the English editions be translated in sum (greatly preferable) or as abridgements (to test the waters), by the community of this project, for the native speakers and cultures benefit of all currently extant, global languages. In conducting such an activity, it is preferred that all such translations, be dual-language in structure, including the original English and the newly translated language, side-by-side, for probity and to cultivate English as a second language, and build technical capacity and literacy, in developing countries and nation-states worldwide. It is preferred that technical words are not translated as loan words, but that indigenous concepts and lexicon be adapted in the first instance, as a priority, to assuage acculturation. 
+
+Weblate is an application and ecosystem for the decentralised and localised translation process for computer application projects and/or their attendant and associated documentation, or just documentation in general. It uses git technology and version control and has a command line client, so has command line interface integration, which we favour. It enables people in far-distant places, to work on translations together. Weblate currently supports over five hundred (500) languages, and more are added all the time. If your language is not supported, make contact with Weblate, to assist the process. 
+
+Though, the founder of this roadmap and its project auspice, has not personally used the GitHub project Weblate, its libre, open source focus and copyleft ideology, and community-building capacity and knowledge generation, are well-favoured by the founder, and we tentatively endorse it on principle, if not on direct experience. 
+
+Source: https://github.com/WeblateOrg/Weblate (accessed: Friday, March 1, 2024) 
+
 
 **Versioning construct**
 
