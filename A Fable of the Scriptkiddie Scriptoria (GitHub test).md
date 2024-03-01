@@ -48,7 +48,7 @@ It is the fervest desire and wish of the founder of this roadmap and its project
 
 Weblate is an application and ecosystem for the decentralised and localised translation process for computer application projects and/or their attendant and associated documentation, or just documentation in general. It uses git technology and version control and has a command line client, so has command line interface integration, which we favour. It enables people in far-distant places, to work on translations together. Weblate currently supports over five hundred (500) languages, and more are added all the time. If your language is not supported, make contact with Weblate, to assist the process. 
 
-Though, the founder of this roadmap and its project auspice, has not personally used the GitHub project Weblate, its libre, open source focus and copyleft ideology, and community-building capacity and knowledge generation, are well-favoured by the founder, and we tentatively endorse it on principle, if not on direct experience. 
+Though, the founder of this roadmap and its project auspice, has not personally used the GitHub project Weblate, its libre, open source focus and copyleft ideology, and community-building capacity and its enhanced capacity to streamline the process of knowledge generation and thereby assist knowledge dissemination, are well-favoured by the founder, and we tentatively endorse it on principle, if not on direct experience. 
 
 Source: https://github.com/WeblateOrg/Weblate (accessed: Friday, March 1, 2024) 
 
