@@ -22179,7 +22179,7 @@ I can't say with certainty, that I quite know exactly what all this means. But, 
 
 **Further reading**
 
-...
+Saxena, Saurabh (2011). 'Tala - The Riddle of an Icon' in *Puratattva: Indian Monument Gazetteer*, September 11, 2011. Source: [https://puratattva.in/tala-the-riddle-of-an-icon](https://puratattva.in/tala-the-riddle-of-an-icon) (accessed: Friday, March 1, 2024). Source: [https://archive.org/details/saxena-saurabh-2011.-tala-the-riddle-of-an-icon-in-puratattva](https://archive.org/details/saxena-saurabh-2011.-tala-the-riddle-of-an-icon-in-puratattva) (accessed: Friday, March 1, 2024). 
 
 
 
@@ -22729,7 +22729,11 @@ I edited this work whilst in the employ of Sarkissian, it honed my craft. I neve
 
 >	2002 Award for Excellence: planning scholarship, PIA Queensland for Wendy Sarkissian,
 >	Beauford Stenberg and Angela Hirst with Steph Walton (2002) 'Community Participation in
->	Practice: New Directions'.  
+>	Practice: New Directions'.
+
+**Saurabh Saxena**
+
+Saxena, Saurabh (2011). 'Tala - The Riddle of an Icon' in *Puratattva: Indian Monument Gazetteer*, September 11, 2011. Source: [https://puratattva.in/tala-the-riddle-of-an-icon](https://puratattva.in/tala-the-riddle-of-an-icon) (accessed: Friday, March 1, 2024). Source: [https://archive.org/details/saxena-saurabh-2011.-tala-the-riddle-of-an-icon-in-puratattva](https://archive.org/details/saxena-saurabh-2011.-tala-the-riddle-of-an-icon-in-puratattva) (accessed: Friday, March 1, 2024). 
 
 **Jason Savitt**
 
