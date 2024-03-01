@@ -22179,6 +22179,13 @@ I can't say with certainty, that I quite know exactly what all this means. But, 
 
 **Further reading**
 
+Coomaraswamy, Ananda K. (1928). 'Yakṣas' [Part I]. Washington, D. C., U. S. A.: Smithsonian Institution.
+[https://archive.org/details/yaksas](https://archive.org/details/yaksas) (accessed: Friday, March 1, 2024)
+
+Coomaraswamy, Ananda K. (1931). 'Yakṣas: Part II'. Washington, D. C., U. S. A.: Smithsonian Institution. Source: [https://library.si.edu/digital-library/book/yaksas02coom](https://library.si.edu/digital-library/book/yaksas02coom) (accessed: Friday, March 1, 2024)
+
+Misra, Ram Nath (1981). 'Yaksha Cult and Iconography'. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. 
+
 Saxena, Saurabh (2011). 'Tala - The Riddle of an Icon' in *Puratattva: Indian Monument Gazetteer*, September 11, 2011. Source: [https://puratattva.in/tala-the-riddle-of-an-icon](https://puratattva.in/tala-the-riddle-of-an-icon) (accessed: Friday, March 1, 2024). Source: [https://archive.org/details/saxena-saurabh-2011.-tala-the-riddle-of-an-icon-in-puratattva](https://archive.org/details/saxena-saurabh-2011.-tala-the-riddle-of-an-icon-in-puratattva) (accessed: Friday, March 1, 2024). 
 
 
@@ -22326,6 +22333,11 @@ Cooper, Mendel (2006). 'Advanced Bash-Scripting Guide: An in-depth exploration o
 Cooper, Mendel (2007). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Revision 6.2.07. Independently published. ISBN 9781435752191 
 
 Cooper, Mendel (2014). 'Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting'. Revision 10. Independently published. 
+
+Coomaraswamy, Ananda K. (1928). 'Yakṣas' [Part I]. Washington, D. C., U. S. A.: Smithsonian Institution.
+[https://archive.org/details/yaksas](https://archive.org/details/yaksas) (accessed: Friday, March 1, 2024)
+
+Coomaraswamy, Ananda K. (1931). 'Yakṣas: Part II'. Washington, D. C., U. S. A.: Smithsonian Institution. Source: [https://library.si.edu/digital-library/book/yaksas02coom](https://library.si.edu/digital-library/book/yaksas02coom) (accessed: Friday, March 1, 2024)
 
 **D**
 
