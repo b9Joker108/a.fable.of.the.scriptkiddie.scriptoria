@@ -44,7 +44,9 @@ By the fifth edition, particularly with the rapid development, iteration and evo
 
 ### Translations into languages other-than English
 
-It is the fervest desire and wish of the founder of this roadmap and its project auspice, that versions of the English editions be translated in sum (greatly preferable) or as abridgements (to test the waters), by the community of this project, for the native speakers and cultures benefit of all currently extant, global languages. In conducting such an activity, it is preferred that all such translations, be dual-language in structure, including the original English and the newly translated language, side-by-side, for probity and to cultivate English as a second language, and build technical capacity and literacy, in developing countries and nation-states worldwide. It is preferred that technical words are not translated as loan words, but that indigenous concepts and lexicon be adapted in the first instance, as a priority, to assuage acculturation. 
+It is the fervest desire and wish of the founder of this roadmap and its project auspice, that versions of the English editions be translated in sum (greatly preferable) or as abridgements (to test the waters), by the community of this project, for the native speakers and cultures benefit of all currently extant, global languages. In conducting such an activity, it is preferred that all such translations, be dual-language in structure, including the original English and the newly translated language, side-by-side, for probity and to cultivate English as a second language, and build technical capacity and literacy, in developing countries and nation-states worldwide. In such dual-language editions, it is strongly recommended to make explicit and specific reference to the English version(s), the translation is drawn from, using the specified Versioning construct, and that the translation itself, also utilise the versioning construct/protocol.
+
+In the translation process, it is preferred that technical words are not translated as loan words, from the English, but that indigenous concepts and lexicon be adapted in the first instance, as a priority, to assuage acculturation, and engender cultural congruity and thereby maximise ownership and uptake of the newly established indigenous technical lexicon. 
 
 Weblate is an application and ecosystem for the decentralised and localised translation process for computer application projects and/or their attendant and associated documentation, or just documentation in general. It uses git technology and version control and has a command line client, so has command line interface integration, which we favour. It enables people in far-distant places, to work on translations together. Weblate currently supports over five hundred (500) languages, and more are added all the time. If your language is not supported, make contact with Weblate, to assist the process. 
 
@@ -53,7 +55,7 @@ Though, the founder of this roadmap and its project auspice, has not personally 
 Source: https://github.com/WeblateOrg/Weblate (accessed: Friday, March 1, 2024) 
 
 
-**Versioning construct**
+**Versioning construct/protocol**
 
 This work conforms with Semantic Versioning 2.0.0. Though, this standard is designed for software, it may be usefully applied to written documentation. 
 Please refer:  
