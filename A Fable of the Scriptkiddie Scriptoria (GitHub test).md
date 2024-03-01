@@ -22184,11 +22184,11 @@ Coomaraswamy, Ananda K. (1928). 'Yakṣas' [Part I]. Washington, D. C., U. S. A.
 
 Coomaraswamy, Ananda K. (1931). 'Yakṣas: Part II'. Washington, D. C., U. S. A.: Smithsonian Institution. Source: [https://library.si.edu/digital-library/book/yaksas02coom](https://library.si.edu/digital-library/book/yaksas02coom) (accessed: Friday, March 1, 2024)
 
+Coomaraswamy, Ananda K. (auth.) & Schroeder, Paul (ed.) (1993). 'Yakṣas: Essays in the Water Cosmology'. New edition, revised and enlarged. Oxford, U. K.: Oxford University Press. ISBN 0195633857. Source: [https://archive.org/details/yaksasessaysinwa0000coom](https://archive.org/details/yaksasessaysinwa0000coom) (accessed: Saturday, March 2, 2024)
+
 Misra, Ram Nath (1981). 'Yaksha Cult and Iconography'. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. 
 
 Saxena, Saurabh (2011). 'Tala - The Riddle of an Icon' in *Puratattva: Indian Monument Gazetteer*, September 11, 2011. Source: [https://puratattva.in/tala-the-riddle-of-an-icon](https://puratattva.in/tala-the-riddle-of-an-icon) (accessed: Friday, March 1, 2024). Source: [https://archive.org/details/saxena-saurabh-2011.-tala-the-riddle-of-an-icon-in-puratattva](https://archive.org/details/saxena-saurabh-2011.-tala-the-riddle-of-an-icon-in-puratattva) (accessed: Friday, March 1, 2024). 
-
-
 
 ## Annotated Bibliography: Physical Print and Electronic Print Resources and Media 
 
@@ -22338,6 +22338,8 @@ Coomaraswamy, Ananda K. (1928). 'Yakṣas' [Part I]. Washington, D. C., U. S. A.
 [https://archive.org/details/yaksas](https://archive.org/details/yaksas) (accessed: Friday, March 1, 2024)
 
 Coomaraswamy, Ananda K. (1931). 'Yakṣas: Part II'. Washington, D. C., U. S. A.: Smithsonian Institution. Source: [https://library.si.edu/digital-library/book/yaksas02coom](https://library.si.edu/digital-library/book/yaksas02coom) (accessed: Friday, March 1, 2024)
+
+Coomaraswamy, Ananda K. (auth.) & Schroeder, Paul (ed.) (1993). 'Yakṣas: Essays in the Water Cosmology'. New edition, revised and enlarged. Oxford, U. K.: Oxford University Press. ISBN 0195633857. Source: [https://archive.org/details/yaksasessaysinwa0000coom](https://archive.org/details/yaksasessaysinwa0000coom) (accessed: Saturday, March 2, 2024)
 
 **D**
 
