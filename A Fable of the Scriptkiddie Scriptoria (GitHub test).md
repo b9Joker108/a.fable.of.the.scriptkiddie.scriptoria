@@ -13628,6 +13628,10 @@ You're absolutely right. While the term "contemporary computational shell" might
 
 Therefore, while the user might not always directly interact with the shell, it remains the **invisible backbone** that facilitates communication, execution, and management of the vast majority of tasks and tools mentioned in the previous response. The shell provides the foundation for building and automating the complex workflows and dataflows that power the financial markets.
 
+**Intertextuality**
+
+https://youtu.be/A5w-dEgIU1M?si=Jnt-beq_WpCiaf2M
+
 **The computational shell and knowledge**
 
 **The computational shell, archival, and records management**
