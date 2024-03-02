@@ -22627,6 +22627,14 @@ Beer emphasizes the interconnectivity of symbols, highlighting how they often wo
 
 BenTels & Kernigh, *et al.* (2024). 'Bourne Shell Scripting'. English Wikibooks. Source: [https://en.wikibooks.org/wiki/Bourne_Shell_Scripting/Print_Version](https://en.wikibooks.org/wiki/Bourne_Shell_Scripting/Print_Version) (accessed: Thursday, February 22, 2024) 
 
+**Fischer Black, *et al.***
+
+Black, Fischer & Scholes, Myron (1973). 'The Pricing of Options and Corporate Liabilities' in *The Journal of Political Economy*, Vol. 81, No. 3, May - June, 1973, pp. 637 - 654.
+
+**Purport**
+
+The mathematical equation generally held to be first published in this article, by Fischer, *et al.* (1973), though under contention, is directly responsible for amassing more wealth, than any other single artefact of the human intellect and/or imagination. The equation, draws on the work of a significant number of people, one notable being Bachelier(?). The equation has subsequently become generally known as The Black-Scholes-Merton equation.
+
 **Travis Booth**
 
 Booth, Travis (2019). 'The Linux Command Line: Getting Started with Bash and Shell Scripting'. Self-published. 
