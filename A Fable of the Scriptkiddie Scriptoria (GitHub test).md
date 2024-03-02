@@ -21090,6 +21090,94 @@ By Perplexity at [https://www.perplexity.ai/search/33932fd8-460e-48cd-8bf7-e432c
 
 **F**
 
+**Dave Finnigan**
+
+Dave Finnigan's impressive career encompasses juggling, education, and environmental activism. While there isn't a single comprehensive biography encompassing his entire life journey, here's a breakdown of his achievements:
+
+**Juggling Enthusiast and Entrepreneur:**
+
+* Founded **Jugglebug** (1976-2006), a company that provided juggling equipment to performers and
+  recreational jugglers. The company grew significantly, reaching $1 million in annual sales before
+  being sold in 1994.
+* Established **Juggling for Success**, a non-profit program dedicated to teaching juggling in schools.
+  He developed a unique method to engage entire school communities, including teachers, students, and
+  parents, in learning juggling within a single day.
+* Authored four well-received books on juggling, selling over 1 million copies globally and translated
+  into multiple languages.
+
+**Shifting Focus to Environmental Education:**
+
+* Founded **Green Actioneers**, an initiative empowering families to adopt sustainable practices. The
+  program utilizes the **Green Actioneers Workbook**, distributed at school Family Nights, as a
+  resource guide.
+* Became a **Climate Reality Leader** and actively participates in promoting environmental awareness.
+* Maintains his involvement with the **International Jugglers Association** as the Education Director
+  since 1976.
+
+While a single, comprehensive biography might not be readily available, Dave Finnigan's contributions to juggling education, entrepreneurship, and environmental advocacy are well-documented across various sources. His dedication to promoting these diverse interests continues to inspire and empower individuals of all ages.
+
+The person you described is **Dave Finnigan**, a renowned figure in the juggling world and a passionate advocate for environmental education. Here's a summary of his biography:
+
+**Juggling Career:**
+
+* Founded **Jugglebug** (1976-2006), a leading company for juggling equipment.
+* Created **Juggling for Success**, a non-profit program that brought juggling education to schools
+  across 12 countries.
+* Authored four acclaimed juggling books, selling over 1 million copies worldwide.
+* Pioneered a method for engaging entire schools in juggling within a single day, involving teachers,
+  students, and parents.
+
+**Environmental Advocacy:**
+
+* Established **Green Actioneers**, an initiative using the Green Actioneers Workbook to empower
+  families to adopt eco-friendly practices, starting with school Family Nights.
+* Became a **Climate Reality Leader** dedicated to raising awareness about climate change.
+
+**Additional Information:**
+
+* Earned the **Certified Speaking Professional (CSP)** designation, the highest honor bestowed by the
+  National Speakers Association.
+* Served as the **Education Director** for the International Jugglers Association since 1976.
+
+While there isn't a single comprehensive biography encompassing all aspects of his career, you can find detailed information about Dave Finnigan's various achievements through various online resources:
+
+* **Dave Finnigan's professional website:** [Dave Finnigan Biography] provides insights into his work
+  as a writer, theatre-maker, and game developer at the intersection of science and art.
+* **His LinkedIn profile:** [Dave Finnigan, MPH, Certified Speaking Professional] highlights his
+  juggling career, educational background, and environmental advocacy efforts.
+* **A speaker booking website:** [Dave Finnigan Biography | Booking Info for Speaking Engagements]
+  details his accomplishments in juggling education and motivational speaking.
+
+By exploring these resources, you can gain a well-rounded understanding of Dave Finnigan's multifaceted contributions to the juggling community and his dedication to environmental sustainability.
+
+Dave Finnigan's impressive career encompasses juggling, education, and environmental activism. Here's a summary of his biography based on various sources:
+
+**Juggling Enthusiast and Entrepreneur:**
+
+* Founded Jugglebug, a leading juggling equipment company, in 1976. The company grew significantly,
+  reaching $1 million in annual sales before being sold in 1994.
+* Pioneered the use of slow-moving nylon scarves for teaching juggling, making it accessible to a
+  wider audience.
+* Developed "Juggling for Success," a one-day program that brought juggling education to over 2,000
+  schools in 12 countries.
+
+**Prolific Author and Educator:**
+
+* Authored four major books on juggling, collectively selling over 1 million copies and translated
+  into multiple languages.
+* Devised a unique method to engage entire school communities, including teachers, students, and
+  parents, in learning to juggle within a single day.
+
+**Shifting Focus to Environmental Sustainability:**
+
+* Leveraging his experience in education and outreach, Dave now champions environmental causes.
+* Created the Green Actioneers Workbook, distributed at school family nights, to empower families to
+  adopt eco-friendly practices.
+* Actively involved with the Climate Reality Leadership Corps, promoting climate change awareness and
+  action.
+
+Dave Finnigan's dedication to spreading the joy of juggling and his commitment to environmental responsibility continue to inspire people of all ages.
+
 **G**
 
 
