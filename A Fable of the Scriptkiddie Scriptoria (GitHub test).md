@@ -13628,9 +13628,15 @@ You're absolutely right. While the term "contemporary computational shell" might
 
 Therefore, while the user might not always directly interact with the shell, it remains the **invisible backbone** that facilitates communication, execution, and management of the vast majority of tasks and tools mentioned in the previous response. The shell provides the foundation for building and automating the complex workflows and dataflows that power the financial markets.
 
+**Purport**
+
+The mathematical equation generally held to be first published in Fischer, *et al.* (1973), though under contention, is directly responsible for amassing more wealth, than any other single artefact of the human intellect and/or imagination. The equation, draws on the work of a significant number of people, one notable being Bachelier(?). The equation has subsequently become generally known as The Black-Scholes-Merton equation. If you have a particular desire or motivation to persue the computational shell, in relation to financial markets, in the widest possible denotation, understanding this equation, its domain and its applications, are an imperative. Many scripting tools, that flow through the computational shell, will by necessity draw on this equation and apply it, so having a deep understanding, of its nature, function, purpose, implications and applications, and extensibility, as well as that which it problematises and destabilises, is mandatory, for probity.
+
 **Intertextuality**
 
 https://youtu.be/A5w-dEgIU1M?si=Jnt-beq_WpCiaf2M
+
+Black, Fischer & Scholes, Myron (1973). 'The Pricing of Options and Corporate Liabilities' in *The Journal of Political Economy*, Vol. 81, No. 3, May - June, 1973, pp. 637 - 654.
 
 **The computational shell and knowledge**
 
