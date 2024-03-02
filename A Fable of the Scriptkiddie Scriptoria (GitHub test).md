@@ -21952,6 +21952,116 @@ A pioneering computer scientist and U.S. Navy Rear Admiral, Hopper revolutionize
 
 **J**
 
+**William Stanley Jevons (1835-1882)**
+
+**Early Life and Education:**
+
+* Born in Liverpool, England, in 1835.
+* Son of a successful iron merchant.
+* Initially studied natural sciences at University College London (UCL).
+* In 1854, he left for Australia to work as an assayer at the Sydney Mint.
+* Upon returning to England in 1859, he resumed his studies at UCL, focusing on political economy.
+* Earned his Bachelor of Arts (BA) and Master of Arts (MA) degrees, specializing in Logic, Philosophy,
+  and Political Economy.
+
+**Pioneering Contributions to Economics:**
+
+* Jevons is considered one of the **founding fathers of marginal utility theory**, a core principle
+  in modern economics. 
+* His 1862 book, **"General Mathematical Theory of Political Economy"**, outlined this theory, which
+  posits that the value of a good or service is determined by the marginal utility it provides to a
+  consumer, not its cost of production.
+* He also made significant contributions to **quantitative economics**, emphasizing the use of
+  mathematical models and statistical analysis in economic theory.
+* Another notable work, **"A Serious Fall in the Value of Gold"** (1863), analyzed the impact of gold
+  discoveries on inflation.
+
+**Later Life and Legacy:**
+
+* Jevons was elected a Fellow of the Royal Society in 1872.
+* He became Professor of Political Economy at UCL in 1876.
+* Despite his academic success, Jevons' health suffered due to overwork and he retired in 1880.
+* Tragically, he drowned while swimming in the English Channel in 1882.
+
+**Jevons' work** played a crucial role in revolutionizing economic thought. His emphasis on marginal utility and quantitative methods helped bridge the gap between economics and mathematics, paving the way for modern economic analysis. He is remembered as a **foundational figure** who significantly shaped the way we understand economic value and behavior.
+
+**William Stanley Jevons (1835-1882)**
+
+Jevons was a British economist, logician, and statistician who made significant contributions to the development of marginal utility theory and mathematical economics.
+
+**Early Life and Education:**
+
+* Born in Liverpool, England, in 1835.
+* Son of a successful iron merchant.
+* Initially studied natural sciences at University College London (UCL).
+* In 1854, he left for Australia to work as an assayer at the Sydney Mint.
+
+**Shift to Economics:**
+
+* While in Australia, Jevons developed an interest in political economy, possibly due to a local
+  dispute over railway funding.
+* He returned to England in 1859 and re-entered UCL, focusing on economics and logic.
+* Earned his Bachelor's and Master's degrees, specializing in political economy.
+
+**Contributions to Economics:**
+
+* **General Mathematical Theory of Political Economy (1862):** This book outlined Jevons's theory of
+  value, emphasizing the marginal utility concept. He argued that the value of a good or service is
+  determined by the additional satisfaction (utility) derived from consuming one more unit, considering
+  the diminishing marginal utility as consumption increases.
+* **A Serious Fall in the Value of Gold (1863):** This work analyzed a gold discovery in Australia and
+  its impact on the economy.
+* **Advocacy for Mathematical Economics:** Jevons championed the use of mathematics and statistics in
+  economic analysis, paving the way for a more quantitative approach.
+
+**Later Life and Legacy:**
+
+* After earning his degrees, Jevons struggled to find a permanent academic position due to his
+  unorthodox economic views.
+* He eventually became Professor of Political Economy at University College London in 1876, but
+  retired due to ill health just four years later.
+* Jevons tragically drowned while swimming off the coast of England in 1882.
+* Despite his relatively short career, Jevons's work on marginal utility theory and mathematical
+  economics had a lasting impact. His ideas, along with those of Carl Menger and Léon Walras, formed
+  the foundation for neoclassical economics.
+
+Jevons is recognized as a pivotal figure in the development of modern economics, influencing generations of economists with his emphasis on marginal utility and the application of mathematics to economic analysis. 
+
+**William Stanley Jevons (1835-1882)**
+
+Jevons was a British economist and logician who played a pivotal role in the development of marginal utility theory and mathematical economics. Here's a breakdown of his life and achievements:
+
+**Early Life and Education:**
+
+* Born in Liverpool, England, in 1835.
+* Studied at University College London, initially focusing on natural sciences.
+* In 1854, he left for Australia to work as an assayer at the Sydney Mint. While there, he developed
+  an interest in political economy.
+
+**Contributions to Economics:**
+
+* Upon returning to England in 1859, Jevons published his landmark work, **"General Mathematical
+  Theory of Political Economy" (1862)**. This book introduced the **marginal utility theory of
+  value**, which proposes that the value of a good or service is determined by the additional
+  satisfaction (utility) it provides to a consumer, diminishing with each additional unit consumed.
+* He also championed the use of mathematical tools and statistical analysis in economic theory,
+  paving the way for a more rigorous approach to the field.
+* Jevons, along with Carl Menger and Léon Walras, is recognized as one of the **founding fathers
+  of marginalism** in economics.
+
+**Other Achievements:**
+
+* Jevons was a prolific writer, publishing numerous books and articles on economics, logic,
+  meteorology, and other topics.
+* He served as Professor of Political Economy at University College London from 1876 to 1880.
+* Unfortunately, Jevons drowned while swimming at sea in 1882.
+
+**Legacy:**
+
+Jevons' work on marginal utility theory had a profound impact on economic thought. It challenged the dominant classical economic theories of the time and laid the foundation for modern economic analysis. His emphasis on mathematical methods continues to be an important aspect of economic research.
+
+While there might not be a singular biography encompassing all aspects of his life, information about William Stanley Jevons is available in various sources, including academic journals, online encyclopedias, and historical records. 
+
 **Katherine Johnson (1918-2020)**
 
 A brilliant mathematician and NASA "human computer," Johnson's calculations were crucial for the success of early American space missions, including the Apollo 11 moon landing. Despite facing racial and gender discrimination, her skills and dedication played a critical role in advancing space exploration. Her story, inspiring generations of aspiring scientists and mathematicians, gained wider recognition later in her life.
@@ -22667,6 +22777,9 @@ This video needs to be transcribed and meticulously edited. I need to watch it a
 **I**
 
 **J**
+
+
+
 
 **K**
 
