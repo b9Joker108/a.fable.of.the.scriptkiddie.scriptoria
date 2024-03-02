@@ -21985,8 +21985,6 @@ A pioneering computer scientist and U.S. Navy Rear Admiral, Hopper revolutionize
 
 **Jevons' work** played a crucial role in revolutionizing economic thought. His emphasis on marginal utility and quantitative methods helped bridge the gap between economics and mathematics, paving the way for modern economic analysis. He is remembered as a **foundational figure** who significantly shaped the way we understand economic value and behavior.
 
-**William Stanley Jevons (1835-1882)**
-
 Jevons was a British economist, logician, and statistician who made significant contributions to the development of marginal utility theory and mathematical economics.
 
 **Early Life and Education:**
@@ -22027,8 +22025,6 @@ Jevons was a British economist, logician, and statistician who made significant 
 
 Jevons is recognized as a pivotal figure in the development of modern economics, influencing generations of economists with his emphasis on marginal utility and the application of mathematics to economic analysis. 
 
-**William Stanley Jevons (1835-1882)**
-
 Jevons was a British economist and logician who played a pivotal role in the development of marginal utility theory and mathematical economics. Here's a breakdown of his life and achievements:
 
 **Early Life and Education:**
@@ -22061,6 +22057,107 @@ Jevons was a British economist and logician who played a pivotal role in the dev
 Jevons' work on marginal utility theory had a profound impact on economic thought. It challenged the dominant classical economic theories of the time and laid the foundation for modern economic analysis. His emphasis on mathematical methods continues to be an important aspect of economic research.
 
 While there might not be a singular biography encompassing all aspects of his life, information about William Stanley Jevons is available in various sources, including academic journals, online encyclopedias, and historical records. 
+
+**Jevons Paradox**
+
+The Jevons Paradox, named after William Stanley Jevons, is an economic principle that suggests that improvements in the efficiency of using a resource can sometimes lead to an **increase** in overall consumption of that resource, rather than the expected decrease. This can happen for several reasons:
+
+**1. The Rebound Effect:** When a resource becomes cheaper to use due to increased efficiency, people tend to use more of it. For example, if cars become more fuel-efficient, consumers might drive more often or buy larger vehicles, negating the efficiency gains.
+
+**2. Increased Demand:** As the cost of using a resource goes down, it becomes more affordable for a wider range of people. This can lead to a net increase in consumption, even if individual users become more efficient. 
+
+**3. Economic Growth:** Increased efficiency can lead to economic growth, which can put more money in people's pockets. This additional disposable income can be used to consume more of the same resource, even if it's used more efficiently.
+
+**Jevons Paradox and Energy Consumption:**
+
+The Jevons Paradox is often cited in the context of energy consumption. As technologies become more energy-efficient, people might use them more frequently or purchase additional energy-consuming devices. This can lead to a situation where even though individual appliances use less energy, overall energy consumption doesn't decrease as much as expected.
+
+**The Paradox Doesn't Deny Efficiency:**
+
+It's important to understand that the Jevons Paradox doesn't argue against pursuing efficiency improvements. Instead, it highlights the need for a **multifaceted approach** to resource conservation. Here are some strategies to consider:
+
+* **Promoting awareness:**  Educating consumers about the paradox and encouraging them to use
+  efficient technologies responsibly.
+* **Policy measures:**  Implementing regulations or taxes that discourage excessive resource
+  consumption alongside promoting efficiency.
+* **Innovation in resource management:**  Developing sustainable energy sources and exploring
+  alternative solutions to lessen dependence on traditional resources.
+
+**Jevons Paradox remains a relevant concept** in understanding the complex relationship between 
+technological advancements, resource consumption, and economic factors. 
+
+Jevons Paradox, also known as the rebound effect, is an economic principle named after **William Stanley Jevons**. It describes a situation where technological advancements designed to increase the efficiency of using a resource (like energy) actually lead to an overall **increase in consumption** of that resource, negating or even outweighing the efficiency gains.
+
+Here's a breakdown of the paradox:
+
+* **Increased Efficiency:** New technologies lead to a decrease in the amount of a resource needed
+  to complete a task. For example, a more fuel-efficient car might require less gasoline to travel
+  the same distance.
+* **Lower Costs:** Due to increased efficiency, the resource becomes relatively cheaper. This can
+  have two effects:
+    * **Substitution Effect:** Consumers use the same amount of the resource for the same task,
+      but allocate the saved money to purchase other goods or services. (Think of driving a fuel-
+      efficient car further because it costs less per mile.)
+    * **Demand Effect:** The lower price incentivizes consumers to use more of the resource.
+      (Think of driving more frequently because it's cheaper per mile.)
+
+**The paradox arises when the demand effect outweighs the substitution effect**. In the car example, people might drive more often or buy bigger, less fuel-efficient vehicles because they perceive driving as cheaper. This can lead to an overall increase in fuel consumption despite the efficiency improvements in individual vehicles.
+
+**Real-World Examples:**
+
+* **Jevons' original observation:** In the 19th century, improvements in steam engine efficiency
+  didn't lead to a decrease in coal consumption, but rather allowed industries to expand production,
+  ultimately increasing coal use.
+* **Lightbulbs:** Switching from incandescent bulbs to more efficient LEDs can lead to households
+  using them for longer durations or installing them in more places, potentially negating some of
+  the energy savings.
+
+**Mitigating Jevons Paradox:**
+
+* **Policy interventions:** Implementing taxes or regulations on resource consumption can help
+  counteract the demand effect.
+* **Education and Awareness:** Encouraging consumers to be mindful of their resource usage and
+  choose energy-efficient options can help promote responsible consumption.
+* **Technological advancements:**  Developing technologies that not only improve efficiency but
+  also limit total consumption can be a long-term solution. 
+
+Jevons Paradox highlights the importance of considering the broader economic and behavioral implications of technological advancements. It reminds us that simply increasing efficiency might not be enough to achieve sustainable resource use and requires a multifaceted approach. 
+
+Jevons Paradox, also known as the rebound effect, is an economic principle named after **William Stanley Jevons**. It describes a situation where technological advancements designed to increase the efficiency of resource use (like energy) can actually lead to **increased overall consumption** of that resource.
+
+Here's a breakdown of the paradox:
+
+1. **Improved Efficiency:** Imagine a new technology allows us to get more work done using less
+   energy (e.g., more efficient light bulbs).
+3. **Cost Reduction:** Due to the increased efficiency, the cost of using the resource (e.g.,
+   electricity) might decrease.
+5. **Increased Consumption:** The lower cost incentivizes people to use the resource more (e.g.,
+   using brighter lights for longer durations).
+7. **Offsetting Gains:** In some cases, the increased consumption can outweigh the efficiency
+   gains, leading to **higher overall resource usage**.
+
+**Examples of Jevons Paradox:**
+
+* **Steam Engines:** Jevons himself observed this phenomenon with steam engines. As they became
+  more efficient, their use expanded in factories, leading to a **rise in overall coal consumption**.
+* **Fuel Efficiency:** Increased fuel efficiency in cars can lead to people driving more,
+  potentially negating the environmental benefits of the technology.
+
+**Jevons Paradox and Policy Implications:**
+
+Understanding Jevons Paradox is crucial for policymakers and businesses when developing strategies 
+for resource conservation. Simply focusing on efficiency improvements might not be enough. Here 
+are some additional considerations:
+
+* **Regulation:** Implementing policies like carbon taxes or fuel efficiency standards can help
+  mitigate the rebound effect.
+* **Behavioral Change:** Encouraging responsible consumption habits alongside efficiency
+  improvements can be more effective.
+* **Technological Advancements:** Focusing on innovations that reduce the overall demand for
+  the resource can be a long-term solution.
+
+**Jevons Paradox highlights the complexities of resource management and the need for a 
+multi-pronged approach when aiming for sustainability.**
 
 **Katherine Johnson (1918-2020)**
 
