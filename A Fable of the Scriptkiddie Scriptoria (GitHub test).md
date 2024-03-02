@@ -13745,6 +13745,16 @@ By incorporating this structure and elements, you can create a valuable resource
 
 **The computational shell and data-mining**
 
+**The computational shell and farming**
+
+
+
+**The computational shell and agriculture**
+
+
+
+**The computational shell and demographics**
+
 **The computational shell and economics**
 
 **Gemini, if we are going to construct a curriculum around acquiring practical economics principles, practices, and theories, with experiential, practical shell scripting examples and exercises in Bash and Zsh, what would the course structure look like?**
@@ -13997,6 +14007,300 @@ The course is divided into three modules, with each module combining economic co
 
 This curriculum provides a framework for a course that blends economic theory with practical shell scripting applications. By combining these elements, students can gain a deeper understanding of economic principles and how scripting can be a valuable tool for economic research and analysis. 
 
+**Gemini, what about an economics course, focusing on revisionist, new and emergent paradigms in economics, with practical examples and exercises in shell scripting in Bash and Zsh?**
+
+## Economics Through an Alternative Lens: Scripting for New Paradigms
+
+This course delves into revisionist, new, and emergent economic paradigms, using practical exercises 
+in Bash and Zsh scripting to analyze and model economic phenomena beyond traditional frameworks.
+
+**Target Audience:** This course is designed for individuals with a basic understanding of economics who are interested in exploring alternative economic theories and leveraging scripting for analysis.
+
+**Course Structure:**
+
+The course is divided into three modules, each focusing on a specific economic paradigm and utilizing shell scripting for practical application:
+
+**Module 1: Challenging the Mainstream (2 weeks)**
+
+* **Behavioral Economics and Scripting Applications:**
+    * Concepts: Nudges, bounded rationality, prospect theory.
+    * Shell Scripting Examples:
+        * Script to simulate a simple economic game demonstrating cognitive biases.
+        * Script to analyze real-world examples of nudges in economic policy (data permitting).
+* **Feminist Economics and Scripting Applications:**
+    * Concepts: Gender pay gap, care work valuation, alternative economic indicators.
+    * Shell Scripting Examples:
+        * Script to scrape and analyze gender pay gap data from government sources.
+        * Script to model the economic value of unpaid care work (e.g., childcare).
+* **Ecological Economics and Scripting Applications:**
+    * Concepts: Sustainability, environmental externalities, degrowth economics.
+    * Shell Scripting Examples:
+        * Script to download and analyze environmental data (e.g., carbon emissions).
+        * Script to create a basic model simulating resource depletion and economic growth
+          (considering ecological constraints).
+
+**Module 2: Scripting for Data Analysis in Alternative Economics (2 weeks)**
+
+* **Data Sources for New Paradigms:**
+    * Concepts: Identifying data sources relevant to alternative economic theories.
+    * Shell Scripting Examples:
+        * Script to search and access data repositories for specific economic indicators (e.g.,
+          time use surveys for feminist economics).
+        * Script to scrape data from relevant websites or APIs for alternative economic analysis.
+
+* **Data Cleaning and Manipulation for New Models:**
+    * Concepts: Techniques for cleaning and preparing data specific to the chosen economic paradigm.
+    * Shell Scripting Examples:
+        * Script to clean and format data on unpaid care work for economic valuation.
+        * Script to manipulate environmental data sets for ecological economic modeling.
+
+* **Data Visualization for Alternative Narratives:**
+    * Concepts: Creating compelling visualizations to communicate findings from alternative
+      economic analyses.
+    * Shell Scripting Examples (using tools like Gnuplot or Python libraries):
+        * Script to generate charts highlighting gender pay gaps across different sectors.
+        * Script to create graphs visualizing the relationship between economic growth and
+          environmental degradation.
+
+**Module 3: Exploring the Future of Economics (2 weeks)**
+
+* **Agent-Based Modeling and Scripting Applications:**
+    * Concepts: Simulating economic behavior using agent-based models.
+    * Shell Scripting Examples (potentially using Python libraries):
+        * Script to create a simple agent-based model simulating consumer behavior in a market
+          with bounded rationality.
+        * Script to model economic interactions considering ecological constraints (introductory
+          level).
+
+* **Complexity Economics and Scripting Applications:**
+    * Concepts: Emergence, self-organization, network analysis in economic systems.
+    * Shell Scripting Examples (potentially using Python libraries for network analysis):
+        * Script to analyze economic data through the lens of network theory (limited scope).
+
+* **The Future of Work and Scripting Applications:**
+    * Concepts: Automation, the sharing economy, the impact of technology on labor markets.
+    * Shell Scripting Examples:
+        * Script to scrape and analyze data on job postings to explore trends in automation and
+          skill requirements. 
+
+**Assessment:**
+
+* Quizzes and assignments to assess understanding of alternative economic paradigms.
+* Programming assignments involving shell scripting for data analysis, model building, and
+  visualization tasks related to the chosen economic paradigm.
+* A final project where students apply scripting skills to analyze a specific economic issue
+  through the lens of a chosen alternative paradigm. 
+
+**Resources:**
+
+* The course will provide a list of recommended readings on revisionist, new, and emergent
+  economic theories.
+* Tutorials and documentation for Bash and Zsh scripting will be included.
+* Links to relevant data repositories and tools for data analysis will be provided.
+
+**Software:**
+
+* Students will need a computer with a terminal and a basic text editor.
+* The course will primarily use Bash scripting, but might introduce Zsh concepts as well.
+* Depending on the complexity of the exercises, additional tools like cURL, Gnuplot, or Python
+  libraries for data analysis and network analysis might be introduced.
+
+**Important Note:**
+
+*  Modeling complex economic phenomena using agent-based modeling or complexity economics might
+   equire additional libraries or frameworks beyond basic shell scripting. This course can introduce
+   these concepts but might not delve deeply into
+
+## Economics: Revisionist, New, and Emergent Paradigms with Shell Scripting
+
+This course delves into alternative economic theories beyond traditional models, exploring revisionist, new, and emergent schools of thought. It integrates practical exercises using Bash and Zsh scripting to analyze economic data and model these alternative economic frameworks.
+
+**Target Audience:** This course is designed for individuals with a basic understanding of economics who are interested in exploring non-mainstream approaches. Prior scripting experience is helpful, but not mandatory.
+
+**Course Structure:**
+
+The course is divided into three modules, each focusing on a distinct economic paradigm:
+
+**Module 1: Challenging the Mainstream (2 weeks)**
+
+* **Behavioral Economics and Bounded Rationality:**
+    * Concepts: Heuristics and biases, prospect theory, experimental economics.
+    * Scripting Examples:
+        * Script to simulate a simple economic game demonstrating bounded rationality (e.g.,
+          Prisoner's Dilemma).
+        * Script to scrape data from online surveys to analyze consumer behavior.
+* **Feminist Economics and Gender Inequality:**
+    * Concepts: Gender pay gap, unpaid care work, feminist critiques of traditional models.
+    * Scripting Examples:
+        * Script to download and analyze gender-based economic data (e.g., labor force
+          participation rates).
+        * Script to visualize the gender pay gap across different sectors.
+* **Ecological Economics and Sustainability:**
+    * Concepts: Environmental externalities, natural capital depletion, degrowth economics.
+    * Scripting Examples:
+        * Script to collect and analyze environmental data (e.g., carbon emissions).
+        * Script to model the impact of economic growth on resource depletion (basic simulations).
+
+**Module 2: Exploring New Horizons (2 weeks)**
+
+* **The Sharing Economy and Collaborative Consumption:**
+    * Concepts: Peer-to-peer marketplaces, access over ownership, impact on traditional economic
+      models.
+    * Scripting Examples:
+        * Script to scrape data from sharing economy platforms (e.g., Airbnb rental prices).
+        * Script to analyze the economic impact of the sharing economy on specific sectors.
+* **Complexity Economics and Agent-Based Modeling:**
+    * Concepts: Agent-based models, emergence, economic systems as complex adaptive systems.
+    * Scripting Examples (Introductory):
+        * Script to create a simple agent-based model of a market with limited interaction rules
+          (using an existing library).
+        * Script to visualize the emergent behavior of the model.
+* **Behavioral Finance and Market Anomalies:**
+    * Concepts: Herd behavior, market bubbles and crashes, emotional influences on investment
+      decisions.
+    * Scripting Examples:
+        * Script to download and analyze historical stock market data.
+        * Script to calculate simple technical indicators used in behavioral finance.
+
+**Module 3: The Future of Economics (2 weeks)**
+
+* **Post-Growth Economics and Wellbeing:**
+    * Concepts: Degrowth, alternative measures of well-being beyond GDP.
+    * Scripting Examples:
+        * Script to download and analyze data on well-being indicators (e.g., happiness surveys).
+        * Script to compare well-being metrics across different countries.
+* **The Circular Economy and Resource Efficiency:**
+    * Concepts: Closing the loop, product lifecycle management, economic models for sustainability.
+    * Scripting Examples:
+        * Script to scrape data on recycling rates and resource consumption.
+        * Script to model the economic benefits of a circular economy approach in a specific
+          industry.
+* **The Economics of Happiness and Social Progress:**
+    * Concepts: Subjective well-being, social capital, happiness economics.
+    * Scripting Examples:
+        * Script to download and analyze data on social indicators (e.g., social trust, income
+          inequality).
+        * Script to explore correlations between economic factors and social well-being.
+
+**Assessment:**
+
+* Quizzes and assignments throughout the modules to test understanding of revisionist and new
+  economic theories.
+* Practical scripting exercises applying shell scripting to analyze data relevant to the chosen
+  economic paradigm.
+* A final project where students choose a specific topic within revisionist, new, or emergent
+  economics and develop a model or analysis using shell scripting to explore the chosen theme.
+
+**Resources:**
+
+* The course will provide a list of recommended readings on revisionist, new, and emergent
+  economic theories.
+* Tutorials and documentation for Bash and Zsh scripting will be included.
+* Links to online data repositories relevant to the alternative economic frameworks will be
+  provided.
+
+**Software:**
+
+* Students will need a computer with a terminal and a basic text editor.
+* The course will primarily use Bash scripting, but might introduce Zsh concepts as well.
+* Additional tools like cURL, Gnuplot, or Python libraries for data analysis might be introduced
+  depending on the complexity of the exercises.
+
+This course structure encourages students to critically examine traditional economic models and explore alternative
+
+## Curriculum: Economics - Revisionist, New & Emergent Paradigms with Shell Scripting
+
+This course delves into alternative economic theories beyond mainstream models, exploring revisionist, new, and emergent paradigms. It integrates practical exercises using Bash and Zsh scripting to analyze data and model economic behavior within these frameworks.
+
+**Target Audience:** This course is designed for individuals with a foundational understanding of economics who are interested in exploring alternative economic thinking and its practical applications. Basic computer literacy and scripting experience are helpful.
+
+**Course Structure:**
+
+The course is divided into three modules, each focusing on a specific economic paradigm and incorporating shell scripting exercises:
+
+**Module 1: Challenging the Mainstream (2 weeks)**
+
+* **Behavioral Economics and Bounded Rationality:**
+    * Concepts: Heuristics and biases, prospect theory, experimental economics.
+    * Shell Scripting Examples:
+        * Script to simulate a simple economic game demonstrating bounded rationality (e.g.,
+          Prisoner's Dilemma).
+        * Script to scrape data from online surveys related to economic decision-making.
+* **Feminist Economics and Gender Inequality:**
+    * Concepts: Gender pay gap, care work, alternative economic valuation models.
+    * Shell Scripting Examples:
+        * Script to analyze wage data and calculate gender pay gaps from government datasets.
+        * Script to scrape and compare data on unpaid care work across different countries.
+* **Ecological Economics and Sustainability:**
+    * Concepts: Environmental externalities, steady-state economy, doughnut economics.
+    * Shell Scripting Examples:
+        * Script to download and analyze environmental data (e.g., carbon emissions).
+        * Script to model resource depletion based on economic activity and population growth.
+
+**Module 2: New Paradigms for the 21st Century (2 weeks)**
+
+* **The Sharing Economy and Collaborative Consumption:**
+    * Concepts: Peer-to-peer marketplaces, collaborative consumption models, impact on
+      traditional economic structures.
+    * Shell Scripting Examples:
+        * Script to scrape data from sharing economy platforms and analyze pricing trends.
+        * Script to simulate a simple peer-to-peer lending model using shell variables.
+* **The Network Economy and Platform Power:**
+    * Concepts: Network effects, platform monopolies, implications for competition and regulation.
+    * Shell Scripting Examples:
+        * Script to collect and analyze data on user activity on online platforms.
+        * Script to simulate a simple network effect model (e.g., social media platform growth).
+* **Complexity Economics and Agent-Based Modeling:**
+    * Concepts: Agent-based modeling, emergence, economic systems as complex adaptive systems.
+    * Shell Scripting Examples (Introductory):
+        * Script to set up a basic agent-based model framework using a Python library (introduction
+          to integration with scripting).
+        * Script to visualize the simulation results of an agent-based model (e.g., using Gnuplot).
+
+**Module 3: Exploring the Future of Economics (2 weeks)**
+
+* **The Blockchain Economy and Cryptocurrencies:**
+    * Concepts: Distributed ledger technology, smart contracts, potential impact on economic
+      institutions.
+    * Shell Scripting Examples:
+        * Script to interact with blockchain data using command-line tools (if applicable).
+        * Script to model a simple cryptocurrency exchange using shell variables and conditional
+          statements.
+* **The Economics of Happiness and Well-being:**
+    * Concepts: Beyond GDP, alternative measures of well-being, Bhutan's Gross National Happiness
+      index.
+    * Shell Scripting Examples:
+        * Script to download and analyze data on happiness indicators from international
+          organizations.
+        * Script to visualize correlations between economic factors and well-being measures.
+* **The Future of Work and Automation:**
+    * Concepts: Technological unemployment, universal basic income, the changing nature of work.
+    * Shell Scripting Examples:
+        * Script to scrape job market data and analyze trends in automation and job displacement.
+        * Script to model the impact of a universal basic income on economic behavior (simple
+          simulation).
+
+**Assessment:**
+
+* Quizzes and assignments to assess understanding of revisionist and new economic paradigms.
+* Practical exercises involving shell scripting for data analysis, modeling, and visualization
+  related to the chosen economic paradigm.
+* Final project applying a chosen economic paradigm and shell scripting to analyze a real-world
+  economic issue or propose a solution to a current economic challenge.
+
+**Resources:**
+
+* The course will provide a list of recommended economics textbooks, academic articles, and
+  online resources focusing on revisionist and new economic theories.
+* Tutorials and documentation for Bash and Zsh scripting will be included.
+* Links to relevant economic data repositories and online tools will be provided.
+
+**Software:**
+
+* Students will need a computer with a terminal and a basic text editor.
+* The course will primarily use Bash scripting but might introduce Zsh concepts.
+* Depending on the complexity
+
 **The computational shell and financial markets**
 
 **Gemini, how does the contempory computational shell intersect, enable and inform, the multitude of workflows and dataflows, and their construction, control, manipulation, and dissemination, in regards to financial markets, in the widest possible denotation?**
@@ -14180,6 +14484,40 @@ The mathematical equation generally held to be first published in Fischer, *et a
 https://youtu.be/A5w-dEgIU1M?si=Jnt-beq_WpCiaf2M
 
 Black, Fischer & Scholes, Myron (1973). 'The Pricing of Options and Corporate Liabilities' in *The Journal of Political Economy*, Vol. 81, No. 3, May - June, 1973, pp. 637 - 654.
+
+**The computational shell and sustainability**
+
+**The computational shell and the triple bottom line**
+
+
+**The computational shell and circular economy**
+
+**The computational shell and resource management**
+
+**The computational shell and human resource management**
+
+**The computational shell and mining**
+
+
+
+
+**The computational shell and international trade**
+
+**The computational shell and politics**
+
+**The computational shell and governance**
+
+
+**The computational shell and justice**
+
+**The computational shell and the law**
+
+**The computational shell and immigration**
+
+
+
+
+
 
 **The computational shell and knowledge**
 
