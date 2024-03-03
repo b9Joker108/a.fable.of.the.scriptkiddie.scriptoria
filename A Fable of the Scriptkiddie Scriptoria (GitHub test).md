@@ -14958,7 +14958,22 @@ I early 2024, the microSD card of my Samsung Galaxy S20 Ultra 5G stopped being r
 
 My email advised:
 
+>	* In the envelope is a new microSD.
+>	* backup all data (including apps and SMSes) 
+>	* please use Magisk, as I know with it you can make it so I can use banking apps and Google		  Play Store with the custom ROM
+>	* unlock bootloader
+>	* root
+>	* flash ROM with ExtremeROM Exynos
+>	* GitHub: ExtremeXT/android_kernel_samsung_exynos990
+>	* Telegram: t/me/extremerom
+>	* you might need to fix microSD port
+>	* can't read data on old microSD card (try to salvage, this makes me sad) 
+>	* inset new microSD card
+>	* format new microSD card
+>	* reinstall data
+>	* Email me if you can't do anything or have any questions. 
 
+With the attendant, it was a real issue to get the data backed-up, as he kept repeating "all data is lost with a factory reset".
 
 ## Internet
 
