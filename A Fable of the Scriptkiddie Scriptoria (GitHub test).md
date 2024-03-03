@@ -14950,7 +14950,15 @@ Black, Fischer & Scholes, Myron (1973). 'The Pricing of Options and Corporate Li
 
 When the Android information in the addenda is systematised, synthesized and integrated, I intend to port it here. 
 
-## Android Hardware
+## Rooting and Flashing Android
+
+## Australia Samsung Galaxy S20 Ultra 5G International
+
+I early 2024, the microSD card of my Samsung Galaxy S20 Ultra 5G stopped being read and detected as being installed in my unit. I purchased the microSD card at the same time I purchased my phone new. This is salient warning that microSD cards have a life and in the importance of regularly instituting a regime of backing up your device's data. I purchased a new microSD card to put within the unit, but couldn't get the port to open, even with the correct wire tool. So, I have to take it to a technician, to get fixed. I thought that, due to the need to get the port fixed by a professional, might be the time to also get the unit's bootloader unlocked, root and flashba custom ROM on the device, by a professional. I had intended to do this myself and to document the process to practically and usefully inform others. I researched on the Internet, and found one local mobile phone technician, that provided a free quotation. There was the facility to book a prospective appointment online, which I did, outlining my requirements and requesting a written quotation, prior to the appointment. I received no written quotation by email, first warning flag. I fronted at the service centre, at the designated appointment time, and spoke to the shop attendant about my requirements and as well presented them with a sealed envelope, containing the new microSD I had purchased, to insert into my unit, but could not, as I could not get the port open. Moreover, I had written down on this envelope, the algorithm I wishednto be ferformed on my device. He was clearly the small business owner, but advised that he was neither the technician, nor was a technician currently on-site. This was a second warning flag. I clearly listed and ve4bally outlined my requirements, and the attendant appeared to have difficulty understanding them, and lacked technical proficiency. The third warning flag. The attendant ventured that he would immediately contact the technician electronically, to determine a quotation for the work. Due to the attendant's non-technical capacity, to understand my request, I ventured to write an email whilst seated in the store, to directly and exactly inform the technician of my requirements, as I did not have confidence 8n the attendant, doing so, with fidelity. The attendant affirmed, that was a good idea.
+
+My email advised:
+
+
 
 ## Internet
 
