@@ -23839,6 +23839,59 @@ Helena Rasiowa's legacy lives on in the countless mathematicians, computer scien
 
 **S**
 
+**Max Scheler (? )**
+
+* Need a biography as introduction to the thought
+
+I think you are referring to **Max Scheler**, a German philosopher who developed a theory of value ethics. He wrote a book called **Formalism in Ethics and Non-Formal Ethics of Values**, in which he proposed a hierarchy of values based on four modalities: sacred, spiritual, vital, and sensory. He argued that ethics should be based on a person's intuitive and emotional perception of values, rather than on formal rules or rational principles. He also criticized Kant's categorical imperative and utilitarianism as inadequate and abstract moral theories.
+
+According to Scheler, values are objective and independent of human will, but they are not equally important or valid. He claimed that there is an a priori order of values that can be discovered by phenomenological analysis and intuition⁵. He ranked the values as follows:
+
+- Sacred values: These are the highest and most absolute values, such as God, holiness, and love.
+  They are eternal and infinite, and they transcend the human realm. They are also the source of
+  all other values.
+- Spiritual values: These are the values of the mind, such as truth, justice, beauty, and wisdom.
+  They are universal and objective, and they can be communicated and shared by rational beings.
+  They are also the basis of culture and civilization. 
+- Vital values: These are the values of life, such as health, strength, power, and happiness. They
+  are relative and subjective, and they depend on the individual and the situation. They are also
+  the source of emotions and passions.
+- Sensory values: These are the lowest and most basic values, such as pleasure, pain, color, and
+  sound. They are immediate and concrete, and they depend on the senses and the body. They are also
+  the source of sensations and impressions.
+
+Scheler believed that human beings have a natural tendency to prefer higher values over lower ones, and that this is the essence of morality. However, he also acknowledged that human beings can deviate from this natural order and choose lower values over higher ones, or even disvalues over values. He called this phenomenon a "disorder of the heart", and he attributed it to various factors, such as ignorance, pride, resentment, or fear.
+
+¹: [Max Scheler - New World Encyclopedia](^4^)
+²: [Scheler’s Hierarchy of Values: Self-Reflection and Identification](^6^)
+³: [Scheler’s Hierarchy of Values | SpringerLink](^2^)
+⁴: [Value and Norm: Max Scheler’s Material Value Ethics in ... - Springer](^5^)
+⁵: [Scheler's Hierarchy of Values - Springer](^1^)
+⁶: [Scheler's Hierarchy of Values - Springer](^1^), p. 72
+⁷: [Scheler's Hierarchy of Values - Springer](^1^), p. 73
+: [Scheler's Hierarchy of Values - Springer](^1^), p. 74
+: [Scheler's Hierarchy of Values - Springer](^1^), p. 75
+: [Max Scheler - New World Encyclopedia](^4^)
+
+Source: Conversation with Bing, 04/03/2024
+(1) Scheler's Hierarchy of Values - Springer. https://link.springer.com/content/pdf/10.1007/978-1-349-21399-3_5.pdf.
+(2) Scheler’s Hierarchy of Values | SpringerLink. https://link.springer.com/chapter/10.1007/978-1-349-21399-3_5.
+(3) Max Scheler - New World Encyclopedia. https://bing.com/search?q=Martin+Scheiler+hierarchy+of+values.
+(4) Max Scheler - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Max_Scheler.
+(5) Value and Norm: Max Scheler’s Material Value Ethics in ... - Springer. https://link.springer.com/chapter/10.1007/978-3-030-94854-2_6.
+(6) Scheler’s Hierarchy of Values: Self-Reflection and Identification. https://peachytutors.com/schelers-hierarchy-of-values-self-reflection-and-identification/.
+(7) undefined. https://doi.org/10.1007/978-1-349-21399-3_5.
+(8) Max Scheler - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Max_Scheler.
+(9) Scheler’s Hierarchy of Values: Self-Reflection and Identification. https://peachytutors.com/schelers-hierarchy-of-values-self-reflection-and-identification/.
+(10) Scheler’s Hierarchy of Values | SpringerLink. https://link.springer.com/chapter/10.1007/978-1-349-21399-3_5.
+(11) Value and Norm: Max Scheler’s Material Value Ethics in ... - Springer. https://link.springer.com/chapter/10.1007/978-3-030-94854-2_6.
+(12) Scheler's Hierarchy of Values - Springer. https://link.springer.com/content/pdf/10.1007/978-1-349-21399-3_5.pdf.
+(13) Scheler's Hierarchy of Values - Springer. https://link.springer.com/content/pdf/10.1007/978-1-349-21399-3_5.pdf.
+(14) Scheler's Hierarchy of Values - Springer. https://link.springer.com/content/pdf/10.1007/978-1-349-21399-3_5.pdf.
+(15) Scheler's Hierarchy of Values - Springer. https://link.springer.com/content/pdf/10.1007/978-1-349-21399-3_5.pdf.
+(16) Scheler's Hierarchy of Values - Springer. https://link.springer.com/content/pdf/10.1007/978-1-349-21399-3_5.pdf.
+(17) Max Scheler - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Max_Scheler.
+
 **Richard Stallman** 
 
 While perhaps best known for founding the GNU Project and advocating for free software, Stallman also contributed significantly to shell scripting. He developed GNU Bash, a widely used shell with advanced features and extensive functionality, extending the capabilities of shell scripting for generations of users.
