@@ -15052,6 +15052,8 @@ Black, Fischer & Scholes, Myron (1973). 'The Pricing of Options and Corporate Li
 
 **The computational shell and international trade**
 
+**The computational shell and industrial relations**
+
 **The computational shell and politics**
 
 **The computational shell and governance**
@@ -16888,6 +16890,122 @@ I hold that device Privacy is an important stepping-stone, to device Anonymity p
 ## Privacy
 
 ## Device and Data Privacy in the Case of Android
+
+## SIM and eSIM telemetry 
+
+**Gemini, in regards to digital privacy and anonymity, does an eSIM have the same, comparable or different telemetry to a traditional SIM?**
+
+Here's a breakdown of eSIM vs traditional SIM cards regarding digital privacy and anonymity:
+
+**Similarities:**
+
+Both eSIM and traditional SIM cards can be used to track a user's location through cell tower triangulation. This means that even with anonymity services, cell network providers can potentially locate a user's general area (cell tower coverage zone).
+
+Both can also be used to identify the user by their International Mobile Equipment Identity (IMEI), a unique number assigned to each mobile device.  Law enforcement or network providers with access can potentially track a user's activity through their IMEI.
+
+**Potential Differences:**
+
+* **Remote Provisioning:** eSIMs can be remotely provisioned by carriers, which eliminates the need
+  for a physical SIM card swap. This could raise privacy concerns if a malicious actor gains access
+  to eSIM provisioning systems.
+
+* **Multiple Profiles:**  Some eSIMs can store multiple profiles, allowing users to switch between
+  carriers more easily. This might offer some privacy benefits by making it harder to track which
+  carrier a user is connected to at a specific time. However, it  doesn't necessarily provide
+  anonymity.
+
+* **Physical Security:**  Since eSIMs are embedded in the device, they are less susceptible to
+  physical theft compared to traditional SIM cards. However, if a device is compromised, the eSIM
+  data might still be vulnerable.
+
+**Overall:**
+
+While there might be slight differences due to remote provisioning and multiple profiles, both eSIM 
+and traditional SIM cards offer similar levels of anonymity when it comes to cellular network usage. For true anonymity, relying solely on  eSIM or traditional SIM anonymity is not advisable. Additional privacy measures like using a Virtual Private Network (VPN) or disposable phone numbers might be 
+needed.
+
+Here's a breakdown of eSIM vs traditional SIM cards regarding digital privacy and anonymity:
+
+**Similarities:**
+
+* **Both transmit identifying information:**  Both eSIM and traditional SIM cards contain an
+  International Mobile Subscriber Identity (IMSI) number, which uniquely identifies your device
+  on the cellular network. This allows carriers to identify your device and provide service.
+* **Both are susceptible to tracking:**  Cell phone towers can track the location of a device
+  with an active SIM card (including eSIM) by  identifying the closest towers the device is
+  communicating with. This can be used for location-based services or potentially by law
+  enforcement with a warrant (or practically, often without).
+
+**Potential Differences:**
+
+* **Physical access:**  A traditional SIM card can be physically removed from the device, making
+  it temporarily untraceable. An eSIM is embedded in the device and cannot be easily removed.
+
+However, this difference might not be a significant advantage for anonymity. With a warrant, law enforcement can likely still obtain your location information from your carrier even if the eSIM 
+is disabled.
+
+* **Remote provisioning:**  eSIMs can be remotely provisioned by carriers, which could raise
+  privacy concerns if not properly managed. With a traditional SIM card, you have more physical
+  control over the provisioning process.
+
+**Overall:**
+
+From a digital privacy and anonymity standpoint, there's no clear winner between eSIM and traditional SIM cards. Both have the potential to be tracked and reveal your identity.
+
+Here are some additional points to consider:
+
+* **Carrier policies:** Carriers may collect additional data beyond the IMSI number, so it's
+  important to understand your carrier's privacy policy.
+* **Device security:** Using a strong device password and keeping your software updated can help
+  protect your privacy regardless of the SIM type.
+* **Privacy-focused alternatives:**  For the most anonymity, consider specialized tools or services
+  designed for encrypted communication, but be aware of their legality in your region.
+
+**Remember:** Digital privacy is a complex issue. While eSIMs might not offer a significant anonymity advantage,  it's always a good practice to be aware of how your data is collected and used. 
+
+There are some similarities and some key differences between the telemetry data collected by eSIMs and traditional SIMs when it comes to digital privacy and anonymity.
+
+**Similarities:**
+
+* **Both can transmit identifying information:** Both eSIMs and traditional SIMs can be used to
+  identify the subscriber and their device. This information can include:
+    * **International Mobile Equipment Identity (IMEI):** A unique identifier for the mobile device
+      itself.
+    * **International Mobile Subscriber Identity (IMSI):** A unique identifier for the SIM card
+      that can be linked to the subscriber.
+
+* **Both can be used for location tracking:** Mobile network operators can use cell tower data to
+  track the general location of a device with an eSIM or a traditional SIM. The accuracy of this
+  tracking varies depending on the number and density of cell towers in the area.
+
+**Differences:**
+
+* **eSIMs can be more easily switched between devices:** In theory, eSIMs can be more anonymous
+  because they are not physically tied to a single device. A user could switch the eSIM profile
+  to a different device without needing to swap a physical card. This could make it more difficult
+  to track a user's movements by associating a specific device with a particular SIM.
+
+* **Potential for additional tracking with eSIMs:** Some eSIM profiles might be embedded with
+  additional identifiers or functionalities that could be used for more detailed tracking. This
+  is an area of ongoing development and concern.
+
+* **Dependence on software implementation:** How anonymous an eSIM is depends on the software
+  implementation by the carrier and device manufacturer. There's a possibility that the software
+  could collect more data than necessary. 
+
+**Overall:**
+
+While eSIMs have the potential to offer some advantages for anonymity due to their flexibility, 
+they are not a guaranteed privacy solution. It's important to be aware of the data that can still 
+be collected and to choose eSIM providers with strong privacy practices. Here are some additional points to consider:
+
+* **User choices:**  Ultimately, some of the telemetry data collected depends on user choices and
+  permissions granted during setup or app usage.  Being mindful of these choices can help mitigate
+  privacy risks.
+* **Privacy regulations:**  Depending on your location, data privacy regulations may influence the
+  type of data collected and how it's used.
+
+For the most up-to-date information, it's always best to consult with your eSIM provider and research their privacy policies. 
 
 ## Anonymity
 
