@@ -23141,6 +23141,57 @@ Jeff Hawkins is a widely recognized figure in both the artificial intelligence a
 * **"A Thousand Brains: A New Theory of Intelligence" by Jeff Hawkins**
 * **Wikipedia article on Jeff Hawkins:** [https://en.wikipedia.org/wiki/Jeff_Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins)
 
+
+**Martin Heidegger (? )**
+
+* Need biographical introduction
+
+**Gemini, Heidegger held that every revelation is also the hiding of something. This is most probably a wonton English rendering or translation of the original. Can you source the point of origin in Heidegger's body of work?** 
+
+You're right, the concept of revelation inherently containing concealment is a core idea in Heidegger's philosophy. While there might not be a single, definitive sentence capturing it, here are some sources where you can find him exploring this concept:
+
+1. **Aletheia**:  Heidegger uses the ancient Greek word "Aletheia" which means both "unhiddenness" and "unclosedness."  This implies that truth is not simply something revealed, but a process of uncovering that necessitates something being hidden or covered up. You can find him discussing Aletheia in works like  "Being and Time" and "Early Greek Philosophy."
+
+2.  **Dasein and Being**:  A core Heideggerian concept is Dasein, which translates roughly to "being-there." Dasein is inherently involved in the process of uncovering Being. However, Being itself  partially withdraws or conceals itself.  This interplay of revealing and concealing is crucial in understanding Dasein's relationship with Being. You can explore this in "Being and Time."
+
+3. **Language**:  For Heidegger, language plays a vital role in revealing Being. However, language can also be a source of concealment.  Words and concepts can limit our understanding of the fullness of Being.  Heidegger talks about this in works like "Poetry, Language, Thought."
+
+Here are some additional resources that might be helpful:
+
+* **The Veil of Truth: Metaphors of Revelation and Concealment in Hegel, Heidegger and Derrida** scholarly article exploring these themes: This might be behind a paywall
+* Stanford Encyclopedia of Philosophy entry on Heidegger: Stanford Encyclopedia of Philosophy: Martin Heidegger: [https://plato.stanford.edu/entries/heidegger/](https://plato.stanford.edu/entries/heidegger/)
+
+You're right, the concept of revelation inherently containing concealment is a core theme in Heidegger's work, but an exact phrasing of "every revelation is also the hiding of something" might be a simplification. Here's how to pinpoint the origin:
+
+* **Key Term:** Aletheia  
+
+Heidegger uses the ancient Greek word "Aletheia," which traditionally translates to "truth," but for him, it signifies a process of  **un-concealment** and **disclosure**.  However, this disclosure is never complete; there's always an aspect that remains hidden.
+
+* **Source Texts:**
+
+Several of Heidegger's works explore this concept. Here are a few good places to look:
+
+    * **Being and Time (Sein und Zeit):** This magnum opus lays the groundwork for his philosophy of Being. Look for sections on  **aletheia** and concepts like  **unhiddenness** (Unverborgenheit) and  **concealment** (Verborgenheit).
+    * **Introduction to Metaphysics (Einführung in die Metaphysik):** This lecture course delves deeper into the question of truth and Being.
+
+**Additional Tips:**
+
+* Secondary sources that discuss Heidegger's concept of Aletheia can also be helpful. Look for terms like "Heideggerian truth" or "unconcealment" in scholarly articles or books.
+
+By exploring these sources, you'll gain a deeper understanding of Heidegger's view on revelation and its inherent connection to concealment. Remember, the original German might use more nuanced terms than a simple "hiding." 
+
+You're right, the concept of revelation inherently containing concealment is a core idea in Heidegger's philosophy. While there might not be a single, definitive sentence capturing it, here are some sources where you can find this concept explored:
+
+* **Being and Time (Sein und Zeit):** This is Heidegger's magnum opus and likely the source of the idea in English translation. The concept is woven throughout the text, but particularly relevant sections include those dealing with **aletheia** (the Greek word for truth, often translated as "unhiddenness") and the concept of **Being** itself as both revealing and withdrawing.
+
+* **Introduction to Metaphysics (Einführung in die Metaphysik):**  This lecture course delves deeper into the concept of truth (aletheia) and its connection to concealment. Heidegger explores how truth is not a static proposition but an ongoing process of uncovering and veiling.
+
+Here are some additional resources that might be helpful:
+
+* **The Veil of Truth: Metaphors of Revelation and Concealment in Hegel, Heidegger and Derrida by Mathieu-Pierre Buchler**  [This article specifically analyzes the concept of revelation and concealment in Heidegger's work]
+
+Understanding Heidegger's concept requires grappling with his complex terminology.  If you'd like further explanation of aletheia or other relevant terms, feel free to ask!
+
 **Grace Hopper (1906-1992)**
 
 A pioneering computer scientist and U.S. Navy Rear Admiral, Hopper revolutionized programming by advocating for user-friendly languages and compilers. Her development of COBOL, one of the first widely used business-oriented programming languages, made computing accessible to a wider audience and paved the way for modern business applications. Despite facing initial skepticism, her contributions proved instrumental in democratizing access to computing.
