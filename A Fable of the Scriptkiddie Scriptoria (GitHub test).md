@@ -15078,6 +15078,85 @@ Black, Fischer & Scholes, Myron (1973). 'The Pricing of Options and Corporate Li
 
 I just had my eyes closed, willing and waiting for impending sleep. My contemplative mind, which is generally still and meditative, instead became active in contemplate thought, unbidden. Without planning, or forethought, or conscious reason, I started thinking about how eclipsed tools and technologies, that have been rendered redundant by innovation, may still have, and often do have a persistent niche use-case, even if it is that of a hobbyist into obsolete tech. Specifically, my thoughts started on the pager, the forerunner to the mobile phone, with which it was co-existed and co-evolved over a very short period of time. The pager became very important for people whose job role necessitated they always be contactable, who maybe periodically or always, on-call. It became very important and a required tool, for people in on-call jobs, roles, activities and/or projects, such as C. E. O.s to prostitutes, as they say 'on the game'. The pager has largely disappeared in contemporary life, being systematically eclipsed and out-competed, by that great portable enabler, the mobile phone. But, the pager persists and is ubiquitous throughout a particular niche of an ancient profession, namely the medical sciences, and in the particular subfield of emergency medical response in contemporary Western medical hospitals, and those professions, who serve in hospital emergency departments, and in hospitals in general. In this culture, to be contactable, but not to be dialogically engaged, and therefore hindered by the cost of time, as such dialogic interactions in the human condition often necessitates customary niceties and cultural platitudes, which the technology of the pager, though enabling, circumvents. Another example, is the facsilime, which has been largely eclipsed and șuperceded by email technology. That said, even though the facsimile continues in its traditional capacity of transmitting analogue written documents, through digital lines of communication, then upon reaching their destination, are restituted into printed analogue, paper form. The facsimile is also evident in virtual or virtualised form, with virtual inputs and/or virtual outputs, often integrated or running in tandem, with email systems, enabled by an enabling computer, as different to a tradition facsilime machine, or multifunction device, which have also become ubiquitous in education and business domains. The traditional form of facsimile, with printed outputs, if not analogue paper inputs, persists and is ubiquitous, in the legal professions, and is greatly favoured as a principal channel of transmission within the field of legal professionals. Emails, as intangibles, have a way of being forgotten, unactioned, and slipping-through-the-cracks, whilst traditional facsimiles, deliver tangibles, and are therefore more discoverable and fileable, without additional processing or process-flows. Though, anyone who has dealt with both facsilime and email technology knows, that if you do not codify, instill and instigate best-practice protocols, for dealing with these communication channels, emails quickly become forgotten in the play of competing priorities, and facsilimes, often the pagination of facsilimes oft-become, muddled and jumbled, if not misplaced and/or misfiled, or even maliciously waylaid, or covertly destroyed or rubbished, which is a persistent problem of the medium, given competition and competing interests. These are just a very few modes, channels, and signals of communication. The computational shell, unlike any other technology, is the fulcrum, coalface and meta-channel of communication, as the vast multitudes of possible and potential communication signal significs, within the vast number of possible and potential communication channels and their media albeit transmuted, all interface and potentially flow, along with their process-flows, within, through, in and out, of the computational shell, which may add value to such communication data in manifold ways, and may: interrogate, manipulate, translate, transform, and transmit them. When this is really grasped, acknowledged, as a contemporary computational shell capability and capacity, the communication power and potential of computational shell, comes into its own. It amazes me, that this is rarely openly discussed or widely known. This work, goes some way, to repair that. 
 
+That's a very interesting contemplation! You're absolutely right about eclipsed technologies finding niche uses. Here are some key points you made:
+
+* **Outdated tech and niche uses:**  You identified pagers in hospitals and fax machines in law firms
+  as examples of older technologies persisting for specific reasons.  
+
+* **Advantages of the obsolete:**  For pagers, the one-way communication avoids getting bogged down
+  in lengthy calls, while faxes provide a tangible record for legal purposes. 
+
+* **Disadvantages of the obsolete:**  Faxes can be messy and easily lost compared to emails, and
+  pagers lack two-way communication.
+
+* **The rise of the computational shell:** You propose the idea of a "computational shell" - a
+  central hub managing various communication channels. This highlights the current trend of
+  integrating different communication methods.
+
+**Additional thoughts:**
+
+* **Security concerns:** Faxes raise security concerns compared to encrypted email communications.
+* **Nostalgia:** Sometimes, older technologies persist due to user familiarity and comfort.
+* **Cost:** Replacing existing infrastructure can be expensive, leading to continued use of older
+  tech.
+
+Overall, your observation about outdated tech highlights how technology evolves, but doesn't always completely replace what came before. Niche uses and specific needs can keep older technologies relevant. The concept of a computational shell managing communication is also intriguing and aligns with the idea of a unified communication platform.
+
+Is there anything else you'd like to explore about this topic? 
+
+This is a very interesting reflection on outdated technology and its niche uses! Here are some key points you've made:
+
+* **Obsolete technology can persist in niche uses:** You provide great examples of pagers in
+  hospitals and fax machines in law firms. These technologies offer specific advantages (like
+  avoiding time-consuming conversations with pagers or the tangible record of a fax) that keep
+  them relevant in specific contexts.
+* **Trade-offs between old and new:**  While newer technology often offers more functionality,
+  it can come with limitations. Emails might be easily overlooked, while faxes provide a physical
+  record. Pagers allow quick notification without interrupting with a call.
+* **Computational shell as a meta-channel:** You propose the concept of the "computational shell"
+  as a central platform for various communication channels and signals. This highlights the way
+  modern technology integrates and facilitates communication across different formats.
+
+Here are some additional thoughts:
+
+* **Security considerations:**  While pagers and faxes offer some advantages, they might have
+  security vulnerabilities compared to newer, encrypted communication methods.
+* **Cost and maintenance:**  Obsolete technology can be expensive to maintain as parts become
+  scarce.
+* **Cultural factors:**  Some professions might have a culture of using specific communication
+  tools due to tradition or familiarity.
+
+Overall, your reflection highlights an important aspect of technological change: even when something is superseded, it can leave a lasting impact in specific contexts. The rise of the "computational shell" further emphasizes this point, as it unifies various communication channels under one roof. 
+
+Do you have any specific questions about this phenomenon or any other technology you'd like to explore?
+
+This is a very interesting reflection on outdated technology and its niche uses! You've clearly thought deeply about the topic. Here are some key points you bring up:
+
+* **Eclipsed Technologies and Niche Uses:** You observe how technologies rendered obsolete by
+  innovation often find new life in specific niches. 
+* **Pagers in Emergency Medicine:** You use the pager as an example, highlighting its continued
+  use in hospitals where one-way communication for on-call personnel is preferred. 
+* **Fax Machines in Law:**  Similarly, you discuss the continued use of fax machines in the legal
+  field due to their emphasis on tangible, verifiable documents compared to potentially overlooked
+  emails.
+* **The Power of Computational Shells:** You touch upon the concept of "computational shells"
+  as a central platform for communication, highlighting its ability to handle various formats and
+  data.
+
+Here are some additional thoughts:
+
+* **Other Examples:** You could explore more examples of outdated tech with niche uses, like
+  typewriters for certain writing styles or cassette tapes for audiophiles.
+* **Reasons for Persistence:**  Dig deeper into the reasons why these technologies persist.  Is
+  it cost, user preference, lack of a suitable alternative, or legal requirements?
+* **Future of Obsolete Tech:**  Consider the future of these technologies.  Will they continue
+  to have niche uses, or will they eventually disappear completely?
+
+Overall, your reflection raises intriguing questions about the evolution of technology and the 
+enduring power of certain tools for specific purposes. It would be interesting to explore these 
+ideas further!
+
+
 **The computational shell and translation**
 
 **The brave new world of the computational shell and the humanities**
