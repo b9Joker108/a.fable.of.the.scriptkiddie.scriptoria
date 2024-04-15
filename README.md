@@ -157,13 +157,13 @@ Your analogy of APIs as boundary areas where different elements meet and interac
 
 In your technology stack, Python is a powerful and versatile language for backend development, known for its capabilities in data manipulation and system operations. JavaScript is the language of the web, running primarily in browsers to create interactive front-end experiences. NuShell, with its modern take on the command line, brings a fresh perspective to shell scripting.
 
-**JSON (JavaScript Object Notation)** and **YAML (YAML Ain't Markup Language)** are both data serialization formats commonly used in APIs. JSON is often used for its simplicity and compatibility with JavaScript, making it a natural choice for web APIs. It's lightweight and easy for machines to parse and generate, which aligns well with the dynamic data exchange you described⁹[^10^].
+**JSON (JavaScript Object Notation)** and **YAML (YAML Ain't Markup Language)** are both data serialization formats commonly used in APIs. JSON is often used for its simplicity and compatibility with JavaScript, making it a natural choice for web APIs. It's lightweight and easy for machines to parse and generate, which aligns well with the dynamic data exchange you described.
 
-YAML, on the other hand, is more human-readable and is often used for configuration files. Its ability to represent complex data structures in a clear and concise manner makes it suitable for settings where human intervention is more likely⁹.
+YAML, on the other hand, is more human-readable and is often used for configuration files. Its ability to represent complex data structures in a clear and concise manner makes it suitable for settings where human intervention is more likely.
 
-OWL (Web Ontology Language) is used for representing rich and complex knowledge about things, groups of things, and relations between things. It is a semantic web language designed to represent rich and complex knowledge about things, groups of things, and relations between things⁹.
+OWL (Web Ontology Language) is used for representing rich and complex knowledge about things, groups of things, and relations between things. It is a semantic web language designed to represent rich and complex knowledge about things, groups of things, and relations between things.
 
-Integrating Python, JavaScript, and NuShell in an API involves using JSON or YAML as the medium for data exchange. The 'exposed' parts of your stack would be the endpoints and the data structures that are shared between the backend and frontend through these APIs. The choice between JSON and YAML can depend on the specific needs of your project, such as the need for human readability or the requirement for a lightweight data interchange format⁹[^10^].
+Integrating Python, JavaScript, and NuShell in an API involves using JSON or YAML as the medium for data exchange. The 'exposed' parts of your stack would be the endpoints and the data structures that are shared between the backend and frontend through these APIs. The choice between JSON and YAML can depend on the specific needs of your project, such as the need for human readability or the requirement for a lightweight data interchange format.
 
 Your dreamwork and liminal problem-solving have led you to a common realization in API design: the importance of choosing the right data structures and languages for the interface of your system components. This choice will significantly influence the ease of development, maintenance, and the overall robustness of your application's communication pathways.
 
@@ -184,19 +184,19 @@ Source: Conversation with Bing, 15/04/2024
 (12) undefined. https://adventure-works.com/orders/1.
 (13) undefined. http://pypi.python.org/pypi/python-spidermonkey.
 
-Does JSON preclude YAML, and vice versa, or do they serve their respective functions in concert, given my project and usecase?
+**Does JSON preclude YAML, and vice versa, or do they serve their respective functions in concert, given my project and usecase?**
 
 JSON and YAML do not necessarily preclude each other; they can indeed serve their respective functions in concert, depending on the requirements of your project and use case.
 
-**JSON** is typically used for data interchange between servers and web applications due to its lightweight nature and ease of parsing by machines. It is particularly well-suited for web APIs where data is frequently exchanged⁵.
+**JSON** is typically used for data interchange between servers and web applications due to its lightweight nature and ease of parsing by machines. It is particularly well-suited for web APIs where data is frequently exchanged.
 
-**YAML**, on the other hand, is more human-readable and is often used for configuration files and settings due to its clear and concise format. It supports complex data structures and is beneficial in scenarios where human intervention is more common².
+**YAML**, on the other hand, is more human-readable and is often used for configuration files and settings due to its clear and concise format. It supports complex data structures and is beneficial in scenarios where human intervention is more common.
 
-For your project, you could use **YAML** for configuration files, documentation, and other areas where human readability is paramount. **JSON** could be used for the APIs that handle data interchange between the backend and frontend, especially if you are dealing with web technologies where JSON is ubiquitous⁵.
+For your project, you could use **YAML** for configuration files, documentation, and other areas where human readability is paramount. **JSON** could be used for the APIs that handle data interchange between the backend and frontend, especially if you are dealing with web technologies where JSON is ubiquitous.
 
-It's also worth noting that YAML is a superset of JSON, meaning that any JSON file is also valid YAML. This compatibility can be advantageous when you want to use both formats in different parts of your project without losing the ability to interoperate between them¹.
+It's also worth noting that YAML is a superset of JSON, meaning that any JSON file is also valid YAML. This compatibility can be advantageous when you want to use both formats in different parts of your project without losing the ability to interoperate between them.
 
-In summary, both JSON and YAML have their strengths and can be used together effectively. The choice between them should be based on the specific needs of each part of your project, such as the need for human readability or efficient data interchange³⁴..
+In summary, both JSON and YAML have their strengths and can be used together effectively. The choice between them should be based on the specific needs of each part of your project, such as the need for human readability or efficient data interchange.
 
 Source: Conversation with Bing, 15/04/2024
 (1) Data format: YAML vs JSON - apidog.com. https://apidog.com/blog/yaml-vs-json/.
