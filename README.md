@@ -47,7 +47,11 @@ React.js is a free and open-source (FOSS) front-end JavaScript library for build
 based on components. With Next.js, with the one functionality and skillset, you may build front-end 
 Web-applications and native Android, iOS, and Universal Windows Platform (UWP) applications. This covers 
 my usecase, which is JavaScript for the front-end, to realise the user-interface (UI) of the 
-Web-application (linked with a possible Android application).
+Web-application (linked with a possible Android application). The 'framework' architecture and 
+functionality will be useful for the JavaScript beginner, and may assist rapid prototyping. I 
+understand that is recommended to be well-grounded with a language prior to extending that understanding 
+with a framework in that same language. In this project-based learning and experiential road-map, 
+pragmatism drives acquiring the language and framework in tandem.
 
 That said, I intend to seed, curry and encourage, with these projects, subsuming the establishment of an 
 international non-profit foundation, to support and administrate a centralised, yet decentralised auspice, 
