@@ -36,10 +36,18 @@ along with Oh My Zsh!, convey what may be done for a greater, inclusive, shell s
 integrated culture, of subcultures and shell dialects, as auspice and purview. That said, it is my 
 considered opinional, that Nushell, is the, current, dominant, shell-of-the-future, due to its design 
 philosophy and engineering considerations, and in its complete break with the delimitation and constraint 
-and developmental throttle, forded by POXIX, as a historicism set in historicity,vand constitutes a fresh-
+and developmental throttle, forded by POXIX, as a historicism set in historicity, and constitutes a fresh-
 take and back to first-principles design considerations, with developers' beginner's mind(s), envisioning
 and revisioning the potentialities, possibilities, and applications of the Unix-like shell, for current 
-and furure contextualities and egent8ations. 
+and future contextualities and eventuations. 
+
+As of Sunday, April 21, 2024, I have instituted a 'skriptkiddie' project locally in my host Termux 
+environment, with Next.js, an open source React.js Framework, which is part of the JavaScript ecosystem. 
+React.js is a free and open-source (FOSS) front-end JavaScript library for building user-interfaces (UI) 
+based on components. With Next.js, with the one functionality and skillset, you may build front-end 
+Web-applications and native Android, iOS, and Universal Windows Platform (UWP) applications. This covers 
+my usecase, which is JavaScript for the front-end, to realise the user-interface (UI) of the 
+Web-application (linked with a possible Android application).
 
 That said, I intend to seed, curry and encourage, with these projects, subsuming the establishment of an 
 international non-profit foundation, to support and administrate a centralised, yet decentralised auspice, 
